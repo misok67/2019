@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1,Ex-Yu | HBO 1
+http://formen1.com:8080/egri07/egri07/16848
+#EXTINF:-1,Ex-Yu | HBO 2
+http://formen1.com:8080/egri07/egri07/16847
+#EXTINF:-1,Ex-Yu | HBO 3
+http://formen1.com:8080/egri07/egri07/16846
+#EXTINF:-1,Ex-Yu | KINO TV
+http://formen1.com:8080/egri07/egri07/16845
+#EXTINF:-1,Ex-Yu | KLASIK TV
+http://formen1.com:8080/egri07/egri07/16863
+#EXTINF:-1,Ex-Yu | TV 1000
+http://formen1.com:8080/egri07/egri07/16840
+
+#EXTINF:-1,Ex-Yu | Hrt 1
+http://formen1.com:8080/egri07/egri07/1890
+#EXTINF:-1,Ex-Yu | Hrt 2
+http://formen1.com:8080/egri07/egri07/1891
+#EXTINF:-1,Ex-Yu | Hrt 3
+http://formen1.com:8080/egri07/egri07/1892
+#EXTINF:-1,Ex-Yu | Nova
+http://formen1.com:8080/egri07/egri07/1894
+#EXTINF:-1,Ex-Yu | NOVA TV
+http://formen1.com:8080/egri07/egri07/16867
+#EXTINF:-1,Ex-Yu | Doma Tv
+http://formen1.com:8080/egri07/egri07/1919
+#EXTINF:-1,Ex-Yu | Rtl
+http://formen1.com:8080/egri07/egri07/1915
+#EXTINF:-1,Ex-Yu | Rtl 2
+http://formen1.com:8080/egri07/egri07/1916
+#EXTINF:-1,Ex-Yu | Rtl Kockica
+http://formen1.com:8080/egri07/egri07/1907
+
+
+#EXTINF:-1,Ex-Yu | Prva
+http://formen1.com:8080/egri07/egri07/1884
+#EXTINF:-1,Ex-Yu | Rts1
+http://formen1.com:8080/egri07/egri07/1920
+#EXTINF:-1,Ex-Yu | Rts2
+http://formen1.com:8080/egri07/egri07/1921
+#EXTINF:-1,Ex-Yu | RTS 2
+http://formen1.com:8080/egri07/egri07/16860
+#EXTINF:-1,Ex-Yu | PRVA MAX
+http://formen1.com:8080/egri07/egri07/16857
+#EXTINF:-1,Ex-Yu | PRVA PLUS
+http://formen1.com:8080/egri07/egri07/16856
+#EXTINF:-1,Ex-Yu | PRVA WORLD
+http://formen1.com:8080/egri07/egri07/16859
+
 #EXTINF:-1,Cinemax*
 http://gorillaiptv.online:25461/libby/libby/904
 #EXTINF:-1,Cinemax 2*
@@ -158,3 +206,34 @@ http://gorillaiptv.online:25461/libby/libby/1132
 http://gorillaiptv.online:25461/libby/libby/1131
 #EXTINF:-1,Sport Klub 6 HD
 http://gorillaiptv.online:25461/libby/libby/1130
+
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://formen1.com:8080/egri07/egri07/16828
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://formen1.com:8080/egri07/egri07/16827
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://formen1.com:8080/egri07/egri07/16826
+#EXTINF:-1,EX YU: SPORT KLUB 4
+http://formen1.com:8080/egri07/egri07/16825
+#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
+http://formen1.com:8080/egri07/egri07/3076
+#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
+http://formen1.com:8080/egri07/egri07/3077
+#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
+http://formen1.com:8080/egri07/egri07/3078
+#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
+http://formen1.com:8080/egri07/egri07/3079
+#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
+http://formen1.com:8080/egri07/egri07/16850
+#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
+http://formen1.com:8080/egri07/egri07/16824
+#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
+http://formen1.com:8080/egri07/egri07/16823
+#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
+http://formen1.com:8080/egri07/egri07/16822
+#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
+http://formen1.com:8080/egri07/egri07/16821
+#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
+http://formen1.com:8080/egri07/egri07/16858
+
+
