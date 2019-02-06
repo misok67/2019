@@ -1,75 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:-1,WS: beIN Sports 11 HD AR-Eng
-http://gorillaiptv.online:25461/enigma/enigma/1353
-#EXTINF:-1,WS: beIN Sports 12 HD AR-Eng
-http://gorillaiptv.online:25461/enigma/enigma/1354
-#EXTINF:-1,WS: Sport Klub 1 HD
-http://gorillaiptv.online:25461/enigma/enigma/1135
-#EXTINF:-1,WS: Sport Klub 2 HD
-http://gorillaiptv.online:25461/enigma/enigma/1134
-#EXTINF:-1,WS: Sport Klub 3 HD
-http://gorillaiptv.online:25461/enigma/enigma/1133
-#EXTINF:-1,WS: Sport Klub 4 HD
-http://gorillaiptv.online:25461/enigma/enigma/1132
-#EXTINF:-1,WS: Sport Klub 5 HD
-http://gorillaiptv.online:25461/enigma/enigma/1131
-#EXTINF:-1,WS: Sport Klub 6 HD
-http://gorillaiptv.online:25461/enigma/enigma/1130
+#EXTINF:-1 group-title="CRO",HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 group-title="CRO",HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 group-title="CRO",HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 group-title="CRO",HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 group-title="CRO",RTL CRO
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,Nova TV
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-#EXTINF:-1,WS: Eleven Sports 1 PL
-http://gorillaiptv.online:25461/enigma/enigma/1072
-#EXTINF:-1,WS: Eleven Sports 2 PL
-http://gorillaiptv.online:25461/enigma/enigma/1071
-#EXTINF:-1,WS: Eleven Sports 3 PL
-http://gorillaiptv.online:25461/enigma/enigma/1070
-#EXTINF:-1,WS: Eleven Sports 4 PL
-http://gorillaiptv.online:25461/enigma/enigma/1069
-#EXTINF:-1,| HBO 1
-http://formen1.com:8080/zeynel1/1234/16848
-#EXTINF:-1,| HBO 2
-http://formen1.com:8080/zeynel1/1234/16847
-#EXTINF:-1,| HBO 3
-http://formen1.com:8080/zeynel1/1234/16846
-#EXTINF:-1,| KINO TV
-http://formen1.com:8080/zeynel1/1234/16845
-#EXTINF:-1,| KLASIK TV
-http://formen1.com:8080/zeynel1/1234/16863
-#EXTINF:-1,| TV 1000
-http://formen1.com:8080/zeynel1/1234/16840
-#EXTINF:-1,| Hrt 1
-http://formen1.com:8080/zeynel1/1234/1890
-#EXTINF:-1,| Hrt 2
-http://formen1.com:8080/zeynel1/1234/1891
-#EXTINF:-1,| Hrt 3
-http://formen1.com:8080/zeynel1/1234/1892
-#EXTINF:-1,| Nova
-http://formen1.com:8080/zeynel1/1234/1894
-#EXTINF:-1,| NOVA TV
-http://formen1.com:8080/zeynel1/1234/16867
-#EXTINF:-1,| Doma Tv
-http://formen1.com:8080/zeynel1/1234/1919
-#EXTINF:-1,| Rtl
-http://formen1.com:8080/zeynel1/1234/1915
-#EXTINF:-1,| Rtl 2
-http://formen1.com:8080/zeynel1/1234/1916
-#EXTINF:-1,| Rtl Kockica
-http://formen1.com:8080/zeynel1/1234/1907
-#EXTINF:-1,| Prva
-http://formen1.com:8080/zeynel1/1234/1884
-#EXTINF:-1,| Rts1
-http://formen1.com:8080/zeynel1/1234/1920
-#EXTINF:-1,| Rts2
-http://formen1.com:8080/zeynel1/1234/1921
-#EXTINF:-1,| RTS 2
-http://formen1.com:8080/zeynel1/1234/16860
-#EXTINF:-1,| PRVA MAX
-http://formen1.com:8080/zeynel1/1234/16857
-#EXTINF:-1,| PRVA PLUS
-http://formen1.com:8080/zeynel1/1234/16856
-#EXTINF:-1,| PRVA WORLD
-http://formen1.com:8080/zeynel1/1234/16859
 
 #EXTINF:-1,Cinemax*
 http://gorillaiptv.online:25461/enigma/enigma/904
@@ -85,41 +29,41 @@ http://gorillaiptv.online:25461/enigma/enigma/900
 http://gorillaiptv.online:25461/enigma/enigma/899
 
 #EXTINF:-1,|HBO2-
-http://x.mytvxweb.me:25461/103857/103857/16247
+http://x.mytvxweb.me:25461/172963/172963/16247
 #EXTINF:-1,|HBOComedy-
-http://x.mytvxweb.me:25461/103857/103857/1290
+http://x.mytvxweb.me:25461/172963/172963/1290
 #EXTINF:-1,|CINEMAX1-
-http://x.mytvxweb.me:25461/103857/103857/16271
+http://x.mytvxweb.me:25461/172963/172963/16271
 #EXTINF:-1,|Cinemax2-
-http://x.mytvxweb.me:25461/103857/103857/1324
+http://x.mytvxweb.me:25461/172963/172963/1324
 #EXTINF:-1,|CinestarAction-
-http://x.mytvxweb.me:25461/103857/103857/16269
+http://x.mytvxweb.me:25461/172963/172963/16269
 #EXTINF:-1,|CinestarHD-
-http://x.mytvxweb.me:25461/103857/103857/1254
+http://x.mytvxweb.me:25461/172963/172963/1254
 #EXTINF:-1,|CinestarPremiere1HD-
-http://x.mytvxweb.me:25461/103857/103857/1255
+http://x.mytvxweb.me:25461/172963/172963/1255
 #EXTINF:-1,|CinestarPremiere2-
-http://x.mytvxweb.me:25461/103857/103857/1335
+http://x.mytvxweb.me:25461/172963/172963/1335
 #EXTINF:-1,|FoxMovies-
-http://x.mytvxweb.me:25461/103857/103857/1292
+http://x.mytvxweb.me:25461/172963/172963/1292
 #EXTINF:-1,|HRT1-
-http://x.mytvxweb.me:25461/103857/103857/16243
+http://x.mytvxweb.me:25461/172963/172963/16243
 #EXTINF:-1,|HRT2-
-http://x.mytvxweb.me:25461/103857/103857/16242
+http://x.mytvxweb.me:25461/172963/172963/16242
 #EXTINF:-1,|HRT3-
-http://x.mytvxweb.me:25461/103857/103857/16241
+http://x.mytvxweb.me:25461/172963/172963/16241
 #EXTINF:-1,|PrvaHD-
-http://x.mytvxweb.me:25461/103857/103857/1271
+http://x.mytvxweb.me:25461/172963/172963/1271
 #EXTINF:-1,|PRVAPLUS-
-http://x.mytvxweb.me:25461/103857/103857/1325
+http://x.mytvxweb.me:25461/172963/172963/1325
 #EXTINF:-1,|B92-
-http://x.mytvxweb.me:25461/103857/103857/1337
+http://x.mytvxweb.me:25461/172963/172963/1337
 #EXTINF:-1,|ANIMALPLANET-
-http://x.mytvxweb.me:25461/103857/103857/16277
+http://x.mytvxweb.me:25461/172963/172963/16277
 #EXTINF:-1,|VIASATHISTORY-
-http://x.mytvxweb.me:25461/103857/103857/15075
+http://x.mytvxweb.me:25461/172963/172963/15075
 #EXTINF:-1,|VIASATEXPLORE-
-http://x.mytvxweb.me:25461/103857/103857/15076
+http://x.mytvxweb.me:25461/172963/172963/15076
 
 #EXTINF:-1,[ ] HBO ADRIA
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29661.ts
@@ -293,39 +237,39 @@ http://formen1.com:8080/zeynel1/1234/16858
 
 
 #EXTINF:-1,|SK1HD-
-http://x.mytvxweb.me:25461/103857/103857/1301
+http://x.mytvxweb.me:25461/172963/172963/1301
 #EXTINF:-1,|SK2HD-
-http://x.mytvxweb.me:25461/103857/103857/1300
+http://x.mytvxweb.me:25461/172963/172963/1300
 #EXTINF:-1,|SK3HD-
-http://x.mytvxweb.me:25461/103857/103857/1299
+http://x.mytvxweb.me:25461/172963/172963/1299
 #EXTINF:-1,|SportKlub1-
-http://x.mytvxweb.me:25461/103857/103857/1298
+http://x.mytvxweb.me:25461/172963/172963/1298
 #EXTINF:-1,|SportKlub2-
-http://x.mytvxweb.me:25461/103857/103857/1297
+http://x.mytvxweb.me:25461/172963/172963/1297
 #EXTINF:-1,|SportKlub3-
-http://x.mytvxweb.me:25461/103857/103857/1296
+http://x.mytvxweb.me:25461/172963/172963/1296
 #EXTINF:-1,|SPORTKLUB4SD-
-http://x.mytvxweb.me:25461/103857/103857/16169
+http://x.mytvxweb.me:25461/172963/172963/16169
 #EXTINF:-1,|SPORTKLUB5SD-
-http://x.mytvxweb.me:25461/103857/103857/16168
+http://x.mytvxweb.me:25461/172963/172963/16168
 #EXTINF:-1,|SPORTKLUB6-
-http://x.mytvxweb.me:25461/103857/103857/11830
+http://x.mytvxweb.me:25461/172963/172963/11830
 
 #EXTINF:-1,|ArenaSport1SRB-
-http://x.mytvxweb.me:25461/103857/103857/1345
+http://x.mytvxweb.me:25461/172963/172963/1345
 #EXTINF:-1,|ArenaSport1Cro-
-http://x.mytvxweb.me:25461/103857/103857/1346
+http://x.mytvxweb.me:25461/172963/172963/1346
 #EXTINF:-1,|ArenaSport2Cro-
-http://x.mytvxweb.me:25461/103857/103857/1344
+http://x.mytvxweb.me:25461/172963/172963/1344
 #EXTINF:-1,|ArenaSport2SRB-
-http://x.mytvxweb.me:25461/103857/103857/1343
+http://x.mytvxweb.me:25461/172963/172963/1343
 #EXTINF:-1,|ArenaSport3SRB-
-http://x.mytvxweb.me:25461/103857/103857/1347
+http://x.mytvxweb.me:25461/172963/172963/1347
 #EXTINF:-1,|ArenaSport4Cro-
-http://x.mytvxweb.me:25461/103857/103857/1341
+http://x.mytvxweb.me:25461/172963/172963/1341
 #EXTINF:-1,|ArenaSport4SRB-
-http://x.mytvxweb.me:25461/103857/103857/1340
+http://x.mytvxweb.me:25461/172963/172963/1340
 #EXTINF:-1,|ArenaSport5CRO-
-http://x.mytvxweb.me:25461/103857/103857/1339
+http://x.mytvxweb.me:25461/172963/172963/1339
 
 
