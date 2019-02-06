@@ -1,134 +1,163 @@
 #EXTM3U
 
-#EXTINF:-1,Ex-Yu | HBO 1
-http://formen1.com:8080/egri07/egri07/16848
-#EXTINF:-1,Ex-Yu | HBO 2
-http://formen1.com:8080/egri07/egri07/16847
-#EXTINF:-1,Ex-Yu | HBO 3
-http://formen1.com:8080/egri07/egri07/16846
-#EXTINF:-1,Ex-Yu | KINO TV
-http://formen1.com:8080/egri07/egri07/16845
-#EXTINF:-1,Ex-Yu | KLASIK TV
-http://formen1.com:8080/egri07/egri07/16863
-#EXTINF:-1,Ex-Yu | TV 1000
-http://formen1.com:8080/egri07/egri07/16840
-
-#EXTINF:-1,Ex-Yu | Hrt 1
-http://formen1.com:8080/egri07/egri07/1890
-#EXTINF:-1,Ex-Yu | Hrt 2
-http://formen1.com:8080/egri07/egri07/1891
-#EXTINF:-1,Ex-Yu | Hrt 3
-http://formen1.com:8080/egri07/egri07/1892
-#EXTINF:-1,Ex-Yu | Nova
-http://formen1.com:8080/egri07/egri07/1894
-#EXTINF:-1,Ex-Yu | NOVA TV
-http://formen1.com:8080/egri07/egri07/16867
-#EXTINF:-1,Ex-Yu | Doma Tv
-http://formen1.com:8080/egri07/egri07/1919
-#EXTINF:-1,Ex-Yu | Rtl
-http://formen1.com:8080/egri07/egri07/1915
-#EXTINF:-1,Ex-Yu | Rtl 2
-http://formen1.com:8080/egri07/egri07/1916
-#EXTINF:-1,Ex-Yu | Rtl Kockica
-http://formen1.com:8080/egri07/egri07/1907
-
-
-#EXTINF:-1,Ex-Yu | Prva
-http://formen1.com:8080/egri07/egri07/1884
-#EXTINF:-1,Ex-Yu | Rts1
-http://formen1.com:8080/egri07/egri07/1920
-#EXTINF:-1,Ex-Yu | Rts2
-http://formen1.com:8080/egri07/egri07/1921
-#EXTINF:-1,Ex-Yu | RTS 2
-http://formen1.com:8080/egri07/egri07/16860
-#EXTINF:-1,Ex-Yu | PRVA MAX
-http://formen1.com:8080/egri07/egri07/16857
-#EXTINF:-1,Ex-Yu | PRVA PLUS
-http://formen1.com:8080/egri07/egri07/16856
-#EXTINF:-1,Ex-Yu | PRVA WORLD
-http://formen1.com:8080/egri07/egri07/16859
+#EXTINF:-1,| HBO 1
+http://formen1.com:8080/zeynel1/1234/16848
+#EXTINF:-1,| HBO 2
+http://formen1.com:8080/zeynel1/1234/16847
+#EXTINF:-1,| HBO 3
+http://formen1.com:8080/zeynel1/1234/16846
+#EXTINF:-1,| KINO TV
+http://formen1.com:8080/zeynel1/1234/16845
+#EXTINF:-1,| KLASIK TV
+http://formen1.com:8080/zeynel1/1234/16863
+#EXTINF:-1,| TV 1000
+http://formen1.com:8080/zeynel1/1234/16840
+#EXTINF:-1,| Hrt 1
+http://formen1.com:8080/zeynel1/1234/1890
+#EXTINF:-1,| Hrt 2
+http://formen1.com:8080/zeynel1/1234/1891
+#EXTINF:-1,| Hrt 3
+http://formen1.com:8080/zeynel1/1234/1892
+#EXTINF:-1,| Nova
+http://formen1.com:8080/zeynel1/1234/1894
+#EXTINF:-1,| NOVA TV
+http://formen1.com:8080/zeynel1/1234/16867
+#EXTINF:-1,| Doma Tv
+http://formen1.com:8080/zeynel1/1234/1919
+#EXTINF:-1,| Rtl
+http://formen1.com:8080/zeynel1/1234/1915
+#EXTINF:-1,| Rtl 2
+http://formen1.com:8080/zeynel1/1234/1916
+#EXTINF:-1,| Rtl Kockica
+http://formen1.com:8080/zeynel1/1234/1907
+#EXTINF:-1,| Prva
+http://formen1.com:8080/zeynel1/1234/1884
+#EXTINF:-1,| Rts1
+http://formen1.com:8080/zeynel1/1234/1920
+#EXTINF:-1,| Rts2
+http://formen1.com:8080/zeynel1/1234/1921
+#EXTINF:-1,| RTS 2
+http://formen1.com:8080/zeynel1/1234/16860
+#EXTINF:-1,| PRVA MAX
+http://formen1.com:8080/zeynel1/1234/16857
+#EXTINF:-1,| PRVA PLUS
+http://formen1.com:8080/zeynel1/1234/16856
+#EXTINF:-1,| PRVA WORLD
+http://formen1.com:8080/zeynel1/1234/16859
 
 #EXTINF:-1,Cinemax*
-http://gorillaiptv.online:25461/libby/libby/904
+http://gorillaiptv.online:25461/enigma/enigma/904
 #EXTINF:-1,Cinemax 2*
-http://gorillaiptv.online:25461/libby/libby/903
+http://gorillaiptv.online:25461/enigma/enigma/903
 #EXTINF:-1,Cinestar Action*
-http://gorillaiptv.online:25461/libby/libby/901
+http://gorillaiptv.online:25461/enigma/enigma/901
 #EXTINF:-1,Cinestar Fantasy*
-http://gorillaiptv.online:25461/libby/libby/902
+http://gorillaiptv.online:25461/enigma/enigma/902
 #EXTINF:-1,Cinestar Premier 1*
-http://gorillaiptv.online:25461/libby/libby/900
+http://gorillaiptv.online:25461/enigma/enigma/900
 #EXTINF:-1,Cinestar Premier 2*
-http://gorillaiptv.online:25461/libby/libby/899
+http://gorillaiptv.online:25461/enigma/enigma/899
 
-#EXTINF:-1,[ EX-YU ] HBO ADRIA
+#EXTINF:-1,|HBO2-
+http://x.mytvxweb.me:25461/103857/103857/16247
+#EXTINF:-1,|HBOComedy-
+http://x.mytvxweb.me:25461/103857/103857/1290
+#EXTINF:-1,|CINEMAX1-
+http://x.mytvxweb.me:25461/103857/103857/16271
+#EXTINF:-1,|Cinemax2-
+http://x.mytvxweb.me:25461/103857/103857/1324
+#EXTINF:-1,|CinestarAction-
+http://x.mytvxweb.me:25461/103857/103857/16269
+#EXTINF:-1,|CinestarHD-
+http://x.mytvxweb.me:25461/103857/103857/1254
+#EXTINF:-1,|CinestarPremiere1HD-
+http://x.mytvxweb.me:25461/103857/103857/1255
+#EXTINF:-1,|CinestarPremiere2-
+http://x.mytvxweb.me:25461/103857/103857/1335
+#EXTINF:-1,|FoxMovies-
+http://x.mytvxweb.me:25461/103857/103857/1292
+#EXTINF:-1,|HRT1-
+http://x.mytvxweb.me:25461/103857/103857/16243
+#EXTINF:-1,|HRT2-
+http://x.mytvxweb.me:25461/103857/103857/16242
+#EXTINF:-1,|HRT3-
+http://x.mytvxweb.me:25461/103857/103857/16241
+#EXTINF:-1,|PrvaHD-
+http://x.mytvxweb.me:25461/103857/103857/1271
+#EXTINF:-1,|PRVAPLUS-
+http://x.mytvxweb.me:25461/103857/103857/1325
+#EXTINF:-1,|B92-
+http://x.mytvxweb.me:25461/103857/103857/1337
+#EXTINF:-1,|ANIMALPLANET-
+http://x.mytvxweb.me:25461/103857/103857/16277
+#EXTINF:-1,|VIASATHISTORY-
+http://x.mytvxweb.me:25461/103857/103857/15075
+#EXTINF:-1,|VIASATEXPLORE-
+http://x.mytvxweb.me:25461/103857/103857/15076
+
+#EXTINF:-1,[ ] HBO ADRIA
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29661.ts
-#EXTINF:-1,[ EX-YU ] HBO Comedy
+#EXTINF:-1,[ ] HBO Comedy
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29660.ts
-#EXTINF:-1,[ EX-YU ] HBO HD
+#EXTINF:-1,[ ] HBO HD
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29659.ts
-#EXTINF:-1,[ EX-YU ] HBO HD 2
+#EXTINF:-1,[ ] HBO HD 2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29658.ts
-#EXTINF:-1,[ EX-YU ] HBO 2 SLO
+#EXTINF:-1,[ ] HBO 2 SLO
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29663.ts
-#EXTINF:-1,[ EX-YU ] HBO 3
+#EXTINF:-1,[ ] HBO 3
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29662.ts
-
-#EXTINF:-1,[ EX-YU ] Cinemax HD
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29707.ts
-#EXTINF:-1,[ EX-YU ] CINEMAX-1
+#EXTINF:-1,[ ] CINEMAX-1
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29706.ts
-#EXTINF:-1,[ EX-YU ] CINEMAX-2
+#EXTINF:-1,[ ] CINEMAX-2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29705.ts
-#EXTINF:-1,[ EX-YU ] Cinestar Action
+#EXTINF:-1,[ ] Cinestar Action
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29704.ts
-#EXTINF:-1,[ EX-YU ] Cinestar Fantasy HD
+#EXTINF:-1,[ ] Cinestar Fantasy HD
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29703.ts
-#EXTINF:-1,[ EX-YU ] Cinestar Premier 1
+#EXTINF:-1,[ ] Cinestar Premier 1
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29702.ts
-#EXTINF:-1,[ EX-YU ] Cinestar Premier 2
+#EXTINF:-1,[ ] Cinestar Premier 2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29701.ts
-#EXTINF:-1,[ EX-YU ] Cinestar Premiere 1
+#EXTINF:-1,[ ] Cinestar Premiere 1
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29700.ts
-#EXTINF:-1,[ EX-YU ] Cinestar Premiere 2
+#EXTINF:-1,[ ] Cinestar Premiere 2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29699.ts
-#EXTINF:-1,[ EX-YU ] KLASIK TV
+#EXTINF:-1,[ ] KLASIK TV
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29638.ts
-
-#EXTINF:-1,[ EX-YU ] CINESTAR TV
+#EXTINF:-1,[ ] CINESTAR TV
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29698.ts
-
-#EXTINF:-1,[ EX-YU ] HRT 1
+#EXTINF:-1,[ ] HRT 1
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29653.ts
-#EXTINF:-1,[ EX-YU ] HRT 2
+#EXTINF:-1,[ ] HRT 2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29652.ts
-#EXTINF:-1,[ EX-YU ] HRT 3
+#EXTINF:-1,[ ] HRT 3
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29651.ts
-#EXTINF:-1,[ EX-YU ] RTL
+#EXTINF:-1,[ ] RTL
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29551.ts
-#EXTINF:-1,[ EX-YU ] RTL 2
+#EXTINF:-1,[ ] RTL 2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29550.ts
-#EXTINF:-1,[ EX-YU ] RTL CRIME
+#EXTINF:-1,[ ] RTL CRIME
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29549.ts
-#EXTINF:-1,[ EX-YU ] RTL HR
+#EXTINF:-1,[ ] RTL HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29548.ts
-#EXTINF:-1,[ EX-YU ] RTL KOCKICA
+#EXTINF:-1,[ ] RTL KOCKICA
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29547.ts
-#EXTINF:-1,[ EX-YU ] RTL Living
+#EXTINF:-1,[ ] RTL Living
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29546.t
-#EXTINF:-1,[ EX-YU ] Doma TV
+#EXTINF:-1,[ ] Doma TV
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29690.ts
-#EXTINF:-1,[ EX-YU ] DOMA-TV
+#EXTINF:-1,[ ] DOMA-TV
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29689.ts
-#EXTINF:-1,[ EX-YU ] RTRS
+#EXTINF:-1,[ ] RTRS
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29545.ts
-#EXTINF:-1,[ EX-YU ] RTS 1
+#EXTINF:-1,[ ] RTS 1
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29544.ts
-#EXTINF:-1,[ EX-YU ] RTS 2
+#EXTINF:-1,[ ] RTS 2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29541.ts
-#EXTINF:-1,[ EX-YU ] RTS 3
+#EXTINF:-1,[ ] RTS 3
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29539.ts
-#EXTINF:-1,[ EX-YU ] RTS HD
+#EXTINF:-1,[ ] RTS HD
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29538.ts
 
 
@@ -141,99 +170,136 @@ http://tele-live.n4t.co:23000/live/Cognda16/Peru16/32127.ts
 #EXTINF:-1,[SOCCER] EX YU: SPORT KLUB 4
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/32126.ts
 
-#EXTINF:-1,[ EX-YU ] SPORT KLUB 1
+#EXTINF:-1,[ ] SPORT KLUB 1
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29527.ts
-#EXTINF:-1,[ EX-YU ] Sport Klub 1 HR
+#EXTINF:-1,[ ] Sport Klub 1 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29526.ts
-#EXTINF:-1,[ EX-YU ] SPORT KLUB 2
+#EXTINF:-1,[ ] SPORT KLUB 2
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29525.ts
-#EXTINF:-1,[ EX-YU ] Sport Klub 2 HR
+#EXTINF:-1,[ ] Sport Klub 2 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29524.ts
-#EXTINF:-1,[ EX-YU ] SPORT KLUB 3
+#EXTINF:-1,[ ] SPORT KLUB 3
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29523.ts
-#EXTINF:-1,[ EX-YU ] Sport Klub 3 HR
+#EXTINF:-1,[ ] Sport Klub 3 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29522.ts
-#EXTINF:-1,[ EX-YU ] SPORT KLUB 4
+#EXTINF:-1,[ ] SPORT KLUB 4
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29521.ts
-#EXTINF:-1,[ EX-YU ] SPORT KLUB 5
+#EXTINF:-1,[ ] SPORT KLUB 5
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29520.ts
-#EXTINF:-1,[ EX-YU ] SPORT KLUB 6
+#EXTINF:-1,[ ] SPORT KLUB 6
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29519.ts
 
-#EXTINF:-1,[ EX-YU ] SPORT TV 1 HD SLO
+#EXTINF:-1,[ ] SPORT TV 1 HD SLO
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29516.ts
-#EXTINF:-1,[ EX-YU ] SPORT TV 2 HD SLO
+#EXTINF:-1,[ ] SPORT TV 2 HD SLO
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29515.ts
-#EXTINF:-1,[ EX-YU ] SPORT TV 3 HD SLO
+#EXTINF:-1,[ ] SPORT TV 3 HD SLO
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29514.ts
-#EXTINF:-1,[ EX-YU ] SPORTKLUB 1 HD SLO
+#EXTINF:-1,[ ] SPORTKLUB 1 HD SLO
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29513.ts
-#EXTINF:-1,[ EX-YU ] SPORTKLUB 2 HD SLO
+#EXTINF:-1,[ ] SPORTKLUB 2 HD SLO
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29512.ts
-#EXTINF:-1,[ EX-YU ] SPORTKLUB 3 HD SLO
+#EXTINF:-1,[ ] SPORTKLUB 3 HD SLO
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29511.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 1 HR
+#EXTINF:-1,[ ] Arena Sport 1 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29728.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 1 SRB
+#EXTINF:-1,[ ] Arena Sport 1 SRB
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29727.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 2 HR
+#EXTINF:-1,[ ] Arena Sport 2 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29726.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 2 SRB
+#EXTINF:-1,[ ] Arena Sport 2 SRB
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29725.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 3 HR
+#EXTINF:-1,[ ] Arena Sport 3 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29724.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 3 SRB
+#EXTINF:-1,[ ] Arena Sport 3 SRB
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29723.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 4 HR
+#EXTINF:-1,[ ] Arena Sport 4 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29722.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 4 SRB
+#EXTINF:-1,[ ] Arena Sport 4 SRB
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29721.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 5 HR
+#EXTINF:-1,[ ] Arena Sport 5 HR
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29720.ts
-#EXTINF:-1,[ EX-YU ] Arena Sport 5 SRB
+#EXTINF:-1,[ ] Arena Sport 5 SRB
 http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29719.ts
 
 
 #EXTINF:-1,Sport Klub 1 HD
-http://gorillaiptv.online:25461/libby/libby/1135
+http://gorillaiptv.online:25461/enigma/enigma/1135
 #EXTINF:-1,Sport Klub 2 HD
-http://gorillaiptv.online:25461/libby/libby/1134
+http://gorillaiptv.online:25461/enigma/enigma/1134
 #EXTINF:-1,Sport Klub 3 HD
-http://gorillaiptv.online:25461/libby/libby/1133
+http://gorillaiptv.online:25461/enigma/enigma/1133
 #EXTINF:-1,Sport Klub 4 HD
-http://gorillaiptv.online:25461/libby/libby/1132
+http://gorillaiptv.online:25461/enigma/enigma/1132
 #EXTINF:-1,Sport Klub 5 HD
-http://gorillaiptv.online:25461/libby/libby/1131
+http://gorillaiptv.online:25461/enigma/enigma/1131
 #EXTINF:-1,Sport Klub 6 HD
-http://gorillaiptv.online:25461/libby/libby/1130
+http://gorillaiptv.online:25461/enigma/enigma/1130
 
 #EXTINF:-1,EX YU: SPORT KLUB 1
-http://formen1.com:8080/egri07/egri07/16828
+http://formen1.com:8080/zeynel1/1234/16828
 #EXTINF:-1,EX YU: SPORT KLUB 2
-http://formen1.com:8080/egri07/egri07/16827
+http://formen1.com:8080/zeynel1/1234/16827
 #EXTINF:-1,EX YU: SPORT KLUB 3
-http://formen1.com:8080/egri07/egri07/16826
+http://formen1.com:8080/zeynel1/1234/16826
 #EXTINF:-1,EX YU: SPORT KLUB 4
-http://formen1.com:8080/egri07/egri07/16825
-#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
-http://formen1.com:8080/egri07/egri07/3076
-#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
-http://formen1.com:8080/egri07/egri07/3077
-#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
-http://formen1.com:8080/egri07/egri07/3078
-#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
-http://formen1.com:8080/egri07/egri07/3079
-#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://formen1.com:8080/egri07/egri07/16850
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://formen1.com:8080/egri07/egri07/16824
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://formen1.com:8080/egri07/egri07/16823
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://formen1.com:8080/egri07/egri07/16822
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://formen1.com:8080/egri07/egri07/16821
-#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
-http://formen1.com:8080/egri07/egri07/16858
+http://formen1.com:8080/zeynel1/1234/16825
+#EXTINF:-1,| Arena Sport 1 HR
+http://formen1.com:8080/zeynel1/1234/3076
+#EXTINF:-1,| Arena Sport 2 Hr
+http://formen1.com:8080/zeynel1/1234/3077
+#EXTINF:-1,| Arena Sport 3 Hr
+http://formen1.com:8080/zeynel1/1234/3078
+#EXTINF:-1,| Arena Sport 4 Hr
+http://formen1.com:8080/zeynel1/1234/3079
+#EXTINF:-1,| Arena Sport 1 (SRB)
+http://formen1.com:8080/zeynel1/1234/16850
+#EXTINF:-1,| ARENA SPORT 2 SRB
+http://formen1.com:8080/zeynel1/1234/16824
+#EXTINF:-1,| ARENA SPORT 3 SRB
+http://formen1.com:8080/zeynel1/1234/16823
+#EXTINF:-1,| ARENA SPORT 4 SRB
+http://formen1.com:8080/zeynel1/1234/16822
+#EXTINF:-1,| ARENA SPORT 5 SRB
+http://formen1.com:8080/zeynel1/1234/16821
+#EXTINF:-1,| Arena Sport 6 HR
+http://formen1.com:8080/zeynel1/1234/16858
+
+
+#EXTINF:-1,|SK1HD-
+http://x.mytvxweb.me:25461/103857/103857/1301
+#EXTINF:-1,|SK2HD-
+http://x.mytvxweb.me:25461/103857/103857/1300
+#EXTINF:-1,|SK3HD-
+http://x.mytvxweb.me:25461/103857/103857/1299
+#EXTINF:-1,|SportKlub1-
+http://x.mytvxweb.me:25461/103857/103857/1298
+#EXTINF:-1,|SportKlub2-
+http://x.mytvxweb.me:25461/103857/103857/1297
+#EXTINF:-1,|SportKlub3-
+http://x.mytvxweb.me:25461/103857/103857/1296
+#EXTINF:-1,|SPORTKLUB4SD-
+http://x.mytvxweb.me:25461/103857/103857/16169
+#EXTINF:-1,|SPORTKLUB5SD-
+http://x.mytvxweb.me:25461/103857/103857/16168
+#EXTINF:-1,|SPORTKLUB6-
+http://x.mytvxweb.me:25461/103857/103857/11830
+
+#EXTINF:-1,|ArenaSport1SRB-
+http://x.mytvxweb.me:25461/103857/103857/1345
+#EXTINF:-1,|ArenaSport1Cro-
+http://x.mytvxweb.me:25461/103857/103857/1346
+#EXTINF:-1,|ArenaSport2Cro-
+http://x.mytvxweb.me:25461/103857/103857/1344
+#EXTINF:-1,|ArenaSport2SRB-
+http://x.mytvxweb.me:25461/103857/103857/1343
+#EXTINF:-1,|ArenaSport3SRB-
+http://x.mytvxweb.me:25461/103857/103857/1347
+#EXTINF:-1,|ArenaSport4Cro-
+http://x.mytvxweb.me:25461/103857/103857/1341
+#EXTINF:-1,|ArenaSport4SRB-
+http://x.mytvxweb.me:25461/103857/103857/1340
+#EXTINF:-1,|ArenaSport5CRO-
+http://x.mytvxweb.me:25461/103857/103857/1339
 
 
