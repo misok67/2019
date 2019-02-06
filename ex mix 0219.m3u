@@ -1,5 +1,31 @@
 #EXTM3U
 
+
+#EXTINF:-1,WS: beIN Sports 11 HD AR-Eng
+http://gorillaiptv.online:25461/enigma/enigma/1353
+#EXTINF:-1,WS: beIN Sports 12 HD AR-Eng
+http://gorillaiptv.online:25461/enigma/enigma/1354
+#EXTINF:-1,WS: Sport Klub 1 HD
+http://gorillaiptv.online:25461/enigma/enigma/1135
+#EXTINF:-1,WS: Sport Klub 2 HD
+http://gorillaiptv.online:25461/enigma/enigma/1134
+#EXTINF:-1,WS: Sport Klub 3 HD
+http://gorillaiptv.online:25461/enigma/enigma/1133
+#EXTINF:-1,WS: Sport Klub 4 HD
+http://gorillaiptv.online:25461/enigma/enigma/1132
+#EXTINF:-1,WS: Sport Klub 5 HD
+http://gorillaiptv.online:25461/enigma/enigma/1131
+#EXTINF:-1,WS: Sport Klub 6 HD
+http://gorillaiptv.online:25461/enigma/enigma/1130
+
+#EXTINF:-1,WS: Eleven Sports 1 PL
+http://gorillaiptv.online:25461/enigma/enigma/1072
+#EXTINF:-1,WS: Eleven Sports 2 PL
+http://gorillaiptv.online:25461/enigma/enigma/1071
+#EXTINF:-1,WS: Eleven Sports 3 PL
+http://gorillaiptv.online:25461/enigma/enigma/1070
+#EXTINF:-1,WS: Eleven Sports 4 PL
+http://gorillaiptv.online:25461/enigma/enigma/1069
 #EXTINF:-1,| HBO 1
 http://formen1.com:8080/zeynel1/1234/16848
 #EXTINF:-1,| HBO 2
