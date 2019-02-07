@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="CRO",HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 group-title="CRO",HRT 2
@@ -14,262 +13,235 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
+#EXTINF:-1,HBO ADRIA
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19351
+#EXTINF:-1,HBO HD
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19349
+#EXTINF:-1,HBO HD 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19348
+#EXTINF:-1,HBO 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19354
+#EXTINF:-1,HBO Comedy
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19350
+#EXTINF:-1,HBO 2 SLO
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19353
+#EXTINF:-1,HBO 3
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19352
+#EXTINF:-1,EX YU: CINEMAX-1
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19435
+#EXTINF:-1,EX YU: CINEMAX-2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19434
+#EXTINF:-1,EX YU: CINESTAR TV
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19433
+#EXTINF:-1,KLASIK TV
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19330
+#EXTINF:-1,Pink Film
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19295
+#EXTINF:-1,Cinestar Action
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19392
+#EXTINF:-1,Cinestar Fantasy HD
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19391
+#EXTINF:-1,Cinestar Premier 1
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19390
+#EXTINF:-1,Cinestar Premier 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19389
+#EXTINF:-1,Cinestar Premiere 1
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19388
+#EXTINF:-1,Cinestar Premiere 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19387
+#EXTINF:-1,TV 1000
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19201
+#EXTINF:-1,Fox Movies
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19364
 
-#EXTINF:-1,Cinemax*
-http://gorillaiptv.online:25461/enigma/enigma/904
-#EXTINF:-1,Cinemax 2*
-http://gorillaiptv.online:25461/enigma/enigma/903
-#EXTINF:-1,Cinestar Action*
-http://gorillaiptv.online:25461/enigma/enigma/901
-#EXTINF:-1,Cinestar Fantasy*
-http://gorillaiptv.online:25461/enigma/enigma/902
-#EXTINF:-1,Cinestar Premier 1*
-http://gorillaiptv.online:25461/enigma/enigma/900
-#EXTINF:-1,Cinestar Premier 2*
-http://gorillaiptv.online:25461/enigma/enigma/899
+#EXTINF:-1,HRT 1
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19344
+#EXTINF:-1,HRT 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19343
+#EXTINF:-1,HRT 3
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19342
+#EXTINF:-1,Doma TV
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19379
+#EXTINF:-1,DOMA-TV
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19378
+#EXTINF:-1,Nova HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19313
+#EXTINF:-1,NOVA TV HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19311
+#EXTINF:-1,RTL
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19251
+#EXTINF:-1,RTL 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19250
+#EXTINF:-1,RTL CRIME
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19249
+#EXTINF:-1,RTL Living
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19247
 
-#EXTINF:-1,|HBO2-
-http://x.mytvxweb.me:25461/172963/172963/16247
-#EXTINF:-1,|HBOComedy-
-http://x.mytvxweb.me:25461/172963/172963/1290
-#EXTINF:-1,|CINEMAX1-
-http://x.mytvxweb.me:25461/172963/172963/16271
-#EXTINF:-1,|Cinemax2-
-http://x.mytvxweb.me:25461/172963/172963/1324
-#EXTINF:-1,|CinestarAction-
-http://x.mytvxweb.me:25461/172963/172963/16269
-#EXTINF:-1,|CinestarHD-
-http://x.mytvxweb.me:25461/172963/172963/1254
-#EXTINF:-1,|CinestarPremiere1HD-
-http://x.mytvxweb.me:25461/172963/172963/1255
-#EXTINF:-1,|CinestarPremiere2-
-http://x.mytvxweb.me:25461/172963/172963/1335
-#EXTINF:-1,|FoxMovies-
-http://x.mytvxweb.me:25461/172963/172963/1292
-#EXTINF:-1,|HRT1-
-http://x.mytvxweb.me:25461/172963/172963/16243
-#EXTINF:-1,|HRT2-
-http://x.mytvxweb.me:25461/172963/172963/16242
-#EXTINF:-1,|HRT3-
-http://x.mytvxweb.me:25461/172963/172963/16241
-#EXTINF:-1,|PrvaHD-
-http://x.mytvxweb.me:25461/172963/172963/1271
-#EXTINF:-1,|PRVAPLUS-
-http://x.mytvxweb.me:25461/172963/172963/1325
-#EXTINF:-1,|B92-
-http://x.mytvxweb.me:25461/172963/172963/1337
-#EXTINF:-1,|ANIMALPLANET-
-http://x.mytvxweb.me:25461/172963/172963/16277
-#EXTINF:-1,|VIASATHISTORY-
-http://x.mytvxweb.me:25461/172963/172963/15075
-#EXTINF:-1,|VIASATEXPLORE-
-http://x.mytvxweb.me:25461/172963/172963/15076
+#EXTINF:-1,RTRS
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19246
+#EXTINF:-1,RTS 1
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19245
+#EXTINF:-1,RTS 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19243
+#EXTINF:-1,RTS 3
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19241
+#EXTINF:-1,RTS HD
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19240
+#EXTINF:-1,Prva
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19261
+#EXTINF:-1,Prva Plus
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19258
+#EXTINF:-1,Slovenia TV 1 HD
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19232
 
-#EXTINF:-1,[ ] HBO ADRIA
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29661.ts
-#EXTINF:-1,[ ] HBO Comedy
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29660.ts
-#EXTINF:-1,[ ] HBO HD
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29659.ts
-#EXTINF:-1,[ ] HBO HD 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29658.ts
-#EXTINF:-1,[ ] HBO 2 SLO
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29663.ts
-#EXTINF:-1,[ ] HBO 3
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29662.ts
-#EXTINF:-1,[ ] CINEMAX-1
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29706.ts
-#EXTINF:-1,[ ] CINEMAX-2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29705.ts
-#EXTINF:-1,[ ] Cinestar Action
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29704.ts
-#EXTINF:-1,[ ] Cinestar Fantasy HD
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29703.ts
-#EXTINF:-1,[ ] Cinestar Premier 1
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29702.ts
-#EXTINF:-1,[ ] Cinestar Premier 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29701.ts
-#EXTINF:-1,[ ] Cinestar Premiere 1
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29700.ts
-#EXTINF:-1,[ ] Cinestar Premiere 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29699.ts
-#EXTINF:-1,[ ] KLASIK TV
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29638.ts
-#EXTINF:-1,[ ] CINESTAR TV
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29698.ts
-#EXTINF:-1,[ ] HRT 1
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29653.ts
-#EXTINF:-1,[ ] HRT 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29652.ts
-#EXTINF:-1,[ ] HRT 3
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29651.ts
-#EXTINF:-1,[ ] RTL
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29551.ts
-#EXTINF:-1,[ ] RTL 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29550.ts
-#EXTINF:-1,[ ] RTL CRIME
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29549.ts
-#EXTINF:-1,[ ] RTL HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29548.ts
-#EXTINF:-1,[ ] RTL KOCKICA
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29547.ts
-#EXTINF:-1,[ ] RTL Living
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29546.t
-#EXTINF:-1,[ ] Doma TV
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29690.ts
-#EXTINF:-1,[ ] DOMA-TV
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29689.ts
-#EXTINF:-1,[ ] RTRS
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29545.ts
-#EXTINF:-1,[ ] RTS 1
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29544.ts
-#EXTINF:-1,[ ] RTS 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29541.ts
-#EXTINF:-1,[ ] RTS 3
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29539.ts
-#EXTINF:-1,[ ] RTS HD
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29538.ts
+#EXTINF:-1,ANIMAL PLANET
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19422
+#EXTINF:-1,Nat Geo Wild
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19317
+#EXTINF:-1,National Geographic
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19316
+#EXTINF:-1,History 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19347
+#EXTINF:-1,HISTORY CHANNEL
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19346
 
+#EXTINF:-1,HRT 1
+http://185.180.12.37:80/QStalker/X7EzfYifRp/198
+#EXTINF:-1,HRT 2
+http://185.180.12.37:80/QStalker/X7EzfYifRp/199
+#EXTINF:-1,RTL
+http://185.180.12.37:80/QStalker/X7EzfYifRp/200
+#EXTINF:-1,RTL 2
+http://185.180.12.37:80/QStalker/X7EzfYifRp/201
+#EXTINF:-1,RTL Crime
+http://185.180.12.37:80/QStalker/X7EzfYifRp/202
+#EXTINF:-1,RTL Passion
+http://185.180.12.37:80/QStalker/X7EzfYifRp/203
+#EXTINF:-1,Doma TV
+http://185.180.12.37:80/QStalker/X7EzfYifRp/204
+#EXTINF:-1,Doma TV HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/205
+#EXTINF:-1,Nova TV
+http://185.180.12.37:80/QStalker/X7EzfYifRp/180
+#EXTINF:-1,Nova TV HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/181
 
-#EXTINF:-1,[SOCCER] EX YU: SPORT KLUB 1
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/32129.ts
-#EXTINF:-1,[SOCCER] EX YU: SPORT KLUB 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/32128.ts
-#EXTINF:-1,[SOCCER] EX YU: SPORT KLUB 3
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/32127.ts
-#EXTINF:-1,[SOCCER] EX YU: SPORT KLUB 4
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/32126.ts
+#EXTINF:-1,RTS 1
+http://185.180.12.37:80/QStalker/X7EzfYifRp/184
+#EXTINF:-1,RTS HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/185
+#EXTINF:-1,RTS 2
+http://185.180.12.37:80/QStalker/X7EzfYifRp/206
+#EXTINF:-1,Prva
+http://185.180.12.37:80/QStalker/X7EzfYifRp/207
+#EXTINF:-1,ORF 1 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/183
 
-#EXTINF:-1,[ ] SPORT KLUB 1
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29527.ts
-#EXTINF:-1,[ ] Sport Klub 1 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29526.ts
-#EXTINF:-1,[ ] SPORT KLUB 2
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29525.ts
-#EXTINF:-1,[ ] Sport Klub 2 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29524.ts
-#EXTINF:-1,[ ] SPORT KLUB 3
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29523.ts
-#EXTINF:-1,[ ] Sport Klub 3 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29522.ts
-#EXTINF:-1,[ ] SPORT KLUB 4
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29521.ts
-#EXTINF:-1,[ ] SPORT KLUB 5
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29520.ts
-#EXTINF:-1,[ ] SPORT KLUB 6
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29519.ts
+#EXTINF:-1,SPORT KLUB 1
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19229
+#EXTINF:-1,SPORT KLUB 1 HD
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19228
+#EXTINF:-1,Sport Klub 1 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19227
+#EXTINF:-1,SPORT KLUB 2
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19226
+#EXTINF:-1,SPORT KLUB 2 HD
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19225
+#EXTINF:-1,Sport Klub 2 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19224
+#EXTINF:-1,SPORT KLUB 3
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19223
+#EXTINF:-1,SPORT KLUB 3 HD
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19222
+#EXTINF:-1,Sport Klub 3 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19221
+#EXTINF:-1,SPORT KLUB 4
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19220
+#EXTINF:-1,SPORT KLUB 5
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19219
+#EXTINF:-1,SPORT KLUB 6
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19218
+#EXTINF:-1,SPORT TV 1 HD SLO
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19217
+#EXTINF:-1,SPORT TV 2 HD SLO
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19216
+#EXTINF:-1,SPORT TV 3 HD SLO
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19215
+#EXTINF:-1,SPORTKLUB 1 HD SLO
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19213
+#EXTINF:-1,SPORTKLUB 2 HD SLO
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19212
+#EXTINF:-1,SPORTKLUB 3 HD SLO
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19211
 
-#EXTINF:-1,[ ] SPORT TV 1 HD SLO
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29516.ts
-#EXTINF:-1,[ ] SPORT TV 2 HD SLO
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29515.ts
-#EXTINF:-1,[ ] SPORT TV 3 HD SLO
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29514.ts
-#EXTINF:-1,[ ] SPORTKLUB 1 HD SLO
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29513.ts
-#EXTINF:-1,[ ] SPORTKLUB 2 HD SLO
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29512.ts
-#EXTINF:-1,[ ] SPORTKLUB 3 HD SLO
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29511.ts
-#EXTINF:-1,[ ] Arena Sport 1 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29728.ts
-#EXTINF:-1,[ ] Arena Sport 1 SRB
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29727.ts
-#EXTINF:-1,[ ] Arena Sport 2 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29726.ts
-#EXTINF:-1,[ ] Arena Sport 2 SRB
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29725.ts
-#EXTINF:-1,[ ] Arena Sport 3 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29724.ts
-#EXTINF:-1,[ ] Arena Sport 3 SRB
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29723.ts
-#EXTINF:-1,[ ] Arena Sport 4 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29722.ts
-#EXTINF:-1,[ ] Arena Sport 4 SRB
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29721.ts
-#EXTINF:-1,[ ] Arena Sport 5 HR
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29720.ts
-#EXTINF:-1,[ ] Arena Sport 5 SRB
-http://tele-live.n4t.co:23000/live/Cognda16/Peru16/29719.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19421
+#EXTINF:-1,Arena Sport 1 SRB
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19420
+#EXTINF:-1,ARENA SPORT 1 SRB (local)
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19419
+#EXTINF:-1,Arena Sport 2 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19418
+#EXTINF:-1,Arena Sport 2 SRB
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19417
+#EXTINF:-1,ARENA SPORT 2 SRB (local)
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19416
+#EXTINF:-1,Arena Sport 3 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19415
+#EXTINF:-1,Arena Sport 3 SRB
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19414
+#EXTINF:-1,ARENA SPORT 3 SRB (reserve)
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19413
+#EXTINF:-1,Arena Sport 4 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19412
+#EXTINF:-1,Arena Sport 4 SRB
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19411
+#EXTINF:-1,ARENA SPORT 4 SRB (reserve)
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19410
+#EXTINF:-1,Arena Sport 5 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19409
+#EXTINF:-1,Arena Sport 5 SRB
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19408
+#EXTINF:-1,ARENA SPORT 5 SRB (reserve)
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19407
+#EXTINF:-1,ARENA SPORT 6 HR
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19406
+#EXTINF:-1,HNTV
+http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19345
 
-
-#EXTINF:-1,Sport Klub 1 HD
-http://gorillaiptv.online:25461/enigma/enigma/1135
-#EXTINF:-1,Sport Klub 2 HD
-http://gorillaiptv.online:25461/enigma/enigma/1134
-#EXTINF:-1,Sport Klub 3 HD
-http://gorillaiptv.online:25461/enigma/enigma/1133
-#EXTINF:-1,Sport Klub 4 HD
-http://gorillaiptv.online:25461/enigma/enigma/1132
-#EXTINF:-1,Sport Klub 5 HD
-http://gorillaiptv.online:25461/enigma/enigma/1131
-#EXTINF:-1,Sport Klub 6 HD
-http://gorillaiptv.online:25461/enigma/enigma/1130
-
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://formen1.com:8080/zeynel1/1234/16828
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://formen1.com:8080/zeynel1/1234/16827
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://formen1.com:8080/zeynel1/1234/16826
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://formen1.com:8080/zeynel1/1234/16825
-#EXTINF:-1,| Arena Sport 1 HR
-http://formen1.com:8080/zeynel1/1234/3076
-#EXTINF:-1,| Arena Sport 2 Hr
-http://formen1.com:8080/zeynel1/1234/3077
-#EXTINF:-1,| Arena Sport 3 Hr
-http://formen1.com:8080/zeynel1/1234/3078
-#EXTINF:-1,| Arena Sport 4 Hr
-http://formen1.com:8080/zeynel1/1234/3079
-#EXTINF:-1,| Arena Sport 1 (SRB)
-http://formen1.com:8080/zeynel1/1234/16850
-#EXTINF:-1,| ARENA SPORT 2 SRB
-http://formen1.com:8080/zeynel1/1234/16824
-#EXTINF:-1,| ARENA SPORT 3 SRB
-http://formen1.com:8080/zeynel1/1234/16823
-#EXTINF:-1,| ARENA SPORT 4 SRB
-http://formen1.com:8080/zeynel1/1234/16822
-#EXTINF:-1,| ARENA SPORT 5 SRB
-http://formen1.com:8080/zeynel1/1234/16821
-#EXTINF:-1,| Arena Sport 6 HR
-http://formen1.com:8080/zeynel1/1234/16858
-
-
-#EXTINF:-1,|SK1HD-
-http://x.mytvxweb.me:25461/172963/172963/1301
-#EXTINF:-1,|SK2HD-
-http://x.mytvxweb.me:25461/172963/172963/1300
-#EXTINF:-1,|SK3HD-
-http://x.mytvxweb.me:25461/172963/172963/1299
-#EXTINF:-1,|SportKlub1-
-http://x.mytvxweb.me:25461/172963/172963/1298
-#EXTINF:-1,|SportKlub2-
-http://x.mytvxweb.me:25461/172963/172963/1297
-#EXTINF:-1,|SportKlub3-
-http://x.mytvxweb.me:25461/172963/172963/1296
-#EXTINF:-1,|SPORTKLUB4SD-
-http://x.mytvxweb.me:25461/172963/172963/16169
-#EXTINF:-1,|SPORTKLUB5SD-
-http://x.mytvxweb.me:25461/172963/172963/16168
-#EXTINF:-1,|SPORTKLUB6-
-http://x.mytvxweb.me:25461/172963/172963/11830
-
-#EXTINF:-1,|ArenaSport1SRB-
-http://x.mytvxweb.me:25461/172963/172963/1345
-#EXTINF:-1,|ArenaSport1Cro-
-http://x.mytvxweb.me:25461/172963/172963/1346
-#EXTINF:-1,|ArenaSport2Cro-
-http://x.mytvxweb.me:25461/172963/172963/1344
-#EXTINF:-1,|ArenaSport2SRB-
-http://x.mytvxweb.me:25461/172963/172963/1343
-#EXTINF:-1,|ArenaSport3SRB-
-http://x.mytvxweb.me:25461/172963/172963/1347
-#EXTINF:-1,|ArenaSport4Cro-
-http://x.mytvxweb.me:25461/172963/172963/1341
-#EXTINF:-1,|ArenaSport4SRB-
-http://x.mytvxweb.me:25461/172963/172963/1340
-#EXTINF:-1,|ArenaSport5CRO-
-http://x.mytvxweb.me:25461/172963/172963/1339
+#EXTINF:-1,Arena Sport 1 SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/11
+#EXTINF:-1,Arena Sport 2 SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/12
+#EXTINF:-1,Arena Sport 3 SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/13
+#EXTINF:-1,Arena Sport 4 SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/14
+#EXTINF:-1,Arena Sport 5 SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/15
+#EXTINF:-1,Arena Sport 1 HD SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/24
+#EXTINF:-1,Arena Sport 2 HD SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/25
+#EXTINF:-1,Arena Sport 3 HD SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/26
+#EXTINF:-1,Arena Sport 4 HD SR
+http://185.180.12.37:80/QStalker/X7EzfYifRp/27
+#EXTINF:-1,Sky Sport 1 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/32
+#EXTINF:-1,Sky Sport 2 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/33
+#EXTINF:-1,FOX Sports 1 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/46
+#EXTINF:-1,FOX Sports 2 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/47
+#EXTINF:-1,FOX Sports 3 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/48
+#EXTINF:-1,FOX Sports 4 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/49
+#EXTINF:-1,FOX Sports 5 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/50
+#EXTINF:-1,FOX Sports 6 HD
+http://185.180.12.37:80/QStalker/X7EzfYifRp/51
 
 
