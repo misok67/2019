@@ -13,6 +13,97 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
+
+#EXTINF:-1 tvg-id="84" tvg-name="HBO Adria" tvg-logo="/noicon.png" group-title="Filmski",HBO Adria - HBO Adria
+http://stream4.tvit.ba:8088/live?channelId=84&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="85" tvg-name="HBO Comedy" tvg-logo="/noicon.png" group-title="Filmski",HBO Comedy - HBO Comedy
+http://stream1.tvit.ba:8088/live?channelId=85&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="292" tvg-name="HBO 3" tvg-logo="/noicon.png" group-title="Filmski",HBO 3 - HBO 3
+http://stream4.tvit.ba:8088/live?channelId=292&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="248" tvg-name="Cinestar Fantasy" tvg-logo="/noicon.png" group-title="Filmski",Cinestar Fantasy - Cinestar Fantasy
+http://stream4.tvit.ba:8088/live?channelId=248&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="86" tvg-name="Cinestar Premiere" tvg-logo="/noicon.png" group-title="Filmski",Cinestar Premiere - Cinestar Premiere
+http://stream1.tvit.ba:8088/live?channelId=86&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="87" tvg-name="Cinestar Premiere 2" tvg-logo="/noicon.png" group-title="Filmski",Cinestar Premiere 2 - Cinestar Premiere 2
+http://stream3.tvit.ba:8088/live?channelId=87&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="94" tvg-name="Cinemax HD" tvg-logo="/noicon.png" group-title="Filmski",Cinemax HD - Cinemax HD
+http://stream3.tvit.ba:8088/live?channelId=94&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="95" tvg-name="Cinemax 2 HD" tvg-logo="/noicon.png" group-title="Filmski",Cinemax 2 HD - Cinemax 2 HD
+http://stream2.tvit.ba:80/live?channelId=95&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="144" tvg-name="Cinestar TV Sat" tvg-logo="/noicon.png" group-title="Filmski",Cinestar TV Sat - Cinestar TV Sat
+http://stream4.tvit.ba:8088/live?channelId=144&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="92" tvg-name="PINK FILM" tvg-logo="/noicon.png" group-title="Filmski",PINK FILM - PINK FILM
+http://stream3.tvit.ba:8088/live?channelId=92&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="61" tvg-name="TV 1000" tvg-logo="/noicon.png" group-title="Filmski",TV 1000 - TV 1000
+http://stream2.tvit.ba:80/live?channelId=61&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="153" tvg-name="Fox Movies Sat" tvg-logo="/noicon.png" group-title="Filmski",Fox Movies Sat - Fox Movies Sat
+http://stream4.tvit.ba:8088/live?channelId=153&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="67" tvg-name="HRT 1" tvg-logo="/noicon.png" group-title="Informativni",HRT 1 - HRT 1
+http://stream4.tvit.ba:8088/live?channelId=67&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="68" tvg-name="HRT 2" tvg-logo="/noicon.png" group-title="Informativni",HRT 2 - HRT 2
+http://stream4.tvit.ba:8088/live?channelId=68&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="69" tvg-name="HRT 3" tvg-logo="/noicon.png" group-title="Informativni",HRT 3 - HRT 3
+http://stream4.tvit.ba:8088/live?channelId=69&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="70" tvg-name="HRT 4" tvg-logo="/noicon.png" group-title="Informativni",HRT 4 - HRT 4
+http://stream1.tvit.ba:8088/live?channelId=70&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="71" tvg-name="RTL HR Sat" tvg-logo="/noicon.png" group-title="Informativni",RTL HR Sat - RTL HR Sat
+http://stream4.tvit.ba:8088/live?channelId=71&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="72" tvg-name="RTL 2 HR Sat" tvg-logo="/noicon.png" group-title="Informativni",RTL 2 HR Sat - RTL 2 HR Sat
+http://stream4.tvit.ba:8088/live?channelId=72&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="150" tvg-name="Doma Sat" tvg-logo="/noicon.png" group-title="Informativni",Doma Sat - Doma Sat
+http://stream4.tvit.ba:8088/live?channelId=150&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="152" tvg-name="Nova TV Sat" tvg-logo="/noicon.png" group-title="Informativni",Nova TV Sat - Nova TV Sat
+http://stream4.tvit.ba:8088/live?channelId=152&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="30" tvg-name="RTRS" tvg-logo="/noicon.png" group-title="Informativni",RTRS - RTRS
+http://cms.tvit.ba:80/live?channelId=30&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="65" tvg-name="RTS HD" tvg-logo="/noicon.png" group-title="Informativni",RTS HD - RTS HD
+http://stream3.tvit.ba:8088/live?channelId=65&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="171" tvg-name="Prva" tvg-logo="/noicon.png" group-title="Informativni",Prva - Prva
+http://stream3.tvit.ba:8088/live?channelId=171&uid=150&deviceMac=00:1A:79:2A:14:71
+
+#EXTINF:-1 tvg-id="240" tvg-name="Sport Klub 1 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 1 HD - Sport Klub 1 HD
+http://stream4.tvit.ba:8088/live?channelId=240&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="241" tvg-name="Sport Klub 2 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 2 HD - Sport Klub 2 HD
+http://stream2.tvit.ba:80/live?channelId=241&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="242" tvg-name="Sport Klub 3 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 3 HD - Sport Klub 3 HD
+http://stream1.tvit.ba:8088/live?channelId=242&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="64" tvg-name="SPORT KLUB 1" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 1 - SPORT KLUB 1
+http://stream1.tvit.ba:8088/live?channelId=64&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="22" tvg-name="SPORT KLUB 2" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 2 - SPORT KLUB 2
+http://stream1.tvit.ba:8088/live?channelId=22&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="137" tvg-name="SPORT KLUB 3" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 3 - SPORT KLUB 3
+http://stream2.tvit.ba:80/live?channelId=137&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="1" tvg-name="Arena Sport 1" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 1 - Arena Sport 1
+http://stream1.tvit.ba:8088/live?channelId=1&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="2" tvg-name="Arena Sport 2" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 2 - Arena Sport 2
+http://stream1.tvit.ba:8088/live?channelId=2&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="3" tvg-name="Arena Sport 3" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 3 - Arena Sport 3
+http://stream4.tvit.ba:8088/live?channelId=3&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="4" tvg-name="Arena Sport 4" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 4 - Arena Sport 4
+http://stream2.tvit.ba:80/live?channelId=4&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="136" tvg-name="Arena Sport 5 HD" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 5 HD - Arena Sport 5 HD
+http://stream2.tvit.ba:80/live?channelId=136&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="235" tvg-name="ARENA 2 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 2 SR HD - ARENA 2 SR HD
+http://stream2.tvit.ba:80/live?channelId=235&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="236" tvg-name="ARENA 3 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 3 SR HD - ARENA 3 SR HD
+http://stream2.tvit.ba:80/live?channelId=236&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="237" tvg-name="ARENA 4 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 4 SR HD - ARENA 4 SR HD
+http://stream4.tvit.ba:8088/live?channelId=237&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="238" tvg-name="ARENA 1 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 1 SR HD - ARENA 1 SR HD
+http://stream3.tvit.ba:8088/live?channelId=238&uid=150&deviceMac=00:1A:79:2A:14:71
+
+
+
+
+#EXTINF:-1 tvg-id="32" tvg-name="NAT GEO" tvg-logo="/noicon.png" group-title="Dokumentarni",NAT GEO - NAT GEO
+http://stream4.tvit.ba:8088/live?channelId=32&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="33" tvg-name="NAT GEO Wild" tvg-logo="/noicon.png" group-title="Dokumentarni",NAT GEO Wild - NAT GEO Wild
+http://stream4.tvit.ba:8088/live?channelId=33&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:-1 tvg-id="42" tvg-name="ANIMAL PLANET" tvg-logo="/noicon.png" group-title="Dokumentarni",ANIMAL PLANET - docs
+http://stream4.tvit.ba:8088/live?channelId=42&uid=150&deviceMac=00:1A:79:2A:14:71
+
+
+
 #EXTINF:-1,HBO ADRIA
 http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19351
 #EXTINF:-1,HBO HD
