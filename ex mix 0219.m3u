@@ -14,633 +14,213 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
 
-#EXTINF:-1 tvg-id="84" tvg-name="HBO Adria" tvg-logo="/noicon.png" group-title="Filmski",HBO Adria - HBO Adria
+#EXTINF:0,HBO Adria - HBO Adria
+http://stream4.tvit.ba:8088/live?channelId=84&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,HBO Comedy - HBO Comedy
+http://stream1.tvit.ba:8088/live?channelId=85&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,HBO 3 - HBO 3
+http://stream4.tvit.ba:8088/live?channelId=292&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Cinemax HD - Cinemax HD
+http://stream3.tvit.ba:8088/live?channelId=94&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Cinemax 2 HD - Cinemax 2 HD
+http://stream2.tvit.ba:80/live?channelId=95&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Cinestar Fantasy - Cinestar Fantasy
+http://stream4.tvit.ba:8088/live?channelId=248&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Cinestar Premiere - Cinestar Premiere
+http://stream1.tvit.ba:8088/live?channelId=86&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Cinestar Premiere 2 - Cinestar Premiere 2
+http://stream3.tvit.ba:8088/live?channelId=87&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Cinestar TV Sat - Cinestar TV Sat
+http://stream4.tvit.ba:8088/live?channelId=144&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,PINK FILM - PINK FILM
+http://stream3.tvit.ba:8088/live?channelId=92&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Fox Movies Sat - Fox Movies Sat
+http://stream4.tvit.ba:8088/live?channelId=153&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,M1 Film - M1 Film
+http://stream4.tvit.ba:8088/live?channelId=272&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,TV 1000 - TV 1000
+http://stream2.tvit.ba:80/live?channelId=61&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,HRT 1 - HRT 1
+http://stream4.tvit.ba:8088/live?channelId=67&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,HRT 2 - HRT 2
+http://stream4.tvit.ba:8088/live?channelId=68&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,HRT 3 - HRT 3
+http://stream4.tvit.ba:8088/live?channelId=69&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,HRT 4 - HRT 4
+http://stream1.tvit.ba:8088/live?channelId=70&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Nova TV Sat - Nova TV Sat
+http://stream4.tvit.ba:8088/live?channelId=152&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Doma Sat - Doma Sat
+http://stream4.tvit.ba:8088/live?channelId=150&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,RTL HR Sat - RTL HR Sat
+http://stream4.tvit.ba:8088/live?channelId=71&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,RTL 2 HR Sat - RTL 2 HR Sat
+http://stream4.tvit.ba:8088/live?channelId=72&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,RTL Crime Sat - RTL Crime Sat
+http://stream4.tvit.ba:8088/live?channelId=119&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,RTL Living Sat - RTL Living Sat
+http://stream4.tvit.ba:8088/live?channelId=166&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,RTL Television - RTL Television
+http://stream3.tvit.ba:8088/live?channelId=223&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,RTRS - RTRS
+http://cms.tvit.ba:80/live?channelId=30&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,RTRS Plus - RTRS Plus
+http://stream1.tvit.ba:8088/live?channelId=204&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,ORF 1 - ORF 1
+http://stream3.tvit.ba:8088/live?channelId=263&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,ORF 2 - ORF 2
+http://stream3.tvit.ba:8088/live?channelId=264&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
+http://stream1.tvit.ba:8088/live?channelId=64&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
+http://stream1.tvit.ba:8088/live?channelId=22&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
+http://stream2.tvit.ba:80/live?channelId=137&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Sport Klub 1 HD - Sport Klub 1 HD
+http://stream4.tvit.ba:8088/live?channelId=240&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Sport Klub 2 HD - Sport Klub 2 HD
+http://stream2.tvit.ba:80/live?channelId=241&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Sport Klub 3 HD - Sport Klub 3 HD
+http://stream1.tvit.ba:8088/live?channelId=242&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Sport Klub HD - Sport Klub HD
+http://stream2.tvit.ba:80/live?channelId=243&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,ARENA 1 SR HD - ARENA 1 SR HD
+http://stream3.tvit.ba:8088/live?channelId=238&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,ARENA 2 SR HD - ARENA 2 SR HD
+http://stream2.tvit.ba:80/live?channelId=235&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,ARENA 3 SR HD - ARENA 3 SR HD
+http://stream2.tvit.ba:80/live?channelId=236&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,ARENA 4 SR HD - ARENA 4 SR HD
+http://stream4.tvit.ba:8088/live?channelId=237&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Arena Sport 1 - Arena Sport 1
+http://stream1.tvit.ba:8088/live?channelId=1&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Arena Sport 2 - Arena Sport 2
+http://stream1.tvit.ba:8088/live?channelId=2&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Arena Sport 3 - Arena Sport 3
+http://stream4.tvit.ba:8088/live?channelId=3&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Arena Sport 4 - Arena Sport 4
+http://stream2.tvit.ba:80/live?channelId=4&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Arena Sport 5 HD - Arena Sport 5 HD
+http://stream2.tvit.ba:80/live?channelId=136&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Viasat History - Viasat History
+http://stream1.tvit.ba:8088/live?channelId=142&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Viasat Nature CEE sat - Viasat Nature CEE sat
+http://stream4.tvit.ba:8088/live?channelId=160&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,Viasat Premiere - Viasat Premiere
+http://stream3.tvit.ba:8088/live?channelId=303&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,ANIMAL PLANET - docs
+http://stream4.tvit.ba:8088/live?channelId=42&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,History Channel Sat - History Channel Sat
+http://stream4.tvit.ba:8088/live?channelId=164&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,History II - History II
+http://stream2.tvit.ba:80/live?channelId=195&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,NAT GEO - NAT GEO
+http://stream4.tvit.ba:8088/live?channelId=32&uid=844&deviceMac=00:1A:79:40:CD:DA
+#EXTINF:0,NAT GEO Wild - NAT GEO Wild
+http://stream4.tvit.ba:8088/live?channelId=33&uid=844&deviceMac=00:1A:79:40:CD:DA
+
+
+#EXTINF:0,HBO Adria - HBO Adria
 http://stream4.tvit.ba:8088/live?channelId=84&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="85" tvg-name="HBO Comedy" tvg-logo="/noicon.png" group-title="Filmski",HBO Comedy - HBO Comedy
+#EXTINF:0,HBO Comedy - HBO Comedy
 http://stream1.tvit.ba:8088/live?channelId=85&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="292" tvg-name="HBO 3" tvg-logo="/noicon.png" group-title="Filmski",HBO 3 - HBO 3
+#EXTINF:0,HBO 3 - HBO 3
 http://stream4.tvit.ba:8088/live?channelId=292&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="248" tvg-name="Cinestar Fantasy" tvg-logo="/noicon.png" group-title="Filmski",Cinestar Fantasy - Cinestar Fantasy
-http://stream4.tvit.ba:8088/live?channelId=248&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="86" tvg-name="Cinestar Premiere" tvg-logo="/noicon.png" group-title="Filmski",Cinestar Premiere - Cinestar Premiere
-http://stream1.tvit.ba:8088/live?channelId=86&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="87" tvg-name="Cinestar Premiere 2" tvg-logo="/noicon.png" group-title="Filmski",Cinestar Premiere 2 - Cinestar Premiere 2
-http://stream3.tvit.ba:8088/live?channelId=87&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="94" tvg-name="Cinemax HD" tvg-logo="/noicon.png" group-title="Filmski",Cinemax HD - Cinemax HD
+#EXTINF:0,Cinemax HD - Cinemax HD
 http://stream3.tvit.ba:8088/live?channelId=94&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="95" tvg-name="Cinemax 2 HD" tvg-logo="/noicon.png" group-title="Filmski",Cinemax 2 HD - Cinemax 2 HD
+#EXTINF:0,Cinemax 2 HD - Cinemax 2 HD
 http://stream2.tvit.ba:80/live?channelId=95&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="144" tvg-name="Cinestar TV Sat" tvg-logo="/noicon.png" group-title="Filmski",Cinestar TV Sat - Cinestar TV Sat
+#EXTINF:0,Cinestar Fantasy - Cinestar Fantasy
+http://stream4.tvit.ba:8088/live?channelId=248&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Cinestar Premiere - Cinestar Premiere
+http://stream1.tvit.ba:8088/live?channelId=86&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Cinestar Premiere 2 - Cinestar Premiere 2
+http://stream3.tvit.ba:8088/live?channelId=87&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Cinestar TV Sat - Cinestar TV Sat
 http://stream4.tvit.ba:8088/live?channelId=144&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="92" tvg-name="PINK FILM" tvg-logo="/noicon.png" group-title="Filmski",PINK FILM - PINK FILM
+#EXTINF:0,PINK FILM - PINK FILM
 http://stream3.tvit.ba:8088/live?channelId=92&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="61" tvg-name="TV 1000" tvg-logo="/noicon.png" group-title="Filmski",TV 1000 - TV 1000
-http://stream2.tvit.ba:80/live?channelId=61&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="153" tvg-name="Fox Movies Sat" tvg-logo="/noicon.png" group-title="Filmski",Fox Movies Sat - Fox Movies Sat
+#EXTINF:0,Fox Movies Sat - Fox Movies Sat
 http://stream4.tvit.ba:8088/live?channelId=153&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="67" tvg-name="HRT 1" tvg-logo="/noicon.png" group-title="Informativni",HRT 1 - HRT 1
+#EXTINF:0,M1 Film - M1 Film
+http://stream4.tvit.ba:8088/live?channelId=272&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,TV 1000 - TV 1000
+http://stream2.tvit.ba:80/live?channelId=61&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,HRT 1 - HRT 1
 http://stream4.tvit.ba:8088/live?channelId=67&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="68" tvg-name="HRT 2" tvg-logo="/noicon.png" group-title="Informativni",HRT 2 - HRT 2
+#EXTINF:0,HRT 2 - HRT 2
 http://stream4.tvit.ba:8088/live?channelId=68&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="69" tvg-name="HRT 3" tvg-logo="/noicon.png" group-title="Informativni",HRT 3 - HRT 3
+#EXTINF:0,HRT 3 - HRT 3
 http://stream4.tvit.ba:8088/live?channelId=69&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="70" tvg-name="HRT 4" tvg-logo="/noicon.png" group-title="Informativni",HRT 4 - HRT 4
+#EXTINF:0,HRT 4 - HRT 4
 http://stream1.tvit.ba:8088/live?channelId=70&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="71" tvg-name="RTL HR Sat" tvg-logo="/noicon.png" group-title="Informativni",RTL HR Sat - RTL HR Sat
-http://stream4.tvit.ba:8088/live?channelId=71&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="72" tvg-name="RTL 2 HR Sat" tvg-logo="/noicon.png" group-title="Informativni",RTL 2 HR Sat - RTL 2 HR Sat
-http://stream4.tvit.ba:8088/live?channelId=72&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="150" tvg-name="Doma Sat" tvg-logo="/noicon.png" group-title="Informativni",Doma Sat - Doma Sat
-http://stream4.tvit.ba:8088/live?channelId=150&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="152" tvg-name="Nova TV Sat" tvg-logo="/noicon.png" group-title="Informativni",Nova TV Sat - Nova TV Sat
+#EXTINF:0,Nova TV Sat - Nova TV Sat
 http://stream4.tvit.ba:8088/live?channelId=152&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="30" tvg-name="RTRS" tvg-logo="/noicon.png" group-title="Informativni",RTRS - RTRS
+#EXTINF:0,Doma Sat - Doma Sat
+http://stream4.tvit.ba:8088/live?channelId=150&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,RTL HR Sat - RTL HR Sat
+http://stream4.tvit.ba:8088/live?channelId=71&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,RTL 2 HR Sat - RTL 2 HR Sat
+http://stream4.tvit.ba:8088/live?channelId=72&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,RTL Crime Sat - RTL Crime Sat
+http://stream4.tvit.ba:8088/live?channelId=119&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,RTL Living Sat - RTL Living Sat
+http://stream4.tvit.ba:8088/live?channelId=166&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,RTL Television - RTL Television
+http://stream3.tvit.ba:8088/live?channelId=223&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,RTRS - RTRS
 http://cms.tvit.ba:80/live?channelId=30&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="65" tvg-name="RTS HD" tvg-logo="/noicon.png" group-title="Informativni",RTS HD - RTS HD
-http://stream3.tvit.ba:8088/live?channelId=65&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="171" tvg-name="Prva" tvg-logo="/noicon.png" group-title="Informativni",Prva - Prva
-http://stream3.tvit.ba:8088/live?channelId=171&uid=150&deviceMac=00:1A:79:2A:14:71
-
-#EXTINF:-1 tvg-id="240" tvg-name="Sport Klub 1 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 1 HD - Sport Klub 1 HD
-http://stream4.tvit.ba:8088/live?channelId=240&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="241" tvg-name="Sport Klub 2 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 2 HD - Sport Klub 2 HD
-http://stream2.tvit.ba:80/live?channelId=241&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="242" tvg-name="Sport Klub 3 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 3 HD - Sport Klub 3 HD
-http://stream1.tvit.ba:8088/live?channelId=242&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="64" tvg-name="SPORT KLUB 1" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 1 - SPORT KLUB 1
+#EXTINF:0,RTRS Plus - RTRS Plus
+http://stream1.tvit.ba:8088/live?channelId=204&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,ORF 1 - ORF 1
+http://stream3.tvit.ba:8088/live?channelId=263&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,ORF 2 - ORF 2
+http://stream3.tvit.ba:8088/live?channelId=264&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
 http://stream1.tvit.ba:8088/live?channelId=64&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="22" tvg-name="SPORT KLUB 2" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 2 - SPORT KLUB 2
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
 http://stream1.tvit.ba:8088/live?channelId=22&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="137" tvg-name="SPORT KLUB 3" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 3 - SPORT KLUB 3
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
 http://stream2.tvit.ba:80/live?channelId=137&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="1" tvg-name="Arena Sport 1" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 1 - Arena Sport 1
-http://stream1.tvit.ba:8088/live?channelId=1&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="2" tvg-name="Arena Sport 2" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 2 - Arena Sport 2
-http://stream1.tvit.ba:8088/live?channelId=2&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="3" tvg-name="Arena Sport 3" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 3 - Arena Sport 3
-http://stream4.tvit.ba:8088/live?channelId=3&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="4" tvg-name="Arena Sport 4" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 4 - Arena Sport 4
-http://stream2.tvit.ba:80/live?channelId=4&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="136" tvg-name="Arena Sport 5 HD" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 5 HD - Arena Sport 5 HD
-http://stream2.tvit.ba:80/live?channelId=136&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="235" tvg-name="ARENA 2 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 2 SR HD - ARENA 2 SR HD
-http://stream2.tvit.ba:80/live?channelId=235&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="236" tvg-name="ARENA 3 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 3 SR HD - ARENA 3 SR HD
-http://stream2.tvit.ba:80/live?channelId=236&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="237" tvg-name="ARENA 4 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 4 SR HD - ARENA 4 SR HD
-http://stream4.tvit.ba:8088/live?channelId=237&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="238" tvg-name="ARENA 1 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 1 SR HD - ARENA 1 SR HD
+#EXTINF:0,Sport Klub 1 HD - Sport Klub 1 HD
+http://stream4.tvit.ba:8088/live?channelId=240&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Sport Klub 2 HD - Sport Klub 2 HD
+http://stream2.tvit.ba:80/live?channelId=241&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Sport Klub 3 HD - Sport Klub 3 HD
+http://stream1.tvit.ba:8088/live?channelId=242&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Sport Klub HD - Sport Klub HD
+http://stream2.tvit.ba:80/live?channelId=243&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,ARENA 1 SR HD - ARENA 1 SR HD
 http://stream3.tvit.ba:8088/live?channelId=238&uid=150&deviceMac=00:1A:79:2A:14:71
-
-
-
-
-#EXTINF:-1 tvg-id="32" tvg-name="NAT GEO" tvg-logo="/noicon.png" group-title="Dokumentarni",NAT GEO - NAT GEO
-http://stream4.tvit.ba:8088/live?channelId=32&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="33" tvg-name="NAT GEO Wild" tvg-logo="/noicon.png" group-title="Dokumentarni",NAT GEO Wild - NAT GEO Wild
-http://stream4.tvit.ba:8088/live?channelId=33&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:-1 tvg-id="42" tvg-name="ANIMAL PLANET" tvg-logo="/noicon.png" group-title="Dokumentarni",ANIMAL PLANET - docs
+#EXTINF:0,ARENA 2 SR HD - ARENA 2 SR HD
+http://stream2.tvit.ba:80/live?channelId=235&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,ARENA 3 SR HD - ARENA 3 SR HD
+http://stream2.tvit.ba:80/live?channelId=236&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,ARENA 4 SR HD - ARENA 4 SR HD
+http://stream4.tvit.ba:8088/live?channelId=237&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Arena Sport 1 - Arena Sport 1
+http://stream1.tvit.ba:8088/live?channelId=1&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Arena Sport 2 - Arena Sport 2
+http://stream1.tvit.ba:8088/live?channelId=2&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Arena Sport 3 - Arena Sport 3
+http://stream4.tvit.ba:8088/live?channelId=3&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Arena Sport 4 - Arena Sport 4
+http://stream2.tvit.ba:80/live?channelId=4&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Arena Sport 5 HD - Arena Sport 5 HD
+http://stream2.tvit.ba:80/live?channelId=136&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Viasat History - Viasat History
+http://stream1.tvit.ba:8088/live?channelId=142&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Viasat Nature CEE sat - Viasat Nature CEE sat
+http://stream4.tvit.ba:8088/live?channelId=160&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,Viasat Premiere - Viasat Premiere
+http://stream3.tvit.ba:8088/live?channelId=303&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,ANIMAL PLANET - docs
 http://stream4.tvit.ba:8088/live?channelId=42&uid=150&deviceMac=00:1A:79:2A:14:71
-
-
-
-#EXTINF:-1,HBO ADRIA
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19351
-#EXTINF:-1,HBO HD
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19349
-#EXTINF:-1,HBO HD 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19348
-#EXTINF:-1,HBO 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19354
-#EXTINF:-1,HBO Comedy
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19350
-#EXTINF:-1,HBO 2 SLO
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19353
-#EXTINF:-1,HBO 3
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19352
-#EXTINF:-1,EX YU: CINEMAX-1
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19435
-#EXTINF:-1,EX YU: CINEMAX-2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19434
-#EXTINF:-1,EX YU: CINESTAR TV
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19433
-#EXTINF:-1,KLASIK TV
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19330
-#EXTINF:-1,Pink Film
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19295
-#EXTINF:-1,Cinestar Action
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19392
-#EXTINF:-1,Cinestar Fantasy HD
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19391
-#EXTINF:-1,Cinestar Premier 1
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19390
-#EXTINF:-1,Cinestar Premier 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19389
-#EXTINF:-1,Cinestar Premiere 1
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19388
-#EXTINF:-1,Cinestar Premiere 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19387
-#EXTINF:-1,TV 1000
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19201
-#EXTINF:-1,Fox Movies
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19364
-
-#EXTINF:-1,HRT 1
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19344
-#EXTINF:-1,HRT 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19343
-#EXTINF:-1,HRT 3
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19342
-#EXTINF:-1,Doma TV
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19379
-#EXTINF:-1,DOMA-TV
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19378
-#EXTINF:-1,Nova HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19313
-#EXTINF:-1,NOVA TV HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19311
-#EXTINF:-1,RTL
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19251
-#EXTINF:-1,RTL 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19250
-#EXTINF:-1,RTL CRIME
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19249
-#EXTINF:-1,RTL Living
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19247
-
-#EXTINF:-1,RTRS
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19246
-#EXTINF:-1,RTS 1
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19245
-#EXTINF:-1,RTS 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19243
-#EXTINF:-1,RTS 3
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19241
-#EXTINF:-1,RTS HD
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19240
-#EXTINF:-1,Prva
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19261
-#EXTINF:-1,Prva Plus
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19258
-#EXTINF:-1,Slovenia TV 1 HD
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19232
-
-#EXTINF:-1,ANIMAL PLANET
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19422
-#EXTINF:-1,Nat Geo Wild
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19317
-#EXTINF:-1,National Geographic
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19316
-#EXTINF:-1,History 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19347
-#EXTINF:-1,HISTORY CHANNEL
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19346
-
-#EXTINF:-1,HRT 1
-http://185.180.12.37:80/QStalker/X7EzfYifRp/198
-#EXTINF:-1,HRT 2
-http://185.180.12.37:80/QStalker/X7EzfYifRp/199
-#EXTINF:-1,RTL
-http://185.180.12.37:80/QStalker/X7EzfYifRp/200
-#EXTINF:-1,RTL 2
-http://185.180.12.37:80/QStalker/X7EzfYifRp/201
-#EXTINF:-1,RTL Crime
-http://185.180.12.37:80/QStalker/X7EzfYifRp/202
-#EXTINF:-1,RTL Passion
-http://185.180.12.37:80/QStalker/X7EzfYifRp/203
-#EXTINF:-1,Doma TV
-http://185.180.12.37:80/QStalker/X7EzfYifRp/204
-#EXTINF:-1,Doma TV HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/205
-#EXTINF:-1,Nova TV
-http://185.180.12.37:80/QStalker/X7EzfYifRp/180
-#EXTINF:-1,Nova TV HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/181
-
-#EXTINF:-1,RTS 1
-http://185.180.12.37:80/QStalker/X7EzfYifRp/184
-#EXTINF:-1,RTS HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/185
-#EXTINF:-1,RTS 2
-http://185.180.12.37:80/QStalker/X7EzfYifRp/206
-#EXTINF:-1,Prva
-http://185.180.12.37:80/QStalker/X7EzfYifRp/207
-#EXTINF:-1,ORF 1 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/183
-
-#EXTINF:-1,SPORT KLUB 1
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19229
-#EXTINF:-1,SPORT KLUB 1 HD
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19228
-#EXTINF:-1,Sport Klub 1 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19227
-#EXTINF:-1,SPORT KLUB 2
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19226
-#EXTINF:-1,SPORT KLUB 2 HD
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19225
-#EXTINF:-1,Sport Klub 2 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19224
-#EXTINF:-1,SPORT KLUB 3
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19223
-#EXTINF:-1,SPORT KLUB 3 HD
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19222
-#EXTINF:-1,Sport Klub 3 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19221
-#EXTINF:-1,SPORT KLUB 4
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19220
-#EXTINF:-1,SPORT KLUB 5
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19219
-#EXTINF:-1,SPORT KLUB 6
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19218
-#EXTINF:-1,SPORT TV 1 HD SLO
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19217
-#EXTINF:-1,SPORT TV 2 HD SLO
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19216
-#EXTINF:-1,SPORT TV 3 HD SLO
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19215
-#EXTINF:-1,SPORTKLUB 1 HD SLO
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19213
-#EXTINF:-1,SPORTKLUB 2 HD SLO
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19212
-#EXTINF:-1,SPORTKLUB 3 HD SLO
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19211
-
-#EXTINF:-1,Arena Sport 1 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19421
-#EXTINF:-1,Arena Sport 1 SRB
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19420
-#EXTINF:-1,ARENA SPORT 1 SRB (local)
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19419
-#EXTINF:-1,Arena Sport 2 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19418
-#EXTINF:-1,Arena Sport 2 SRB
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19417
-#EXTINF:-1,ARENA SPORT 2 SRB (local)
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19416
-#EXTINF:-1,Arena Sport 3 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19415
-#EXTINF:-1,Arena Sport 3 SRB
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19414
-#EXTINF:-1,ARENA SPORT 3 SRB (reserve)
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19413
-#EXTINF:-1,Arena Sport 4 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19412
-#EXTINF:-1,Arena Sport 4 SRB
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19411
-#EXTINF:-1,ARENA SPORT 4 SRB (reserve)
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19410
-#EXTINF:-1,Arena Sport 5 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19409
-#EXTINF:-1,Arena Sport 5 SRB
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19408
-#EXTINF:-1,ARENA SPORT 5 SRB (reserve)
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19407
-#EXTINF:-1,ARENA SPORT 6 HR
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19406
-#EXTINF:-1,HNTV
-http://190.2.138.225:8080/picfpwbwlsvs/wF4kQ9e291/19345
-
-#EXTINF:-1,Arena Sport 1 SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/11
-#EXTINF:-1,Arena Sport 2 SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/12
-#EXTINF:-1,Arena Sport 3 SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/13
-#EXTINF:-1,Arena Sport 4 SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/14
-#EXTINF:-1,Arena Sport 5 SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/15
-#EXTINF:-1,Arena Sport 1 HD SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/24
-#EXTINF:-1,Arena Sport 2 HD SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/25
-#EXTINF:-1,Arena Sport 3 HD SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/26
-#EXTINF:-1,Arena Sport 4 HD SR
-http://185.180.12.37:80/QStalker/X7EzfYifRp/27
-#EXTINF:-1,Sky Sport 1 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/32
-#EXTINF:-1,Sky Sport 2 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/33
-#EXTINF:-1,FOX Sports 1 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/46
-#EXTINF:-1,FOX Sports 2 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/47
-#EXTINF:-1,FOX Sports 3 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/48
-#EXTINF:-1,FOX Sports 4 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/49
-#EXTINF:-1,FOX Sports 5 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/50
-#EXTINF:-1,FOX Sports 6 HD
-http://185.180.12.37:80/QStalker/X7EzfYifRp/51
-
-#EXTINF:-1,**** SPORT 1 LISTA
-http://vip.fibertv.nl:8000/yunus/yunus/99998
-
-#EXTINF:-1,DAZN 1 FHD
-http://platina-iptv.com:80/sermor5/sermor6/24940
-#EXTINF:-1,DAZN 2 FHD
-http://platina-iptv.com:80/sermor5/sermor6/24941
-#EXTINF:-1,DE | Sky Bundesliga 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21273
-#EXTINF:-1,DE | Sport1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21284
-#EXTINF:-1,DE|SPORT 1+ HD
-http://platina-iptv.com:80/sermor5/sermor6/21289
-#EXTINF:-1,DE | Sky Sport News HD
-http://platina-iptv.com:80/sermor5/sermor6/21281
-#EXTINF:-1,DE | Sky Sport1 US HD
-http://platina-iptv.com:80/sermor5/sermor6/21285
-#EXTINF:-1,DE | Sport Digital HD
-http://platina-iptv.com:80/sermor5/sermor6/21283
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21280
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/21279
-#EXTINF:-1,DE | Eurosport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21286
-#EXTINF:-1,DE | Eurosport 2Xtra HD
-http://platina-iptv.com:80/sermor5/sermor6/21287
-#EXTINF:-1,UK: BT Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26128
-#EXTINF:-1,UK: BT Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/26127
-#EXTINF:-1,UK: BT Sport 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/26126
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://platina-iptv.com:80/sermor5/sermor6/26125
-#EXTINF:-1,UK: Premier Sports
-http://platina-iptv.com:80/sermor5/sermor6/26124
-#EXTINF:-1,UK: Sky Sport 1
-http://platina-iptv.com:80/sermor5/sermor6/26114
-#EXTINF:-1,UK: SKY Sport 2
-http://platina-iptv.com:80/sermor5/sermor6/26113
-#EXTINF:-1,UK: Sky Sport 3
-http://platina-iptv.com:80/sermor5/sermor6/26112
-#EXTINF:-1,UK: Sky Sport 4
-http://platina-iptv.com:80/sermor5/sermor6/26111
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://platina-iptv.com:80/sermor5/sermor6/26130
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26129
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL
-http://platina-iptv.com:80/sermor5/sermor6/26133
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://platina-iptv.com:80/sermor5/sermor6/26134
-#EXTINF:-1,UK: SKY SPORTS MIX
-http://platina-iptv.com:80/sermor5/sermor6/26135
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://platina-iptv.com:80/sermor5/sermor6/26132
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/19981
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/19980
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/19979
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://platina-iptv.com:80/sermor5/sermor6/20069
-#EXTINF:-1,|FR| BEIN SPORTS MAX 10 HD
-http://platina-iptv.com:80/sermor5/sermor6/19959
-#EXTINF:-1,|FR| BEIN SPORTS MAX 4 HD
-http://platina-iptv.com:80/sermor5/sermor6/19965
-#EXTINF:-1,|FR| BEIN SPORTS MAX 5 HD
-http://platina-iptv.com:80/sermor5/sermor6/19964
-#EXTINF:-1,|FR| BEIN SPORTS MAX 6 HD
-http://platina-iptv.com:80/sermor5/sermor6/19963
-#EXTINF:-1,|FR| BEIN SPORTS MAX 7 HD
-http://platina-iptv.com:80/sermor5/sermor6/19962
-#EXTINF:-1,|FR| BEIN SPORTS MAX 8 HD
-http://platina-iptv.com:80/sermor5/sermor6/19961
-#EXTINF:-1,|FR| BEIN SPORTS MAX 9 HD
-http://platina-iptv.com:80/sermor5/sermor6/19960
-#EXTINF:-1,|FR| EUROSPORT 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/19977
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/19976
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/19985
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/19984
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/19983
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://platina-iptv.com:80/sermor5/sermor6/19982
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://platina-iptv.com:80/sermor5/sermor6/18313
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/17575
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/17574
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://platina-iptv.com:80/sermor5/sermor6/17573
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://platina-iptv.com:80/sermor5/sermor6/17572
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://platina-iptv.com:80/sermor5/sermor6/17571
-#EXTINF:-1,ELEVEN SPORTS 1 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25982
-#EXTINF:-1,ELEVEN SPORTS 2 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25980
-#EXTINF:-1,ELEVEN SPORTS 3 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25979
-#EXTINF:-1,ELEVEN SPORTS 4 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25978
-#EXTINF:-1,ELEVEN SPORTS 5 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25977
-#EXTINF:-1,ELEVEN SPORTS 6 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25976
-#EXTINF:-1,CH: Teleclub Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26221
-#EXTINF:-1,CH: Teleclub Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/26214
-#EXTINF:-1,ES: Movistar Deportes 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/17084
-#EXTINF:-1,ES: Movistar Deportes 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/17083
-#EXTINF:-1,ES: Eurosport 1
-http://platina-iptv.com:80/sermor5/sermor6/17087
-#EXTINF:-1,ES: Eurosport 2
-http://platina-iptv.com:80/sermor5/sermor6/17086
-#EXTINF:-1,ES: BeIN Sports HD
-http://platina-iptv.com:80/sermor5/sermor6/17092
-#EXTINF:-1,ES: Teledeporte HD
-http://platina-iptv.com:80/sermor5/sermor6/17085
-#EXTINF:-1,USA: AFN Sports HD
-http://platina-iptv.com:80/sermor5/sermor6/26248
-#EXTINF:-1,USA: Tsn-Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26247
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/26246
-#EXTINF:-1,USA: beIN SPORTS HD
-http://platina-iptv.com:80/sermor5/sermor6/26225
-#EXTINF:-1,USA: NBC Sports HD (Premier League)
-http://platina-iptv.com:80/sermor5/sermor6/26224
-#EXTINF:-1,BR: Fox Sports HD
-http://platina-iptv.com:80/sermor5/sermor6/12062
-#EXTINF:-1,BR: Fox Sports 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/12060
-#EXTINF:-1,PL| TVP Sport HD
-http://platina-iptv.com:80/sermor5/sermor6/19867
-#EXTINF:-1,PL| Polsat Sport HD
-http://platina-iptv.com:80/sermor5/sermor6/19870
-#EXTINF:-1,PL| Polsat Sport Extra HD
-http://platina-iptv.com:80/sermor5/sermor6/19871
-
-#EXTINF:-1,**** SPORT 2 LUSTA
-http://vip.fibertv.nl:8000/yunus/yunus/99999
-
-#EXTINF:-1,GB | BT Sport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/175
-#EXTINF:-1,GB | BT Sport 1 SD
-http://vip.fibertv.nl:8000/yunus/yunus/9887
-#EXTINF:-1,GB | BT Sport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/173
-#EXTINF:-1,GB | BT Sport 2 SD
-http://vip.fibertv.nl:8000/yunus/yunus/9763
-#EXTINF:-1,GB | BT Sport 3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/4295
-#EXTINF:-1,GB | beIN Sports HD 10 HD
-http://vip.fibertv.nl:8000/yunus/yunus/10357
-#EXTINF:-1,GB | beIN Sports HD 11 HD
-http://vip.fibertv.nl:8000/yunus/yunus/10356
-#EXTINF:-1,GB | beIN Sports HD 12 HD
-http://vip.fibertv.nl:8000/yunus/yunus/10358
-#EXTINF:-1,GB | SKY SPORTS FOOTABLL HD
-http://vip.fibertv.nl:8000/yunus/yunus/9605
-#EXTINF:-1,GB | Sky Sports main event HD
-http://vip.fibertv.nl:8000/yunus/yunus/162
-#EXTINF:-1,GB | Sky Sports main event SD
-http://vip.fibertv.nl:8000/yunus/yunus/9603
-#EXTINF:-1,GB | Sky Sports action HD
-http://vip.fibertv.nl:8000/yunus/yunus/166
-#EXTINF:-1,GB | Sky Sports golf HD
-http://vip.fibertv.nl:8000/yunus/yunus/168
-#EXTINF:-1,GB | Sky Sport Premier League HD
-http://vip.fibertv.nl:8000/yunus/yunus/170
-#EXTINF:-1,GB | Sky Sports F1
-http://vip.fibertv.nl:8000/yunus/yunus/2431
-#EXTINF:-1,GB | Sky Sports Mix HD
-http://vip.fibertv.nl:8000/yunus/yunus/2433
-#EXTINF:-1,GB | EUROSPORT 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/167
-#EXTINF:-1,GB | Sky Sport Arena HD
-http://vip.fibertv.nl:8000/yunus/yunus/6800
-#EXTINF:-1,GB | Sky Sport News HD
-http://vip.fibertv.nl:8000/yunus/yunus/6420
-#EXTINF:-1,GB | Sky Sport The Open HD
-http://vip.fibertv.nl:8000/yunus/yunus/6799
-#EXTINF:-1,DE | Dazn Sport 1
-http://vip.fibertv.nl:8000/yunus/yunus/10441
-#EXTINF:-1,DE | Dazn Sport 2
-http://vip.fibertv.nl:8000/yunus/yunus/10442
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/125
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/126
-#EXTINF:-1,DE | SKY Bundesliga 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/1309
-#EXTINF:-1,DE | SPORT DIGITAL HD
-http://vip.fibertv.nl:8000/yunus/yunus/2001
-#EXTINF:-1,DE | SPORT 1  HD
-http://vip.fibertv.nl:8000/yunus/yunus/2002
-#EXTINF:-1,DE | SKY Sport News
-http://vip.fibertv.nl:8000/yunus/yunus/1887
-#EXTINF:-1,DE | SPORT+1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/1317
-#EXTINF:-1,DE | Eurosport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/4113
-#EXTINF:-1,DE | Eurosport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6922
-#EXTINF:-1,DE | Eurosport 2 Exra
-http://vip.fibertv.nl:8000/yunus/yunus/6979
-#EXTINF:-1,DE | Sport1+ US HD
-http://vip.fibertv.nl:8000/yunus/yunus/4111
-#EXTINF:-1,NL | Fox Sports 1 4K+
-http://vip.fibertv.nl:8000/yunus/yunus/312
-#EXTINF:-1,NL | Fox Sports 1 (backup)
-http://vip.fibertv.nl:8000/yunus/yunus/1098
-#EXTINF:-1,NL | Fox Sports 2
-http://vip.fibertv.nl:8000/yunus/yunus/311
-#EXTINF:-1,NL | Fox Sports 3
-http://vip.fibertv.nl:8000/yunus/yunus/310
-#EXTINF:-1,NL | Fox Sports 4
-http://vip.fibertv.nl:8000/yunus/yunus/346
-#EXTINF:-1,NL | Fox Sports 5
-http://vip.fibertv.nl:8000/yunus/yunus/308
-#EXTINF:-1,NL | FOX SPORTS 6
-http://vip.fibertv.nl:8000/yunus/yunus/4873
-#EXTINF:-1,NL | Sport 1 Golf
-http://vip.fibertv.nl:8000/yunus/yunus/2745
-#EXTINF:-1,NL | Sport 1 Racing
-http://vip.fibertv.nl:8000/yunus/yunus/3166
-#EXTINF:-1,NL | Sport 1 Voetbal
-http://vip.fibertv.nl:8000/yunus/yunus/605
-#EXTINF:-1,NL | Ziggo Sport Extra 1
-http://vip.fibertv.nl:8000/yunus/yunus/10552
-#EXTINF:-1,NL | Ziggo Sport Extra 2
-http://vip.fibertv.nl:8000/yunus/yunus/10553
-#EXTINF:-1,NL | Ziggo Sport Select 4K+
-http://vip.fibertv.nl:8000/yunus/yunus/519
-#EXTINF:-1,DK | TV2 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/3025
-#EXTINF:-1,DK | TV3 Sport FHD
-http://vip.fibertv.nl:8000/yunus/yunus/7760
-#EXTINF:-1,DK | TV3 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/3029
-#EXTINF:-1,DK | Eurosport 1
-http://vip.fibertv.nl:8000/yunus/yunus/5797
-#EXTINF:-1,DK | Eurosport 1 FHD
-http://vip.fibertv.nl:8000/yunus/yunus/7763
-#EXTINF:-1,DK | Eurosport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6978
-#EXTINF:-1,DK | Eurosport 2 FHD
-http://vip.fibertv.nl:8000/yunus/yunus/7765
-#EXTINF:-1,DK | C MORE SPORT HD
-http://vip.fibertv.nl:8000/yunus/yunus/9314
-#EXTINF:-1,NOR | TV2 Sport
-http://vip.fibertv.nl:8000/yunus/yunus/6206
-#EXTINF:-1,NOR | TV2 Sportskanalen HD
-http://vip.fibertv.nl:8000/yunus/yunus/6203
-#EXTINF:-1,NOR | TV2 Sport Premium
-http://vip.fibertv.nl:8000/yunus/yunus/9132
-#EXTINF:-1,NOR | Eurosport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/7280
-#EXTINF:-1,NOR | C More Sport
-http://vip.fibertv.nl:8000/yunus/yunus/8035
-#EXTINF:-1,NOR | Eurosport Pluss 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9633
-#EXTINF:-1,NOR | Eurosport Pluss 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9634
-#EXTINF:-1,NOR | Eurosport Pluss 3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9635
-#EXTINF:-1,NOR | Eurosport Pluss 4 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9636
-#EXTINF:-1,SWE | TV 3 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/7334
-#EXTINF:-1,SWE | TV4 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/3004
-#EXTINF:-1,SWE | Eurosport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/7329
-#EXTINF:-1,SWE | Eurosport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/7565
-#EXTINF:-1,SWE | Viasat Sport Premium
-http://vip.fibertv.nl:8000/yunus/yunus/7566
-#EXTINF:-1,FI | C More Sport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/8010
-#EXTINF:-1,FI | C More Sport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/8009
-#EXTINF:-1,USA | FOX SPORT 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3730
-#EXTINF:-1,USA | FOX SPORT 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3731
-#EXTINF:-1,USA | TSN 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3732
-#EXTINF:-1,USA | TSN 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3733
-#EXTINF:-1,USA | TSN 3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3734
-#EXTINF:-1,USA | TSN 4 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3735
-#EXTINF:-1,USA | TSN 5 HD
-http://vip.fibertv.nl:8000/yunus/yunus/3736
+#EXTINF:0,History Channel Sat - History Channel Sat
+http://stream4.tvit.ba:8088/live?channelId=164&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,History II - History II
+http://stream2.tvit.ba:80/live?channelId=195&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,NAT GEO - NAT GEO
+http://stream4.tvit.ba:8088/live?channelId=32&uid=150&deviceMac=00:1A:79:2A:14:71
+#EXTINF:0,NAT GEO Wild - NAT GEO Wild
+http://stream4.tvit.ba:8088/live?channelId=33&uid=150&deviceMac=00:1A:79:2A:14:71
