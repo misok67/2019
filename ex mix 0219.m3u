@@ -13,14 +13,113 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
+#EXTINF:0,Sport Klub 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3605
+#EXTINF:0,Sport Klub 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3604
+#EXTINF:0,Sport Klub 3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3603
+#EXTINF:0,SPORTKLUB 4 SD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3602
+#EXTINF:0,SPORTKLUB 5 SD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3601
+#EXTINF:0,SPORTKLUB 6 SD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3600
 
-#EXTINF:-1,EX YU: SPORT KLUB 1
+#EXTINF:-1,SR: Arenasport 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/400
+#EXTINF:-1,Arena sport 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/401
+#EXTINF:-1,SR: Arenasport 3 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/402
+#EXTINF:-1,SR: Arenasport 4 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/403
+#EXTINF:-1,SR: Arenasport 5 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/404
+#EXTINF:0,Arena sport 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/401
+
+#EXTINF:-1,HBO Adria
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3544
+#EXTINF:-1,HBO 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3545
+#EXTINF:-1,HBO 3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4011
+#EXTINF:-1,RO: TV Kino
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4547
+#EXTINF:-1,CINEMAX 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3551
+#EXTINF:-1,CINEMAX-2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3550
+#EXTINF:-1,KLASIK TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3589
+#EXTINF:0,Cinestar Action
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3555
+#EXTINF:0,Cinestar Premiere 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3534
+#EXTINF:0,Cinestar Premier 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3556
+#EXTINF:0,Fox Movies
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3517
+#EXTINF:-1,RO: TV1000
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4573
+#EXTINF:-1,RO: TV 1000
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4487
+
+#EXTINF:0,HRT 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3542
+#EXTINF:-1,HRT 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3541
+#EXTINF:-1,HRT 3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3540
+#EXTINF:-1,RTL
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3559
+#EXTINF:-1,RTL 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3558
+#EXTINF:0,NOVA TV HR
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4342
+#EXTINF:-1,DOMA-TV
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3546
+
+#EXTINF:0,RTRS
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17540
+#EXTINF:0,RTS 1 (local)
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3599
+#EXTINF:0,RTS 2 (local)
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3598
+#EXTINF:0,RTS 3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3597
+#EXTINF:0,RTS HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3596
+#EXTINF:0,B92
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8675
+#EXTINF:0,Prva Plus
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3553
+#EXTINF:0,Prva TV Montenegro
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31510
+#EXTINF:0,Prva
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4341
+
+#EXTINF:0,Viasat History
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/10178
+#EXTINF:0,Viasat nature
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/10179
+#EXTINF:0,ANIMAL PLANET
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3593
+#EXTINF:0,Nat Geo Wild
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3537
+#EXTINF:0,National Geographic
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3536
+#EXTINF:0,Nickelodeon
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3535
+
+#EXTINF:-1,SPORT KLUB 1
 http://force102.com:8080/cemil2/09032018/20364
-#EXTINF:-1,EX YU: SPORT KLUB 2
+#EXTINF:-1,SPORT KLUB 2
 http://force102.com:8080/cemil2/09032018/20363
-#EXTINF:-1,EX YU: SPORT KLUB 3
+#EXTINF:-1,SPORT KLUB 3
 http://force102.com:8080/cemil2/09032018/20362
-#EXTINF:-1,EX YU: SPORT KLUB 4
+#EXTINF:-1,SPORT KLUB 4
 http://force102.com:8080/cemil2/09032018/20361
 #EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
 http://force102.com:8080/cemil2/09032018/20353
@@ -197,107 +296,3 @@ http://stream4.tvit.ba:8088/live?channelId=32&uid=844&deviceMac=00:1A:79:40:CD:D
 http://stream4.tvit.ba:8088/live?channelId=33&uid=844&deviceMac=00:1A:79:40:CD:DA
 
 
-#EXTINF:0,HBO Adria - HBO Adria
-http://stream4.tvit.ba:8088/live?channelId=84&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HBO Comedy - HBO Comedy
-http://stream1.tvit.ba:8088/live?channelId=85&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HBO 3 - HBO 3
-http://stream4.tvit.ba:8088/live?channelId=292&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinemax HD - Cinemax HD
-http://stream3.tvit.ba:8088/live?channelId=94&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinemax 2 HD - Cinemax 2 HD
-http://stream2.tvit.ba:80/live?channelId=95&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar Fantasy - Cinestar Fantasy
-http://stream4.tvit.ba:8088/live?channelId=248&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar Premiere - Cinestar Premiere
-http://stream1.tvit.ba:8088/live?channelId=86&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar Premiere 2 - Cinestar Premiere 2
-http://stream3.tvit.ba:8088/live?channelId=87&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Cinestar TV Sat - Cinestar TV Sat
-http://stream4.tvit.ba:8088/live?channelId=144&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,PINK FILM - PINK FILM
-http://stream3.tvit.ba:8088/live?channelId=92&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Fox Movies Sat - Fox Movies Sat
-http://stream4.tvit.ba:8088/live?channelId=153&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,M1 Film - M1 Film
-http://stream4.tvit.ba:8088/live?channelId=272&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,TV 1000 - TV 1000
-http://stream2.tvit.ba:80/live?channelId=61&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 1 - HRT 1
-http://stream4.tvit.ba:8088/live?channelId=67&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 2 - HRT 2
-http://stream4.tvit.ba:8088/live?channelId=68&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 3 - HRT 3
-http://stream4.tvit.ba:8088/live?channelId=69&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,HRT 4 - HRT 4
-http://stream1.tvit.ba:8088/live?channelId=70&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Nova TV Sat - Nova TV Sat
-http://stream4.tvit.ba:8088/live?channelId=152&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Doma Sat - Doma Sat
-http://stream4.tvit.ba:8088/live?channelId=150&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL HR Sat - RTL HR Sat
-http://stream4.tvit.ba:8088/live?channelId=71&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL 2 HR Sat - RTL 2 HR Sat
-http://stream4.tvit.ba:8088/live?channelId=72&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL Crime Sat - RTL Crime Sat
-http://stream4.tvit.ba:8088/live?channelId=119&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL Living Sat - RTL Living Sat
-http://stream4.tvit.ba:8088/live?channelId=166&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTL Television - RTL Television
-http://stream3.tvit.ba:8088/live?channelId=223&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTRS - RTRS
-http://cms.tvit.ba:80/live?channelId=30&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,RTRS Plus - RTRS Plus
-http://stream1.tvit.ba:8088/live?channelId=204&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ORF 1 - ORF 1
-http://stream3.tvit.ba:8088/live?channelId=263&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ORF 2 - ORF 2
-http://stream3.tvit.ba:8088/live?channelId=264&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
-http://stream1.tvit.ba:8088/live?channelId=64&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
-http://stream1.tvit.ba:8088/live?channelId=22&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
-http://stream2.tvit.ba:80/live?channelId=137&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Sport Klub 1 HD - Sport Klub 1 HD
-http://stream4.tvit.ba:8088/live?channelId=240&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Sport Klub 2 HD - Sport Klub 2 HD
-http://stream2.tvit.ba:80/live?channelId=241&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Sport Klub 3 HD - Sport Klub 3 HD
-http://stream1.tvit.ba:8088/live?channelId=242&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Sport Klub HD - Sport Klub HD
-http://stream2.tvit.ba:80/live?channelId=243&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ARENA 1 SR HD - ARENA 1 SR HD
-http://stream3.tvit.ba:8088/live?channelId=238&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ARENA 2 SR HD - ARENA 2 SR HD
-http://stream2.tvit.ba:80/live?channelId=235&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ARENA 3 SR HD - ARENA 3 SR HD
-http://stream2.tvit.ba:80/live?channelId=236&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ARENA 4 SR HD - ARENA 4 SR HD
-http://stream4.tvit.ba:8088/live?channelId=237&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Arena Sport 1 - Arena Sport 1
-http://stream1.tvit.ba:8088/live?channelId=1&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Arena Sport 2 - Arena Sport 2
-http://stream1.tvit.ba:8088/live?channelId=2&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Arena Sport 3 - Arena Sport 3
-http://stream4.tvit.ba:8088/live?channelId=3&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Arena Sport 4 - Arena Sport 4
-http://stream2.tvit.ba:80/live?channelId=4&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Arena Sport 5 HD - Arena Sport 5 HD
-http://stream2.tvit.ba:80/live?channelId=136&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Viasat History - Viasat History
-http://stream1.tvit.ba:8088/live?channelId=142&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Viasat Nature CEE sat - Viasat Nature CEE sat
-http://stream4.tvit.ba:8088/live?channelId=160&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,Viasat Premiere - Viasat Premiere
-http://stream3.tvit.ba:8088/live?channelId=303&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,ANIMAL PLANET - docs
-http://stream4.tvit.ba:8088/live?channelId=42&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,History Channel Sat - History Channel Sat
-http://stream4.tvit.ba:8088/live?channelId=164&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,History II - History II
-http://stream2.tvit.ba:80/live?channelId=195&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,NAT GEO - NAT GEO
-http://stream4.tvit.ba:8088/live?channelId=32&uid=150&deviceMac=00:1A:79:2A:14:71
-#EXTINF:0,NAT GEO Wild - NAT GEO Wild
-http://stream4.tvit.ba:8088/live?channelId=33&uid=150&deviceMac=00:1A:79:2A:14:71
