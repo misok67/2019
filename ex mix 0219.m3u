@@ -14,6 +14,83 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
 
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://force102.com:8080/cemil2/09032018/20364
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://force102.com:8080/cemil2/09032018/20363
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://force102.com:8080/cemil2/09032018/20362
+#EXTINF:-1,EX YU: SPORT KLUB 4
+http://force102.com:8080/cemil2/09032018/20361
+#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
+http://force102.com:8080/cemil2/09032018/20353
+#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
+http://force102.com:8080/cemil2/09032018/20360
+#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
+http://force102.com:8080/cemil2/09032018/20359
+#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
+http://force102.com:8080/cemil2/09032018/20358
+#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
+http://force102.com:8080/cemil2/09032018/20357
+#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
+http://force102.com:8080/cemil2/09032018/20322
+
+
+#EXTINF:-1,Ex-Yu | HBO 1
+http://force102.com:8080/cemil2/09032018/20346
+#EXTINF:-1,Ex-Yu | HBO 2
+http://force102.com:8080/cemil2/09032018/20345
+#EXTINF:-1,Ex-Yu | HBO 3
+http://force102.com:8080/cemil2/09032018/20344
+#EXTINF:-1,Ex-Yu | KINO TV
+http://force102.com:8080/cemil2/09032018/20341
+#EXTINF:-1,Ex-Yu | KLASIK TV
+http://force102.com:8080/cemil2/09032018/20340
+#EXTINF:-1,Ex-Yu | FOX MOVIES
+http://force102.com:8080/cemil2/09032018/20347
+
+#EXTINF:-1,Ex-yu | Hrt 1
+http://force102.com:8080/cemil2/09032018/17564
+#EXTINF:-1,Ex-yu | Hrt 2
+http://force102.com:8080/cemil2/09032018/17563
+#EXTINF:-1,Ex-yu | Hrt 3
+http://force102.com:8080/cemil2/09032018/17565
+#EXTINF:-1,Ex-yu | Hrt 4
+http://force102.com:8080/cemil2/09032018/17562
+#EXTINF:-1,Ex-yu | Rtl
+http://force102.com:8080/cemil2/09032018/17557
+#EXTINF:-1,Ex-yu | Rtl 2
+http://force102.com:8080/cemil2/09032018/17558
+#EXTINF:-1,Ex-yu | Nova
+http://force102.com:8080/cemil2/09032018/17545
+#EXTINF:-1,Ex-Yu | NOVA TV
+http://force102.com:8080/cemil2/09032018/20333
+#EXTINF:-1,Ex-Yu | RTL CRIME
+http://force102.com:8080/cemil2/09032018/20318
+#EXTINF:-1,Ex-Yu | RTL LIVING
+http://force102.com:8080/cemil2/09032018/20317
+#EXTINF:-1,Ex-Yu | RTL PASSION
+http://force102.com:8080/cemil2/09032018/20316
+
+
+#EXTINF:-1,Ex-yu | Rts1
+http://force102.com:8080/cemil2/09032018/17552
+#EXTINF:-1,Ex-yu | Rts2
+http://force102.com:8080/cemil2/09032018/17547
+#EXTINF:-1,Ex-Yu | RTS 2
+http://force102.com:8080/cemil2/09032018/20315
+#EXTINF:-1,Ex-yu | Prva
+http://force102.com:8080/cemil2/09032018/17541
+#EXTINF:-1,Ex-Yu | PRVA MAX
+http://force102.com:8080/cemil2/09032018/20321
+#EXTINF:-1,Ex-Yu | PRVA PLUS
+http://force102.com:8080/cemil2/09032018/20320
+#EXTINF:-1,Ex-Yu | PRVA WORLD
+http://force102.com:8080/cemil2/09032018/20319
+#EXTINF:-1,Ex-Yu | TV 1000
+http://force102.com:8080/cemil2/09032018/20314
+
+
 #EXTINF:0,HBO Adria - HBO Adria
 http://stream4.tvit.ba:8088/live?channelId=84&uid=844&deviceMac=00:1A:79:40:CD:DA
 #EXTINF:0,HBO Comedy - HBO Comedy
