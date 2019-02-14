@@ -13,182 +13,100 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-#EXTINF:0,Sport Klub 1
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3605
-#EXTINF:0,Sport Klub 2
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3604
-#EXTINF:0,Sport Klub 3
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3603
-#EXTINF:0,SPORTKLUB 4 SD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3602
-#EXTINF:0,SPORTKLUB 5 SD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3601
-#EXTINF:0,SPORTKLUB 6 SD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3600
+#EXTINF:0,Arena Sports 1 HD Croatian
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/18.ts
+#EXTINF:0,Arena Sports 2 HD Croatian
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/19.ts
+#EXTINF:0,Arena Sports 3 HD Croatian
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/20.ts
+#EXTINF:0,Arena Sports 4 HD Croatian
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/21.ts
 
-#EXTINF:-1,SR: Arenasport 1 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/400
-#EXTINF:-1,Arena sport 2 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/401
-#EXTINF:-1,SR: Arenasport 3 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/402
-#EXTINF:-1,SR: Arenasport 4 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/403
-#EXTINF:-1,SR: Arenasport 5 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/404
-#EXTINF:0,Arena sport 2 HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/401
-
-#EXTINF:-1,HBO Adria
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3544
-#EXTINF:-1,HBO 2
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3545
-#EXTINF:-1,HBO 3
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4011
-#EXTINF:-1,RO: TV Kino
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4547
-#EXTINF:-1,CINEMAX 1
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3551
-#EXTINF:-1,CINEMAX-2
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3550
-#EXTINF:-1,KLASIK TV
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3589
-#EXTINF:0,Cinestar Action
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3555
-#EXTINF:0,Cinestar Premiere 1
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3534
-#EXTINF:0,Cinestar Premier 2
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3556
-#EXTINF:0,Fox Movies
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3517
-#EXTINF:-1,RO: TV1000
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4573
-#EXTINF:-1,RO: TV 1000
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4487
-
-#EXTINF:0,HRT 1
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3542
-#EXTINF:-1,HRT 2
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3541
-#EXTINF:-1,HRT 3
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3540
-#EXTINF:-1,RTL
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3559
-#EXTINF:-1,RTL 2
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3558
-#EXTINF:0,NOVA TV HR
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4342
-#EXTINF:-1,DOMA-TV
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3546
-
-#EXTINF:0,RTRS
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/17540
-#EXTINF:0,RTS 1 (local)
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3599
-#EXTINF:0,RTS 2 (local)
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3598
-#EXTINF:0,RTS 3
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3597
-#EXTINF:0,RTS HD
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3596
-#EXTINF:0,B92
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8675
-#EXTINF:0,Prva Plus
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3553
-#EXTINF:0,Prva TV Montenegro
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/31510
-#EXTINF:0,Prva
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4341
-
-#EXTINF:0,Viasat History
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/10178
-#EXTINF:0,Viasat nature
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/10179
-#EXTINF:0,ANIMAL PLANET
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3593
-#EXTINF:0,Nat Geo Wild
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3537
-#EXTINF:0,National Geographic
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3536
-#EXTINF:0,Nickelodeon
-http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3535
-
-#EXTINF:-1,SPORT KLUB 1
-http://force102.com:8080/cemil2/09032018/20364
-#EXTINF:-1,SPORT KLUB 2
-http://force102.com:8080/cemil2/09032018/20363
-#EXTINF:-1,SPORT KLUB 3
-http://force102.com:8080/cemil2/09032018/20362
-#EXTINF:-1,SPORT KLUB 4
-http://force102.com:8080/cemil2/09032018/20361
-#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://force102.com:8080/cemil2/09032018/20353
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://force102.com:8080/cemil2/09032018/20360
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://force102.com:8080/cemil2/09032018/20359
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://force102.com:8080/cemil2/09032018/20358
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://force102.com:8080/cemil2/09032018/20357
-#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
-http://force102.com:8080/cemil2/09032018/20322
+#EXTINF:0,SPORT KLUB 1
+http://formen1.com:8080/nusret07/240218/16828
+#EXTINF:0,SPORT KLUB 2
+http://formen1.com:8080/nusret07/240218/16827
+#EXTINF:0,SPORT KLUB 3
+http://formen1.com:8080/nusret07/240218/16826
+#EXTINF:0,SPORT KLUB 4
+http://formen1.com:8080/nusret07/240218/16825
 
 
-#EXTINF:-1,Ex-Yu | HBO 1
-http://force102.com:8080/cemil2/09032018/20346
-#EXTINF:-1,Ex-Yu | HBO 2
-http://force102.com:8080/cemil2/09032018/20345
-#EXTINF:-1,Ex-Yu | HBO 3
-http://force102.com:8080/cemil2/09032018/20344
-#EXTINF:-1,Ex-Yu | KINO TV
-http://force102.com:8080/cemil2/09032018/20341
-#EXTINF:-1,Ex-Yu | KLASIK TV
-http://force102.com:8080/cemil2/09032018/20340
-#EXTINF:-1,Ex-Yu | FOX MOVIES
-http://force102.com:8080/cemil2/09032018/20347
+#EXTINF:0, | Arena Sport 1 HR
+http://formen1.com:8080/nusret07/240218/3076
+#EXTINF:0, | Arena Sport 2 Hr
+http://formen1.com:8080/nusret07/240218/3077
+#EXTINF:0, | Arena Sport 3 Hr
+http://formen1.com:8080/nusret07/240218/3078
+#EXTINF:0, | Arena Sport 4 Hr
+http://formen1.com:8080/nusret07/240218/3079
+#EXTINF:0, | Arena Sport 6 HR
+http://formen1.com:8080/nusret07/240218/16858
+#EXTINF:0, | Arena Sport 1 (SRB)
+http://formen1.com:8080/nusret07/240218/16850
+#EXTINF:0, | ARENA SPORT 2 SRB
+http://formen1.com:8080/nusret07/240218/16824
+#EXTINF:0, | ARENA SPORT 3 SRB
+http://formen1.com:8080/nusret07/240218/16823
+#EXTINF:0, | ARENA SPORT 4 SRB
+http://formen1.com:8080/nusret07/240218/16822
+#EXTINF:0, | ARENA SPORT 5 SRB
+http://formen1.com:8080/nusret07/240218/16821
 
-#EXTINF:-1,Ex-yu | Hrt 1
-http://force102.com:8080/cemil2/09032018/17564
-#EXTINF:-1,Ex-yu | Hrt 2
-http://force102.com:8080/cemil2/09032018/17563
-#EXTINF:-1,Ex-yu | Hrt 3
-http://force102.com:8080/cemil2/09032018/17565
-#EXTINF:-1,Ex-yu | Hrt 4
-http://force102.com:8080/cemil2/09032018/17562
-#EXTINF:-1,Ex-yu | Rtl
-http://force102.com:8080/cemil2/09032018/17557
-#EXTINF:-1,Ex-yu | Rtl 2
-http://force102.com:8080/cemil2/09032018/17558
-#EXTINF:-1,Ex-yu | Nova
-http://force102.com:8080/cemil2/09032018/17545
-#EXTINF:-1,Ex-Yu | NOVA TV
-http://force102.com:8080/cemil2/09032018/20333
-#EXTINF:-1,Ex-Yu | RTL CRIME
-http://force102.com:8080/cemil2/09032018/20318
-#EXTINF:-1,Ex-Yu | RTL LIVING
-http://force102.com:8080/cemil2/09032018/20317
-#EXTINF:-1,Ex-Yu | RTL PASSION
-http://force102.com:8080/cemil2/09032018/20316
+#EXTINF:0, | HBO 1
+http://formen1.com:8080/nusret07/240218/16848
+#EXTINF:0, | HBO 2
+http://formen1.com:8080/nusret07/240218/16847
+#EXTINF:0, | HBO 3
+http://formen1.com:8080/nusret07/240218/16846
+#EXTINF:0, | KINO TV
+http://formen1.com:8080/nusret07/240218/16845
+#EXTINF:0, | KLASIK TV
+http://formen1.com:8080/nusret07/240218/16863
+#EXTINF:0, | Pink Film
+http://formen1.com:8080/nusret07/240218/1899
+#EXTINF:0, | FOX MOVIES
+http://formen1.com:8080/nusret07/240218/16841
+#EXTINF:0, | TV 1000
+http://formen1.com:8080/nusret07/240218/16840
 
+#EXTINF:0, | Hrt 1
+http://formen1.com:8080/nusret07/240218/1890
+#EXTINF:0, | Hrt 2
+http://formen1.com:8080/nusret07/240218/1891
+#EXTINF:0, | Hrt 3
+http://formen1.com:8080/nusret07/240218/1892
+#EXTINF:0, | Nova
+http://formen1.com:8080/nusret07/240218/1894
+#EXTINF:0, | NOVA TV
+http://formen1.com:8080/nusret07/240218/16867
+#EXTINF:0, | Doma Tv
+http://formen1.com:8080/nusret07/240218/1919
+#EXTINF:0, | Rtl
+http://formen1.com:8080/nusret07/240218/1915
+#EXTINF:0, | Rtl 2
+http://formen1.com:8080/nusret07/240218/1916
+#EXTINF:0, | RTL CRIME
+http://formen1.com:8080/nusret07/240218/16868
+#EXTINF:0, | RTL LIVING
+http://formen1.com:8080/nusret07/240218/16870
+#EXTINF:0, | RTL PASSION
+http://formen1.com:8080/nusret07/240218/16869
 
-#EXTINF:-1,Ex-yu | Rts1
-http://force102.com:8080/cemil2/09032018/17552
-#EXTINF:-1,Ex-yu | Rts2
-http://force102.com:8080/cemil2/09032018/17547
-#EXTINF:-1,Ex-Yu | RTS 2
-http://force102.com:8080/cemil2/09032018/20315
-#EXTINF:-1,Ex-yu | Prva
-http://force102.com:8080/cemil2/09032018/17541
-#EXTINF:-1,Ex-Yu | PRVA MAX
-http://force102.com:8080/cemil2/09032018/20321
-#EXTINF:-1,Ex-Yu | PRVA PLUS
-http://force102.com:8080/cemil2/09032018/20320
-#EXTINF:-1,Ex-Yu | PRVA WORLD
-http://force102.com:8080/cemil2/09032018/20319
-#EXTINF:-1,Ex-Yu | TV 1000
-http://force102.com:8080/cemil2/09032018/20314
-
+#EXTINF:0, | Rts1
+http://formen1.com:8080/nusret07/240218/1920
+#EXTINF:0, | Rts2
+http://formen1.com:8080/nusret07/240218/1921
+#EXTINF:0, | Prva
+http://formen1.com:8080/nusret07/240218/1884
+#EXTINF:0, | PRVA MAX
+http://formen1.com:8080/nusret07/240218/16857
+#EXTINF:0, | PRVA PLUS
+http://formen1.com:8080/nusret07/240218/16856
+#EXTINF:0, | PRVA WORLD
+http://formen1.com:8080/nusret07/240218/16859
+#EXTINF:0, | RTS 2
+http://formen1.com:8080/nusret07/240218/16860
 
 #EXTINF:0,HBO Adria - HBO Adria
 http://stream4.tvit.ba:8088/live?channelId=84&uid=844&deviceMac=00:1A:79:40:CD:DA
