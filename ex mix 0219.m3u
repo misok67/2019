@@ -13,88 +13,40 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-#EXTINF:0,SPORT KLUB 1
-http://formen1.com:8080/nusret07/240218/16828
-#EXTINF:0,SPORT KLUB 2
-http://formen1.com:8080/nusret07/240218/16827
-#EXTINF:0,SPORT KLUB 3
-http://formen1.com:8080/nusret07/240218/16826
-#EXTINF:0,SPORT KLUB 4
-http://formen1.com:8080/nusret07/240218/16825
+#EXTINF:0,EX-YOU: HBO Adria
+http://iptv-volkan.net:8000/media/media/2285
+#EXTINF:0,EX-YOU: HBO Comedy
+http://iptv-volkan.net:8000/media/media/2286
+#EXTINF:0,EX-YOU: Cinemax
+http://iptv-volkan.net:8000/media/media/2329
+#EXTINF:0,EX-YOU: Cinemax 2
+http://iptv-volkan.net:8000/media/media/2328
+#EXTINF:0,EX-YOU: Klasik tv
+http://iptv-volkan.net:8000/media/media/4696
+#EXTINF:0,EX-YOU: PINK FILM
+http://iptv-volkan.net:8000/media/media/1697
+#EXTINF:0,EX-YOU: Cinestare Premiere 1
+http://iptv-volkan.net:8000/media/media/2156
+#EXTINF:0,EX-YOU: Cinestare Premiere 2
+http://iptv-volkan.net:8000/media/media/2157
+#EXTINF:0,EX-YOU: Cinestar Action
+http://iptv-volkan.net:8000/media/media/4673
+#EXTINF:0,EX-YOU: Fox Movies
+http://iptv-volkan.net:8000/media/media/4672
 
-
-#EXTINF:0,Arena Sport 1 HR
-http://formen1.com:8080/nusret07/240218/3076
-#EXTINF:0,Arena Sport 2 Hr
-http://formen1.com:8080/nusret07/240218/3077
-#EXTINF:0,Arena Sport 3 Hr
-http://formen1.com:8080/nusret07/240218/3078
-#EXTINF:0,Arena Sport 4 Hr
-http://formen1.com:8080/nusret07/240218/3079
-#EXTINF:0,Arena Sport 6 HR
-http://formen1.com:8080/nusret07/240218/16858
-#EXTINF:0,Arena Sport 1 (SRB)
-http://formen1.com:8080/nusret07/240218/16850
-#EXTINF:0,ARENA SPORT 2 SRB
-http://formen1.com:8080/nusret07/240218/16824
-#EXTINF:0,ARENA SPORT 3 SRB
-http://formen1.com:8080/nusret07/240218/16823
-#EXTINF:0,ARENA SPORT 4 SRB
-http://formen1.com:8080/nusret07/240218/16822
-#EXTINF:0,ARENA SPORT 5 SRB
-http://formen1.com:8080/nusret07/240218/16821
-
-#EXTINF:0,HBO 1
-http://formen1.com:8080/nusret07/240218/16848
-#EXTINF:0,HBO 2
-http://formen1.com:8080/nusret07/240218/16847
-#EXTINF:0,HBO 3
-http://formen1.com:8080/nusret07/240218/16846
-#EXTINF:0,KINO TV
-http://formen1.com:8080/nusret07/240218/16845
-#EXTINF:0,KLASIK TV
-http://formen1.com:8080/nusret07/240218/16863
-#EXTINF:0,Pink Film
-http://formen1.com:8080/nusret07/240218/1899
-#EXTINF:0,FOX MOVIES
-http://formen1.com:8080/nusret07/240218/16841
-#EXTINF:0,TV 1000
-http://formen1.com:8080/nusret07/240218/16840
-
-#EXTINF:0,Hrt 1
-http://formen1.com:8080/nusret07/240218/1890
-#EXTINF:0,Hrt 2
-http://formen1.com:8080/nusret07/240218/1891
-#EXTINF:0,Hrt 3
-http://formen1.com:8080/nusret07/240218/1892
-#EXTINF:0,Nova
-http://formen1.com:8080/nusret07/240218/1894
-#EXTINF:0,NOVA TV
-http://formen1.com:8080/nusret07/240218/16867
-#EXTINF:0,Doma Tv
-http://formen1.com:8080/nusret07/240218/1919
-#EXTINF:0,Rtl
-http://formen1.com:8080/nusret07/240218/1915
-#EXTINF:0,Rtl 2
-http://formen1.com:8080/nusret07/240218/1916
-#EXTINF:0,RTL CRIME
-http://formen1.com:8080/nusret07/240218/16868
-#EXTINF:0,RTL LIVING
-http://formen1.com:8080/nusret07/240218/16870
-#EXTINF:0,RTL PASSION
-http://formen1.com:8080/nusret07/240218/16869
-
-#EXTINF:0,Rts1
-http://formen1.com:8080/nusret07/240218/1920
-#EXTINF:0,Rts2
-http://formen1.com:8080/nusret07/240218/1921
-#EXTINF:0,Prva
-http://formen1.com:8080/nusret07/240218/1884
-#EXTINF:0,PRVA MAX
-http://formen1.com:8080/nusret07/240218/16857
-#EXTINF:0,PRVA PLUS
-http://formen1.com:8080/nusret07/240218/16856
-#EXTINF:0,PRVA WORLD
-http://formen1.com:8080/nusret07/240218/16859
-#EXTINF:0,RTS 2
-http://formen1.com:8080/nusret07/240218/16860
+#EXTINF:0,EX-YOU: HRT1 HD
+http://iptv-volkan.net:8000/media/media/4681
+#EXTINF:0,EX-YOU: HRT2
+http://iptv-volkan.net:8000/media/media/4689
+#EXTINF:0,EX-YOU: HRT3
+http://iptv-volkan.net:8000/media/media/4690
+#EXTINF:0,EX-YOU: Doma
+http://iptv-volkan.net:8000/media/media/4668
+#EXTINF:0,EX-YOU: Nova TV
+http://iptv-volkan.net:8000/media/media/4684
+#EXTINF:0,EX-YOU: Animal Planet
+http://iptv-volkan.net:8000/media/media/4687
+#EXTINF:0,EX-YOU: History Channel
+http://iptv-volkan.net:8000/media/media/4695
+#EXTINF:0,EX-YOU: RTS1
+http://iptv-volkan.net:8000/media/media/4677
