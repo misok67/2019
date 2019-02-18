@@ -13,126 +13,6 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-#EXTINF:0,HBO 1 HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26276
-#EXTINF:0,HBO 2 HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26275
-#EXTINF:0,HBO 3 HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26274
-#EXTINF:0,CINEMAX 1
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26286
-#EXTINF:0,CINEMAX 2
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26285
-#EXTINF:0,KINOTV  HR
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26300
-#EXTINF:0,KLASIK TV
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26261
-#EXTINF:0,PINK: PINK FILM
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26145
-#EXTINF:0,CINESTAR ACTION TV
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26284
-#EXTINF:0,CINESTAR ACTION
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26303
-#EXTINF:0,CINESTAR FANTASY
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26283
-#EXTINF:0,CINESTAR PREMIERE 1
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26282
-#EXTINF:0,CINESTAR PREMIERE 2
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26281
-#EXTINF:0,CINESTAR TV
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26302
-#EXTINF:0,CRIME INVESTIGATION
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26268
-#EXTINF:0,FOX MOVIES HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26277
-#EXTINF:0,TV 1000
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26254
-#EXTINF:0,HRT 1
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26198
-#EXTINF:0,HRT 2 HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26197
-#EXTINF:0,HRT 3
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26196
-#EXTINF:0,HRT 4
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26195
-#EXTINF:0,HRT 5
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26194
-#EXTINF:0,NOVA TV HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26191
-#EXTINF:0,NOVA TV
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26192
-#EXTINF:0,DOMA TV HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26199
-#EXTINF:0,DOMA TV
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26200
-#EXTINF:0,RTL
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26189
-#EXTINF:0,RTL 2
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26188
-#EXTINF:0,RTL CRIME
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26187
-#EXTINF:0,RTL LIVING
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26186
-#EXTINF:0,RTL PASSION
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26185
-
-#EXTINF:0,SLO 1 HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26095
-#EXTINF:0,SLO 2 HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26094
-#EXTINF:0,SLO 3 HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26093
-#EXTINF:0,AMC
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26182
-#EXTINF:0,PRVA MAX
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26162
-#EXTINF:0,PRVA PLUS
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26161
-#EXTINF:0,PRVA WORLD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26160
-#EXTINF:0,PRVA
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26163
-#EXTINF:0,RTS 1
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26159
-#EXTINF:0,RTS 2
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26158
-#EXTINF:0,RTS 3
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26157
-#EXTINF:0,RTS HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26156
-#EXTINF:0,ANIMAL PLANET HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26270
-#EXTINF:0,ANIMAL PLANET
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26271
-#EXTINF:0,DISCOVERY ID
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26266
-#EXTINF:0,DISCOVERY
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26267
-#EXTINF:0,DOCUBOX HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26265
-#EXTINF:0,HISTORY 2
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26263
-#EXTINF:0,HISTORY HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26262
-#EXTINF:0,HISTORY
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26264
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26257
-#EXTINF:0,NATIONAL GEOGRAPHIC WILD
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26256
-#EXTINF:0,NATIONAL GEOGRAPHIC
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26258
-#EXTINF:0,VIASAT EXPLORER
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26253
-#EXTINF:0,VIASAT HISTORY
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26252
-#EXTINF:0,VIASAT NATURE
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26251
-#EXTINF:0,VINKOVACKA TV
-http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26250
-
-
-
 #EXTINF:0,HBO HD HR
 http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5041
 #EXTINF:0,HBO 2 FHD HR
@@ -238,3 +118,25 @@ http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11049
 http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5028
 
 
+#EXTINF:0,EXYU | Cine Star TV
+http://tre.tithis.com:2015/taner5/5taner/39366
+#EXTINF:0,EXYU | Cine Star TV Action
+http://tre.tithis.com:2015/taner5/5taner/39365
+#EXTINF:0,EXYU | Cine Star TV Fantasy
+http://tre.tithis.com:2015/taner5/5taner/39364
+#EXTINF:0,EXYU | Pink Film
+http://tre.tithis.com:2015/taner5/5taner/39378
+
+#EXTINF:0,EXYU | PRVA
+http://tre.tithis.com:2015/taner5/5taner/39398
+#EXTINF:0,EXYU | PTV
+http://tre.tithis.com:2015/taner5/5taner/39363
+#EXTINF:0,EXYU | RTS 2
+http://tre.tithis.com:2015/taner5/5taner/39397
+#EXTINF:0,EXYU | RTS 3
+http://tre.tithis.com:2015/taner5/5taner/39408
+#EXTINF:0,EXYU | RTS Drama
+http://tre.tithis.com:2015/taner5/5taner/39395
+
+#EXTINF:0,EXYU | SK 4 HD
+http://tre.tithis.com:2015/taner5/5taner/39372
