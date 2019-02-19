@@ -13,130 +13,136 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-#EXTINF:0,HBO HD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5041
-#EXTINF:0,HBO 2 FHD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5040
-#EXTINF:0,HBO 3 HD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5039
-#EXTINF:0,CineMax 1 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5067
-#EXTINF:0,Cinemax 2 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9375
-#EXTINF:0,Kino TV HD RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/12396
-#EXTINF:0,Pink Film RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5011
-#EXTINF:0,CineStar Premiere 1 (Backup) HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11490
-#EXTINF:0,CineStar Premiere 1 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5065
-#EXTINF:0,CineStar Premiere 2 (Backup) HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11489
-#EXTINF:0,CineStar Premiere 2 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5064
-#EXTINF:0,CineStar TV Action HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5062
-#EXTINF:0,Cinestar Fantasy HD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11053
-#EXTINF:0,Cinestar TV HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5063
-#EXTINF:0,TV 1000 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9372
-#EXTINF:0,Fox Movies HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5047
-
-#EXTINF:0,HRT 1 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5037
-#EXTINF:0,HRT 2 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5036
-#EXTINF:0,HRT 3 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5035
-#EXTINF:0,RTL (Backup) HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10412
-#EXTINF:0,RTL 2 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4984
-#EXTINF:0,RTL Crime HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4983
-#EXTINF:0,RTL HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4985
-#EXTINF:0,RTL Living HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4982
-#EXTINF:0,RTL Passion HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4981
-#EXTINF:0,Doma TV HD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/23193
-#EXTINF:0,Doma TV SD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5057
-#EXTINF:0,Nova TV HD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5027
-#EXTINF:0,Nova TV SD HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10411
-
-#EXTINF:0,RTS 1 (Backup) RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10409
-#EXTINF:0,RTS 1 HD RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11047
-#EXTINF:0,RTS 1 RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4979
-#EXTINF:0,RTS 2 (Backup) RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10408
-#EXTINF:0,RTS 2 RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4978
-#EXTINF:0,RTS 3 (Backup) RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/10407
-#EXTINF:0,RTS 3 RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4977
-#EXTINF:0,RTS Drama RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/627838
-#EXTINF:0,RTS Svet RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11046
-#EXTINF:0,RTS Trezor RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/627836
-#EXTINF:0,PRVA Max RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4989
-#EXTINF:0,PRVA Plus RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4990
-#EXTINF:0,PRVA World RS
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/4988
-
-#EXTINF:0,Viasat Explorer HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9381
-#EXTINF:0,Viasat History HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9383
-#EXTINF:0,Viasat Nature HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/1642
-#EXTINF:0,Animal Planet HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5077
-#EXTINF:0,History 2 HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11044
-#EXTINF:0,History Channel HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/9384
-#EXTINF:0,Nat Geo Wild HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/11049
-#EXTINF:0,National Geographic HR
-http://mypanel.tv:80/premium.cccam/vgwp3oLAtk/5028
+#EXTINF:0,EX YU: HBO Adria
+http://fonte.iptvmaishd.com:25461/4247/4247/145712
+#EXTINF:0,EX YU: HBO 2
+http://fonte.iptvmaishd.com:25461/4247/4247/145716
+#EXTINF:0,EX YU: HBO 3
+http://fonte.iptvmaishd.com:25461/4247/4247/145723
+#EXTINF:0,EX YU: CINEMAX 1
+http://fonte.iptvmaishd.com:25461/4247/4247/145726
+#EXTINF:0,EX YU: CINEMAX-2
+http://fonte.iptvmaishd.com:25461/4247/4247/145725
+#EXTINF:0,EX-YU: Cinestar Action
+http://fonte.iptvmaishd.com:25461/4247/4247/145680
+#EXTINF:0,EX-YU: Cinestar Premier 2
+http://fonte.iptvmaishd.com:25461/4247/4247/145711
+#EXTINF:0,EX-YU: Cinestar Premiere 1
+http://fonte.iptvmaishd.com:25461/4247/4247/145710
+#EXTINF:0,EX-YU: Fox Movies
+http://fonte.iptvmaishd.com:25461/4247/4247/145690
+#EXTINF:0,EX-YU: KLASIK TV
+http://fonte.iptvmaishd.com:25461/4247/4247/145681
+#EXTINF:0,EX-YU: Pink Film
+http://fonte.iptvmaishd.com:25461/4247/4247/145654
 
 
-#EXTINF:0,EXYU | Cine Star TV
-http://tre.tithis.com:2015/taner5/5taner/39366
-#EXTINF:0,EXYU | Cine Star TV Action
-http://tre.tithis.com:2015/taner5/5taner/39365
-#EXTINF:0,EXYU | Cine Star TV Fantasy
-http://tre.tithis.com:2015/taner5/5taner/39364
-#EXTINF:0,EXYU | Pink Film
-http://tre.tithis.com:2015/taner5/5taner/39378
+#EXTINF:0,EX-YU: HRT 1
+http://fonte.iptvmaishd.com:25461/4247/4247/145685
+#EXTINF:0,EX YU: HRT 2
+http://fonte.iptvmaishd.com:25461/4247/4247/145721
+#EXTINF:0,EX YU: HRT 3
+http://fonte.iptvmaishd.com:25461/4247/4247/145707
+#EXTINF:0,EX YU: NOVA TV HR
+http://fonte.iptvmaishd.com:25461/4247/4247/145719
+#EXTINF:0,EX-YU: NOVA TV HR
+http://fonte.iptvmaishd.com:25461/4247/4247/145666
+#EXTINF:0,EX YU: DOMA-TV
+http://fonte.iptvmaishd.com:25461/4247/4247/145724
+#EXTINF:0,EX YU: RTL
+http://fonte.iptvmaishd.com:25461/4247/4247/145701
+#EXTINF:0,EX YU: RTL 2
+http://fonte.iptvmaishd.com:25461/4247/4247/145720
+#EXTINF:0,EX-YU: ANIMAL PLANET
+http://fonte.iptvmaishd.com:25461/4247/4247/145714
+#EXTINF:0,EX-YU: Nat Geo Wild
+http://fonte.iptvmaishd.com:25461/4247/4247/145612
+#EXTINF:0,EX-YU: National Geographic
+http://fonte.iptvmaishd.com:25461/4247/4247/145669
+#EXTINF:0,EX YU: HISTORY CHANNEL
+http://fonte.iptvmaishd.com:25461/4247/4247/145722
+#EXTINF:0,EX-YU: Prva
+http://fonte.iptvmaishd.com:25461/4247/4247/145627
+#EXTINF:0,EX-YU: Prva Plus
+http://fonte.iptvmaishd.com:25461/4247/4247/145626
+#EXTINF:0,EX-YU: RTS 1 (local)
+http://fonte.iptvmaishd.com:25461/4247/4247/145625
+#EXTINF:0,EX-YU: RTS 2 (local)
+http://fonte.iptvmaishd.com:25461/4247/4247/145624
+#EXTINF:0,EX-YU: RTS 3
+http://fonte.iptvmaishd.com:25461/4247/4247/145623
+#EXTINF:0,EX-YU: RTS HD
+http://fonte.iptvmaishd.com:25461/4247/4247/145622
 
-#EXTINF:0,EXYU | PRVA
-http://tre.tithis.com:2015/taner5/5taner/39398
-#EXTINF:0,EXYU | PTV
-http://tre.tithis.com:2015/taner5/5taner/39363
-#EXTINF:0,EXYU | RTS 2
-http://tre.tithis.com:2015/taner5/5taner/39397
-#EXTINF:0,EXYU | RTS 3
-http://tre.tithis.com:2015/taner5/5taner/39408
-#EXTINF:0,EXYU | RTS Drama
-http://tre.tithis.com:2015/taner5/5taner/39395
+#EXTINF:0,EX-YU: Sport Klub 1
+http://fonte.iptvmaishd.com:25461/4247/4247/145619
+#EXTINF:0,EX-YU: Sport Klub 2
+http://fonte.iptvmaishd.com:25461/4247/4247/145618
+#EXTINF:0,EX-YU: Sport Klub 3
+http://fonte.iptvmaishd.com:25461/4247/4247/145617
+#EXTINF:0,EX-YU: SPORTKLUB 4 SD
+http://fonte.iptvmaishd.com:25461/4247/4247/145616
+#EXTINF:0,EX-YU: SPORTKLUB 5 SD
+http://fonte.iptvmaishd.com:25461/4247/4247/145615
+#EXTINF:0,EX-YU: SPORTKLUB 6 SD
+http://fonte.iptvmaishd.com:25461/4247/4247/145614
 
-#EXTINF:0,EXYU | SK 4 HD
-http://tre.tithis.com:2015/taner5/5taner/39372
+#EXTINF:0,Arena Sport 1
+http://212.200.127.246:4022/udp/239.1.0.23:1234
+#EXTINF:0,Arena Sport 2
+http://212.200.127.246:4022/udp/239.1.0.24:1234
+
+
+#EXTINF:0,Pink Comedy
+http://212.200.127.246:4022/udp/239.1.0.184:1234
+#EXTINF:0,Pink Crime & Mystery
+http://212.200.127.246:4022/udp/239.1.0.172:1234
+#EXTINF:0,Pink Premium
+http://212.200.127.246:4022/udp/239.1.0.176:1234
+#EXTINF:0,Pink Sci-Fi & Fantasy
+http://212.200.127.246:4022/udp/239.1.0.174:1234
+#EXTINF:0,Pink Thriller
+http://212.200.127.246:4022/udp/239.1.0.171:1234
+
+#EXTINF:0,Film Box Plus
+http://212.200.127.246:4022/udp/239.1.0.37:1234
+#EXTINF:0,Filmbox Plus HD
+http://212.200.127.246:4022/udp/239.1.1.37:1234
+
+#EXTINF:0,Nat Geo HD
+http://212.200.127.246:4022/udp/239.1.1.35:1234
+#EXTINF:0,Nat Geo Wild HD
+http://212.200.127.246:4022/udp/239.1.1.7:1234
+#EXTINF:0,National Geographic
+http://212.200.127.246:4022/udp/239.1.0.35:1234
+#EXTINF:0,NG Wild
+http://212.200.127.246:4022/udp/239.1.0.7:1234
+
+#EXTINF:0,PRVA
+http://212.200.127.246:4022/udp/239.1.0.155:1234
+#EXTINF:0,PRVA HD
+http://212.200.127.246:4022/udp/239.1.1.155:1234
+#EXTINF:0,PTC 1 HD
+http://212.200.127.246:4022/udp/239.1.1.151:1234
+#EXTINF:0,PTC 2 HD
+http://212.200.127.246:4022/udp/239.1.1.152:1234
+#EXTINF:0,RTS 1 HD
+http://212.200.127.246:4022/udp/239.1.0.151:1234
+#EXTINF:0,RTS 2 HD
+http://212.200.127.246:4022/udp/239.1.0.152:1234
+#EXTINF:0,RTS 3
+http://212.200.127.246:4022/udp/239.1.0.159:1234
+#EXTINF:0,Viasat Explore HD
+http://212.200.127.246:4022/udp/239.1.1.3:1234
+#EXTINF:0,Viasat Explorer
+http://212.200.127.246:4022/udp/239.1.0.3:1234
+#EXTINF:0,Viasat History
+http://212.200.127.246:4022/udp/239.1.0.36:1234
+#EXTINF:0,Animal Planet
+http://212.200.127.246:4022/udp/239.1.0.73:1234
+#EXTINF:0,Animal Planet HD
+http://212.200.127.246:4022/udp/239.1.1.73:1234
+#EXTINF:0,Discovery HD
+http://212.200.127.246:4022/udp/239.1.1.32:1234
+#EXTINF:0,Discovery Serbia
+http://212.200.127.246:4022/udp/239.1.0.32:1234
