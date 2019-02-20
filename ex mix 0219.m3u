@@ -12,87 +12,68 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-
-#EXTINF:0,EX YU: HBO Adria
-http://fonte.iptvmaishd.com:25461/4247/4247/145712
-#EXTINF:0,EX YU: HBO 2
-http://fonte.iptvmaishd.com:25461/4247/4247/145716
-#EXTINF:0,EX YU: HBO 3
-http://fonte.iptvmaishd.com:25461/4247/4247/145723
-#EXTINF:0,EX YU: CINEMAX 1
-http://fonte.iptvmaishd.com:25461/4247/4247/145726
-#EXTINF:0,EX YU: CINEMAX-2
-http://fonte.iptvmaishd.com:25461/4247/4247/145725
-#EXTINF:0,EX-YU: Cinestar Action
-http://fonte.iptvmaishd.com:25461/4247/4247/145680
-#EXTINF:0,EX-YU: Cinestar Premier 2
-http://fonte.iptvmaishd.com:25461/4247/4247/145711
-#EXTINF:0,EX-YU: Cinestar Premiere 1
-http://fonte.iptvmaishd.com:25461/4247/4247/145710
-#EXTINF:0,EX-YU: Fox Movies
-http://fonte.iptvmaishd.com:25461/4247/4247/145690
-#EXTINF:0,EX-YU: KLASIK TV
-http://fonte.iptvmaishd.com:25461/4247/4247/145681
-#EXTINF:0,EX-YU: Pink Film
-http://fonte.iptvmaishd.com:25461/4247/4247/145654
-
-
-#EXTINF:0,EX-YU: HRT 1
-http://fonte.iptvmaishd.com:25461/4247/4247/145685
-#EXTINF:0,EX YU: HRT 2
-http://fonte.iptvmaishd.com:25461/4247/4247/145721
-#EXTINF:0,EX YU: HRT 3
-http://fonte.iptvmaishd.com:25461/4247/4247/145707
-#EXTINF:0,EX YU: NOVA TV HR
-http://fonte.iptvmaishd.com:25461/4247/4247/145719
-#EXTINF:0,EX-YU: NOVA TV HR
-http://fonte.iptvmaishd.com:25461/4247/4247/145666
-#EXTINF:0,EX YU: DOMA-TV
-http://fonte.iptvmaishd.com:25461/4247/4247/145724
-#EXTINF:0,EX YU: RTL
-http://fonte.iptvmaishd.com:25461/4247/4247/145701
-#EXTINF:0,EX YU: RTL 2
-http://fonte.iptvmaishd.com:25461/4247/4247/145720
-#EXTINF:0,EX-YU: ANIMAL PLANET
-http://fonte.iptvmaishd.com:25461/4247/4247/145714
-#EXTINF:0,EX-YU: Nat Geo Wild
-http://fonte.iptvmaishd.com:25461/4247/4247/145612
-#EXTINF:0,EX-YU: National Geographic
-http://fonte.iptvmaishd.com:25461/4247/4247/145669
-#EXTINF:0,EX YU: HISTORY CHANNEL
-http://fonte.iptvmaishd.com:25461/4247/4247/145722
-#EXTINF:0,EX-YU: Prva
-http://fonte.iptvmaishd.com:25461/4247/4247/145627
-#EXTINF:0,EX-YU: Prva Plus
-http://fonte.iptvmaishd.com:25461/4247/4247/145626
-#EXTINF:0,EX-YU: RTS 1 (local)
-http://fonte.iptvmaishd.com:25461/4247/4247/145625
-#EXTINF:0,EX-YU: RTS 2 (local)
-http://fonte.iptvmaishd.com:25461/4247/4247/145624
-#EXTINF:0,EX-YU: RTS 3
-http://fonte.iptvmaishd.com:25461/4247/4247/145623
-#EXTINF:0,EX-YU: RTS HD
-http://fonte.iptvmaishd.com:25461/4247/4247/145622
-
-#EXTINF:0,EX-YU: Sport Klub 1
-http://fonte.iptvmaishd.com:25461/4247/4247/145619
-#EXTINF:0,EX-YU: Sport Klub 2
-http://fonte.iptvmaishd.com:25461/4247/4247/145618
-#EXTINF:0,EX-YU: Sport Klub 3
-http://fonte.iptvmaishd.com:25461/4247/4247/145617
-#EXTINF:0,EX-YU: SPORTKLUB 4 SD
-http://fonte.iptvmaishd.com:25461/4247/4247/145616
-#EXTINF:0,EX-YU: SPORTKLUB 5 SD
-http://fonte.iptvmaishd.com:25461/4247/4247/145615
-#EXTINF:0,EX-YU: SPORTKLUB 6 SD
-http://fonte.iptvmaishd.com:25461/4247/4247/145614
-
-#EXTINF:0,Arena Sport 1
-http://212.200.127.246:4022/udp/239.1.0.23:1234
-#EXTINF:0,Arena Sport 2
-http://212.200.127.246:4022/udp/239.1.0.24:1234
-
-
+#EXTINF:-1,Nova tv
+http://ipsatpro.com:8080/Y/1234/278
+#EXTINF:-1,Doma TV
+http://ipsatpro.com:8080/Y/1234/274 
+#EXTINF:-1,HBO 1 HD
+http://www.sansat.net:25461/bryan/bryan123/26276
+#EXTINF:-1,HBO 2 HD
+http://www.sansat.net:25461/bryan/bryan123/26275
+#EXTINF:-1,HBO 3 HD
+http://www.sansat.net:25461/bryan/bryan123/26274
+#EXTINF:-1,CINEMAX 1
+http://www.sansat.net:25461/bryan/bryan123/26286
+#EXTINF:-1,CINEMAX 2
+http://www.sansat.net:25461/bryan/bryan123/26285
+#EXTINF:-1,CINESTAR ACTION TV
+http://www.sansat.net:25461/bryan/bryan123/26284
+#EXTINF:-1,CINESTAR FANTASY
+http://www.sansat.net:25461/bryan/bryan123/26283
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://www.sansat.net:25461/bryan/bryan123/26282
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://www.sansat.net:25461/bryan/bryan123/26281
+#EXTINF:-1,FOX MOVIES HD
+http://www.sansat.net:25461/bryan/bryan123/26277
+#EXTINF:-1,CINESTAR ACTION
+http://www.sansat.net:25461/bryan/bryan123/26303
+#EXTINF:-1,CINESTAR TV
+http://www.sansat.net:25461/bryan/bryan123/26302
+#EXTINF:-1,KLASIK TV
+http://www.sansat.net:25461/bryan/bryan123/26261
+#EXTINF:-1,HBO 1
+http://ipsatpro.com:8080/Y/1234/1403
+#EXTINF:-1,HBO 2
+http://ipsatpro.com:8080/Y/1234/1404
+#EXTINF:-1,HBO 3
+http://ipsatpro.com:8080/Y/1234/1405 
+#EXTINF:-1,Cine Star Premier 1
+http://ipsatpro.com:8080/Y/1234/210
+#EXTINF:-1,Cine Star Premier 2
+http://ipsatpro.com:8080/Y/1234/232
+#EXTINF:-1,Cine Star Action TV
+http://ipsatpro.com:8080/Y/1234/3457
+#EXTINF:-1,Cinestart TV
+http://ipsatpro.com:8080/Y/1234/3456
+#EXTINF:-1,Cinemax 1
+http://ipsatpro.com:8080/Y/1234/212
+#EXTINF:-1,Cinemax 2
+http://ipsatpro.com:8080/Y/1234/211 
+#EXTINF:-1,Fox Movies
+http://ipsatpro.com:8080/Y/1234/3459 
+#EXTINF:-1,TV 1000
+http://ipsatpro.com:8080/Y/1234/3458 
+#EXTINF:-1,Prva Plus
+http://ipsatpro.com:8080/Y/1234/216
+#EXTINF:-1,Prva TV
+http://ipsatpro.com:8080/Y/1234/217 
+#EXTINF:-1,RTS 1 HD
+http://ipsatpro.com:8080/Y/1234/199
+#EXTINF:-1,RTS 2
+http://ipsatpro.com:8080/Y/1234/198 
+#EXTINF:-1,RTS 3
+http://ipsatpro.com:8080/Y/1234/3504 
 #EXTINF:0,Pink Comedy
 http://212.200.127.246:4022/udp/239.1.0.184:1234
 #EXTINF:0,Pink Crime & Mystery
@@ -103,23 +84,15 @@ http://212.200.127.246:4022/udp/239.1.0.176:1234
 http://212.200.127.246:4022/udp/239.1.0.174:1234
 #EXTINF:0,Pink Thriller
 http://212.200.127.246:4022/udp/239.1.0.171:1234
-
-#EXTINF:0,Film Box Plus
-http://212.200.127.246:4022/udp/239.1.0.37:1234
 #EXTINF:0,Filmbox Plus HD
 http://212.200.127.246:4022/udp/239.1.1.37:1234
 
-#EXTINF:0,Nat Geo HD
-http://212.200.127.246:4022/udp/239.1.1.35:1234
-#EXTINF:0,Nat Geo Wild HD
-http://212.200.127.246:4022/udp/239.1.1.7:1234
-#EXTINF:0,National Geographic
-http://212.200.127.246:4022/udp/239.1.0.35:1234
-#EXTINF:0,NG Wild
-http://212.200.127.246:4022/udp/239.1.0.7:1234
 
-#EXTINF:0,PRVA
-http://212.200.127.246:4022/udp/239.1.0.155:1234
+#EXTINF:0,Arena Sport 1
+http://212.200.127.246:4022/udp/239.1.0.23:1234
+#EXTINF:0,Arena Sport 2
+http://212.200.127.246:4022/udp/239.1.0.24:1234
+
 #EXTINF:0,PRVA HD
 http://212.200.127.246:4022/udp/239.1.1.155:1234
 #EXTINF:0,PTC 1 HD
@@ -132,17 +105,15 @@ http://212.200.127.246:4022/udp/239.1.0.151:1234
 http://212.200.127.246:4022/udp/239.1.0.152:1234
 #EXTINF:0,RTS 3
 http://212.200.127.246:4022/udp/239.1.0.159:1234
+#EXTINF:0,Nat Geo HD
+http://212.200.127.246:4022/udp/239.1.1.35:1234
+#EXTINF:0,Nat Geo Wild HD
+http://212.200.127.246:4022/udp/239.1.1.7:1234
 #EXTINF:0,Viasat Explore HD
 http://212.200.127.246:4022/udp/239.1.1.3:1234
-#EXTINF:0,Viasat Explorer
-http://212.200.127.246:4022/udp/239.1.0.3:1234
 #EXTINF:0,Viasat History
 http://212.200.127.246:4022/udp/239.1.0.36:1234
-#EXTINF:0,Animal Planet
-http://212.200.127.246:4022/udp/239.1.0.73:1234
 #EXTINF:0,Animal Planet HD
 http://212.200.127.246:4022/udp/239.1.1.73:1234
 #EXTINF:0,Discovery HD
 http://212.200.127.246:4022/udp/239.1.1.32:1234
-#EXTINF:0,Discovery Serbia
-http://212.200.127.246:4022/udp/239.1.0.32:1234
