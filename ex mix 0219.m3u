@@ -15,96 +15,104 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 #EXTINF:-1,LISTA 1
 http://www.1
 
-#EXTINF:-1,|EXYU| HBO 1 HD
+#EXTINF:-1,HBO 1 HD
 http://line.myott.net:80/live/1234/4321/67898.ts
-#EXTINF:-1,|EXYU| HBO 2 HD
+#EXTINF:-1,HBO 2 HD
 http://line.myott.net:80/live/1234/4321/67897.ts
-#EXTINF:-1,|EXYU| HBO 3 HD
+#EXTINF:-1,HBO 3 HD
 http://line.myott.net:80/live/1234/4321/67896.ts
-#EXTINF:-1,|EXYU| KLASIK TV
+#EXTINF:-1,KLASIK TV
 http://line.myott.net:80/live/1234/4321/67878.ts
-#EXTINF:-1,|EXYU| CINEMAX 1
+#EXTINF:-1,CINEMAX 1
 http://line.myott.net:80/live/1234/4321/67909.ts
-#EXTINF:-1,|EXYU| CINEMAX 2
+#EXTINF:-1,CINEMAX 2
 http://line.myott.net:80/live/1234/4321/67908.ts
-#EXTINF:-1,|EXYU| CINESTAR ACTION TV
+#EXTINF:-1,CINESTAR ACTION TV
 http://line.myott.net:80/live/1234/4321/67907.ts
-#EXTINF:-1,|EXYU| CINESTAR ACTION
+#EXTINF:-1,CINESTAR ACTION
 http://line.myott.net:80/live/1234/4321/67864.ts
-#EXTINF:-1,|EXYU| CINESTAR FANTASY
+#EXTINF:-1,CINESTAR FANTASY
 http://line.myott.net:80/live/1234/4321/67906.ts
-#EXTINF:-1,|EXYU| CINESTAR PREMIERE 1
+#EXTINF:-1,CINESTAR PREMIERE 1
 http://line.myott.net:80/live/1234/4321/67905.ts
-#EXTINF:-1,|EXYU| CINESTAR PREMIERE 2
+#EXTINF:-1,CINESTAR PREMIERE 2
 http://line.myott.net:80/live/1234/4321/67904.ts
-#EXTINF:-1,|EXYU| CINESTAR TV
+#EXTINF:-1,CINESTAR TV
 http://line.myott.net:80/live/1234/4321/67903.ts
-#EXTINF:-1,|EXYU| FOX MOVIES HD
+#EXTINF:-1,FOX MOVIES HD
 http://line.myott.net:80/live/1234/4321/67899.ts
-#EXTINF:-1,|EXYU| TV 1000
+#EXTINF:-1,TV 1000
 http://line.myott.net:80/live/1234/4321/67871.ts
-#EXTINF:-1,|CRO| HRT 1
+#EXTINF:-1,HRT 1
 http://line.myott.net:80/live/1234/4321/67967.ts
-#EXTINF:-1,|CRO| HRT 2
+#EXTINF:-1,HRT 2
 http://line.myott.net:80/live/1234/4321/67966.ts
-#EXTINF:-1,|CRO| HRT 3
+#EXTINF:-1,HRT 3
 http://line.myott.net:80/live/1234/4321/67965.ts
-#EXTINF:-1,|CRO| DOMA TV HD
+#EXTINF:-1,DOMA TV HD
 http://line.myott.net:80/live/1234/4321/67958.ts
-#EXTINF:-1,|CRO| DOMA TV
+#EXTINF:-1,DOMA TV
 http://line.myott.net:80/live/1234/4321/67959.ts
-#EXTINF:-1,|CRO| RTL 2
+#EXTINF:-1,RTL 2
 http://line.myott.net:80/live/1234/4321/67956.ts
-#EXTINF:-1,|CRO| RTL CRIME
+#EXTINF:-1,RTL CRIME
 http://line.myott.net:80/live/1234/4321/67955.ts
-#EXTINF:-1,|CRO| RTL LIVING
+#EXTINF:-1,RTL LIVING
 http://line.myott.net:80/live/1234/4321/67954.ts
-#EXTINF:-1,|CRO| RTL PASSION
+#EXTINF:-1,RTL PASSION
 http://line.myott.net:80/live/1234/4321/67953.ts
-#EXTINF:-1,|CRO| RTL
+#EXTINF:-1,RTL
 http://line.myott.net:80/live/1234/4321/67957.ts
-#EXTINF:-1,|SRB| RTS 1
+#EXTINF:-1,RTS 1
 http://line.myott.net:80/live/1234/4321/67949.ts
-#EXTINF:-1,|SRB| RTS 2
+#EXTINF:-1,RTS 2
 http://line.myott.net:80/live/1234/4321/67948.ts
-#EXTINF:-1,|SRB| RTS 3
+#EXTINF:-1,RTS 3
 http://line.myott.net:80/live/1234/4321/67947.ts
 
 #EXTINF:-1,LISTA 2
 http://www.2
-
 #EXTINF:-1,HBO 1
-http://ipsatpro.com:8080/Y/1234/1403
+http://formen1.com:8080/emrah/sari/16848
 #EXTINF:-1,HBO 2
-http://ipsatpro.com:8080/Y/1234/1404
+http://formen1.com:8080/emrah/sari/16847
 #EXTINF:-1,HBO 3
-http://ipsatpro.com:8080/Y/1234/1405 
-#EXTINF:-1,Cine Star Premier 1
-http://ipsatpro.com:8080/Y/1234/210
-#EXTINF:-1,Cine Star Premier 2
-http://ipsatpro.com:8080/Y/1234/232
-#EXTINF:-1,Cine Star Action TV
-http://ipsatpro.com:8080/Y/1234/3457
-#EXTINF:-1,Cinestart TV
-http://ipsatpro.com:8080/Y/1234/3456
-#EXTINF:-1,Cinemax 1
-http://ipsatpro.com:8080/Y/1234/212
-#EXTINF:-1,Cinemax 2
-http://ipsatpro.com:8080/Y/1234/211 
-#EXTINF:-1,Fox Movies
-http://ipsatpro.com:8080/Y/1234/3459 
+http://formen1.com:8080/emrah/sari/16846
+#EXTINF:-1,KINO TV
+http://formen1.com:8080/emrah/sari/16845
+#EXTINF:-1,KLASIK TV
+http://formen1.com:8080/emrah/sari/16863
 #EXTINF:-1,TV 1000
-http://ipsatpro.com:8080/Y/1234/3458 
-#EXTINF:-1,Prva Plus
-http://ipsatpro.com:8080/Y/1234/216
-#EXTINF:-1,Prva TV
-http://ipsatpro.com:8080/Y/1234/217 
-#EXTINF:-1,RTS 1 HD
-http://ipsatpro.com:8080/Y/1234/199
+http://formen1.com:8080/emrah/sari/16840
+#EXTINF:-1,FOX MOVIES
+http://formen1.com:8080/emrah/sari/16841
+#EXTINF:-1,Hrt 1
+http://formen1.com:8080/emrah/sari/1890
+#EXTINF:-1,Hrt 2
+http://formen1.com:8080/emrah/sari/1891
+#EXTINF:-1,Hrt 3
+http://formen1.com:8080/emrah/sari/1892
+#EXTINF:-1,Doma Tv
+http://formen1.com:8080/emrah/sari/1919
+#EXTINF:-1,Rtl
+http://formen1.com:8080/emrah/sari/1915
+#EXTINF:-1,RTL CRIME
+http://formen1.com:8080/emrah/sari/16868
+#EXTINF:-1,RTL LIVING
+http://formen1.com:8080/emrah/sari/16870
+#EXTINF:-1,RTL PASSION
+http://formen1.com:8080/emrah/sari/16869
 #EXTINF:-1,RTS 2
-http://ipsatpro.com:8080/Y/1234/198 
-#EXTINF:-1,RTS 3
-http://ipsatpro.com:8080/Y/1234/3504 
+http://formen1.com:8080/emrah/sari/16860
+#EXTINF:-1,Rtl 2
+http://formen1.com:8080/emrah/sari/1916
+
+
+#EXTINF:-1,LISTA 3
+http://www.3
+
+#EXTINF:-1,LISTA 4
+http://www.5
 #EXTINF:0,Pink Comedy
 http://212.200.127.246:4022/udp/239.1.0.184:1234
 #EXTINF:0,Pink Crime & Mystery
@@ -117,10 +125,6 @@ http://212.200.127.246:4022/udp/239.1.0.174:1234
 http://212.200.127.246:4022/udp/239.1.0.171:1234
 #EXTINF:0,Filmbox Plus HD
 http://212.200.127.246:4022/udp/239.1.1.37:1234
-
-#EXTINF:-1,LISTA 3
-http://www.3
-
 #EXTINF:0,PRVA HD
 http://212.200.127.246:4022/udp/239.1.1.155:1234
 #EXTINF:0,PTC 1 HD
@@ -146,60 +150,3 @@ http://212.200.127.246:4022/udp/239.1.1.73:1234
 #EXTINF:0,Discovery HD
 http://212.200.127.246:4022/udp/239.1.1.32:1234
 
-#EXTINF:-1,LISTA 4
-http://www.5
-
-#EXTINF:-1,EXYU: HBO 1 HD
-http://190.2.149.94:25461/bryan/bryan123/26276
-#EXTINF:-1,EXYU: HBO 2 HD
-http://190.2.149.94:25461/bryan/bryan123/26275
-#EXTINF:-1,EXYU: HBO 3 HD
-http://190.2.149.94:25461/bryan/bryan123/26274
-#EXTINF:-1,EXYU: CINEMAX 1
-http://190.2.149.94:25461/bryan/bryan123/26286
-#EXTINF:-1,EXYU: CINEMAX 2
-http://190.2.149.94:25461/bryan/bryan123/26285
-#EXTINF:-1,EXYU: CINESTAR ACTION TV
-http://190.2.149.94:25461/bryan/bryan123/26284
-#EXTINF:-1,EXYU: CINESTAR ACTION
-http://190.2.149.94:25461/bryan/bryan123/26303
-#EXTINF:-1,EXYU: CINESTAR FANTASY
-http://190.2.149.94:25461/bryan/bryan123/26283
-#EXTINF:-1,EXYU: CINESTAR PREMIERE 1
-http://190.2.149.94:25461/bryan/bryan123/26282
-#EXTINF:-1,EXYU: CINESTAR PREMIERE 2
-http://190.2.149.94:25461/bryan/bryan123/26281
-#EXTINF:-1,EXYU: CINESTAR TV
-http://190.2.149.94:25461/bryan/bryan123/26302
-#EXTINF:-1,EXYU: FOX MOVIES HD
-http://190.2.149.94:25461/bryan/bryan123/26277
-#EXTINF:-1,EXYU: KLASIK TV
-http://190.2.149.94:25461/bryan/bryan123/26261
-#EXTINF:-1,EXYU: TV 1000
-http://190.2.149.94:25461/bryan/bryan123/26254
-#EXTINF:-1,CRO: DOMA TV HD
-http://190.2.149.94:25461/bryan/bryan123/26199
-#EXTINF:-1,CRO: DOMA TV
-http://190.2.149.94:25461/bryan/bryan123/26200
-#EXTINF:-1,CRO: HRT 1
-http://190.2.149.94:25461/bryan/bryan123/26198
-#EXTINF:-1,CRO: HRT 2 HD
-http://190.2.149.94:25461/bryan/bryan123/26197
-#EXTINF:-1,CRO: HRT 3
-http://190.2.149.94:25461/bryan/bryan123/26196
-#EXTINF:-1,CRO: RTL 2
-http://190.2.149.94:25461/bryan/bryan123/26188
-#EXTINF:-1,CRO: RTL CRIME
-http://190.2.149.94:25461/bryan/bryan123/26187
-#EXTINF:-1,CRO: RTL LIVING
-http://190.2.149.94:25461/bryan/bryan123/26186
-#EXTINF:-1,CRO: RTL PASSION
-http://190.2.149.94:25461/bryan/bryan123/26185
-#EXTINF:-1,CRO: RTL
-http://190.2.149.94:25461/bryan/bryan123/26189
-#EXTINF:-1,SRB: RTS 1
-http://190.2.149.94:25461/bryan/bryan123/26159
-#EXTINF:-1,SRB: RTS 2
-http://190.2.149.94:25461/bryan/bryan123/26158
-#EXTINF:-1,SRB: RTS 3
-http://190.2.149.94:25461/bryan/bryan123/26157
