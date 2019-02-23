@@ -15,97 +15,107 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 #EXTINF:-1,LISTA 1
 http://www.1
 
-#EXTINF:-1,HBO 1 HD
-http://line.myott.net:80/live/1234/4321/67898.ts
-#EXTINF:-1,HBO 2 HD
-http://line.myott.net:80/live/1234/4321/67897.ts
-#EXTINF:-1,HBO 3 HD
-http://line.myott.net:80/live/1234/4321/67896.ts
-#EXTINF:-1,KLASIK TV
-http://line.myott.net:80/live/1234/4321/67878.ts
-#EXTINF:-1,CINEMAX 1
-http://line.myott.net:80/live/1234/4321/67909.ts
-#EXTINF:-1,CINEMAX 2
-http://line.myott.net:80/live/1234/4321/67908.ts
-#EXTINF:-1,CINESTAR ACTION TV
-http://line.myott.net:80/live/1234/4321/67907.ts
-#EXTINF:-1,CINESTAR ACTION
-http://line.myott.net:80/live/1234/4321/67864.ts
-#EXTINF:-1,CINESTAR FANTASY
-http://line.myott.net:80/live/1234/4321/67906.ts
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://line.myott.net:80/live/1234/4321/67905.ts
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://line.myott.net:80/live/1234/4321/67904.ts
-#EXTINF:-1,CINESTAR TV
-http://line.myott.net:80/live/1234/4321/67903.ts
-#EXTINF:-1,FOX MOVIES HD
-http://line.myott.net:80/live/1234/4321/67899.ts
+#EXTINF:-1,Fox Movies
+http://red-vip.com:8080/Volkan41/volkan41/21294
+#EXTINF:-1,Hbo 1
+http://red-vip.com:8080/Volkan41/volkan41/21293
+#EXTINF:-1,Hbo 2
+http://red-vip.com:8080/Volkan41/volkan41/21292
+#EXTINF:-1,Hbo 3
+http://red-vip.com:8080/Volkan41/volkan41/21291
+#EXTINF:-1,Kino Tv
+http://red-vip.com:8080/Volkan41/volkan41/21288
+#EXTINF:-1,Klasik Tv
+http://red-vip.com:8080/Volkan41/volkan41/21287
 #EXTINF:-1,TV 1000
-http://line.myott.net:80/live/1234/4321/67871.ts
-#EXTINF:-1,HRT 1
-http://line.myott.net:80/live/1234/4321/67967.ts
-#EXTINF:-1,HRT 2
-http://line.myott.net:80/live/1234/4321/67966.ts
-#EXTINF:-1,HRT 3
-http://line.myott.net:80/live/1234/4321/67965.ts
-#EXTINF:-1,DOMA TV HD
-http://line.myott.net:80/live/1234/4321/67958.ts
-#EXTINF:-1,DOMA TV
-http://line.myott.net:80/live/1234/4321/67959.ts
-#EXTINF:-1,RTL 2
-http://line.myott.net:80/live/1234/4321/67956.ts
-#EXTINF:-1,RTL CRIME
-http://line.myott.net:80/live/1234/4321/67955.ts
-#EXTINF:-1,RTL LIVING
-http://line.myott.net:80/live/1234/4321/67954.ts
-#EXTINF:-1,RTL PASSION
-http://line.myott.net:80/live/1234/4321/67953.ts
-#EXTINF:-1,RTL
-http://line.myott.net:80/live/1234/4321/67957.ts
-#EXTINF:-1,RTS 1
-http://line.myott.net:80/live/1234/4321/67949.ts
-#EXTINF:-1,RTS 2
-http://line.myott.net:80/live/1234/4321/67948.ts
-#EXTINF:-1,RTS 3
-http://line.myott.net:80/live/1234/4321/67947.ts
+http://red-vip.com:8080/Volkan41/volkan41/21261
+#EXTINF:-1,Hrt 1
+http://red-vip.com:8080/Volkan41/volkan41/13118
+#EXTINF:-1,Hrt 2
+http://red-vip.com:8080/Volkan41/volkan41/13117
+#EXTINF:-1,Hrt 3
+http://red-vip.com:8080/Volkan41/volkan41/13119
+#EXTINF:-1,Doma Tv
+http://red-vip.com:8080/Volkan41/volkan41/13102
+
+#EXTINF:-1,Rtl 2
+http://red-vip.com:8080/Volkan41/volkan41/13112
+#EXTINF:-1,Rtl Crime
+http://red-vip.com:8080/Volkan41/volkan41/21265
+#EXTINF:-1,Rtl
+http://red-vip.com:8080/Volkan41/volkan41/13111
+#EXTINF:-1,Rts 2
+http://red-vip.com:8080/Volkan41/volkan41/21262
+
 
 #EXTINF:-1,LISTA 2
 http://www.2
-#EXTINF:-1,HBO 1
-http://formen1.com:8080/emrah/sari/16848
-#EXTINF:-1,HBO 2
-http://formen1.com:8080/emrah/sari/16847
-#EXTINF:-1,HBO 3
-http://formen1.com:8080/emrah/sari/16846
-#EXTINF:-1,KINO TV
-http://formen1.com:8080/emrah/sari/16845
+#EXTINF:-1,HBO HD
+http:///31.220.1.190:80/debo/12345/134374
+#EXTINF:-1,HBO 2 HD
+http:///31.220.1.190:80/debo/12345/134373
+#EXTINF:-1,HBO 3 HD
+http:///31.220.1.190:80/debo/12345/156649
 #EXTINF:-1,KLASIK TV
-http://formen1.com:8080/emrah/sari/16863
-#EXTINF:-1,TV 1000
-http://formen1.com:8080/emrah/sari/16840
-#EXTINF:-1,FOX MOVIES
-http://formen1.com:8080/emrah/sari/16841
-#EXTINF:-1,Hrt 1
-http://formen1.com:8080/emrah/sari/1890
-#EXTINF:-1,Hrt 2
-http://formen1.com:8080/emrah/sari/1891
-#EXTINF:-1,Hrt 3
-http://formen1.com:8080/emrah/sari/1892
-#EXTINF:-1,Doma Tv
-http://formen1.com:8080/emrah/sari/1919
-#EXTINF:-1,Rtl
-http://formen1.com:8080/emrah/sari/1915
+http:///31.220.1.190:80/debo/12345/134141
+#EXTINF:-1,Kino TV
+http:///31.220.1.190:80/debo/12345/156644
+#EXTINF:-1,CineMax 1
+http:///31.220.1.190:80/debo/12345/156654
+#EXTINF:-1,CineMax 2
+http:///31.220.1.190:80/debo/12345/156655
+#EXTINF:-1,CineStar Fantasy
+http:///31.220.1.190:80/debo/12345/156651
+#EXTINF:-1,CineStar Premiere 1
+http:///31.220.1.190:80/debo/12345/156652
+#EXTINF:-1,CineStar Premiere 2
+http:///31.220.1.190:80/debo/12345/156653
+#EXTINF:-1,CineStar TV
+http:///31.220.1.190:80/debo/12345/156650
+#EXTINF:-1,Cinestar Action
+http:///31.220.1.190:80/debo/12345/197281
+#EXTINF:-1,HBO 1 HD
+http:///31.220.1.190:80/debo/12345/184745
+#EXTINF:-1,HBO 2 HD
+http:///31.220.1.190:80/debo/12345/65452
+#EXTINF:-1,HBO 3 HD
+http:///31.220.1.190:80/debo/12345/65450
+#EXTINF:-1,HBO Comedy
+http:///31.220.1.190:80/debo/12345/65455
+#EXTINF:-1,HBO HD
+http:///31.220.1.190:80/debo/12345/65376
+
+#EXTINF:-1,CINEMAX 1
+http:///31.220.1.190:80/debo/12345/65462
+#EXTINF:-1,CINEMAX 2
+http:///31.220.1.190:80/debo/12345/65461
+#EXTINF:-1,KINO TV
+http:///31.220.1.190:80/debo/12345/192670
+#EXTINF:-1,Klasik TV
+http:///31.220.1.190:80/debo/12345/160887
+
+#EXTINF:-1,HRT 1
+http:///31.220.1.190:80/debo/12345/65444
+#EXTINF:-1,HRT 2 HD
+http:///31.220.1.190:80/debo/12345/65245
+#EXTINF:-1,HRT 3
+http:///31.220.1.190:80/debo/12345/65246
+#EXTINF:-1,RTL 2 HR
+http:///31.220.1.190:80/debo/12345/124456
 #EXTINF:-1,RTL CRIME
-http://formen1.com:8080/emrah/sari/16868
-#EXTINF:-1,RTL LIVING
-http://formen1.com:8080/emrah/sari/16870
-#EXTINF:-1,RTL PASSION
-http://formen1.com:8080/emrah/sari/16869
+http:///31.220.1.190:80/debo/12345/65421
+#EXTINF:-1,RTL HR
+http:///31.220.1.190:80/debo/12345/65424
+#EXTINF:-1,RTL TV
+http:///31.220.1.190:80/debo/12345/65248
+#EXTINF:-1,RTS 1 HD
+http:///31.220.1.190:80/debo/12345/65436
 #EXTINF:-1,RTS 2
-http://formen1.com:8080/emrah/sari/16860
-#EXTINF:-1,Rtl 2
-http://formen1.com:8080/emrah/sari/1916
+http:///31.220.1.190:80/debo/12345/65438
+#EXTINF:-1,RTS 3
+http:///31.220.1.190:80/debo/12345/155850
+#EXTINF:-1,DOMA TV
+http:///31.220.1.190:80/debo/12345/134372
 
 
 #EXTINF:-1,LISTA 3
