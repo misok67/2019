@@ -14,106 +14,45 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 #EXTINF:-1,****   LISTA 1   ****
 http://www.1
-#EXTINF:-1,Cinemax 2*
-http://130.185.250.190:25461/enigma1/enigma1/903
-#EXTINF:-1,Cinemax*
-http://130.185.250.190:25461/enigma1/enigma1/904
-#EXTINF:-1,Cinestar Action*
-http://130.185.250.190:25461/enigma1/enigma1/901
-#EXTINF:-1,Cinestar Fantasy*
-http://130.185.250.190:25461/enigma1/enigma1/902
-#EXTINF:-1,Premiere Sports 2 HD
-http://130.185.250.190:25461/enigma1/enigma1/990
-#EXTINF:-1,Premiere Sports 2
-http://130.185.250.190:25461/enigma1/enigma1/989
+#EXTINF:0,HBO Adria
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13530
+#EXTINF:0,HBO 2'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13531
+#EXTINF:0,HBO 3
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13532
+#EXTINF:0,Pink Film
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13488
+#EXTINF:0,CineStar Premiere 1
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13452
+#EXTINF:0,CineStar Premiere 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13453
+#EXTINF:0,CineStar TV Action
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13455
+#EXTINF:0,Cinestar TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13454
+#EXTINF:0,Crime & Investigation'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13457
+#EXTINF:0,Fox Movies HD'
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13535
+#EXTINF:0,RTS 1 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12551
+#EXTINF:0,RTS 2
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12552
+#EXTINF:0,RTS 3
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12553
+#EXTINF:0,PRVA Max
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12557
+#EXTINF:0,PRVA Plus
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12558
+#EXTINF:0,PRVA World
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12559
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-#EXTINF:-1,Hbo 1
-http://red-vip.com:8080/Volkan41/volkan41/21293
-#EXTINF:-1,Hbo 2
-http://red-vip.com:8080/Volkan41/volkan41/21292
-#EXTINF:-1,Hbo 3
-http://red-vip.com:8080/Volkan41/volkan41/21291
-#EXTINF:-1,Kino Tv
-http://red-vip.com:8080/Volkan41/volkan41/21288
-#EXTINF:-1,Klasik Tv
-http://red-vip.com:8080/Volkan41/volkan41/21287
-#EXTINF:-1,TV 1000
-http://red-vip.com:8080/Volkan41/volkan41/21261
-#EXTINF:-1,Fox Movies
-http://red-vip.com:8080/Volkan41/volkan41/21294
-#EXTINF:-1,Hrt 1
-http://red-vip.com:8080/Volkan41/volkan41/13118
-#EXTINF:-1,Hrt 2
-http://red-vip.com:8080/Volkan41/volkan41/13117
-#EXTINF:-1,Hrt 3
-http://red-vip.com:8080/Volkan41/volkan41/13119
-#EXTINF:-1,Doma Tv
-http://red-vip.com:8080/Volkan41/volkan41/13102
-#EXTINF:-1,Rtl 2
-http://red-vip.com:8080/Volkan41/volkan41/13112
-#EXTINF:-1,Rtl Crime
-http://red-vip.com:8080/Volkan41/volkan41/21265
-#EXTINF:-1,Rtl
-http://red-vip.com:8080/Volkan41/volkan41/13111
-#EXTINF:-1,Rts 2
-http://red-vip.com:8080/Volkan41/volkan41/21262
-
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
 #EXTINF:-1,HBO 1 HD
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26276
-#EXTINF:-1,HBO 2 HD
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26275
-#EXTINF:-1,HBO 3 HD
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26274
-#EXTINF:-1,CINEMAX 1
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26286
-#EXTINF:-1,CINEMAX 2
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26285
-#EXTINF:-1,CINESTAR ACTION TV
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26284
-#EXTINF:-1,CINESTAR ACTION
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26303
-#EXTINF:-1,CINESTAR FANTASY
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26283
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26282
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26281
-#EXTINF:-1,CINESTAR TV
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26302
-#EXTINF:-1,FOX MOVIES HD
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26277
-#EXTINF:-1,KLASIK TV
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26261
-#EXTINF:-1,TV 1000
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26254
-
-#EXTINF:-1,HRT 1
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26198
-#EXTINF:-1,HRT 2 HD
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26197
-#EXTINF:-1,HRT 3
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26196
-#EXTINF:-1,DOMA TV HD
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26199
-#EXTINF:-1,DOMA TV
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26200
-#EXTINF:-1,RTL 2
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26188
-#EXTINF:-1,RTL CRIME
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26187
-#EXTINF:-1,RTL
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26189
-#EXTINF:-1,RTS 1
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26159
-#EXTINF:-1,RTS 2
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26158
-#EXTINF:-1,RTS 3
-http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26157
 
 #EXTINF:-1,****   LISTA 4   *****
 http://www.5
