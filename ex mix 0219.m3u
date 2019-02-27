@@ -12,6 +12,22 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+#EXTINF:-1,Nova TV
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+#EXTINF:-1,Nova TV (L2)
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/5313
+#EXTINF:-1,Nova TV HD
+http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14451
+#EXTINF:-1,Nova World
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/2666
+#EXTINF:-1,Doma TV
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/5312
+#EXTINF:-1,Doma TV HD
+http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14450
+#EXTINF:-1,RTL 2
+http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14445
+#EXTINF:-1 ,RTL Crime
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/5314
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
