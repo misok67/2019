@@ -14,20 +14,18 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,Nova TV (L2)
-http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/5313
 #EXTINF:-1,Nova TV HD
 http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14451
-#EXTINF:-1,Nova World
-http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/2666
-#EXTINF:-1,Doma TV
-http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/5312
 #EXTINF:-1,Doma TV HD
 http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14450
 #EXTINF:-1,RTL 2
 http://qqtv.nl:80/f2KFRMfrYU/YwJN6WkmQi/14445
-#EXTINF:-1 ,RTL Crime
-http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/5314
+#EXTINF:-1,Doma tv
+http://iptvtool.es:9977/joa1/joa1/52949
+#EXTINF:-1,RTL 2
+http://iptvtool.es:9977/joa1/joa1/52873
+#EXTINF:-1,RTL Crime Cro
+http://iptvtool.es:9977/joa1/joa1/52872
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
@@ -42,6 +40,123 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
 #EXTINF:-1,****   LISTA 1   ****
 http://www.1
+#EXTINF:0,EX-YU: HBO 1 HD
+http://31.220.1.190:8080/11223344/44332211/184745
+#EXTINF:0,EX-YU: HBO 2 HD
+http://31.220.1.190:8080/11223344/44332211/65452
+#EXTINF:0,EX-YU: HBO 3 HD
+http://31.220.1.190:8080/11223344/44332211/65450
+#EXTINF:0,EX-YU: HBO HD
+http://31.220.1.190:8080/11223344/44332211/65376
+#EXTINF:0,EX-YU: HBO Comedy
+http://31.220.1.190:8080/11223344/44332211/65455
+#EXTINF:0,EX-YU: KINO TV
+http://31.220.1.190:8080/11223344/44332211/192670
+#EXTINF:0,EX-YU: Klasik TV
+http://31.220.1.190:8080/11223344/44332211/160887
+#EXTINF:0,EX-YU: Pink Film
+http://31.220.1.190:8080/11223344/44332211/65491
+#EXTINF:0,EX-YU: CINEMAX 1
+http://31.220.1.190:8080/11223344/44332211/65462
+#EXTINF:0,EX-YU: CINEMAX 2
+http://31.220.1.190:8080/11223344/44332211/65461
+#EXTINF:0,EX-YU: CINESTAR ACTION TV
+http://31.220.1.190:8080/11223344/44332211/65459
+#EXTINF:0,SRB: CINESTAR TV ACTION
+http://31.220.1.190:8080/11223344/44332211/134453
+#EXTINF:0,SRB: CINESTAR TV
+http://31.220.1.190:8080/11223344/44332211/134452
+#EXTINF:0,EX-YU: CINESTAR TV
+http://31.220.1.190:8080/11223344/44332211/78442
+#EXTINF:0,EX-YU: Cinemax HD
+http://31.220.1.190:8080/11223344/44332211/65463
+#EXTINF:0,EX-YU: Cinestar Fantasy HD
+http://31.220.1.190:8080/11223344/44332211/65298
+#EXTINF:0,EX-YU: Doma TV HD
+http://31.220.1.190:8080/11223344/44332211/65415
+#EXTINF:0,EX-YU: Fox Movies HD
+http://31.220.1.190:8080/11223344/44332211/65470
+#EXTINF:0,EX-YU: RTL 2 HR
+http://31.220.1.190:8080/11223344/44332211/124456
+#EXTINF:0,EX-YU: RTL 2
+http://31.220.1.190:8080/11223344/44332211/65249
+#EXTINF:0,EX-YU: RTL CRIME
+http://31.220.1.190:8080/11223344/44332211/65421
+#EXTINF:0,EX-YU: TV 1000
+http://31.220.1.190:8080/11223344/44332211/65328
+
+#EXTINF:0,HR: CineMax 2
+http://31.220.1.190:8080/11223344/44332211/156655
+#EXTINF:0,HR: CineStar Fantasy
+http://31.220.1.190:8080/11223344/44332211/156651
+#EXTINF:0,HR: CineStar Premiere 1
+http://31.220.1.190:8080/11223344/44332211/156652
+#EXTINF:0,HR: CineStar Premiere 2
+http://31.220.1.190:8080/11223344/44332211/156653
+#EXTINF:0,HR: CineStar TV
+http://31.220.1.190:8080/11223344/44332211/156650
+#EXTINF:0,HR: Cinestar Action
+http://31.220.1.190:8080/11223344/44332211/197281
+#EXTINF:0,HR: DOMA TV
+http://31.220.1.190:8080/11223344/44332211/134372
+#EXTINF:0,HR: FOX Movies
+http://31.220.1.190:8080/11223344/44332211/197302
+#EXTINF:0,HR: HBO 2 HD
+http://31.220.1.190:8080/11223344/44332211/134373
+#EXTINF:0,HR: HBO 3 HD
+http://31.220.1.190:8080/11223344/44332211/156649
+#EXTINF:0,HR: HBO HD
+http://31.220.1.190:8080/11223344/44332211/134374
+#EXTINF:0,HR: KLASIK TV
+http://31.220.1.190:8080/11223344/44332211/134141
+#EXTINF:0,HR: Kino TV
+http://31.220.1.190:8080/11223344/44332211/156644
+#EXTINF:0,HR: RTL 2
+http://31.220.1.190:8080/11223344/44332211/146078
+#EXTINF:0,HR: RTL CRIME
+http://31.220.1.190:8080/11223344/44332211/134381
+
+
+#EXTINF:-1,****    LISTA 2   *****
+http://www.2
+#EXTINF:-1,HBO 1
+http://iptvtool.es:9977/joa1/joa1/52937
+#EXTINF:-1,HBO 2 HD
+http://iptvtool.es:9977/joa1/joa1/52936
+#EXTINF:-1,HBO 3 HD
+http://iptvtool.es:9977/joa1/joa1/52935
+#EXTINF:-1,HBO Adria
+http://iptvtool.es:9977/joa1/joa1/52934
+#EXTINF:-1,HBO Comedy
+http://iptvtool.es:9977/joa1/joa1/52933
+#EXTINF:-1,Klasik TV
+http://iptvtool.es:9977/joa1/joa1/52922
+#EXTINF:-1,Doma tv
+http://iptvtool.es:9977/joa1/joa1/52949
+#EXTINF:-1,RTL 2
+http://iptvtool.es:9977/joa1/joa1/52873
+#EXTINF:-1,RTL Crime Cro
+http://iptvtool.es:9977/joa1/joa1/52872
+#EXTINF:-1,Cinemax 1
+http://iptvtool.es:9977/joa1/joa1/52961
+#EXTINF:-1,Cinemax 2
+http://iptvtool.es:9977/joa1/joa1/52960
+#EXTINF:-1,Cinestar Premiere 1
+http://iptvtool.es:9977/joa1/joa1/52958
+#EXTINF:-1,Cinestar Premiere 2
+http://iptvtool.es:9977/joa1/joa1/52957
+#EXTINF:-1,Cinestar TV
+http://iptvtool.es:9977/joa1/joa1/52956
+#EXTINF:-1,TV 1000
+http://iptvtool.es:9977/joa1/joa1/52848
+#EXTINF:-1,Cinestar Action
+http://iptvtool.es:9977/joa1/joa1/52959
+#EXTINF:-1, ****  LISTA 3  ****
+http://www.3
+#EXTINF:-1,HBO 1 HD
+
+#EXTINF:-1,****   LISTA 4   *****
+http://www.5
 #EXTINF:0,HBO Adria
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13530
 #EXTINF:0,HBO 2'
@@ -74,73 +189,3 @@ http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12557
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12558
 #EXTINF:0,PRVA World
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12559
-
-#EXTINF:-1,****    LISTA 2   *****
-http://www.2
-#EXTINF:-1,HBO 1 HD
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67898
-#EXTINF:-1,HBO 2 HD
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67897
-#EXTINF:-1,HBO 3 HD
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67896
-#EXTINF:-1,KLASIK TV
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67878
-#EXTINF:-1,CINEMAX 1
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67909
-#EXTINF:-1,CINEMAX 2
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67908
-#EXTINF:-1,CINESTAR ACTION TV
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67907
-#EXTINF:-1,CINESTAR ACTION
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67864
-#EXTINF:-1,CINESTAR FANTASY
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67906
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67905
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67904
-#EXTINF:-1,CINESTAR TV
-http://mag.cobra-group.media:80/qqXgWvJmo9/tViBSq76Xu/67903
-#EXTINF:-1, ****  LISTA 3  ****
-http://www.3
-#EXTINF:-1,HBO 1 HD
-
-#EXTINF:-1,****   LISTA 4   *****
-http://www.5
-#EXTINF:0,Pink Comedy
-http://212.200.127.246:4022/udp/239.1.0.184:1234
-#EXTINF:0,Pink Crime & Mystery
-http://212.200.127.246:4022/udp/239.1.0.172:1234
-#EXTINF:0,Pink Premium
-http://212.200.127.246:4022/udp/239.1.0.176:1234
-#EXTINF:0,Pink Sci-Fi & Fantasy
-http://212.200.127.246:4022/udp/239.1.0.174:1234
-#EXTINF:0,Pink Thriller
-http://212.200.127.246:4022/udp/239.1.0.171:1234
-#EXTINF:0,Filmbox Plus HD
-http://212.200.127.246:4022/udp/239.1.1.37:1234
-#EXTINF:0,PRVA HD
-http://212.200.127.246:4022/udp/239.1.1.155:1234
-#EXTINF:0,PTC 1 HD
-http://212.200.127.246:4022/udp/239.1.1.151:1234
-#EXTINF:0,PTC 2 HD
-http://212.200.127.246:4022/udp/239.1.1.152:1234
-#EXTINF:0,RTS 1 HD
-http://212.200.127.246:4022/udp/239.1.0.151:1234
-#EXTINF:0,RTS 2 HD
-http://212.200.127.246:4022/udp/239.1.0.152:1234
-#EXTINF:0,RTS 3
-http://212.200.127.246:4022/udp/239.1.0.159:1234
-#EXTINF:0,Nat Geo HD
-http://212.200.127.246:4022/udp/239.1.1.35:1234
-#EXTINF:0,Nat Geo Wild HD
-http://212.200.127.246:4022/udp/239.1.1.7:1234
-#EXTINF:0,Viasat Explore HD
-http://212.200.127.246:4022/udp/239.1.1.3:1234
-#EXTINF:0,Viasat History
-http://212.200.127.246:4022/udp/239.1.0.36:1234
-#EXTINF:0,Animal Planet HD
-http://212.200.127.246:4022/udp/239.1.1.73:1234
-#EXTINF:0,Discovery HD
-http://212.200.127.246:4022/udp/239.1.1.32:1234
-
