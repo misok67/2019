@@ -142,41 +142,91 @@ http://iptvtool.es:9977/joa1/joa1/52956
 http://iptvtool.es:9977/joa1/joa1/52848
 #EXTINF:-1,Cinestar Action
 http://iptvtool.es:9977/joa1/joa1/52959
+
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
-#EXTINF:-1,HBO 1 HD
+#EXTINF:-1,HBO
+http://195.154.207.143:89/POr1/mBYFJfzoSy/436
+#EXTINF:-1,HBO 2
+http://195.154.207.143:89/POr1/mBYFJfzoSy/437
+#EXTINF:-1,Cinemax 1
+http://195.154.207.143:89/POr1/mBYFJfzoSy/670
+#EXTINF:-1,Cinemax 2
+http://195.154.207.143:89/POr1/mBYFJfzoSy/671
+#EXTINF:-1,Cinestar Action Thriller
+http://195.154.207.143:89/POr1/mBYFJfzoSy/3481
+#EXTINF:-1,Cinestar Premiere 1
+http://195.154.207.143:89/POr1/mBYFJfzoSy/434
+#EXTINF:-1,Cinestar Premiere 2
+http://195.154.207.143:89/POr1/mBYFJfzoSy/435
+#EXTINF:-1,Cinestar TV
+http://195.154.207.143:89/POr1/mBYFJfzoSy/457
+#EXTINF:-1,CINESTAR FANTASY
+http://195.154.207.143:89/POr1/mBYFJfzoSy/3482
+#EXTINF:-1,FOX Movies
+http://195.154.207.143:89/POr1/mBYFJfzoSy/662
+#EXTINF:-1,Klasik TV
+http://195.154.207.143:89/POr1/mBYFJfzoSy/388
 
 #EXTINF:-1,****   LISTA 4   *****
 http://www.5
-#EXTINF:0,HBO Adria
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13530
-#EXTINF:0,HBO 2'
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13531
-#EXTINF:0,HBO 3
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13532
-#EXTINF:0,Pink Film
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13488
-#EXTINF:0,CineStar Premiere 1
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13452
-#EXTINF:0,CineStar Premiere 2
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13453
-#EXTINF:0,CineStar TV Action
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13455
-#EXTINF:0,Cinestar TV
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13454
-#EXTINF:0,Crime & Investigation'
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13457
-#EXTINF:0,Fox Movies HD'
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13535
-#EXTINF:0,RTS 1 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12551
-#EXTINF:0,RTS 2
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12552
-#EXTINF:0,RTS 3
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12553
-#EXTINF:0,PRVA Max
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12557
-#EXTINF:0,PRVA Plus
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12558
-#EXTINF:0,PRVA World
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12559
+#EXTINF:-1,HBO 1 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/184745
+#EXTINF:-1,HBO 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65452
+#EXTINF:-1,HBO 3 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65450
+#EXTINF:-1,HBO HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65376
+#EXTINF:-1,HBO Comedy
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65455
+#EXTINF:-1,HBO HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/134374
+#EXTINF:-1,HBO 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/134373
+#EXTINF:-1,HBO 3 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156649
+#EXTINF:-1,KINO TV
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/192670
+#EXTINF:-1,Klasik TV
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/160887
+#EXTINF:-1,CINEMAX 1
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65462
+#EXTINF:-1,CINEMAX 2
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65461
+#EXTINF:-1,CINESTAR ACTION TV
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65459
+#EXTINF:-1,CINESTAR TV
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/78442
+#EXTINF:-1,CineMax 1
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156654
+#EXTINF:-1,CineStar Premiere 1
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156652
+#EXTINF:-1,CineStar Premiere 2
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156653
+#EXTINF:-1,CineStar TV
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156650
+#EXTINF:-1,Cinemax HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65463
+#EXTINF:-1,Cinestar Fantasy HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65298
+#EXTINF:-1,Fox Movies HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65470
+#EXTINF:-1,FOX Movies
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/197302
+#EXTINF:-1,TV 1000
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65328
+#EXTINF:-1,KLASIK TV
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/134141
+#EXTINF:-1,SLO: Fox Movies HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/93124
+#EXTINF:-1,SLO: HBO 2
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/91343
+#EXTINF:-1,SLO: HBO 3
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/91342
+#EXTINF:-1,SLO: HBO
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/91307
+#EXTINF:-1,CINESTAR TV ACTION
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/134453
+#EXTINF:-1,CINESTAR TV
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/134452
