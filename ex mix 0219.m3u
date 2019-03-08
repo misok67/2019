@@ -12,24 +12,18 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,Nova TV HD
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/14451
-#EXTINF:-1,Doma TV HD
-http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/14450
+#EXTINF:-1,DOMA TV (HR)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5312
 #EXTINF:-1,Doma tv
-http://iptvtool.es:9977/joa1/joa1/52949
-#EXTINF:0, Doma TV HD
-http://31.220.1.190:8080/11223344/44332211/65415
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/204.ts
 #EXTINF:-1,RTL 2
-http://iptvtool.es:9977/joa1/joa1/52873
-#EXTINF:-1,RTL Crime Cro
-http://iptvtool.es:9977/joa1/joa1/52872
-#EXTINF:0, RTL 2 HR
-http://31.220.1.190:8080/11223344/44332211/124456
-#EXTINF:0, RTL 2
-http://31.220.1.190:8080/11223344/44332211/65249
-#EXTINF:0, RTL CRIME
-http://31.220.1.190:8080/11223344/44332211/65421
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/325.ts
+#EXTINF:-1,EX-YU: RTL 2
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2672
+#EXTINF:-1,RTL Crime Hrvatska
+http://195.154.207.143:89/POr1/mBYFJfzoSy/383
+#EXTINF:-1,EX-YU: RTL Crime
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2670
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
@@ -38,6 +32,29 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 #EXTINF:-1,RTS HD
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rtshd
+#EXTINF:-1,Prva CG
+http://195.154.207.143:89/POr1/mBYFJfzoSy/1195
+#EXTINF:-1,Prva MAX
+http://195.154.207.143:89/POr1/mBYFJfzoSy/746
+#EXTINF:-1,Prva Plus
+http://195.154.207.143:89/POr1/mBYFJfzoSy/406
+#EXTINF:-1,Prva World
+http://195.154.207.143:89/POr1/mBYFJfzoSy/1194
+#EXTINF:-1,Kanal A
+http://195.154.207.143:89/POr1/mBYFJfzoSy/530
+#EXTINF:-1,TV SLO 1
+http://195.154.207.143:89/POr1/mBYFJfzoSy/695
+#EXTINF:-1,TV SLO 2
+http://195.154.207.143:89/POr1/mBYFJfzoSy/696
+#EXTINF:-1,POP BRIO
+http://195.154.207.143:89/POr1/mBYFJfzoSy/372
+#EXTINF:-1,POP KINO
+http://195.154.207.143:89/POr1/mBYFJfzoSy/373
+#EXTINF:-1,POP OTO
+http://195.154.207.143:89/POr1/mBYFJfzoSy/374
+#EXTINF:-1,Pop TV
+http://195.154.207.143:89/POr1/mBYFJfzoSy/371
+
 #EXTINF:-1,ANIMAL PLANET
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 #EXTINF:-1,DISCOVERY CHANNEL
@@ -85,7 +102,101 @@ http://cms.iptvboard.me:89/GB048/V3YgTVrauE/457
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
-
+#EXTINF:-1,HBO'
+http://123orca.com:25461/SEBASTIEN/1234567/13530
+#EXTINF:-1,HBO 2'
+http://123orca.com:25461/SEBASTIEN/1234567/13531
+#EXTINF:-1,HBO 3
+http://123orca.com:25461/SEBASTIEN/1234567/13532
+#EXTINF:-1,Cinestar TV
+http://123orca.com:25461/SEBASTIEN/1234567/13454
+#EXTINF:-1,CineStar Premiere 1
+http://123orca.com:25461/SEBASTIEN/1234567/13452
+#EXTINF:-1,CineStar Premiere 2
+http://123orca.com:25461/SEBASTIEN/1234567/13453
+#EXTINF:-1,CineStar TV Action
+http://123orca.com:25461/SEBASTIEN/1234567/13455
+#EXTINF:-1,FilmBox HD'
+http://123orca.com:25461/SEBASTIEN/1234567/13446
+#EXTINF:-1,Filmbox Plus
+http://123orca.com:25461/SEBASTIEN/1234567/13447
+#EXTINF:-1,Filmbox Extra
+http://123orca.com:25461/SEBASTIEN/1234567/13448
+#EXTINF:-1,Fox Life.
+http://123orca.com:25461/SEBASTIEN/1234567/13534
+#EXTINF:-1,Fox Crime.
+http://123orca.com:25461/SEBASTIEN/1234567/13533
+#EXTINF:-1,Fox Movies HD'
+http://123orca.com:25461/SEBASTIEN/1234567/13535
+#EXTINF:-1,Prva Kick
+http://123orca.com:25461/SEBASTIEN/1234567/12561
+#EXTINF:-1,PRVA Max
+http://123orca.com:25461/SEBASTIEN/1234567/12557
+#EXTINF:-1,PRVA Plus
+http://123orca.com:25461/SEBASTIEN/1234567/12558
+#EXTINF:-1,PRVA World
+http://123orca.com:25461/SEBASTIEN/1234567/12559
+#EXTINF:-1,History Channel '
+http://123orca.com:25461/SEBASTIEN/1234567/13527
+#EXTINF:-1,History 2
+http://123orca.com:25461/SEBASTIEN/1234567/13528
+#EXTINF:-1,Crime & Investigation'
+http://123orca.com:25461/SEBASTIEN/1234567/13457
+#EXTINF:-1,DocuBox'
+http://123orca.com:25461/SEBASTIEN/1234567/13462
+#EXTINF:-1,Discovery Channel'
+http://123orca.com:25461/SEBASTIEN/1234567/13458
+#EXTINF:-1,Discovery ID'
+http://123orca.com:25461/SEBASTIEN/1234567/13459
 
 #EXTINF:-1,****   LISTA 4   *****
 http://www.5
+#EXTINF:-1,HBO 2 (HR)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5304
+#EXTINF:-1,HBO HD (HR)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5305
+#EXTINF:-1,HBO 1 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2610
+#EXTINF:-1,HBO 2 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2609
+#EXTINF:-1,HBO 3 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2608
+#EXTINF:-1,Cinestar Premiere 1 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2600
+#EXTINF:-1,Cinestar Premiere 2 HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2599
+#EXTINF:-1,Fox Movies HD
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2595
+#EXTINF:-1,Klasik tv
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2611
+#EXTINF:-1,CINEMAX (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5344
+#EXTINF:-1,CINEMAX 1 (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5343
+#EXTINF:-1,CINEMAX. 2 (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5342
+#EXTINF:-1,CINESTAR PREMIERE 1 (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5338
+#EXTINF:-1,CINESTAR PREMIERE 2 (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5339
+#EXTINF:-1,CINESTAR TV (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5341
+#EXTINF:-1,CINESTAR TV ACTION (RS)
+http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5340
+
+#EXTINF:-1,****   LISTA 5   *****
+http://www.6
+#EXTINF:-1,HBO 2 HD Cro
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/225.ts
+#EXTINF:-1,HBO Cro
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/196.ts
+#EXTINF:-1,Klasik TV
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/340.ts
+#EXTINF:-1,Cinemax 1
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/312.ts
+#EXTINF:-1,Cinemax 2
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/313.ts
+#EXTINF:-1,Cinestar Premiere 1
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/236.ts
+#EXTINF:-1,Cinestar Premiere 2
+http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/237.ts
