@@ -12,18 +12,14 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,DOMA TV (HR)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5312
-#EXTINF:-1,Doma tv
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/204.ts
-#EXTINF:-1,RTL 2
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/325.ts
-#EXTINF:-1,EX-YU: RTL 2
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2672
+#EXTINF:-1 ,Doma TV HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65415
+#EXTINF:-1 ,RTL 2 HR 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/124456
+#EXTINF:-1 ,RTL CRIME 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65421
 #EXTINF:-1,RTL Crime Hrvatska
 http://195.154.207.143:89/POr1/mBYFJfzoSy/383
-#EXTINF:-1,EX-YU: RTL Crime
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2670
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
@@ -86,18 +82,58 @@ http://195.154.207.143:89/POr1/mBYFJfzoSy/388
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-#EXTINF:-1,HBO
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/436
-#EXTINF:-1,HBO 2
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/437
-#EXTINF:-1,HBO 3
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/821
-#EXTINF:-1,Cinemax 1
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/670
-#EXTINF:-1,Cinemax 2
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/671
-#EXTINF:-1,Cinestar TV
-http://cms.iptvboard.me:89/GB048/V3YgTVrauE/457
+#EXTINF:-1 ,HBO 1 HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/184745
+#EXTINF:-1 ,HBO 2 HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65452
+#EXTINF:-1 ,HBO 3 HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65450
+#EXTINF:-1 ,HBO Comedy 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65455
+#EXTINF:-1 ,HBO HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65376
+#EXTINF:-1 ,KINO TV 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/192670
+#EXTINF:-1 ,Klasik TV 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/160887
+#EXTINF:-1 ,Pink Film 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65491
+#EXTINF:-1 ,CINEMAX 1 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65462
+#EXTINF:-1 ,CINEMAX 2 HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65461
+#EXTINF:-1 ,CINEMAX 2 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206506
+#EXTINF:-1 ,Cinestar Premier 1
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/155841
+#EXTINF:-1 , Cinestar Premier 2
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206508
+#EXTINF:-1 , Cinestar Premier 2 HD
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/155843
+#EXTINF:-1 ,CINESTAR ACTION HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65459
+#EXTINF:-1 ,CINESTAR ACTION TV 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206507
+#EXTINF:-1 ,CINESTAR TV HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/206509
+#EXTINF:-1 ,CINESTAR TV 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/78442
+#EXTINF:-1 ,Cinemax HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65463
+#EXTINF:-1 ,Cinestar Fantasy HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65298
+#EXTINF:-1 ,Fox Movies HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65470
+#EXTINF:-1 ,TV 1000 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65328
+#EXTINF:-1 ,SLO: Fox Movies HD 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/93124
+#EXTINF:-1 ,SLO: HBO 2 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/91343
+#EXTINF:-1 ,SLO: HBO 3 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/91342
+#EXTINF:-1 ,SLO: HBO 
+http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/91307
 
 
 #EXTINF:-1, ****  LISTA 3  ****
@@ -151,52 +187,40 @@ http://123orca.com:25461/SEBASTIEN/1234567/13459
 
 #EXTINF:-1,****   LISTA 4   *****
 http://www.5
-#EXTINF:-1,HBO 2 (HR)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5304
-#EXTINF:-1,HBO HD (HR)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5305
-#EXTINF:-1,HBO 1 HD
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2610
-#EXTINF:-1,HBO 2 HD
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2609
-#EXTINF:-1,HBO 3 HD
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2608
-#EXTINF:-1,Cinestar Premiere 1 HD
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2600
-#EXTINF:-1,Cinestar Premiere 2 HD
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2599
-#EXTINF:-1,Fox Movies HD
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2595
-#EXTINF:-1,Klasik tv
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/2611
-#EXTINF:-1,CINEMAX (RS)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5344
-#EXTINF:-1,CINEMAX 1 (RS)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5343
-#EXTINF:-1,CINEMAX. 2 (RS)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5342
-#EXTINF:-1,CINESTAR PREMIERE 1 (RS)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5338
-#EXTINF:-1,CINESTAR PREMIERE 2 (RS)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5339
-#EXTINF:-1,CINESTAR TV (RS)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5341
-#EXTINF:-1,CINESTAR TV ACTION (RS)
-http://kingdiabloiptv.ddns.net:1963/ccamiptv265147896/mOPvL0PYy2lynbr565412/5340
+#EXTINF:-1,HBO 1 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4573
+#EXTINF:-1,HBO 2 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4572
+#EXTINF:-1,HBO 3 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4571
+#EXTINF:-1,HBO Adria
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2317
+#EXTINF:-1,HBO Comedy 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2316
+#EXTINF:-1,Cinemax 1 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2315
+#EXTINF:-1,Cinemax 2 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2314
+#EXTINF:-1,Cinestar Action 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4028
+#EXTINF:-1,Cinestar Premiere 1 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2313
+#EXTINF:-1,Cinestar Premiere 2 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2312
+#EXTINF:-1,Cinestar TV 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4029
+#EXTINF:-1,Film Klub 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/9066
+#EXTINF:-1,Film Klub Extra 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/9065
+#EXTINF:-1,Filmbox Extra 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4027
+#EXTINF:-1,Filmbox Plus 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4026
+#EXTINF:-1,M1 Film 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/227
+#EXTINF:-1,TV1000 
+http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4025
 
 #EXTINF:-1,****   LISTA 5   *****
 http://www.6
-#EXTINF:-1,HBO 2 HD Cro
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/225.ts
-#EXTINF:-1,HBO Cro
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/196.ts
-#EXTINF:-1,Klasik TV
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/340.ts
-#EXTINF:-1,Cinemax 1
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/312.ts
-#EXTINF:-1,Cinemax 2
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/313.ts
-#EXTINF:-1,Cinestar Premiere 1
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/236.ts
-#EXTINF:-1,Cinestar Premiere 2
-http://d-box-iptv.navarrotv.com:8000/live/dreambax1/skupe46546/237.ts
