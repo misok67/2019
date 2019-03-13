@@ -12,6 +12,12 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+#EXTINF:-1,Doma Tv
+http://formen1.com:8080/husnu03/13092018/1919
+#EXTINF:-1,Rtl 2
+http://formen1.com:8080/husnu03/13092018/1916
+#EXTINF:-1,RTL CRIME
+http://formen1.com:8080/husnu03/13092018/16868
 #EXTINF:-1 ,Doma TV HD 
 http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/65415
 #EXTINF:-1 ,RTL 2 HR 
@@ -138,89 +144,24 @@ http://111.90.151.57:8080/bc3n1Et2B/0gR75zm1yU/91307
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
-#EXTINF:-1,HBO'
-http://123orca.com:25461/SEBASTIEN/1234567/13530
-#EXTINF:-1,HBO 2'
-http://123orca.com:25461/SEBASTIEN/1234567/13531
+#EXTINF:-1,HBO 1
+http://formen1.com:8080/husnu03/13092018/16848
+#EXTINF:-1,HBO 2
+http://formen1.com:8080/husnu03/13092018/16847
 #EXTINF:-1,HBO 3
-http://123orca.com:25461/SEBASTIEN/1234567/13532
-#EXTINF:-1,Cinestar TV
-http://123orca.com:25461/SEBASTIEN/1234567/13454
-#EXTINF:-1,CineStar Premiere 1
-http://123orca.com:25461/SEBASTIEN/1234567/13452
-#EXTINF:-1,CineStar Premiere 2
-http://123orca.com:25461/SEBASTIEN/1234567/13453
-#EXTINF:-1,CineStar TV Action
-http://123orca.com:25461/SEBASTIEN/1234567/13455
-#EXTINF:-1,FilmBox HD'
-http://123orca.com:25461/SEBASTIEN/1234567/13446
-#EXTINF:-1,Filmbox Plus
-http://123orca.com:25461/SEBASTIEN/1234567/13447
-#EXTINF:-1,Filmbox Extra
-http://123orca.com:25461/SEBASTIEN/1234567/13448
-#EXTINF:-1,Fox Life.
-http://123orca.com:25461/SEBASTIEN/1234567/13534
-#EXTINF:-1,Fox Crime.
-http://123orca.com:25461/SEBASTIEN/1234567/13533
-#EXTINF:-1,Fox Movies HD'
-http://123orca.com:25461/SEBASTIEN/1234567/13535
-#EXTINF:-1,Prva Kick
-http://123orca.com:25461/SEBASTIEN/1234567/12561
-#EXTINF:-1,PRVA Max
-http://123orca.com:25461/SEBASTIEN/1234567/12557
-#EXTINF:-1,PRVA Plus
-http://123orca.com:25461/SEBASTIEN/1234567/12558
-#EXTINF:-1,PRVA World
-http://123orca.com:25461/SEBASTIEN/1234567/12559
-#EXTINF:-1,History Channel '
-http://123orca.com:25461/SEBASTIEN/1234567/13527
-#EXTINF:-1,History 2
-http://123orca.com:25461/SEBASTIEN/1234567/13528
-#EXTINF:-1,Crime & Investigation'
-http://123orca.com:25461/SEBASTIEN/1234567/13457
-#EXTINF:-1,DocuBox'
-http://123orca.com:25461/SEBASTIEN/1234567/13462
-#EXTINF:-1,Discovery Channel'
-http://123orca.com:25461/SEBASTIEN/1234567/13458
-#EXTINF:-1,Discovery ID'
-http://123orca.com:25461/SEBASTIEN/1234567/13459
+http://formen1.com:8080/husnu03/13092018/16846
+#EXTINF:-1,KINO TV
+http://formen1.com:8080/husnu03/13092018/16845
+#EXTINF:-1,KLASIK TV
+http://formen1.com:8080/husnu03/13092018/16863
+#EXTINF:-1,TV 1000
+http://formen1.com:8080/husnu03/13092018/16840
+#EXTINF:-1,FOX MOVIES
+http://formen1.com:8080/husnu03/13092018/16841
 
 #EXTINF:-1,****   LISTA 4   *****
 http://www.5
-#EXTINF:-1,HBO 1 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4573
-#EXTINF:-1,HBO 2 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4572
-#EXTINF:-1,HBO 3 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4571
-#EXTINF:-1,HBO Adria
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2317
-#EXTINF:-1,HBO Comedy 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2316
-#EXTINF:-1,Cinemax 1 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2315
-#EXTINF:-1,Cinemax 2 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2314
-#EXTINF:-1,Cinestar Action 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4028
-#EXTINF:-1,Cinestar Premiere 1 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2313
-#EXTINF:-1,Cinestar Premiere 2 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/2312
-#EXTINF:-1,Cinestar TV 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4029
-#EXTINF:-1,Film Klub 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/9066
-#EXTINF:-1,Film Klub Extra 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/9065
-#EXTINF:-1,Filmbox Extra 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4027
-#EXTINF:-1,Filmbox Plus 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4026
-#EXTINF:-1,M1 Film 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/227
-#EXTINF:-1,TV1000 
-http://portal.geniptv.com:8080/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4025
+
 
 #EXTINF:-1,****   LISTA 5   *****
 http://www.6
