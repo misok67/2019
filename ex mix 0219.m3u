@@ -12,22 +12,12 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-<<<<<<< HEAD
 #EXTINF:-1,Ex-Yu | Doma Tv
 http://formen1.com:8080/servet07/28082018/1919
 #EXTINF:-1,Ex-Yu | Rtl 2
 http://formen1.com:8080/servet07/28082018/1916
 #EXTINF:-1,Ex-Yu | RTL CRIME
 http://formen1.com:8080/servet07/28082018/16868
-
-=======
-#EXTINF:-1,Doma TV
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44843
-#EXTINF:-1,RTL 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44851
-#EXTINF:-1,RTL CRIME
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44850
->>>>>>> ee7ce9dbfbbc7e2e3fd95301d382f837ab09af6e
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
@@ -59,49 +49,12 @@ http://formen1.com:8080/servet07/28082018/16841
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-<<<<<<< HEAD
-
-#EXTINF:-1, ****  LISTA 3  ****
-http://www.3
-=======
-#EXTINF:-1,HBO ADRIA
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44886
-#EXTINF:-1,HBO 2 SLO
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44807
-#EXTINF:-1,HBO 3
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44853
-#EXTINF:-1,HBO HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44855
-#EXTINF:-1,HBO HD 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44854
-#EXTINF:-1,EX-YU*: HBO 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/52162
-#EXTINF:-1,HBO Comedy
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44806
-#EXTINF:-1,Cinemax HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44825
-#EXTINF:-1,Cinestar Action
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44824
-#EXTINF:-1,Cinestar Fantasy HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44823
-#EXTINF:-1,Cinestar Premier 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44822
-#EXTINF:-1,Cinestar Premiere 1
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44821
-#EXTINF:-1,Fox Movies
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44884
-#EXTINF:-1,KLASIK TV
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44796
-#EXTINF:-1,Pink Film
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44898
-#EXTINF:-1,TV 1000
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44894
-
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
 
->>>>>>> ee7ce9dbfbbc7e2e3fd95301d382f837ab09af6e
+#EXTINF:-1, ****  LISTA 3  ****
+http://www.3
 
 #EXTINF:-1,****   LISTA 4   *****
 http://www.5
@@ -109,156 +62,3 @@ http://www.5
 
 #EXTINF:-1,****   LISTA 5   *****
 http://www.6
-
-#EXTINF:-1,DE: DAZN Bar 1
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/551
-#EXTINF:-1,DE: DAZN Bar 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45939
-#EXTINF:-1,DE: Eurosport 1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43590
-#EXTINF:-1,DE: Eurosport 2 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43589
-#EXTINF:-1,DE: Eurosport 2 xtra HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43588
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43530
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43529
-#EXTINF:-1,ES: Bein Sports España FullHD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43944
-#EXTINF:-1,ES: Bein Sports España HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43945
-#EXTINF:-1,ES: Movistar DEPORTES 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43988
-#EXTINF:-1,ES: Movistar Deportes 1
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/43987
-#EXTINF:-1,NL: FOX SPORTS 3
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45307
-#EXTINF:-1,NL: FOX SPORTS 4
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45350
-#EXTINF:-1,NL: FOX SPORTS 5
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45349
-#EXTINF:-1,NL: FOX SPORTS 6
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45348
-#EXTINF:-1,NL: FOX Sports 2 HD int
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45352
-#EXTINF:-1,NL: FOX Sports EDL 1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45353
-#EXTINF:-1,NL: FOX Sports EDL 3
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45351
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/50048
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/50052
-#EXTINF:-1,PL: CANAL SPORT 1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45541
-#EXTINF:-1,PL: ELEVEN SPORT 1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45507
-#EXTINF:-1,PL: ELEVEN SPORT 2 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45506
-#EXTINF:-1,PL: ELEVEN SPORT 3 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45505
-#EXTINF:-1,PL: ELEVEN SPORT 4 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45504
-#EXTINF:-1,PL: EUROSPORT 1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45483
-#EXTINF:-1,PL: EUROSPORT 2 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45482
-#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45461
-#EXTINF:-1,PL: POLSAT SPORT HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45460
-#EXTINF:-1,PT: EUROSPORT
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/45419
-#EXTINF:-1,Sky Sport 24 Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/24105
-#EXTINF:-1,Sky Sport 24 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/2159
-#EXTINF:-1,Sky Sport 24 SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/5579
-#EXTINF:-1,Sky Sport 251 Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/24301
-#EXTINF:-1,Sky Sport Arena Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/24107
-#EXTINF:-1,Sky Sport Arena HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/2106
-#EXTINF:-1,Sky Sport Arena SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/5581
-#EXTINF:-1,Sky Sport F1 +1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/39758
-#EXTINF:-1,Sky Sport F1 Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/24151
-#EXTINF:-1,Sky Sport F1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/2109
-#EXTINF:-1,Sky Sport F1 SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/5583
-#EXTINF:-1,Sky Sport Football Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/106
-#EXTINF:-1,Sky Sport Football HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/11
-#EXTINF:-1,Sky Sport Football SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/812
-#EXTINF:-1,Sky Sport Golf +1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/39759
-#EXTINF:-1,Sky Sport Golf Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/24153
-#EXTINF:-1,Sky Sport Golf HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/2175
-#EXTINF:-1,Sky Sport Golf SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/9418
-#EXTINF:-1,Sky Sport Info
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/29317
-#EXTINF:-1,Sky Sport Moto GP +1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/39757
-#EXTINF:-1,Sky Sport Moto GP HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/2161
-#EXTINF:-1,Sky Sport Moto GP SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/5584
-#EXTINF:-1,Sky Sport MotoGP Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/24150
-#EXTINF:-1,Sky Sport NBA Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/24149
-#EXTINF:-1,Sky Sport NBA HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/2160
-#EXTINF:-1,Sky Sport NBA SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/9520
-#EXTINF:-1,Sky Sport Serie A Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/29258
-#EXTINF:-1,Sky Sport Serie A HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/2108
-#EXTINF:-1,Sky Sport Serie A SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/5571
-#EXTINF:-1,Sky Sport Uno Full HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/48312
-#EXTINF:-1,Sky Sport Uno HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/164
-#EXTINF:-1,Sky Sport Uno SD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/8585
-#EXTINF:-1,TR: EuroSport 1
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44443
-#EXTINF:-1,TR: EuroSport 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44440
-#EXTINF:-1,UK_BT Sport ESPN
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44127
-#EXTINF:-1,UK_EUROSPORT_1
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44093
-#EXTINF:-1,UK_EUROSPORT_2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44092
-#EXTINF:-1,USA: BEIN Sports HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44288
-#EXTINF:-1,USA: ESPN Deportes HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44235
-#EXTINF:-1,USA: FOX Sports 1 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44301
-#EXTINF:-1,USA: FOX Sports 2 HD
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44302
-#EXTINF:-1,USA: TSN HD 1
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44308
-#EXTINF:-1,USA: TSN HD 2
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44307
-#EXTINF:-1,USA: TSN HD 3
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44306
-#EXTINF:-1,USA: TSN HD 4
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44305
-#EXTINF:-1,USA: TSN HD 5
-http://ebest.ddns.net:80/j8cTfGeb7V/4WDLxIgvY2/44304
