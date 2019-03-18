@@ -12,40 +12,60 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,Ex-Yu | Doma Tv
-http://formen1.com:8080/servet07/28082018/1919
-#EXTINF:-1,Ex-Yu | Rtl 2
-http://formen1.com:8080/servet07/28082018/1916
-#EXTINF:-1,Ex-Yu | RTL CRIME
-http://formen1.com:8080/servet07/28082018/16868
+#EXTINF:0,EX-YU: Doma TV HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65415
+#EXTINF:0,EX-YU: RTL 2
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65249
+#EXTINF:0,EX-YU: RTL CRIME
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65421
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-1,RTS HD
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rtshd
 #EXTINF:-1,ANIMAL PLANET
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 #EXTINF:-1,DISCOVERY CHANNEL
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
 #EXTINF:-1,****   LISTA 1   ****
 http://www.1
-#EXTINF:-1,Ex-Yu | HBO 1
-http://formen1.com:8080/servet07/28082018/16848
-#EXTINF:-1,Ex-Yu | HBO 2
-http://formen1.com:8080/servet07/28082018/16847
-#EXTINF:-1,Ex-Yu | HBO 3
-http://formen1.com:8080/servet07/28082018/16846
-#EXTINF:-1,Ex-Yu | KINO TV
-http://formen1.com:8080/servet07/28082018/16845
-#EXTINF:-1,Ex-Yu | KLASIK TV
-http://formen1.com:8080/servet07/28082018/16863
-#EXTINF:-1,Ex-Yu | TV 1000
-http://formen1.com:8080/servet07/28082018/16840
-#EXTINF:-1,Ex-Yu | FOX MOVIES
-http://formen1.com:8080/servet07/28082018/16841
+#EXTINF:0,EX-YU: HBO Adria FHD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/184745
+#EXTINF:0,EX-YU: HBO Comedy
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65455
+#EXTINF:0,EX-YU: HBO HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65376
+#EXTINF:0,EX-YU: HBO 2 HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65452
+#EXTINF:0,EX-YU: HBO 3 HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65450
+#EXTINF:0,EX-YU: HBO 1+ HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/207362
+#EXTINF:0,EX-YU: KINO TV
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/192670
+#EXTINF:0,EX-YU: Klassik TV
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65405
+#EXTINF:0,EX-YU: Pink Film
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65491
+#EXTINF:0,EX-YU: CINEMAX 1
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65462
+#EXTINF:0,EX-YU: CINEMAX 2 HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65461
+#EXTINF:0,EX-YU: Cinemax HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65463
+#EXTINF:0,EX-YU: CINESTAR ACTION HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65459
+#EXTINF:0,EX-YU: Cinestar Fantasy HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65298
+#EXTINF:0,EX-YU: Cinestar Premier 1
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/155841
+#EXTINF:0,EX-YU: Cinestar Premier 2 HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/155843
+#EXTINF:0,EX-YU: CINESTAR TV HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/78442
+#EXTINF:0,EX-YU: Fox Movies HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65470
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
