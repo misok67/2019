@@ -12,12 +12,20 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:0,EX-YU: Doma TV HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65415
-#EXTINF:0,EX-YU: RTL 2
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65249
-#EXTINF:0,EX-YU: RTL CRIME
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65421
+#EXTINF:-1,EX-YU_CR: DOMA TV
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13537
+#EXTINF:-1,EX-YU_CR: RTL 2
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13525
+#EXTINF:-1,EX-YU_CR: RTL CRIME
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13524
+#EXTINF:-1,EX-YU_SLO: KANAL A HD
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13484
+#EXTINF:-1,EX-YU_SLO: POP TV HD
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13482
+#EXTINF:-1,EX-YU_SLO: SLO 1 HD
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13481
+#EXTINF:-1,EX-YU_SLO: SLO 2 HD
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13480
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
@@ -30,42 +38,28 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
 #EXTINF:-1,****   LISTA 1   ****
 http://www.1
-#EXTINF:0,EX-YU: HBO Adria FHD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/184745
-#EXTINF:0,EX-YU: HBO Comedy
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65455
-#EXTINF:0,EX-YU: HBO HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65376
-#EXTINF:0,EX-YU: HBO 2 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65452
-#EXTINF:0,EX-YU: HBO 3 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65450
-#EXTINF:0,EX-YU: HBO 1+ HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/207362
-#EXTINF:0,EX-YU: KINO TV
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/192670
-#EXTINF:0,EX-YU: Klassik TV
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65405
-#EXTINF:0,EX-YU: Pink Film
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65491
-#EXTINF:0,EX-YU: CINEMAX 1
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65462
-#EXTINF:0,EX-YU: CINEMAX 2 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65461
-#EXTINF:0,EX-YU: Cinemax HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65463
-#EXTINF:0,EX-YU: CINESTAR ACTION HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65459
-#EXTINF:0,EX-YU: Cinestar Fantasy HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65298
-#EXTINF:0,EX-YU: Cinestar Premier 1
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/155841
-#EXTINF:0,EX-YU: Cinestar Premier 2 HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/155843
-#EXTINF:0,EX-YU: CINESTAR TV HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/78442
-#EXTINF:0,EX-YU: Fox Movies HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/65470
+#EXTINF:-1,EX-YU_CR: HBO
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13536
+#EXTINF:-1,EX-YU_CR: HBO 2
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13535
+#EXTINF:-1,EX-YU_SR: HBO ADRIA
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13449
+#EXTINF:-1,EX-YU_CR: KLASIK
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13529
+#EXTINF:-1,EX-YU_SR: CINEMAX 1
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13468
+#EXTINF:-1,EX-YU_SR: CINEMAX 2
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13467
+#EXTINF:-1,EX-YU_SR: CINESTAR PREMIERE 1
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13466
+#EXTINF:-1,EX-YU_SR: CINESTAR PREMIERE 2
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13465
+#EXTINF:-1,EX-YU_SR: CINESTAR TV
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13464
+#EXTINF:-1,EX-YU_SR: CINESTAR TV ACTION
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13463
+#EXTINF:-1,EX-YU_SR: FOX MOVIES
+http://iptvpremium.selfip.net:80/3HcdvVLVcd/Kq7HFUUDpH/13453
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
