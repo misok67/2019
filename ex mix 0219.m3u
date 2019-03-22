@@ -12,14 +12,11 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,CRO: DOMA TV
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26200
-#EXTINF:-1,CRO: DOMA TV HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26199
-#EXTINF:-1,CRO: RTL 2
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26188
-#EXTINF:-1,CRO: RTL CRIME
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26187
+#EXTINF:-1,RTL 2 HD
+http://premiumtv.eu:8000/burimnamani/eset/156
+#EXTINF:-1,RTL 2 HR
+http://premiumtv.eu:8000/burimnamani/eset/1948
+
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
@@ -32,36 +29,172 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
 #EXTINF:-1,****   LISTA 1   ****
 http://www.1
+#EXTINF:-1,HBO
+http://premiumtv.eu:8000/burimnamani/eset/454
+#EXTINF:-1,HBO 2
+http://premiumtv.eu:8000/burimnamani/eset/750
+#EXTINF:-1,HBO 3
+http://premiumtv.eu:8000/burimnamani/eset/219
 
-#EXTINF:-1,EXYU: HBO 1 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26276
-#EXTINF:-1,EXYU: HBO 2 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26275
-#EXTINF:-1,EXYU: HBO 3 HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26274
-#EXTINF:-1,EXYU: KINOTV  HR
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26300
-#EXTINF:-1,EXYU: CINEMAX 1
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26286
-#EXTINF:-1,EXYU: CINEMAX 2
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26285
-#EXTINF:-1,EXYU: CINESTAR ACTION TV
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26284
-#EXTINF:-1,EXYU: CINESTAR FANTASY
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26283
-#EXTINF:-1,EXYU: CINESTAR PREMIERE 1
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26282
-#EXTINF:-1,EXYU: CINESTAR PREMIERE 2
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26281
-#EXTINF:-1,EXYU: KLASIK TV
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26261
-#EXTINF:-1,EXYU: FOX MOVIES HD
-http://www.sansat.net:25461/adis/6f7qV6kQPY/26277
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://premiumtv.eu:8000/burimnamani/eset/460
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://premiumtv.eu:8000/burimnamani/eset/459
+#EXTINF:-1,CineStar TV Action
+http://premiumtv.eu:8000/burimnamani/eset/2171
+#EXTINF:-1,CineStar TV Fantasy
+http://premiumtv.eu:8000/burimnamani/eset/2172
+#EXTINF:-1,CineStar TV
+http://premiumtv.eu:8000/burimnamani/eset/2170
+#EXTINF:-1,FOX MOVIES
+http://premiumtv.eu:8000/burimnamani/eset/222
+#EXTINF:-1,TV 1000
+http://premiumtv.eu:8000/burimnamani/eset/226
+
+
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
+#EXTINF:-1,HBO 1
+http://force102.com:8080/murselabi/20022018/20346
+#EXTINF:-1,HBO 2
+http://force102.com:8080/murselabi/20022018/20345
+#EXTINF:-1,HBO 3
+http://force102.com:8080/murselabi/20022018/20344
+#EXTINF:-1,KINO TV
+http://force102.com:8080/murselabi/20022018/20341
+#EXTINF:-1,KLASIK TV
+http://force102.com:8080/murselabi/20022018/20340
+#EXTINF:-1,TV 1000
+http://force102.com:8080/murselabi/20022018/20314
+#EXTINF:-1,FOX MOVIES
+http://force102.com:8080/murselabi/20022018/20347
+#EXTINF:-1,Doma Tv
+http://force102.com:8080/murselabi/20022018/17548
+#EXTINF:-1,Rtl 2
+http://force102.com:8080/murselabi/20022018/17558
+#EXTINF:-1,RTL CRIME
+http://force102.com:8080/murselabi/20022018/20318
+
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
+#EXTINF:-1,Cinestar TV
+http://123orca.com:25461/Michael1/Michael1/13454
+#EXTINF:-1,CineStar Premiere 1
+http://123orca.com:25461/Michael1/Michael1/13452
+#EXTINF:-1,CineStar Premiere 2
+http://123orca.com:25461/Michael1/Michael1/13453
+#EXTINF:-1,CineStar TV Action
+http://123orca.com:25461/Michael1/Michael1/13455
+#EXTINF:-1,HBO'
+http://123orca.com:25461/Michael1/Michael1/13530
+#EXTINF:-1,HBO 2'
+http://123orca.com:25461/Michael1/Michael1/13531
+#EXTINF:-1,HBO 3
+http://123orca.com:25461/Michael1/Michael1/13532
+#EXTINF:-1,Pink Film
+http://123orca.com:25461/Michael1/Michael1/13488
+#EXTINF:-1,Doma TV HD
+http://123orca.com:25461/Michael1/Michael1/13463
+---------
+#EXTINF:-1,? ? ? ? ? ?HIRVATISTAN? ? ? ? ? ?.
+http://jokeriptv.online:1453/Veysel1/Veysel1/100499
+#EXTINF:-1,ARENA SPORT 1 HD hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100230
+#EXTINF:-1,ARENA SPORT 1 SRB
+http://jokeriptv.online:1453/Veysel1/Veysel1/100224
+#EXTINF:-1,ARENA SPORT 2 HD hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100229
+#EXTINF:-1,ARENA SPORT 2 SRB
+http://jokeriptv.online:1453/Veysel1/Veysel1/100223
+#EXTINF:-1,ARENA SPORT 3  low
+http://jokeriptv.online:1453/Veysel1/Veysel1/100199
+#EXTINF:-1,ARENA SPORT 3 HD hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100228
+#EXTINF:-1,ARENA SPORT 3 SRB
+http://jokeriptv.online:1453/Veysel1/Veysel1/100222
+#EXTINF:-1,ARENA SPORT 4 HD hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100227
+#EXTINF:-1,ARENA SPORT 4 low
+http://jokeriptv.online:1453/Veysel1/Veysel1/100200
+#EXTINF:-1,ARENA SPORT 4 SRB
+http://jokeriptv.online:1453/Veysel1/Veysel1/100221
+#EXTINF:-1,ARENA SPORT 5 HR
+http://jokeriptv.online:1453/Veysel1/Veysel1/100226
+#EXTINF:-1,ARENA SPORT 5 SRB
+http://jokeriptv.online:1453/Veysel1/Veysel1/100220
+#EXTINF:-1,ARENA SPORT BIH
+http://jokeriptv.online:1453/Veysel1/Veysel1/100225
+#EXTINF:-1,CINESTAR COMEDY Srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100430
+#EXTINF:-1,CINESTAR FANTASY srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100359
+#EXTINF:-1,CITY TV MOSTAR bih
+http://jokeriptv.online:1453/Veysel1/Veysel1/100404
+#EXTINF:-1,CITY TV srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100319
+#EXTINF:-1,CMC hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100462
+#EXTINF:-1,COMEDY CENTRAL hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100450
+#EXTINF:-1,DISCOVERY  HD hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100455
+#EXTINF:-1,DISCOVERY ID HD hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100456
+#EXTINF:-1,DISCOVERY srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100332
+#EXTINF:-1,DIVA  TV hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100465
+#EXTINF:-1,DM SAT lokal
+http://jokeriptv.online:1453/Veysel1/Veysel1/100353
+#EXTINF:-1,DMC hrv
+http://jokeriptv.online:1453/Veysel1/Veysel1/100447
+#EXTINF:-1,DOMA TV
+http://jokeriptv.online:1453/Veysel1/Veysel1/100491
+#EXTINF:-1,HBO  FAMILLY hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100484
+#EXTINF:-1,HNTV
+http://jokeriptv.online:1453/Veysel1/Veysel1/100233
+#EXTINF:-1,RTL 2
+http://jokeriptv.online:1453/Veysel1/Veysel1/100485
+#EXTINF:-1,RTL CRIME
+http://jokeriptv.online:1453/Veysel1/Veysel1/100486
+#EXTINF:-1,SPORT CLUB 1 HR
+http://jokeriptv.online:1453/Veysel1/Veysel1/100217
+#EXTINF:-1,SPORT CLUB 2 HR
+http://jokeriptv.online:1453/Veysel1/Veysel1/100216
+#EXTINF:-1,SPORT CLUB 3 HR
+http://jokeriptv.online:1453/Veysel1/Veysel1/100215
+#EXTINF:-1,SPORT CLUB 4 HR
+http://jokeriptv.online:1453/Veysel1/Veysel1/100214
+#EXTINF:-1,SPORT CLUB 5 HR
+http://jokeriptv.online:1453/Veysel1/Veysel1/100213
+#EXTINF:-1,SPORT CLUB 6 HR
+http://jokeriptv.online:1453/Veysel1/Veysel1/100212
+#EXTINF:-1,SPORT CLUB 7 hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100211
+#EXTINF:-1,SPORT CLUB 8 hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100210
+#EXTINF:-1,SPORT CLUB 9
+http://jokeriptv.online:1453/Veysel1/Veysel1/100209
+#EXTINF:-1,SPORT KLUB  2  slo
+http://jokeriptv.online:1453/Veysel1/Veysel1/100208
+#EXTINF:-1,SPORT KLUB  2 HD srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100205
+#EXTINF:-1,SPORT KLUB  3  slo
+http://jokeriptv.online:1453/Veysel1/Veysel1/100207
+#EXTINF:-1,SPORT KLUB 1 HD srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100206
+#EXTINF:-1,SPORT KLUB 3 HD srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100204
+#EXTINF:-1,SPORT KLUB 4 HD srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100203
+#EXTINF:-1,SPORT KLUB 5 HD srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100202
+#EXTINF:-1,SPORT KLUB 6 HD srb
+http://jokeriptv.online:1453/Veysel1/Veysel1/100201
+#EXTINF:-1,SPORTSKA TV hr
+http://jokeriptv.online:1453/Veysel1/Veysel1/100232
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
