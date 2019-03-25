@@ -12,10 +12,12 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,RTL 2 HD
-http://premiumtv.eu:8000/burimnamani/eset/156
-#EXTINF:-1,RTL 2 HR
-http://premiumtv.eu:8000/burimnamani/eset/1948
+#EXTINF:-1, DOMA TV
+http://dnsdue.xyz:80/Usta/12345/24836
+#EXTINF:-1, RTL 2
+http://dnsdue.xyz:80/Usta/12345/24889
+#EXTINF:-1, RTL CRIME
+http://dnsdue.xyz:80/Usta/12345/24890
 
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
@@ -29,135 +31,34 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
 #EXTINF:-1,****   LISTA 1   ****
 http://www.1
-#EXTINF:-1,Cinestar TV
-http://123orca.com:25461/Michael1/Michael1/13454
-#EXTINF:-1,CineStar Premiere 1
-http://123orca.com:25461/Michael1/Michael1/13452
-#EXTINF:-1,CineStar Premiere 2
-http://123orca.com:25461/Michael1/Michael1/13453
-#EXTINF:-1,CineStar TV Action
-http://123orca.com:25461/Michael1/Michael1/13455
-#EXTINF:-1,HBO'
-http://123orca.com:25461/Michael1/Michael1/13530
-#EXTINF:-1,HBO 2'
-http://123orca.com:25461/Michael1/Michael1/13531
-#EXTINF:-1,HBO 3
-http://123orca.com:25461/Michael1/Michael1/13532
-#EXTINF:-1,Pink Film
-http://123orca.com:25461/Michael1/Michael1/13488
-#EXTINF:-1,Doma TV HD
-http://123orca.com:25461/Michael1/Michael1/13463
-
+#EXTINF:-1, HBO ADRIA
+http://dnsdue.xyz:80/Usta/12345/24851
+#EXTINF:-1, HBO COMEDY
+http://dnsdue.xyz:80/Usta/12345/24852
+#EXTINF:-1, CINEMAX 2
+http://dnsdue.xyz:80/Usta/12345/24829
+#EXTINF:-1, CINEMAX HD
+http://dnsdue.xyz:80/Usta/12345/24830
+#EXTINF:-1, CINESTAR ACTION
+http://dnsdue.xyz:80/Usta/12345/24831
+#EXTINF:-1, CINESTAR PREMIERE 1
+http://dnsdue.xyz:80/Usta/12345/24832
+#EXTINF:-1, CINESTAR PREMIERE 2
+http://dnsdue.xyz:80/Usta/12345/24833
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-
-#EXTINF:-1,CINESTAR COMEDY Srb
-http://jokeriptv.online:1453/Veysel1/Veysel1/100430
-#EXTINF:-1,CINESTAR FANTASY srb
-http://jokeriptv.online:1453/Veysel1/Veysel1/100359
-#EXTINF:-1,DOMA TV
-http://jokeriptv.online:1453/Veysel1/Veysel1/100491
-#EXTINF:-1,HBO  FAMILLY hr
-http://jokeriptv.online:1453/Veysel1/Veysel1/100484
-#EXTINF:-1,HNTV
-http://jokeriptv.online:1453/Veysel1/Veysel1/100233
-#EXTINF:-1,RTL 2
-http://jokeriptv.online:1453/Veysel1/Veysel1/100485
-#EXTINF:-1,RTL CRIME
-http://jokeriptv.online:1453/Veysel1/Veysel1/100486
-#EXTINF:-1,SPORT CLUB 1 HR
-http://jokeriptv.online:1453/Veysel1/Veysel1/100217
-#EXTINF:-1,SPORT CLUB 2 HR
-http://jokeriptv.online:1453/Veysel1/Veysel1/100216
-#EXTINF:-1,SPORT CLUB 3 HR
-http://jokeriptv.online:1453/Veysel1/Veysel1/100215
-#EXTINF:-1,SPORT CLUB 4 HR
-http://jokeriptv.online:1453/Veysel1/Veysel1/100214
-#EXTINF:-1,SPORT CLUB 5 HR
-http://jokeriptv.online:1453/Veysel1/Veysel1/100213
-#EXTINF:-1,SPORT CLUB 6 HR
-http://jokeriptv.online:1453/Veysel1/Veysel1/100212
-#EXTINF:-1,SPORT CLUB 7 hr
-http://jokeriptv.online:1453/Veysel1/Veysel1/100211
-#EXTINF:-1,SPORT CLUB 8 hr
-http://jokeriptv.online:1453/Veysel1/Veysel1/100210
-#EXTINF:-1,SPORT CLUB 9
-http://jokeriptv.online:1453/Veysel1/Veysel1/100209
-#EXTINF:-1,SPORT KLUB 1 HD srb
-http://jokeriptv.online:1453/Veysel1/Veysel1/100206
-#EXTINF:-1,SPORT KLUB 3 HD srb
-http://jokeriptv.online:1453/Veysel1/Veysel1/100204
-#EXTINF:-1,SPORT KLUB 4 HD srb
-http://jokeriptv.online:1453/Veysel1/Veysel1/100203
-#EXTINF:-1,SPORT KLUB 5 HD srb
-http://jokeriptv.online:1453/Veysel1/Veysel1/100202
-#EXTINF:-1,SPORT KLUB 6 HD srb
-http://jokeriptv.online:1453/Veysel1/Veysel1/100201
-
+#EXTINF:-1,HBO 2 HD
+http://super1.ideaiptv.com:8000/ali/123456/5581
+#EXTINF:-1,NOVA
+http://super1.ideaiptv.com:8000/ali/123456/5576
+#EXTINF:-1,RTL 2 HR
+http://super1.ideaiptv.com:8000/ali/123456/5552
+#EXTINF:-1,TV DOMA
+http://super1.ideaiptv.com:8000/ali/123456/5550
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
-#EXTINF:0,EX-YU: Doma tv
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/106
-#EXTINF:0,EX-YU: RTL LIVING
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/2016
-#EXTINF:0,EX-YU: HBO 1
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/120
-#EXTINF:0,EX-YU: HBO 2
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/121
-#EXTINF:0,EX-YU: HBO 3
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/2010
-#EXTINF:0,EX-YU: Klasik TV
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/125
-#EXTINF:0,EX-YU: Cinemax 1
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/98
-#EXTINF:0,EX-YU: Cinemax 2
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/99
-#EXTINF:0,EX-YU: Cinestar Premiere 1
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/101
-#EXTINF:0,EX-YU: Cinestar Premiere 2
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/102
-#EXTINF:0,EX-YU: Fox Movies
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/112
-#EXTINF:0,Pink Film
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/1162
-#EXTINF:0,EX-YU: Sport Klub 1 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/248
-#EXTINF:0,EX-YU: Sport Klub 2 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/249
-#EXTINF:0,EX-YU: Sport Klub 3 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/250
-#EXTINF:0,EX-YU: Sport Klub 1 Cro
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/78
-#EXTINF:0,EX-YU: Sport Klub 2 Cro
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/79
-#EXTINF:0,EX-YU: Sport Klub 3 Cro
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/80
-#EXTINF:0,EX-YU: Arena Sport 1 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/84
-#EXTINF:0,EX-YU: Arena Sport 2 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/85
-#EXTINF:0,EX-YU: Arena Sport 3 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/86
-#EXTINF:0,EX-YU: Arena Sport 4 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/87
-#EXTINF:0,EX-YU: Arena Sport 5 Srb
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/88
-#EXTINF:0,EX-YU: Arena Sports 1 HD Croatia
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/89
-#EXTINF:0,EX-YU: Arena Sports 2 HD Croatia
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/90
-#EXTINF:0,EX-YU: Arena Sports 3 HD Croatia
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/91
-#EXTINF:0,EX-YU: Arena Sports 4 HD Croatia
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/92
-#EXTINF:0,EX-YU: Arena Sports 5 HD Croatia
-http://195.154.47.66:8000/6QrHzVRU5T/AUUkd8DhVn/677
-
----------
-#EXTINF:-1,? ? ? ? ? ?HIRVATISTAN? ? ? ? ? ?.
-http://jokeriptv.online:1453/Veysel1/Veysel1/100499
 
 
 #EXTINF:-1, ****  LISTA 3  ****
