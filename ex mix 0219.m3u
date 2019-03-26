@@ -12,50 +12,102 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1, DOMA TV
-http://dnsdue.xyz:80/Usta/12345/24836
-#EXTINF:-1, RTL 2
-http://dnsdue.xyz:80/Usta/12345/24889
-#EXTINF:-1, RTL CRIME
-http://dnsdue.xyz:80/Usta/12345/24890
-
+#EXTINF:0,EX-YU: Doma TV.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3503.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3503.m3u8
+#EXTINF:0,EX-YU: RTL 2.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3497.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3497.m3u8
+#EXTINF:0,EX-YU: RTL CRIME.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3498.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3498.m3u8
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-1,ANIMAL PLANET
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
-#EXTINF:-1,DISCOVERY CHANNEL
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
 #EXTINF:-1,****   LISTA 1   ****
 http://www.1
-#EXTINF:-1, HBO ADRIA
-http://dnsdue.xyz:80/Usta/12345/24851
-#EXTINF:-1, HBO COMEDY
-http://dnsdue.xyz:80/Usta/12345/24852
-#EXTINF:-1, CINEMAX 2
-http://dnsdue.xyz:80/Usta/12345/24829
-#EXTINF:-1, CINEMAX HD
-http://dnsdue.xyz:80/Usta/12345/24830
-#EXTINF:-1, CINESTAR ACTION
-http://dnsdue.xyz:80/Usta/12345/24831
-#EXTINF:-1, CINESTAR PREMIERE 1
-http://dnsdue.xyz:80/Usta/12345/24832
-#EXTINF:-1, CINESTAR PREMIERE 2
-http://dnsdue.xyz:80/Usta/12345/24833
+#EXTINF:0,SPORT KLUB 1.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/904.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/904.m3u8
+#EXTINF:0,SPORT KLUB 2.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/903.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/903.m3u8
+#EXTINF:0,SPORT KLUB 3.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/902.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/902.m3u8
+#EXTINF:0,SPORT KLUB 5.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47833.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47833.m3u8
+#EXTINF:0,SPORT KLUB 6.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47832.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47832.m3u8
+#EXTINF:0,SPORT TV 1 HD SLO.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47840.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47840.m3u8
+#EXTINF:0,SPORT TV 2 HD SLO.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47839.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47839.m3u8
+#EXTINF:0,SPORT TV 3 HD SLO.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47838.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47838.m3u8
+
+
+#EXTINF:0,ARENA SPORT 1 (SR).m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47848.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47848.m3u8
+#EXTINF:0,Arena Sport 1 HR.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/916.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/916.m3u8
+#EXTINF:0,ARENA SPORT 2 (SR).m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47847.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47847.m3u8
+#EXTINF:0,Arena Sport 2 HR.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/914.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/914.m3u8
+#EXTINF:0,ARENA SPORT 3 (SR).m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47846.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47846.m3u8
+#EXTINF:0,Arena Sport 3 HR.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/912.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/912.m3u8
+#EXTINF:0,ARENA SPORT 4 (SR).m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47845.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47845.m3u8
+#EXTINF:0,Arena Sport 4 HR.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/910.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/910.m3u8
+#EXTINF:0,ARENA SPORT 5 (SR).m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47844.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47844.m3u8
+#EXTINF:0,Arena Sport 5 HR.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/908.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/908.m3u8
+#EXTINF:0,HNTV.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47939.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47939.m3u8
+
+
+#EXTINF:0,HBO HD.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3491.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3491.m3u8
+#EXTINF:0,HBO ADRIA.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/886.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/886.m3u8
+#EXTINF:0,HBO Comedy.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/48074.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/48074.m3u8
+#EXTINF:0,HBO HD 2.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3492.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3492.m3u8
+#EXTINF:0,HBO 2 SLO.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47934.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47934.m3u8
+#EXTINF:0,HBO 3.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3493.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/3493.m3u8
+#EXTINF:0,Cinemax HD.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47870.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47870.m3u8
+#EXTINF:0,CINEMAX-1.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/907.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/907.m3u8
+#EXTINF:0,CINEMAX-2.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/906.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/906.m3u8
+#EXTINF:0,Cinestar Action.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47869.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47869.m3u8
+#EXTINF:0,Cinestar Fantasy HD.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47914.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47914.m3u8
+#EXTINF:0,Cinestar Premier 2.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47868.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47868.m3u8
+#EXTINF:0,Cinestar Premiere 1.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47904.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47904.m3u8
+#EXTINF:0,Cinestar Premiere 2.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/894.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/894.m3u8
+#EXTINF:0,CINESTAR TV.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/895.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/895.m3u8
+#EXTINF:0,Fox Movies.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/888.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/888.m3u8
+#EXTINF:0,KLASIK TV.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47949.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/47949.m3u8
+#EXTINF:0,Pink Film.m3u8 http://iptvgold.org:25461/live/zsat/A5ih0e0T86/1104.m3u8
+http://iptvgold.org:25461/live/zsat/A5ih0e0T86/1104.m3u8
+
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-#EXTINF:-1,HBO 2 HD
-http://super1.ideaiptv.com:8000/ali/123456/5581
-#EXTINF:-1,NOVA
-http://super1.ideaiptv.com:8000/ali/123456/5576
-#EXTINF:-1,RTL 2 HR
-http://super1.ideaiptv.com:8000/ali/123456/5552
-#EXTINF:-1,TV DOMA
-http://super1.ideaiptv.com:8000/ali/123456/5550
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
