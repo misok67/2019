@@ -12,12 +12,6 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,HR: Doma TV
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9166
-#EXTINF:-1,HR: RTL 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9163
-#EXTINF:-1,HR: RTL Crime HR
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9165
 
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
@@ -25,81 +19,48 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-1,EX-YU: HBO 2 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13087
-#EXTINF:-1,Ex-Yu: HBO ADRIA
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9289
-#EXTINF:-1,Ex-Yu: HBO COMEDY
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9290
-#EXTINF:-1,HR: Kino TV
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21963
-#EXTINF:-1,Ex-Yu: Klasik TV
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9291
-#EXTINF:-1,Ex-Yu: Pink Film
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9197
-#EXTINF:-1,EX-YU: CIneMax
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13091
-#EXTINF:-1,EX-YU: CIneMax 2 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13092
-#EXTINF:-1,HR: Cinestar TV
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21966
-#EXTINF:-1,HR: CineStar Premiere 1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9287
-#EXTINF:-1,HR: CineStar Premiere 2 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9288
-#EXTINF:-1,HR: CineStar Action TV
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21967
-#EXTINF:-1,Ex-Yu: FOX MOVIES
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9285
+#EXTINF:-1,CRO: DOMA TV
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26200
+#EXTINF:-1,CRO: DOMA TV HD
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26199
+#EXTINF:-1,CRO: RTL 2
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26188
+#EXTINF:-1,CRO: RTL CRIME
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26187
+#EXTINF:-1,EXYU: HBO 1 HD
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26276
+#EXTINF:-1,EXYU: HBO 2 HD
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26275
+#EXTINF:-1,EXYU: HBO 3 HD
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26274
+#EXTINF:-1,EXYU: KINOTV  HR
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26300
+#EXTINF:-1,EXYU: KLASIK TV
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26261
+#EXTINF:-1,EXYU: CINEMAX 1
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26286
+#EXTINF:-1,EXYU: CINEMAX 2
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26285
+#EXTINF:-1,EXYU: CINESTAR PREMIERE 1
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26282
+#EXTINF:-1,EXYU: CINESTAR PREMIERE 2
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26281
+#EXTINF:-1,EXYU: CINESTAR ACTION TV
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26284
+#EXTINF:-1,EXYU: CINESTAR ACTION
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26303
+#EXTINF:-1,EXYU: CINESTAR FANTASY
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26283
+#EXTINF:-1,EXYU: CINESTAR TV
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26302
+#EXTINF:-1,EXYU: FOX MOVIES HD
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26277
+#EXTINF:-1,EXYU: TV 1000
+http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26254
 
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-
-#EXTINF:-1,HBO
-http://cms.iptvboard.me:89/Patrick/patrick123/436
-#EXTINF:-1,HBO 2
-http://cms.iptvboard.me:89/Patrick/patrick123/437
-#EXTINF:-1,HBO 3
-http://cms.iptvboard.me:89/Patrick/patrick123/821
-#EXTINF:-1,Cinestar TV
-http://cms.iptvboard.me:89/Patrick/patrick123/457
-#EXTINF:-1,Cinestar Premiere 1
-http://cms.iptvboard.me:89/Patrick/patrick123/434
-#EXTINF:-1,Cinestar Premiere 2
-http://cms.iptvboard.me:89/Patrick/patrick123/435
-#EXTINF:-1,Cinestar Action Thriller
-http://cms.iptvboard.me:89/Patrick/patrick123/3481
-#EXTINF:-1,CINESTAR FANTASY
-http://cms.iptvboard.me:89/Patrick/patrick123/3482
-#EXTINF:-1,Cinemax 1
-http://cms.iptvboard.me:89/Patrick/patrick123/670
-#EXTINF:-1,Cinemax 2
-http://cms.iptvboard.me:89/Patrick/patrick123/671
-#EXTINF:-1,TV 1000
-http://cms.iptvboard.me:89/Patrick/patrick123/470
-#EXTINF:-1,Pickbox TV
-http://cms.iptvboard.me:89/Patrick/patrick123/392
-#EXTINF:-1,Klasik TV
-http://cms.iptvboard.me:89/Patrick/patrick123/388
-
-#EXTINF:-1,Kino Comedy HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1093
-#EXTINF:-1,Kino Dark HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1094
-#EXTINF:-1,Kino Family HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1095
-#EXTINF:-1,Kino Premiere 1 HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1105
-#EXTINF:-1,Kino Premiere 2 HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1104
-#EXTINF:-1,Kino Premiere 3 HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1103
-#EXTINF:-1,Kino Scifi HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1102
-#EXTINF:-1,Kino Thriller HD
-http://cms.iptvboard.me:89/Patrick/patrick123/1101
-
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
