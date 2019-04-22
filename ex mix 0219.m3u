@@ -12,108 +12,46 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 #EXTINF:-1,RTS 2
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-1,CRO: DOMA TV
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26200
-#EXTINF:-1,CRO: DOMA TV HD
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26199
-#EXTINF:-1,CRO: RTL 2
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26188
-#EXTINF:-1,CRO: RTL CRIME
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26187
-#EXTINF:-1,EXYU: HBO 1 HD
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26276
-#EXTINF:-1,EXYU: HBO 2 HD
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26275
-#EXTINF:-1,EXYU: HBO 3 HD
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26274
-#EXTINF:-1,EXYU: KINOTV  HR
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26300
-#EXTINF:-1,EXYU: KLASIK TV
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26261
-#EXTINF:-1,EXYU: CINEMAX 1
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26286
-#EXTINF:-1,EXYU: CINEMAX 2
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26285
-#EXTINF:-1,EXYU: CINESTAR PREMIERE 1
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26282
-#EXTINF:-1,EXYU: CINESTAR PREMIERE 2
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26281
-#EXTINF:-1,EXYU: CINESTAR ACTION TV
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26284
-#EXTINF:-1,EXYU: CINESTAR ACTION
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26303
-#EXTINF:-1,EXYU: CINESTAR FANTASY
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26283
-#EXTINF:-1,EXYU: CINESTAR TV
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26302
-#EXTINF:-1,EXYU: FOX MOVIES HD
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26277
-#EXTINF:-1,EXYU: TV 1000
-http://www.sansat.net:25461/scmhj/JLuvVEWTVZ/26254
 
+#EXTINF:0,HBO 1
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52937
+#EXTINF:0,HBO 2 HD
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52936
+#EXTINF:0,HBO 3 HD
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52935
+#EXTINF:0,HBO Adria
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52934
+#EXTINF:0,HBO Comedy
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52933
+#EXTINF:0,Cinemax 1
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52961
+#EXTINF:0,Cinemax 2
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52960
+#EXTINF:0,Cinestar Action
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52959
+#EXTINF:0,Cinestar Premiere 1
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52958
+#EXTINF:0,Cinestar Premiere 2
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52957
+#EXTINF:0,Cinestar TV
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52956
+#EXTINF:0,Fox Movies
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52942
+#EXTINF:0,RTL 2
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52873
+#EXTINF:0,RTL Crime Cro
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52872
+#EXTINF:0,TV 1000
+http://bymovistar.es:9977/69210/MOmYl3iRTn/52848
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-#EXTINF:-1,|EX-YU| DOMA TV
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4683
-#EXTINF:-1,|EX-YU| RTL 2 HR
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4546
-#EXTINF:-1,|EX-YU| RTL 2
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4547
-#EXTINF:-1,|EX-YU| RTL CRIME
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4545
-#EXTINF:-1,|EX-YU| HBO 1 HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4655
-#EXTINF:-1,|EX-YU| HBO 2 HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4654
-#EXTINF:-1,|EX-YU| HBO 2 SLO
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4653
-#EXTINF:-1,|EX-YU| HBO 3 HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4652
-#EXTINF:-1,|EX-YU| HBO ADRIA
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4651
-#EXTINF:-1,|EX-YU| HBO COMEDY
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4650
-#EXTINF:-1,|EX-YU| HBO HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4649
-#EXTINF:-1,|EX-YU| CINEMAX 1
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4713
-#EXTINF:-1,|EX-YU| CINEMAX 2
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4712
-#EXTINF:-1,|EX-YU| CINEMAX HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4711
-#EXTINF:-1,|EX-YU| CINESTAR ACTION & THRILLER
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4709
-#EXTINF:-1,|EX-YU| CINESTAR ACTION
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4710
-#EXTINF:-1,|EX-YU| CINESTAR FANTASY HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4708
-#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 1 HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4705
-#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 1
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4707
-#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 2 HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4704
-#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 2
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4706
-#EXTINF:-1,|EX-YU| CINESTAR PREMIERE HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4703
-#EXTINF:-1,|EX-YU| CINESTAR TV
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4702
-#EXTINF:-1,|EX-YU| FOX MOVIES HD
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4667
-#EXTINF:-1,|EX-YU| KLASIK TV
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4627
-#EXTINF:-1,|EX-YU| TV 1000
-http://tv.sigma-iptv.net:7000/39308/MziznYlqZb/4481
-
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
