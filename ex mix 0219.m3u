@@ -19,39 +19,64 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
-#EXTINF:0,HBO 1
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52937
-#EXTINF:0,HBO 2 HD
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52936
-#EXTINF:0,HBO 3 HD
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52935
-#EXTINF:0,HBO Adria
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52934
-#EXTINF:0,HBO Comedy
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52933
-#EXTINF:0,Cinemax 1
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52961
-#EXTINF:0,Cinemax 2
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52960
-#EXTINF:0,Cinestar Action
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52959
-#EXTINF:0,Cinestar Premiere 1
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52958
-#EXTINF:0,Cinestar Premiere 2
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52957
-#EXTINF:0,Cinestar TV
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52956
-#EXTINF:0,Fox Movies
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52942
-#EXTINF:0,RTL 2
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52873
-#EXTINF:0,RTL Crime Cro
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52872
-#EXTINF:0,TV 1000
-http://bymovistar.es:9977/69210/MOmYl3iRTn/52848
+#EXTINF:-1,HBO 1 HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26276
+#EXTINF:-1,HBO 2 HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26275
+#EXTINF:-1,HBO 3 HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26274
+#EXTINF:-1,KINOTV  HR
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26300
+#EXTINF:-1,CINEMAX 1
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26286
+#EXTINF:-1,CINEMAX 2
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26285
+#EXTINF:-1,CINESTAR ACTION TV
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26284
+#EXTINF:-1,CINESTAR FANTASY
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26283
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26282
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26281
+#EXTINF:-1,CINESTAR ACTION
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26303
+#EXTINF:-1,CINESTAR TV
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26302
+#EXTINF:-1,FOX MOVIES HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26277
+#EXTINF:-1,KLASIK TV
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26261
+#EXTINF:-1,PINK: PINK FILM
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26145
+#EXTINF:-1,TV 1000
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26254
+#EXTINF:-1,CRO: DOMA TV
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26200
+#EXTINF:-1,CRO: DOMA TV HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26199
+#EXTINF:-1,CRO: NOVA TV HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26191
+#EXTINF:-1,CRO: RTL 2
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26188
+#EXTINF:-1,CRO: RTL CRIME
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26187
+
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
+#EXTINF:0,Serbia: Cinemax2
+http://4ever.biz:80/20192/20192/2892
+#EXTINF:0,Serbia: Cinestar
+http://4ever.biz:80/20192/20192/2893
+#EXTINF:0,Serbia: Cinestar Action
+http://4ever.biz:80/20192/20192/2894
+#EXTINF:0,Serbia: Cinestar Premiere 1
+http://4ever.biz:80/20192/20192/2895
+#EXTINF:0,Serbia: Cinestar Premiere 2
+http://4ever.biz:80/20192/20192/2896
+#EXTINF:0,Serbia: Pink Film
+http://4ever.biz:80/20192/20192/3039
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
