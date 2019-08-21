@@ -19,115 +19,286 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
-#EXTINF:-1, HBO (1)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/36629
-#EXTINF:-1, HBO 1 HD (SLO)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52182
-#EXTINF:-1, HBO 2 HD (SLO)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52181
-#EXTINF:-1, HBO 3 (SLO)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52180
-#EXTINF:-1,HBO (MK)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52289
-#EXTINF:-1,HBO 1 HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6605
-#EXTINF:-1,HBO 2 (MK)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52288
-#EXTINF:-1,HBO 2 HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6446
-#EXTINF:-1,HBO 3 (MK)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52287
-#EXTINF:-1,HBO 3 HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6445
-#EXTINF:-1,HBO HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6447
-#EXTINF:-1, TV 1000 (SLO)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52168
-#EXTINF:-1,TV 1000
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6437
-#EXTINF:-1,CINEMAX 1
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6440
-#EXTINF:-1,CINEMAX 2
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6439
-#EXTINF:-1,CINESTAR ACTION TV
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6443
-#EXTINF:-1,CINESTAR ACTION
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/18883
-#EXTINF:-1,CINESTAR FANTASY
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6450
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6442
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6441
-#EXTINF:-1,CINESTAR TV (MK)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52281
-#EXTINF:-1,CINESTAR TV
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/18884
-#EXTINF:-1,CINESTAR TV
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6444
-#EXTINF:-1,FOX MOVIES HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6432
-#EXTINF:-1,KLASIK TV
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6438
-#EXTINF:-1,PINK FILM
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6418
-#EXTINF:-1, FOX MOVIES HD (SLO)
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/52176
 
-#EXTINF:-1, RTL 2 HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/31300
-#EXTINF:-1, RTL CRIME HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/31309
-#EXTINF:-1, RTL2
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/31313
-#EXTINF:-1, RTL
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/31314
-#EXTINF:-1,DOMA TV HD
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/7510
-#EXTINF:-1,DOMA TV
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6379
-#EXTINF:-1,RTL 2
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6377
-#EXTINF:-1,RTL CRIME
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/18880
-#EXTINF:-1,RTL
-http://185.99.2.100:80/eCaP6Yer6j/J6Tia5WdvM/6378
+#EXTINF:-1,EX-YU | Arena Sport 1 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120552
+#EXTINF:-1,EX-YU | Arena Sport 1 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120551
+#EXTINF:-1,EX-YU | Arena Sport 2 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120550
+#EXTINF:-1,EX-YU | Arena Sport 2 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120549
+#EXTINF:-1,EX-YU | Arena Sport 3 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120548
+#EXTINF:-1,EX-YU | Arena Sport 3 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120547
+#EXTINF:-1,EX-YU | Arena Sport 4 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120546
+#EXTINF:-1,EX-YU | Arena Sport 4 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120545
+#EXTINF:-1,EX-YU | Arena Sport 5 (SRB)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120544
+#EXTINF:-1,EX-YU | Arena Sport 5 HR
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120543
+#EXTINF:-1,EX-YU | Cinemax 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120539
+#EXTINF:-1,EX-YU | Cinemax 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120538
+#EXTINF:-1,EX-YU | Cinestar Action
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120537
+#EXTINF:-1,EX-YU | Cinestar TV Premiere 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120536
+#EXTINF:-1,EX-YU | Cinestar TV Premiere 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120535
+#EXTINF:-1,EX-YU | Doma TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120530
+#EXTINF:-1,EX-YU | Filmbox Extra
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120527
+#EXTINF:-1,EX-YU | Fox Movies
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120523
+#EXTINF:-1,EX-YU | HBO
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120516
+#EXTINF:-1,EX-YU | HBO 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120515
+#EXTINF:-1,EX-YU | HBO 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120514
+#EXTINF:-1,EX-YU | Klasik TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120507
+#EXTINF:-1,EX-YU | Pink Film
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120488
+#EXTINF:-1,EX-YU | RTL 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120465
+#EXTINF:-1,EX-YU | RTL Crime (HR)
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120464
+#EXTINF:-1,EX-YU | Sport Klub 1 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120458
+#EXTINF:-1,EX-YU | Sport Klub 1 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120457
+#EXTINF:-1,EX-YU | Sport Klub 2 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120456
+#EXTINF:-1,EX-YU | Sport Klub 2 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120455
+#EXTINF:-1,EX-YU | Sport Klub 3 HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120454
+#EXTINF:-1,EX-YU | Sport Klub 3 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120453
+#EXTINF:-1,EX-YU | Sport Klub 4 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120452
+#EXTINF:-1,EX-YU | Sport Klub 5 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120451
+#EXTINF:-1,EX-YU | Sport Klub 6 SD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120450
+#EXTINF:-1,EX-YU | TV 1 Slovenia
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120448
+#EXTINF:-1,EX-YU | TV 1000
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120447
+#EXTINF:-1,HR | DIVA  TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123180
+#EXTINF:-1,HR | DOMA TV
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123199
+#EXTINF:-1,HR | FILM 1 titl
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123174
+#EXTINF:-1,HR | FILM CLUB 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123154
+#EXTINF:-1,HR | FILMBOX EXTRA HD
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123150
+#EXTINF:-1,HR | MOVIE ALLSTASRS
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123142
+#EXTINF:-1,HR | MOVIE PREMIERE 1
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123145
+#EXTINF:-1,HR | MOVIE PREMIERE 2
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123144
+#EXTINF:-1,HR | MOVIE PREMIERE 3
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123143
+#EXTINF:-1,HR | MOVIE SMILE
+http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/123146
 
 #EXTINF:-1,****    LISTA 2   *****
 http://www.2
-#EXTINF:-1,RTL 2 BH
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5180
-#EXTINF:-1,DOMA
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5179
-#EXTINF:-1,RTL CRIME
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/11927
-#EXTINF:-1,RTL 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/11928
-
-#EXTINF:-1,HBO COMEDY
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/363
-#EXTINF:-1,HBO ADRIA
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/4368
-#EXTINF:-1,CINEMAX 1
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/10416
-#EXTINF:-1,CINEMAX 1 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/504
-#EXTINF:-1,CINEMAX 2 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/379
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/10418
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/503
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/502
-#EXTINF:-1,FOX MOVIES
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/580
-#EXTINF:-1,CINESTAR ACTION TV
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/11903
-#EXTINF:-1,CINESTAR TV PREMIERE 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/11920
-#EXTINF:-1,KLASIK TV
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/10414
+#EXTINF:-1,SPORT EX YU: SPORT KLUB 1
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25718
+#EXTINF:-1,SPORT EX YU: SPORT KLUB 2
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25717
+#EXTINF:-1,SPORT EX YU: SPORT KLUB 3
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25716
+#EXTINF:-1,SPORT EX YU: SPORT KLUB 4
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25715
+#EXTINF:-1,SPORT EX-YU : SPORT KLUB 1 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25708
+#EXTINF:-1,SPORT EX-YU : SPORT KLUB 2 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25707
+#EXTINF:-1,SPORT EX-YU : SPORT KLUB 3 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25706
+#EXTINF:-1,SPORT EX-YU: Arena Sport 1 HR FULL HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25733
+#EXTINF:-1,SPORT EX-YU: Arena Sport 1 SRB HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25727
+#EXTINF:-1,SPORT EX-YU: Arena Sport 2 HR FULL HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25732
+#EXTINF:-1,SPORT EX-YU: Arena Sport 2 SRB HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25726
+#EXTINF:-1,SPORT EX-YU: Arena Sport 3 HR FULL HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25731
+#EXTINF:-1,SPORT EX-YU: Arena Sport 3 SRB HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25725
+#EXTINF:-1,SPORT EX-YU: Arena Sport 4 HR FULL HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25730
+#EXTINF:-1,SPORT EX-YU: ARENA SPORT 4 SRB (reserve)
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25723
+#EXTINF:-1,SPORT EX-YU: Arena Sport 4 SRB HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25724
+#EXTINF:-1,SPORT EX-YU: Arena Sport 5 HR FULL HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25729
+#EXTINF:-1,SPORT EX-YU: Arena Sport 5 SRB
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25722
+#EXTINF:-1,SPORT EX-YU: Arena Sport Primier League BiH
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25721
+#EXTINF:-1,SPORT EX-YU: Planet sport 1 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25736
+#EXTINF:-1,SPORT EX-YU: Planet sport 2 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25735
+#EXTINF:-1,SPORT EX-YU: Planet Sport 3 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25734
+#EXTINF:-1,SPORT EX-YU: Sport Klub 1 HR
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25705
+#EXTINF:-1,SPORT EX-YU: Sport Klub 2 HR
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25704
+#EXTINF:-1,SPORT EX-YU: Sport Klub 3 HR
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25703
+#EXTINF:-1,SPORT EX-YU: SPORT KLUB 5
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25714
+#EXTINF:-1,SPORT EX-YU: SPORT KLUB 6
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25713
+#EXTINF:-1,SPORT EX-YU: Sport Klub 7 (Only Match Time)
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25712
+#EXTINF:-1,SPORT EX-YU: Sport Klub 8 (Only Match Time)
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25711
+#EXTINF:-1,SPORT EX-YU: Sport Klub 9 (Only Match Time)
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25710
+#EXTINF:-1,SPORT EX-YU: Sport Klub Channel
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25720
+#EXTINF:-1,SPORT EX-YU: Sport Klub GOLF
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25709
+#EXTINF:-1,SPORT EX-YU: Sport Klub HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25719
+#EXTINF:-1,SPORT EX-YU: SPORT TV 1 HD SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25698
+#EXTINF:-1,SPORT EX-YU: SPORT TV 2 HD SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25697
+#EXTINF:-1,SPORT EX-YU: SPORT TV 3 HD SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25696
+#EXTINF:-1,SPORT EX-YU: SPORTKLUB 1 HD SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25702
+#EXTINF:-1,SPORT EX-YU: SPORTKLUB 2 HD SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25701
+#EXTINF:-1,SPORT EX-YU: SPORTKLUB 3 HD SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25700
+#EXTINF:-1,SPORT EX-YU: SPORTKLUB 4 HD SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25699
+#EXTINF:-1,SPORT EX:YU: ARENA SPORT 6 HR
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/25728
+#EXTINF:-1,EX-YU: Cinemax HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26809
+#EXTINF:-1,EX-YU: Film Klub
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26931
+#EXTINF:-1,EX-YU: FILM Klub Extra
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26930
+#EXTINF:-1,EX-YU: Fox Movies HD (HR SUB)
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26812
+#EXTINF:-1,EX-YU: HBO (HD)
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26802
+#EXTINF:-1,EX-YU: HBO 2
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26806
+#EXTINF:-1,EX-YU: HBO 2 (HD)
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26805
+#EXTINF:-1,EX-YU: HBO 2 (HD).
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26807
+#EXTINF:-1,EX-YU: HBO 2 SLO
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26804
+#EXTINF:-1,EX-YU: HBO 3
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26803
+#EXTINF:-1,EX-YU: HBO FAMILY HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26941
+#EXTINF:-1,EX-YU: Kino TV
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26722
+#EXTINF:-1,EX-YU: KLASIK TV
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26776
+#EXTINF:-1,EX-YU: Pink Film
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26907
+#EXTINF:-1,EX-YU: TV 1000
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26712
+#EXTINF:-1,CRO: CINEMAX-1
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26833
+#EXTINF:-1,CRO: CINEMAX-2
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26832
+#EXTINF:-1,CRO: CINESTAR ACTION
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26830
+#EXTINF:-1,CRO: Cinestar Comedy
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26828
+#EXTINF:-1,CRO: CINESTAR FANTASY
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26829
+#EXTINF:-1,CRO: Cinestar Premier 1
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26836
+#EXTINF:-1,CRO: Cinestar Premier 2
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26834
+#EXTINF:-1,CRO: Cinestar Premiere 1
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26837
+#EXTINF:-1,CRO: Cinestar Premiere 2
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26835
+#EXTINF:-1,CRO: CINESTAR TV
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26831
+#EXTINF:-1,CRO: CROMAX Select 1 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26869
+#EXTINF:-1,CRO: CROMAX Select 10 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26860
+#EXTINF:-1,CRO: CROMAX Select 2 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26868
+#EXTINF:-1,CRO: CROMAX Select 3 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26867
+#EXTINF:-1,CRO: CROMAX Select 4 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26866
+#EXTINF:-1,CRO: CROMAX Select 5 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26865
+#EXTINF:-1,CRO: CROMAX Select 6 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26864
+#EXTINF:-1,CRO: CROMAX Select 7 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26863
+#EXTINF:-1,CRO: CROMAX Select 8 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26862
+#EXTINF:-1,CRO: CROMAX Select 9 HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26861
+#EXTINF:-1,CRO: CROMAX Select Gold HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26859
+#EXTINF:-1,CRO: CROMAX Select Horor HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26858
+#EXTINF:-1,CRO: CROMAX Select Premium HD
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26857
+#EXTINF:-1,CRO: DIVA
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26823
+#EXTINF:-1,CRO: DOMA-TV
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26819
+#EXTINF:-1,CRO: FACE TV
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26818
+#EXTINF:-1,CRO: FilmBox Extra
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26827
+#EXTINF:-1,CRO: FilmBox Plus
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26826
+#EXTINF:-1,CRO: Fox Movies
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26838
+#EXTINF:-1,CRO: HBO Adria
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26825
+#EXTINF:-1,CRO: HBO-ADRIA
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26824
+#EXTINF:-1,CRO: HNTV
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26880
+#EXTINF:-1,CRO: RTL 2
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26845
+#EXTINF:-1,CRO: RTL CRIME
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26842
+#EXTINF:-1,CRO: RTL KOCKICA
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26844
+#EXTINF:-1,CRO: RTL Living
+http://iptvhdclup.dyndns.tv:2017/Bk7gidtIhF/c8OMp2pQe7/26841
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
@@ -235,7 +406,102 @@ http://ksportiptv.com:1557/hassan.madridista/hasani1111/2805
 
 #EXTINF:-1, ****  LISTA 3  ****
 http://www.3
-
+#EXTINF:-1,RTL 2 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3166.ts
+#EXTINF:-1,RTL Crime HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13815.ts
+#EXTINF:-1,Doma TV HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1446.ts
+#EXTINF:-1,Sport Klub 1 HD HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17252.ts
+#EXTINF:-1,Sport Klub 2 FHD HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17254.ts
+#EXTINF:-1,Sport Klub 4 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17249.ts
+#EXTINF:-1,Sport Klub 5 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17250.ts
+#EXTINF:-1,Sport Klub 6 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17251.ts
+#EXTINF:-1,Diva HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13770.ts
+#EXTINF:-1,FilmBox Plus HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13773.ts
+#EXTINF:-1,FilmBox Extra RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13805.ts
+#EXTINF:-1,FOX Movies HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1451.ts
+#EXTINF:-1,HBO HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1452.ts
+#EXTINF:-1,HBO 2 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1453.ts
+#EXTINF:-1,HBO 3 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13806.ts
+#EXTINF:-1,CineStar TV HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13794.ts
+#EXTINF:-1,CineStar TV Action HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3180.ts
+#EXTINF:-1,CineStar Premiere 1 HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1468.ts
+#EXTINF:-1,CineStar Premiere 2 HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1469.ts
+#EXTINF:-1,Cinemax HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/2022.ts
+#EXTINF:-1,Cinemax 2 HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/2023.ts
+#EXTINF:-1,Klasik TV HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3194.ts
+#EXTINF:-1,TV 1000 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/11275.ts
+#EXTINF:-1,HNTV HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13771.ts
+#EXTINF:-1,Arena Sport 2 FHD HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17914.ts
+#EXTINF:-1,Arena Sport 3 HD HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17916.ts
+#EXTINF:-1,Arena Sport 4 FHD HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/17915.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1436.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1437.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1438.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1439.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13827.ts
+#EXTINF:-1,Arena Sport 6 HD HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13828.ts
+#EXTINF:-1,Arena Sport 1 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3182.ts
+#EXTINF:-1,Arena Sport 2 HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3183.ts
+#EXTINF:-1,Arena Sport 3 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3184.ts
+#EXTINF:-1,Arena Sport 4 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3185.ts
+#EXTINF:-1,Arena Sport 5 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3186.ts
+#EXTINF:-1,Sport Klub 1 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13832.ts
+#EXTINF:-1,Sport Klub 2 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13833.ts
+#EXTINF:-1,Sport Klub 3 HR
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13834.ts
+#EXTINF:-1,Sport Klub 4 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13829.ts
+#EXTINF:-1,Sport Klub 5 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13830.ts
+#EXTINF:-1,Sport Klub 6 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/13831.ts
+#EXTINF:-1,Sport Klub 1 HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1440.ts
+#EXTINF:-1,Sport Klub 2 RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1441.ts
+#EXTINF:-1,Sport Klub 3 HD RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/1442.ts
+#EXTINF:-1,Pink Film RS
+http://cloudcdn.tk:80/live/gcdOhj4dV1/cDuTUUQ6no/3199.ts
 #EXTINF:-1,****   LISTA 4   *****
 http://www.5
 
