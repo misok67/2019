@@ -19,5 +19,21 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
-
-
+#EXTINF:-1,CRO: NOVA HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2482.m3u8
+#EXTINF:-1,CRO: RTL
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2480.m3u8
+#EXTINF:-1,CRO: RTL 2
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2479.m3u8
+#EXTINF:-1,CRO: RTL CRIME
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2478.m3u8
+#EXTINF:-1,CRO: Doma TV
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/13595.m3u8
+#EXTINF:-1,RS: RTS HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/9119.m3u8
+#EXTINF:-1,RS: RTS 1
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/1037.m3u8
+#EXTINF:-1,RS: RTS 2
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/1038.m3u8
+#EXTINF:-1,RS: RTS 3
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/7025.m3u8
