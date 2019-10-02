@@ -19,21 +19,243 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
-#EXTINF:-1,CRO: NOVA HD
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2482.m3u8
-#EXTINF:-1,CRO: RTL
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2480.m3u8
-#EXTINF:-1,CRO: RTL 2
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2479.m3u8
-#EXTINF:-1,CRO: RTL CRIME
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2478.m3u8
-#EXTINF:-1,CRO: Doma TV
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/13595.m3u8
-#EXTINF:-1,RS: RTS HD
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/9119.m3u8
-#EXTINF:-1,RS: RTS 1
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/1037.m3u8
-#EXTINF:-1,RS: RTS 2
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/1038.m3u8
-#EXTINF:-1,RS: RTS 3
-http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/7025.m3u8
+#EXTINF:-1 ,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 ,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 ,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 ,RTL CRO
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,Nova TV
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+#EXTINF:-1,RTS 1
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
+#EXTINF:-1,RTS 2
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
+#EXTINF:-1,RTS 3
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
+
+
+#EXTINF:-1,NOVA TV
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4825.ts
+#EXTINF:-1,NOVA TV HD (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5479.ts
+#EXTINF:-1,DOMA TV
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6023.ts
+#EXTINF:-1,DOMA TV HD (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5481.ts
+#EXTINF:-1,RTL
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5482.ts
+#EXTINF:-1,RTL (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7040.ts
+#EXTINF:-1,RTL 2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5483.ts
+#EXTINF:-1,RTL CRIME
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5484.ts
+#EXTINF:-1,RTS  HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6142.ts
+#EXTINF:-1,RTS 1 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5820.ts
+#EXTINF:-1,RTS 2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5530.ts
+#EXTINF:-1,RTS 3
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5703.ts
+#EXTINF:-1,SLO 1 HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5644.ts
+#EXTINF:-1,SLO 2 HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5645.ts
+#EXTINF:-1,POP TV HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5646.ts
+#EXTINF:-1,POP KINO HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4832.ts
+#EXTINF:-1,POP OTO HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4836.ts
+#EXTINF:-1,POP BRIO (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4838.ts
+
+#EXTINF:-1,HBO 1 HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11315.ts
+#EXTINF:-1,HBO 2 HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11029.ts
+#EXTINF:-1,HBO 3 (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5651.ts
+#EXTINF:-1,FOX MOVIES HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6360.ts
+#EXTINF:-1,PINK FILM
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5847.ts
+#EXTINF:-1,HBO HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5881.ts
+#EXTINF:-1,HBO 2 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5705.ts
+#EXTINF:-1,HBO 3 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5875.ts
+#EXTINF:-1,HBO FAMILY HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5650.ts
+#EXTINF:-1,HBO GO HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6484.ts
+#EXTINF:-1,CINESTAR
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5616.ts
+#EXTINF:-1,CINESTAR (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5190.ts
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5618.ts
+#EXTINF:-1,CINESTAR PREMIERE 1 HD (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6758.ts
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5619.ts
+#EXTINF:-1,CINESTAR PREMIERE 2 HD (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6757.ts
+#EXTINF:-1,CINESTAR ACTION
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4852.ts
+#EXTINF:-1,CINESTAR ACTION (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7185.ts
+#EXTINF:-1,CINESTAR FANTASY
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5873.ts
+#EXTINF:-1,CINESTAR COMEDY HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5302.ts
+#EXTINF:-1,CINEMAX HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5620.ts
+#EXTINF:-1,CINEMAX 2 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5623.ts
+#EXTINF:-1,FOX MOVIES
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4786.ts
+#EXTINF:-1,FOX MOVIES HD (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7189.ts
+#EXTINF:-1,FOX CRIME
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4781.ts
+#EXTINF:-1,M 1 FILM
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6763.ts
+#EXTINF:-1,M 1 GOLD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7764.ts
+#EXTINF:-1,TV 1000
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5230.ts
+#EXTINF:-1,TV 1000 (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7187.ts
+#EXTINF:-1,FILM KLUB
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6785.ts
+#EXTINF:-1,FILM KLUB CINEMA
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10337.ts
+#EXTINF:-1,FILM KLUB FAMILY
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10338.ts
+#EXTINF:-1,FILM KLUB EXTRA
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7859.ts
+#EXTINF:-1,PICKBOX TV HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10661.ts
+#EXTINF:-1,PICKBOX TV 3  HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/12098.ts
+#EXTINF:-1,CINEMA TV
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6784.ts
+#EXTINF:-1,KINO TV HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6002.ts
+#EXTINF:-1,PLANET SPORT 1 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9732.ts
+#EXTINF:-1,PLANET SPORT 2 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5901.ts
+#EXTINF:-1,PLANET SPORT 3 HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5893.ts
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5449.ts
+#EXTINF:-1,ARENA SPORT 1 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7175.ts
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5450.ts
+#EXTINF:-1,ARENA SPORT 2 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7174.ts
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5451.ts
+#EXTINF:-1,ARENA SPORT 3 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7173.ts
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5452.ts
+#EXTINF:-1,ARENA SPORT 4 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7172.ts
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5453.ts
+#EXTINF:-1,ARENA SPORT 5 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7171.ts
+#EXTINF:-1,ARENA SPORT 6 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5422.ts
+#EXTINF:-1,ARENA SPORT 1 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5455.ts
+#EXTINF:-1,ARENA SPORT 1 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7170.ts
+#EXTINF:-1,ARENA SPORT 2 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5456.ts
+#EXTINF:-1,ARENA SPORT 2 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7169.ts
+#EXTINF:-1,ARENA SPORT 3 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5457.ts
+#EXTINF:-1,ARENA SPORT 3 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7168.ts
+#EXTINF:-1,ARENA SPORT 4 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5458.ts
+#EXTINF:-1,ARENA SPORT 4 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7167.ts
+#EXTINF:-1,ARENA SPORT 5 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5459.ts
+#EXTINF:-1,ARENA SPORT 5 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7681.ts
+#EXTINF:-1,SPORT KLUB HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4989.ts
+#EXTINF:-1,SPORT KLUB 1 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5166.ts
+#EXTINF:-1,SPORT KLUB 1 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6984.ts
+#EXTINF:-1,SPORT KLUB 2 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4845.ts
+#EXTINF:-1,SPORT KLUB 2 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6982.ts
+#EXTINF:-1,SPORT KLUB 3 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5168.ts
+#EXTINF:-1,SPORT KLUB 3 HD (HR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6981.ts
+#EXTINF:-1,SPORT KLUB 4 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4854.ts
+#EXTINF:-1,SPORT KLUB 5 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4856.ts
+#EXTINF:-1,SPORT KLUB 6 HD (HR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4858.ts
+#EXTINF:-1,SPORT KLUB GOLF HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6558.ts
+#EXTINF:-1,SPORT KLUB 1  HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5642.ts
+#EXTINF:-1,SPORT KLUB 1 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7178.ts
+#EXTINF:-1,SPORT KLUB 2 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5461.ts
+#EXTINF:-1,SPORT KLUB 2 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7177.ts
+#EXTINF:-1,SPORT KLUB 3 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5462.ts
+#EXTINF:-1,SPORT KLUB 3 HD (SR)L2
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7176.ts
+#EXTINF:-1,SPORT KLUB 4 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5172.ts
+#EXTINF:-1,SPORT KLUB 5 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5173.ts
+#EXTINF:-1,SPORT KLUB 6 HD (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4988.ts
+#EXTINF:-1,SPORT KLUB (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7832.ts
+#EXTINF:-1,SPORT KLUB 9 (SR)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5897.ts
+#EXTINF:-1,SPORT KLUB 1 (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6548.ts
+#EXTINF:-1,SPORT KLUB 2 (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6549.ts
+#EXTINF:-1,SPORT KLUB 3 (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6550.ts
+#EXTINF:-1,SPORT TV 1 HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5652.ts
+#EXTINF:-1,SPORT TV 2 HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5653.ts
+#EXTINF:-1,SPORT TV 3 HD (SLO)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5654.ts
+#EXTINF:-1,DAZN Bar 1 HD DE
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13742.ts
+#EXTINF:-1,DAZN Bar 2 HD DE
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13743.ts
+
