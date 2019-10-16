@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,NOVA HD
-http://s3.10gbpstv.info:80/live?channelId=47&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,NOVA FULL HD
-http://s1.10gbpstv.info:80/live?channelId=1068&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,SPORT KLUB 5 SR
-http://s4.10gbpstv.info:80/live?channelId=876&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
@@ -16,167 +10,58 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,Nova TV
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1,RTS 1
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
-#EXTINF:-1,RTS 2
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
-#EXTINF:-1,RTS 3
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
-#EXTINF:-1,HBO HD
-http://s1.10gbpstv.info:80/live?channelId=396&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,HBO 2 HD
-http://s4.10gbpstv.info:80/live?channelId=100&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,HBO 3 HD
-http://s3.10gbpstv.info:80/live?channelId=101&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,KINO TV HD
-http://s4.10gbpstv.info:80/live?channelId=8&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,CINEMAX 1 HD
-http://s1.10gbpstv.info:80/live?channelId=91&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,CINEMAX 2 HD
-http://s2.10gbpstv.info:80/live?channelId=92&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,CINESTAR ACTION
-http://s3.10gbpstv.info:80/live?channelId=82&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,CINESTAR FANTASY
-http://s2.10gbpstv.info:80/live?channelId=239&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://s1.10gbpstv.info:80/live?channelId=93&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://s3.10gbpstv.info:80/live?channelId=94&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,FOX MOVIES HD
-http://s2.10gbpstv.info:80/live?channelId=815&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,FOX MOVIES
-http://s4.10gbpstv.info:80/live?channelId=3&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,KLASIK TV
-http://s1.10gbpstv.info:80/live?channelId=159&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,PINK FILM
-http://s1.10gbpstv.info:80/live?channelId=116&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,TV 1000
-http://s1.10gbpstv.info:80/live?channelId=79&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,NOVA FULL HD
-http://s1.10gbpstv.info:80/live?channelId=1068&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,NOVA HD
-http://s3.10gbpstv.info:80/live?channelId=47&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,DOMA TV
-http://s1.10gbpstv.info:80/live?channelId=867&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,RTL 2
-http://s4.10gbpstv.info:80/live?channelId=106&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,RTL CRIME
-http://s3.10gbpstv.info:80/live?channelId=107&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,RTL TV
-http://s2.10gbpstv.info:80/live?channelId=105&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,RTS 1 HQ
-http://s3.10gbpstv.info:80/live?channelId=857&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,RTS 1
-http://s2.10gbpstv.info:80/live?channelId=367&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,RTS 2
-http://s1.10gbpstv.info:80/live?channelId=162&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-#EXTINF:-1,RTS 3
-http://s4.10gbpstv.info:80/live?channelId=368&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
-
-#EXTINF:-1,CINEMAX 1
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39854
-#EXTINF:-1,CINEMAX 2
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39853
-#EXTINF:-1,CINESTAR ACTION TV
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39852
-#EXTINF:-1,CINESTAR ACTION
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39871
-#EXTINF:-1,CINESTAR FANTASY
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39851
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39850
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39849
-#EXTINF:-1,CINESTAR TV
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39870
-#EXTINF:-1,DOMA TV HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39984
-#EXTINF:-1,DOMA TV
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39985
-#EXTINF:-1,RTL 2
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39973
-#EXTINF:-1,RTL CRIME
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39972
-#EXTINF:-1,RTL
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39974
-#EXTINF:-1,HBO 1 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39844
-#EXTINF:-1,HBO 2 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39843
-#EXTINF:-1,HBO 3 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39842
-#EXTINF:-1,RTL CRIME
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39867
-#EXTINF:-1,CINEMAX HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/59900
-#EXTINF:-1,CINEMAX2 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/59899
-#EXTINF:-1,FOX MOVIES HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/59879
-#EXTINF:-1,HBO HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/59902
-#EXTINF:-1,HBO2 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/59901
-#EXTINF:-1,SPORT KLUB  3 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39857
 #EXTINF:-1,SPORT KLUB 1 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39859
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/49676
 #EXTINF:-1,SPORT KLUB 2 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39858
-#EXTINF:-1,ARENA SPORT 1 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39910
-#EXTINF:-1,ARENA SPORT 1 SR HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39908
-#EXTINF:-1,ARENA SPORT 1 SR
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39909
-#EXTINF:-1,ARENA SPORT 2 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39907
-#EXTINF:-1,ARENA SPORT 2 SR HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39905
-#EXTINF:-1,ARENA SPORT 2 SR
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39906
-#EXTINF:-1,ARENA SPORT 3 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39904
-#EXTINF:-1,ARENA SPORT 3 SR HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39902
-#EXTINF:-1,ARENA SPORT 3 SR
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39903
-#EXTINF:-1,ARENA SPORT 4 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39901
-#EXTINF:-1,ARENA SPORT 4 SR HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39899
-#EXTINF:-1,ARENA SPORT 4 SR
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39900
-#EXTINF:-1,ARENA SPORT 5 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39898
-#EXTINF:-1,SPORT KLUB 1 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39892
-#EXTINF:-1,SPORT KLUB 1 SLO
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39891
-#EXTINF:-1,SPORT KLUB 1 SR
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39890
-#EXTINF:-1,SPORT KLUB 2 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39889
-#EXTINF:-1,SPORT KLUB 2 SR
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39888
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/49675
 #EXTINF:-1,SPORT KLUB 3 HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39887
-#EXTINF:-1,SPORT KLUB 3 SR
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39886
-#EXTINF:-1,SPORT KLUB 4
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39885
-#EXTINF:-1,SPORT KLUB 5
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39884
-#EXTINF:-1,SPORT KLUB 6
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39883
-#EXTINF:-1,SPORT KLUB HD
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39882
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/49674
+#EXTINF:-1,SPORT KLUB 4 HD
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/49673
+#EXTINF:-1,SPORT KLUB 5 HD
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/49672
+#EXTINF:-1,SPORT KLUB 6 HD
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/49671
+#EXTINF:-1,ARENA SPORT 1
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15703
+#EXTINF:-1,ARENA SPORT 2
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15702
+#EXTINF:-1,ARENA SPORT 3
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15701
+#EXTINF:-1,ARENA SPORT 4
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15700
+#EXTINF:-1,ARENA SPORT 5
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15699
+#EXTINF:-1,HBO 1
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15724
+#EXTINF:-1,HBO 2
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15726
+#EXTINF:-1,HBO 3
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15725
+#EXTINF:-1,CINEMAX
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15715
+#EXTINF:-1,CINESTAR ACTION
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15718
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15717
+#EXTINF:-1,PINK FILM
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15764
+#EXTINF:-1,FOX MOVIES
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15782
+#EXTINF:-1,HRT 1
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15734
+#EXTINF:-1,HRT 2
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15737
+#EXTINF:-1,HRT 3
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15736
+#EXTINF:-1,NOVA TV
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15739
+#EXTINF:-1,DOMA TV
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15720
+#EXTINF:-1,RTL
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15778
 #EXTINF:-1,RTS 1
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39944
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15688
 #EXTINF:-1,RTS 2
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39943
-#EXTINF:-1,SRB - RTS 3
-http://tektv.co:80/Dpbol8woNL/nZywzOQBaF/39942
+http://195.154.26.166:8000/OyqFnMDC2H/JFCfX3pMEw/15687
