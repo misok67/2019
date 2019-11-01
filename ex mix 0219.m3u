@@ -12,82 +12,54 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
 
-#EXTINF:-1,EX YU: CINEMAX 1
-http://premium-iptv.link:7899/Dimitri/Dimitri/3551
-#EXTINF:-1,EX YU: CINEMAX-2
-http://premium-iptv.link:7899/Dimitri/Dimitri/3550
-#EXTINF:-1,EX YU: HBO 2
-http://premium-iptv.link:7899/Dimitri/Dimitri/3545
-#EXTINF:-1,EX YU: HBO 3
-http://premium-iptv.link:7899/Dimitri/Dimitri/4011
-#EXTINF:-1,EX YU: HBO Adria
-http://premium-iptv.link:7899/Dimitri/Dimitri/3544
-#EXTINF:-1,EX-YU: CINESTAR FANTASY
-http://premium-iptv.link:7899/Dimitri/Dimitri/32090
-#EXTINF:-1,EX-YU: Cinestar Action
-http://premium-iptv.link:7899/Dimitri/Dimitri/3555
-#EXTINF:-1,EX-YU: Cinestar Premiere 1
-http://premium-iptv.link:7899/Dimitri/Dimitri/3534
-#EXTINF:-1,SLO: FOX MOVIES HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/6827
-#EXTINF:-1,SLO: HBO 2
-http://premium-iptv.link:7899/Dimitri/Dimitri/6829
-#EXTINF:-1,SLO: HBO 3
-http://premium-iptv.link:7899/Dimitri/Dimitri/6816
-#EXTINF:-1,SLO: HBO
-http://premium-iptv.link:7899/Dimitri/Dimitri/6828
-#EXTINF:-1,EX-YU: Fox Movies
-http://premium-iptv.link:7899/Dimitri/Dimitri/3517
-#EXTINF:-1,EX-YU: KLASIK TV
-http://premium-iptv.link:7899/Dimitri/Dimitri/3589
-#EXTINF:-1,EX-YU: Pink Film
-http://premium-iptv.link:7899/Dimitri/Dimitri/3566
-#EXTINF:-1,EX YU: RTL 2
-http://premium-iptv.link:7899/Dimitri/Dimitri/3558
-#EXTINF:-1,EX YU: RTL
-http://premium-iptv.link:7899/Dimitri/Dimitri/3559
-#EXTINF:-1,Ex-Yu: Arena Sport 1 HR FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/18209
-#EXTINF:-1,Ex-Yu: Arena Sport 2 HR FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/18208
-#EXTINF:-1,EX-YU: Arena Sport 3 HR FHD (Ex-Yu)
-http://premium-iptv.link:7899/Dimitri/Dimitri/18206
-#EXTINF:-1,EX-YU: Arena Sport 4 HR FHD (Ex-Yu)
-http://premium-iptv.link:7899/Dimitri/Dimitri/18205
-#EXTINF:-1,EX-YU: Arena Sport 5 FHD Croatia
-http://premium-iptv.link:7899/Dimitri/Dimitri/18204
-#EXTINF:-1,EX-YU: Arena Sport 5 HR FHD (Ex-Yu)
-http://premium-iptv.link:7899/Dimitri/Dimitri/18203
-#EXTINF:-1,EX-YU: Arena sport 2 HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/401
-#EXTINF:-1,EX-YU: RTS 1 (local)
-http://premium-iptv.link:7899/Dimitri/Dimitri/3599
-#EXTINF:-1,EX-YU: RTS 2 (local)
-http://premium-iptv.link:7899/Dimitri/Dimitri/3598
-#EXTINF:-1,EX-YU: RTS 3
-http://premium-iptv.link:7899/Dimitri/Dimitri/3597
-#EXTINF:-1,EX-YU: Sport Klub 1 FHD HR
-http://premium-iptv.link:7899/Dimitri/Dimitri/26932
-#EXTINF:-1,EX-YU: Sport Klub 1
-http://premium-iptv.link:7899/Dimitri/Dimitri/3605
-#EXTINF:-1,EX-YU: Sport Klub 2 FHD HR
-http://premium-iptv.link:7899/Dimitri/Dimitri/26933
-#EXTINF:-1,EX-YU: Sport Klub 2
-http://premium-iptv.link:7899/Dimitri/Dimitri/3604
-#EXTINF:-1,EX-YU: Sport Klub 3 FHD HR
-http://premium-iptv.link:7899/Dimitri/Dimitri/26934
-#EXTINF:-1,EX-YU: Sport Klub 3
-http://premium-iptv.link:7899/Dimitri/Dimitri/3603
-#EXTINF:-1,Ex-Yu: RTL Crime
-http://premium-iptv.link:7899/Dimitri/Dimitri/8864
-#EXTINF:-1,Ex-Yu: Sport Klub HD 1 Srb
-http://premium-iptv.link:7899/Dimitri/Dimitri/26625
-#EXTINF:-1,Ex-Yu: Sport Klub HD 2 Srb
-http://premium-iptv.link:7899/Dimitri/Dimitri/26626
-#EXTINF:-1,Ex-Yu: Sport Klub HD 3 Srb
-http://premium-iptv.link:7899/Dimitri/Dimitri/26627
-
-
+#EXTINF:-1,Hbo HD (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/896.ts
+#EXTINF:-1,Hbo 2 HD (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/895.ts
+#EXTINF:-1,Hbo 3 HD (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/898.ts
+#EXTINF:-1,Kino TV HD (HR)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/3504.ts
+#EXTINF:-1,Cinemax 2 HD (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/893.ts
+#EXTINF:-1,Cinemax HD (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/894.ts
+#EXTINF:-1,Cinestar Action (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/891.ts
+#EXTINF:-1,Cinestar Fantasy (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/3464.ts
+#EXTINF:-1,Cinestar Premiere 1 HD (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/889.ts
+#EXTINF:-1,Cinestar Premiere 2 HD (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/890.ts
+#EXTINF:-1,Cinestar TV (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/892.ts
+#EXTINF:-1,Klasik TV (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/887.ts
+#EXTINF:-1,Pink Film (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1518.ts
+#EXTINF:-1,TV 1000 (Ex-Yu)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1092.ts
+#EXTINF:-1,RTL (HR)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/810.ts
+#EXTINF:-1,RTL 2 (HR)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1232.ts
+#EXTINF:-1,RTL Crime (HR)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/807.ts
+#EXTINF:-1,Nova TV HD (HR)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/806.ts
+#EXTINF:-1,Doma TV HD (HR)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/805.ts
+#EXTINF:-1,RTS 1 (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7967.ts
+#EXTINF:-1,RTS 1 HD (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7685.ts
+#EXTINF:-1,RTS 2 (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/834.ts
+#EXTINF:-1,RTS 2 HD (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7686.ts
+#EXTINF:-1,RTS 3 (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1451.ts
 #EXTINF:-1,Sport Klub 1 HD (HR)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1042.ts
 #EXTINF:-1,Sport Klub 1 HD (RS)
@@ -114,57 +86,9 @@ http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1033.ts
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1032.ts
 #EXTINF:-1,Arena Sport 4 HD (HR)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1031.ts
+#EXTINF:-1,Arena Sport 4 HD (RS)
+http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/4892.ts
 #EXTINF:-1,Arena Sport 5 HD (HR)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1030.ts
 #EXTINF:-1,Arena Sport 6 HD (HR)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1418.ts
-#EXTINF:-1,Cinemax 2 HD (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/893.ts
-#EXTINF:-1,Cinemax HD (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/894.ts
-#EXTINF:-1,Cinestar Action (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/891.ts
-#EXTINF:-1,Cinestar Fantasy (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/3464.ts
-#EXTINF:-1,Cinestar Premiere 1 HD (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/889.ts
-#EXTINF:-1,Cinestar Premiere 2 HD (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/890.ts
-#EXTINF:-1,Cinestar TV (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/892.ts
-#EXTINF:-1,Fox Movies HD (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/4031.ts
-#EXTINF:-1,Hbo 2 HD (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/895.ts
-#EXTINF:-1,Hbo 3 HD (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/898.ts
-#EXTINF:-1,Hbo HD (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/896.ts
-#EXTINF:-1,Kino TV HD (HR)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/3504.ts
-#EXTINF:-1,Klasik TV (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/887.ts
-#EXTINF:-1,Pink Film (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1518.ts
-#EXTINF:-1,RTL (HR)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/810.ts
-#EXTINF:-1,RTL 2 (HR)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1232.ts
-#EXTINF:-1,RTL Crime (HR)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/807.ts
-#EXTINF:-1,Doma TV (HR)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7113.ts
-#EXTINF:-1,Doma TV HD (HR)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/805.ts
-#EXTINF:-1,RTS 1 (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7967.ts
-#EXTINF:-1,RTS 1 HD (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7685.ts
-#EXTINF:-1,RTS 2 (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/834.ts
-#EXTINF:-1,RTS 2 HD (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7686.ts
-#EXTINF:-1,RTS 3 (RS)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1451.ts
-#EXTINF:-1,TV 1000 (Ex-Yu)
-http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1092.ts
