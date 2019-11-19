@@ -11,67 +11,47 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,HBO SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9119.m3u8
-#EXTINF:-1,HBO 2 SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9118.m3u8
-#EXTINF:-1,HBO 3 SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9117.m3u8
-#EXTINF:-1,HBO FHD MK
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/657495.m3u8
-#EXTINF:-1,HBO HD MK
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/657491.m3u8
-#EXTINF:-1,HBO 2 MK
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/657494.m3u8
-#EXTINF:-1,HBO 3 HD MK
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/657493.m3u8
-#EXTINF:-1,CineStar Premiere 1 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/13309.m3u8
-#EXTINF:-1,CineStar Premiere 2 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/13308.m3u8
-#EXTINF:-1,Cinestar TV Premiere 1 MK
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/657490.m3u8
-#EXTINF:-1,Cinestar TV Premiere 2 MK
-http://mytv.fun:8080/live/mn8l4n5gkrr/cbnhd0098s2/623691.m3u8
-#EXTINF:-1,Planet Sports 2 FHD HR VIP
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/623690.m3u8
-#EXTINF:-1,Planet Sports 3 FHD HR VIP
-http://mytv.fun:8080/live/mn8l4n5gk293.m3u8
-#EXTINF:-1,SPORTS | SPORT KLUB HD 2
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/7088.m3u8
-#EXTINF:-1,SPORTS | SPORT KLUB HD 3
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/7087.m3u8
-#EXTINF:-1,SPORTS | Sport Klub 1 HD
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/53164.m3u8
-#EXTINF:-1,SPORTS | Sport Klub 2 FHD
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/5444.m3u8
-#EXTINF:-1,SPORTS | Sport Klub 3 HD
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/5.m3u8
-#EXTINF:-1,Sport Klub 3 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/625228.m3u8
-#EXTINF:-1,Sport Klub 4 SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9095.m3u8
-#EXTINF:-1,Fox Movies HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9120.m3u8
-#EXTINF:-1,RTS 1 SN
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/679925227.m3u8
-#EXTINF:-1,Kanal A HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9116.m3u8
-#EXTINF:-1,Pop Brio HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9108.m3u8
-#EXTINF:-1,Pop Kino HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9107.m3u8
-#EXTINF:-1,Pop OTO HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9106.m3u8
-#EXTINF:-1,Pop TV HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9105.m3u8
-#EXTINF:-1,SLO 1 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9104.m3u8
-#EXTINF:-1,SLO 2 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9103.m3u8
-#EXTINF:-1,Sport TV 1 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9101.m3u8
-#EXTINF:-1,Sport TV 2 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9100.m3u8
-#EXTINF:-1,Sport TV 3 HD SI
-http://mytv.fun:8080/live/mn8l4n5gkr/cbnhd0098s2/9099.m3u8
+#EXTINF:-1,CRO: CINEMAX 1
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21693.m3u8
+#EXTINF:-1,CRO: CINEMAX 2
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21694.m3u8
+#EXTINF:-1,CRO: CINESTAR ACTION 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21696.m3u8
+#EXTINF:-1,SRB: CINESTAR TV ACTION 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21638.m3u8
+#EXTINF:-1,SRB: CINESTAR TV FANTASY 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21643.m3u8
+#EXTINF:-1,SRB: CINESTAR TV 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21637.m3u8
+#EXTINF:-1,SRB: PINK FILM 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21675.m3u8
+#EXTINF:-1,SRB: RTS 1
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21606.m3u8
+#EXTINF:-1,SRB: RTS 2
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21610.m3u8
+#EXTINF:-1,BG: ARENA SPORT 1 HD
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21000.m3u8
+#EXTINF:-1,BG: ARENA SPORT 2 HD
+http://www.bozhd.eu:8000/live/lokman3/3lokman/20999.m3u8
+#EXTINF:-1,BG: ARENA SPORT 3 HD
+http://www.bozhd.eu:8000/live/lokman3/3lokman/20998.m3u8
+#EXTINF:-1,BG: ARENA SPORT 4 HD
+http://www.bozhd.eu:8000/live/lokman3/3lokman/20997.m3u8
+#EXTINF:-1,BG: ARENA SPORT 5 HD
+http://www.bozhd.eu:8000/live/lokman3/3lokman/20996.m3u8
+#EXTINF:-1,BG: SPORTKLUB 1
+http://www.bozhd.eu:8000/live/lokman3/3lokman/20894.m3u8
+#EXTINF:-1,BG: SPORTKLUB 2
+http://www.bozhd.eu:8000/live/lokman3/3lokman/20893.m3u8
+#EXTINF:-1,BG: SPORTKLUB 3
+http://www.bozhd.eu:8000/live/lokman3/3lokman/20892.m3u8
+#EXTINF:-1,SRB: ARENA SPORT 1 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21609.m3u8
+#EXTINF:-1,SRB: ARENA SPORT 2 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21612.m3u8
+#EXTINF:-1,SRB: ARENA SPORT 3 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21611.m3u8
+#EXTINF:-1,SRB: ARENA SPORT 4
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21600.m3u8
+#EXTINF:-1,SRB: ARENA SPORT 5 
+http://www.bozhd.eu:8000/live/lokman3/3lokman/21607.m3u8
