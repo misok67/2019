@@ -10,10 +10,39 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,HBO 1 HD (SLO)
-http://185.164.35.35:80/Ub8pp9OW4L/2yg9oM2SkW/2633.m3u8
-#EXTINF:-1,HBO 1 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/396.m3u8
+
+#EXTINF:-1,HBO 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/18123.m3u8
+#EXTINF:-1,HBO 2 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/21732.m3u8
+#EXTINF:-1,HBO 3 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/21733.m3u8
+#EXTINF:-1,Cinemax 1 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/778.m3u8
+#EXTINF:-1,Cinemax 2 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/779.m3u8
+#EXTINF:-1,Kino TV
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/39748.m3u8
+#EXTINF:-1,Cinestar TV Premiere 1 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/777.m3u8
+#EXTINF:-1,Cinestar TV Premiere 2 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/781.m3u8
+#EXTINF:-1,Cinestar TV
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/632.m3u8
+#EXTINF:-1,Cinestar Action
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/21735.m3u8
+#EXTINF:-1,Cinestar Fantasy
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/39751.m3u8
+#EXTINF:-1,TV 1000
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/21737.m3u8
+#EXTINF:-1,Fox Movies
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/774.m3u8
+#EXTINF:-1,FilmBox Plus
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/14682.m3u8
+#EXTINF:-1,FilmBox Extra 
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/14683.m3u8
+
+
 #EXTINF:-1,HBO 2 HD (SLO)
 http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2634.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -108,57 +137,3 @@ http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/294.m3u8
 http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/290.m3u8
 #EXTINF:-1,ARENA SPORT 5 HD (HR)
 http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/295.m3u8
-
-#EXTINF:-1,HBO2
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/87.m3u8
-#EXTINF:-1,HBO3
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/88.m3u8
-#EXTINF:-1,HBO
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/86.m3u8
-
-#EXTINF:-1,Cinemax 1 HD
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/90.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/91.m3u8
-#EXTINF:-1,Cinestar Action & Thriller
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/82.m3u8
-#EXTINF:-1,Cinestar Premiere 1 HD
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/84.m3u8
-#EXTINF:-1,CineStar Fantasy
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/83.m3u8
-#EXTINF:-1,Cinestar TV
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/47.m3u8
-#EXTINF:-1,FOX MOVIES FHD
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/520.m3u8
-#EXTINF:-1,Fox Movies HD slo
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/201.m3u8
-#EXTINF:-1,Kino TV
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/131.m3u8
-#EXTINF:-1,Klasik TV
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/59.m3u8
-#EXTINF:-1,Pink Film
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/60.m3u8
-#EXTINF:-1,HRT1 HD
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/325.m3u8
-
-#EXTINF:-1,RTL 1
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/144.m3u8
-#EXTINF:-1,RTL 2 De
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/143.m3u8
-#EXTINF:-1,RTL Crime HD
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/497.m3u8
-#EXTINF:-1,RTL Crime
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/39.m3u8
-#EXTINF:-1,RTL Croatia World
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/517.m3u8
-#EXTINF:-1,RTL Plus HD
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/500.m3u8
-#EXTINF:-1,RTL2
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/21.m3u8
-#EXTINF:-1,RTL
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/140.m3u8
-#EXTINF:-1,Doma TV
-http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/20.m3u8
-
-
-
