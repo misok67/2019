@@ -11,76 +11,61 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,HBO ADRIA
-http://the.herolegend.tv:25461/live/prova/prova/67041.m3u8
-#EXTINF:-1,HBO 2 SLO
-http://the.herolegend.tv:25461/live/prova/prova/67107.m3u8
+#EXTINF:-1,HBO 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/18123.m3u8
+#EXTINF:-1,HBO 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21732.m3u8
+#EXTINF:-1,HBO 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21733.m3u8
+#EXTINF:-1,HBO
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/30904.m3u8
+#EXTINF:-1,HBO 2
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/30905.m3u8
 #EXTINF:-1,HBO 3
-http://the.herolegend.tv:25461/live/prova/prova/67062.m3u8
-#EXTINF:-1,HBO Comedy
-http://the.herolegend.tv:25461/live/prova/prova/67108.m3u8
-#EXTINF:-1,HBO HD 2
-http://the.herolegend.tv:25461/live/prova/prova/67061.m3u8
-#EXTINF:-1,HBO HD
-http://the.herolegend.tv:25461/live/prova/prova/67060.m3u8
-#EXTINF:-1,CR: CINESTAR FANTASY
-http://the.herolegend.tv:25461/live/prova/prova/61210.m3u8
-#EXTINF:-1,CR: CINESTAR TV
-http://the.herolegend.tv:25461/live/prova/prova/61211.m3u8
-#EXTINF:-1,CR: HBO 2
-http://the.herolegend.tv:25461/live/prova/prova/61213.m3u8
-#EXTINF:-1,CR: HBO HD
-http://the.herolegend.tv:25461/live/prova/prova/61212.m3u8
-#EXTINF:-1,CR: KINO TV HD
-http://the.herolegend.tv:25461/live/prova/prova/61214.m3u8
-#EXTINF:-1,EX YU: CINEMAX-1
-http://the.herolegend.tv:25461/live/prova/prova/67048.m3u8
-#EXTINF:-1,EX YU: CINEMAX-2
-http://the.herolegend.tv:25461/live/prova/prova/67049.m3u8
-#EXTINF:-1,CINESTAR TV
-http://the.herolegend.tv:25461/live/prova/prova/67046.m3u8
-#EXTINF:-1,Cinemax HD
-http://the.herolegend.tv:25461/live/prova/prova/67089.m3u8
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/30906.m3u8
+#EXTINF:-1,Cinemax 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/778.m3u8
+#EXTINF:-1,Cinemax 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/779.m3u8
 #EXTINF:-1,Cinestar Action
-http://the.herolegend.tv:25461/live/prova/prova/67090.m3u8
-#EXTINF:-1,Cinestar Fantasy HD
-http://the.herolegend.tv:25461/live/prova/prova/67091.m3u8
-#EXTINF:-1,Cinestar Premiere 1
-http://the.herolegend.tv:25461/live/prova/prova/67093.m3u8
-#EXTINF:-1,Cinestar Premiere 2
-http://the.herolegend.tv:25461/live/prova/prova/67047.m3u8
-#EXTINF:-1,Doma TV
-http://the.herolegend.tv:25461/live/prova/prova/67072.m3u8
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21735.m3u8
+#EXTINF:-1,Cinestar Fantasy
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/39751.m3u8
+#EXTINF:-1,Cinestar TV Premiere 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/777.m3u8
+#EXTINF:-1,Cinestar TV Premiere 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/781.m3u8
+#EXTINF:-1,Cinestar TV
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/632.m3u8
 #EXTINF:-1,Fox Movies
-http://the.herolegend.tv:25461/live/prova/prova/67043.m3u8
-#EXTINF:-1,HRT 1
-http://the.herolegend.tv:25461/live/prova/prova/67056.m3u8
-#EXTINF:-1,HRT 2
-http://the.herolegend.tv:25461/live/prova/prova/67057.m3u8
-#EXTINF:-1,HRT 3
-http://the.herolegend.tv:25461/live/prova/prova/67058.m3u8
-#EXTINF:-1,CR: RTL 2
-http://the.herolegend.tv:25461/live/prova/prova/61198.m3u8
-#EXTINF:-1,CR: RTL CRIME
-http://the.herolegend.tv:25461/live/prova/prova/61199.m3u8
-#EXTINF:-1,CR: RTL TV
-http://the.herolegend.tv:25461/live/prova/prova/61197.m3u8
-#EXTINF:-1,CR: DOMA TV
-http://the.herolegend.tv:25461/live/prova/prova/61202.m3u8
-#EXTINF:-1,KLASIK TV
-http://the.herolegend.tv:25461/live/prova/prova/67118.m3u8
-#EXTINF:-1,Pink Film
-http://the.herolegend.tv:25461/live/prova/prova/67032.m3u8
-#EXTINF:-1,RTL 2
-http://the.herolegend.tv:25461/live/prova/prova/67064.m3u8
-#EXTINF:-1,RTL CRIME
-http://the.herolegend.tv:25461/live/prova/prova/67065.m3u8
-#EXTINF:-1,RTL
-http://the.herolegend.tv:25461/live/prova/prova/67063.m3u8
-#EXTINF:-1,RTS 1
-http://the.herolegend.tv:25461/live/prova/prova/67076.m3u8
-#EXTINF:-1,RTS 2
-http://the.herolegend.tv:25461/live/prova/prova/67077.m3u8
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/774.m3u8
+#EXTINF:-1,Kino TV
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/39748.m3u8
+#EXTINF:-1,Klasik TV
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/748.m3u8
 #EXTINF:-1,TV 1000
-http://the.herolegend.tv:25461/live/prova/prova/67036.m3u8
-.m3u8
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21737.m3u8
+#EXTINF:-1,HRT 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/733.m3u8
+#EXTINF:-1,HRT 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/732.m3u8
+#EXTINF:-1,HRT 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/731.m3u8
+#EXTINF:-1,RTL 2
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/745.m3u8
+#EXTINF:-1,RTL Crime
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21724.m3u8
+#EXTINF:-1,RTL
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/617.m3u8
+#EXTINF:-1,(HR) Nova TV 4K+
+http://jb.worldip.nl:1339/eTy6hZZRpX/x5D3IvDe4s/746
+#EXTINF:-1,Doma TV 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/749.m3u8
+#EXTINF:-1,Pink Film
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/643.m3u8
+#EXTINF:-1,RTS 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/613.m3u8
+#EXTINF:-1,RTS 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/612.m3u8
+#EXTINF:-1,RTS 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/6153.m3u8
