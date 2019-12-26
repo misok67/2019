@@ -11,61 +11,75 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,HBO 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/18123.m3u8
-#EXTINF:-1,HBO 2 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21732.m3u8
-#EXTINF:-1,HBO 3 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21733.m3u8
-#EXTINF:-1,HBO
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/30904.m3u8
-#EXTINF:-1,HBO 2
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/30905.m3u8
-#EXTINF:-1,HBO 3
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/30906.m3u8
-#EXTINF:-1,Cinemax 1 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/778.m3u8
-#EXTINF:-1,Cinemax 2 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/779.m3u8
-#EXTINF:-1,Cinestar Action
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21735.m3u8
-#EXTINF:-1,Cinestar Fantasy
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/39751.m3u8
-#EXTINF:-1,Cinestar TV Premiere 1 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/777.m3u8
-#EXTINF:-1,Cinestar TV Premiere 2 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/781.m3u8
-#EXTINF:-1,Cinestar TV
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/632.m3u8
-#EXTINF:-1,Fox Movies
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/774.m3u8
-#EXTINF:-1,Kino TV
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/39748.m3u8
-#EXTINF:-1,Klasik TV
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/748.m3u8
-#EXTINF:-1,TV 1000
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21737.m3u8
-#EXTINF:-1,HRT 1 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/733.m3u8
-#EXTINF:-1,HRT 2 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/732.m3u8
-#EXTINF:-1,HRT 3 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/731.m3u8
-#EXTINF:-1,RTL 2
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/745.m3u8
-#EXTINF:-1,RTL Crime
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/21724.m3u8
-#EXTINF:-1,RTL
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/617.m3u8
-#EXTINF:-1,(HR) Nova TV 4K+
-http://jb.worldip.nl:1339/eTy6hZZRpX/x5D3IvDe4s/746
-#EXTINF:-1,Doma TV 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/749.m3u8
-#EXTINF:-1,Pink Film
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/643.m3u8
-#EXTINF:-1,RTS 1 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/613.m3u8
-#EXTINF:-1,RTS 2 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/612.m3u8
-#EXTINF:-1,RTS 3 4K+
-http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/6153.m3u8
+#EXTINF:-1,EXYU | HBO (MK)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15967.m3u8
+#EXTINF:-1,EXYU | HBO 1 HD (SL)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15991.m3u8
+#EXTINF:-1,EXYU | HBO 2 (MK)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15968.m3u8
+#EXTINF:-1,EXYU | HBO 2 HD (SL)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15992.m3u8
+#EXTINF:-1,EXYU | HBO 2
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16073.m3u8
+#EXTINF:-1,EXYU | HBO 3 (MK)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15969.m3u8
+#EXTINF:-1,EXYU | HBO 3 HD (SL)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15993.m3u8
+#EXTINF:-1,EXYU | HBO 3 HD
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16074.m3u8
+#EXTINF:-1,EXYU | HBO
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16072.m3u8
+#EXTINF:-1,EXYU | Kino TV
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16087.m3u8
+#EXTINF:-1,EXYU | CINESTAR PREMIERE 1 (SL)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16033.m3u8
+#EXTINF:-1,EXYU | CINESTAR PREMIERE 2 (SL)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16034.m3u8
+#EXTINF:-1,EXYU | CINESTAR TV (MK)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15970.m3u8
+#EXTINF:-1,EXYU | Cinemax 1
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16079.m3u8
+#EXTINF:-1,EXYU | Cinemax 2
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16080.m3u8
+#EXTINF:-1,EXYU | Cinestar Action TV
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16076.m3u8
+#EXTINF:-1,EXYU | Cinestar Premiere 1
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16077.m3u8
+#EXTINF:-1,EXYU | Cinestar Premiere 2
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16078.m3u8
+#EXTINF:-1,EXYU | Cinestar TV
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16075.m3u8
+#EXTINF:-1,EXYU | FOX MOVIES (MK)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15978.m3u8
+#EXTINF:-1,EXYU | FOX MOVIES (SL)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16022.m3u8
+#EXTINF:-1,EXYU | Fox Movies
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16082.m3u8
+#EXTINF:-1,EXYU | Klasik TV
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16088.m3u8
+#EXTINF:-1,EXYU | PINK FILM
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16046.m3u8
+#EXTINF:-1,EXYU | NOVA TV HD (L2)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15831.m3u8
+#EXTINF:-1,EXYU | DOMA TV HD (L2)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15834.m3u8
+#EXTINF:-1,EXYU | RTL (L2)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15836.m3u8
+#EXTINF:-1,EXYU | RTL 2
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15837.m3u8
+#EXTINF:-1,EXYU | RTL CRIME
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15838.m3u8
+#EXTINF:-1,EXYU | RTL
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15835.m3u8
+#EXTINF:-1,EXYU | RTS 1 (RS)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15884.m3u8
+#EXTINF:-1,EXYU | RTS 2 (RS) FHD
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15885.m3u8
+#EXTINF:-1,EXYU | RTS 3 (RS)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15886.m3u8
+#EXTINF:-1,EXYU | TV 1000 (MK)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/15979.m3u8
+#EXTINF:-1,EXYU | TV 1000 (SL)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16001.m3u8
+#EXTINF:-1,EXYU | TV 1000
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16090.m3u8
