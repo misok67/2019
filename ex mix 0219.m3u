@@ -11,35 +11,111 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,EX-YO: HBO HD
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16571.m3u8
-#EXTINF:-1,EX-YO: HBO 1
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16574.m3u8
-#EXTINF:-1,EX-YO: HBO 2
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16573.m3u8
-#EXTINF:-1,EX-YO: HBO 3
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16572.m3u8
-#EXTINF:-1,EX-YO: CineStar Premiere 1
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16588.m3u8
-#EXTINF:-1,EX-YO: CINESTAR PREMIERE 2
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16587.m3u8
-#EXTINF:-1,EX-YO: CineMax 1
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16590.m3u8
-#EXTINF:-1,EX-YO: CINEMAX. 2
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16589.m3u8
-#EXTINF:-1,EX-YO: PINK FILM
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16546.m3u8
-#EXTINF:-1,EX-YO: M 1 FILM
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16562.m3u8
-#EXTINF:-1,EX-YO: CINESTAR TV HD
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16586.m3u8
-#EXTINF:-1,EX-YO: FOX MOVIIES
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16582.m3u8
-#EXTINF:-1,EX-YO: TV1000
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16523.m3u8
-#EXTINF:-1,EX-YO: RTS 1
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16528.m3u8
-#EXTINF:-1,EX-YO: RTS 2
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16527.m3u8
-#EXTINF:-1,EX-YO: Doma TV
-http://skyhd-iptv.com:2095/live/usr444/4PihiITmPD/16584.m3u8
+#EXTINF:-1,UK BBC News
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37089.m3u8
+#EXTINF:-1,UK BBC News HD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37167.m3u8
+#EXTINF:-1,UK BBC ONE
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37173.m3u8
+#EXTINF:-1,UK BBC One FHD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37174.m3u8
+#EXTINF:-1,UK BBC Two FHD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37166.m3u8
+#EXTINF:-1,UK BBC World News
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37169.m3u8
+#EXTINF:-1,UK BBC4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37111.m3u8
+#EXTINF:-1,UK: BBC 1 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98853.m3u8
+#EXTINF:-1,UK: BBC 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98852.m3u8
+#EXTINF:-1,UK: BBC 4 / CBEEBIES | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98851.m3u8
+#EXTINF:-1,UK: BBC NEWS | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98850.m3u8
+#EXTINF:-1,UK: ITV 1 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98826.m3u8
+#EXTINF:-1,UK: ITV 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98825.m3u8
+#EXTINF:-1,UK: ITV 3 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98824.m3u8
+#EXTINF:-1,UK: ITV 4 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98823.m3u8
+#EXTINF:-1,UK: ITV +1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97620.m3u8
+#EXTINF:-1,UK ITV 2 HD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37157.m3u8
+#EXTINF:-1,UK ITV 2 SD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37158.m3u8
+#EXTINF:-1,UK ITV 3 SD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37155.m3u8
+#EXTINF:-1,UK: ITV 3 +1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97621.m3u8
+#EXTINF:-1,UK ITV 4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37154.m3u8
+#EXTINF:-1,UK: ITV 4 +1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97622.m3u8
+#EXTINF:-1,UK ITV Be
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37151.m3u8
+#EXTINF:-1,UK ITV HD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37160.m3u8
+#EXTINF:-1,UK ITV
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37161.m3u8
+#EXTINF:-1,UK ITV3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37156.m3u8
+#EXTINF:-1,SKY ARTS
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/2408.m3u8
+#EXTINF:-1,SKY CINEMA ACTION | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98800.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98799.m3u8
+#EXTINF:-1,SKY CINEMA DISNEY | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98798.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98797.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98796.m3u8
+#EXTINF:-1,SKY CINEMA GREATS | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98795.m3u8
+#EXTINF:-1,SKY CINEMA HITS | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98794.m3u8
+#EXTINF:-1,SKY CINEMA PREMIER | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98793.m3u8
+#EXTINF:-1,SKY CINEMA SCI-FI HORROR | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98792.m3u8
+#EXTINF:-1,SKY CINEMA SELECT | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98791.m3u8
+#EXTINF:-1,SKY CINEMA THRILLER | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98790.m3u8
+#EXTINF:-1,HBO Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1265.m3u8
+#EXTINF:-1,HBO WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77224.m3u8
+#EXTINF:-1,HBO 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95926.m3u8
+#EXTINF:-1,HBO COMEDY | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1465.m3u8
+#EXTINF:-1,HBO FAMILY | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95925.m3u8
+#EXTINF:-1,HBO SIGNATURE Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/2515.m3u8
+#EXTINF:-1,HBO ZONE | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95924.m3u8
+#EXTINF:-1,CINEMAX Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1282.m3u8
+#EXTINF:-1,CINEMAX WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38700.m3u8
+#EXTINF:-1,CINEMAX 5STAR MAX Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89057.m3u8
+#EXTINF:-1,CINEMAX ACTIONMAX | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95935.m3u8
+#EXTINF:-1,CINEMAX MORE MAX | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95932.m3u8
+#EXTINF:-1,CINEMAX MOVIEMAX Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/90706.m3u8
+#EXTINF:-1,CINEMAX MOVIEMAX | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/99584.m3u8
+#EXTINF:-1,CINEMAX OUTERMAX | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95934.m3u8
+#EXTINF:-1,CINEMAX THRILLERMAX | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95933.m3u8
