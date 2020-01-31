@@ -10,101 +10,89 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,EX-YU:Nova_HR
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/573.m3u8
+#EXTINF:-1,Nova TV HD
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/4865.m3u8
+#EXTINF:-1,Doma TV HD
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/4866.m3u8
+#EXTINF:-1,RTL 2
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1252.m3u8
+#EXTINF:-1,HBO Adria
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1385.m3u8
+#EXTINF:-1,HBO 2
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1384.m3u8
+#EXTINF:-1,HBO 3
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1383.m3u8
+#EXTINF:-1,Kino TV
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1374.m3u8
+#EXTINF:-1,CineStar Action & Thriller
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1379.m3u8
+#EXTINF:-1,CineStar Premiere 2
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1380.m3u8
+#EXTINF:-1,CineStar Premiere
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1381.m3u8
+#EXTINF:-1,CineStar TV
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1382.m3u8
+#EXTINF:-1,Cinemax 1
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1377.m3u8
+#EXTINF:-1,Cinemax 2
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1376.m3u8
+#EXTINF:-1,Cinestar Fantasy
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1378.m3u8
+#EXTINF:-1,FOX Movies SLO
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/3709.m3u8
+#EXTINF:-1,FOX Movies
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1367.m3u8
+#EXTINF:-1,Klasik TV
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1371.m3u8
+#EXTINF:-1,Pink Film
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1355.m3u8
+#EXTINF:-1,RTS 1
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1310.m3u8
+#EXTINF:-1,RTS 2
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1309.m3u8
+#EXTINF:-1,RTS 3
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1308.m3u8
+#EXTINF:-1,TV 1000
+http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1370.m3u8
 
-#EXTINF:-1,|YU| HBO HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82287.m3u8
-#EXTINF:-1,|YU| HBO 2 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82286.m3u8
-#EXTINF:-1,|YU| HBO 3 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/104709.m3u8
-#EXTINF:-1,|YU| HBO FAMILY HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/137669.m3u8
-#EXTINF:-1,|YU| CINEMAX
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/43102.m3u8
-#EXTINF:-1,|YU| CINESTAR PREMIERE 1 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82282.m3u8
-#EXTINF:-1,|YU| CINESTAR PREMIERE 2
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/104711.m3u8
-#EXTINF:-1,|YU| CINESTAR ACTION
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82277.m3u8
-#EXTINF:-1,|YU| CINESTAR FANTASY
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82276.m3u8
-#EXTINF:-1,|YU| FILMBOX PLUS
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82274.m3u8
-#EXTINF:-1,|YU| FILMBOX EXTRA
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82275.m3u8
-#EXTINF:-1,|YU| FILMBOX FAMILY
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/137668.m3u8
-#EXTINF:-1,|YU| TV 1000
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/137697.m3u8
-
-#EXTINF:-1,UK: BBC 1 | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98853.m3u8
-#EXTINF:-1,UK: BBC 2 | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98852.m3u8
-#EXTINF:-1,UK: BBC NEWS | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98850.m3u8
-#EXTINF:-1,UK: ITV 1 | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98826.m3u8
-#EXTINF:-1,UK: ITV 2 | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98825.m3u8
-#EXTINF:-1,UK: ITV 3 | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98824.m3u8
-#EXTINF:-1,UK: ITV 4 | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98823.m3u8
-#EXTINF:-1,SKY ARTS
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/2408.m3u8
-#EXTINF:-1,SKY CINEMA ACTION | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98800.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98799.m3u8
-#EXTINF:-1,SKY CINEMA DISNEY | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98798.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98797.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98796.m3u8
-#EXTINF:-1,SKY CINEMA GREATS | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98795.m3u8
-#EXTINF:-1,SKY CINEMA HITS | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98794.m3u8
-#EXTINF:-1,SKY CINEMA PREMIER | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98793.m3u8
-#EXTINF:-1,SKY CINEMA SCI-FI HORROR | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98792.m3u8
-#EXTINF:-1,SKY CINEMA SELECT | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98791.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98790.m3u8
-#EXTINF:-1,HBO Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1265.m3u8
-#EXTINF:-1,HBO WEST Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77224.m3u8
-#EXTINF:-1,HBO 2 | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95926.m3u8
-#EXTINF:-1,HBO COMEDY | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1465.m3u8
-#EXTINF:-1,HBO FAMILY | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95925.m3u8
-#EXTINF:-1,HBO SIGNATURE Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/2515.m3u8
-#EXTINF:-1,HBO ZONE | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95924.m3u8
-#EXTINF:-1,CINEMAX Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1282.m3u8
-#EXTINF:-1,CINEMAX WEST Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38700.m3u8
-#EXTINF:-1,CINEMAX 5STAR MAX Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89057.m3u8
-#EXTINF:-1,CINEMAX ACTIONMAX | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95935.m3u8
-#EXTINF:-1,CINEMAX MORE MAX | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95932.m3u8
-#EXTINF:-1,CINEMAX MOVIEMAX Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/90706.m3u8
-#EXTINF:-1,CINEMAX OUTERMAX | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95934.m3u8
-#EXTINF:-1,CINEMAX THRILLERMAX | VIP
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95933.m3u8
+#EXTINF:-1,Senke nad Balkanom S01 E01
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6011.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E02
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6012.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E03
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6013.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E04
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6014.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E05
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6015.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E06
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6016.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E07
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6017.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E08
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6018.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E09
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6019.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E10
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6020.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E01
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6021.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E02
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6022.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E03
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6023.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E04
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6024.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E05
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6025.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E06
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6026.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E07
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6027.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E08
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6028.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E09
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6029.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E10
+http://balkan-x.net:25461/series/t7GHgSyhge/Svhk2BoBRv/6030.mp4
+	
