@@ -10,58 +10,28 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,HBO ADRIA
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75287.m3u8
-#EXTINF:-1,HBO HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75288.m3u8
-#EXTINF:-1,HBO 2 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75285.m3u8
-#EXTINF:-1,HBO 3 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75286.m3u8
-#EXTINF:-1,CINESTAR Premiere 2 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75229.m3u8
-#EXTINF:-1,CineStar Action TV
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75225.m3u8
-#EXTINF:-1,CineStar Premiere 1 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75228.m3u8
-#EXTINF:-1,CineStar TV Action & Thriller
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75231.m3u8
-#EXTINF:-1,CineStar TV
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75230.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75195.m3u8
-#EXTINF:-1,Cinemax HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75196.m3u8
-#EXTINF:-1,Cinestar Fantasy
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75227.m3u8
-#EXTINF:-1,Kino Tv HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75314.m3u8
-#EXTINF:-1,Klasik TV
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75315.m3u8
-#EXTINF:-1,Nova HR
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75357.m3u8
-#EXTINF:-1,RTL 2
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75388.m3u8
-#EXTINF:-1,RTL Crime
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75389.m3u8
-#EXTINF:-1,RTS 1 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75397.m3u8
-#EXTINF:-1,RTS 2 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75398.m3u8
-#EXTINF:-1,RTS 3 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75399.m3u8
-#EXTINF:-1,TV 1000
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75438.m3u8
+#EXTINF:-1,DOMA TV HD HR
+http://live.redfhd.com:8000/live/cemal/sakarya54/17588.m3u8
+#EXTINF:-1,NOVA TV  HD HR
+http://live.redfhd.com:8000/live/cemal/sakarya54/17589.m3u8
+#EXTINF:-1,HR:RTL 2 (HR)
+http://live.redfhd.com:8000/live/cemal/sakarya54/17586.m3u8
 
-#EXTINF:-1 ,HBO 3 HD
-http://tt.rip:8000/live/41900808131509/41532890/88289.m3u8
-#EXTINF:-1 , HBO HD
-http://tt.rip:8000/live/41900808131509/41532890/88287.m3u8
-#EXTINF:-1 , Pink Film
-http://tt.rip:8000/live/41900808131509/41532890/88304.m3u8
-#EXTINF:-1 , RTS 1
-http://tt.rip:8000/live/41900808131509/41532890/88284.m3u8
-#EXTINF:-1 , RTS 2 HD
-http://tt.rip:8000/live/41900808131509/41532890/88285.m3u8
-#EXTINF:-1 , RTS 3
-http://tt.rip:8000/live/41900808131509/41532890/88286.m3u8
+#EXTINF:-1,EXYU: TV1000 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7495.m3u8
+#EXTINF:-1,EXYU: CINESTAR ACTION
+http://live.redfhd.com:8000/live/cemal/sakarya54/7500.m3u8
+#EXTINF:-1,EXYU: CineStar Premiere 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/7375.m3u8
+#EXTINF:-1,EXYU: CINESTAR PREMIERE 2
+http://live.redfhd.com:8000/live/cemal/sakarya54/7499.m3u8
+#EXTINF:-1,EXYU: CINESTAR TV HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7498.m3u8
+#EXTINF:-1,EXYU: CINEMAX 1 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7501.m3u8
+#EXTINF:-1,EXYU: Cinemax 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/7378.m3u8
+#EXTINF:-1,EXYU: Cinemax 2
+http://live.redfhd.com:8000/live/cemal/sakarya54/7377.m3u8
+
+
