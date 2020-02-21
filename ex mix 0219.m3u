@@ -17,21 +17,42 @@ http://live.redfhd.com:8000/live/cemal/sakarya54/17589.m3u8
 #EXTINF:-1,HR:RTL 2 (HR)
 http://live.redfhd.com:8000/live/cemal/sakarya54/17586.m3u8
 
-#EXTINF:-1,EXYU: TV1000 HD
-http://live.redfhd.com:8000/live/cemal/sakarya54/7495.m3u8
-#EXTINF:-1,EXYU: CINESTAR ACTION
-http://live.redfhd.com:8000/live/cemal/sakarya54/7500.m3u8
-#EXTINF:-1,EXYU: CineStar Premiere 1
-http://live.redfhd.com:8000/live/cemal/sakarya54/7375.m3u8
-#EXTINF:-1,EXYU: CINESTAR PREMIERE 2
-http://live.redfhd.com:8000/live/cemal/sakarya54/7499.m3u8
-#EXTINF:-1,EXYU: CINESTAR TV HD
-http://live.redfhd.com:8000/live/cemal/sakarya54/7498.m3u8
-#EXTINF:-1,EXYU: CINEMAX 1 HD
-http://live.redfhd.com:8000/live/cemal/sakarya54/7501.m3u8
-#EXTINF:-1,EXYU: Cinemax 1
-http://live.redfhd.com:8000/live/cemal/sakarya54/7378.m3u8
-#EXTINF:-1,EXYU: Cinemax 2
-http://live.redfhd.com:8000/live/cemal/sakarya54/7377.m3u8
-
+#EXTINF:-1,Nova TV  hr
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/40.m3u8
+#EXTINF:-1,Doma TV
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/41.m3u8
+#EXTINF:-1,HBO 
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/1227.m3u8
+#EXTINF:-1,HBO 2 
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/59.m3u8
+#EXTINF:-1,HBO 3 
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/60.m3u8
+#EXTINF:-1,CINEMAX2HD
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/70.m3u8
+#EXTINF:-1,CINEMAXhd
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/69.m3u8
+#EXTINF:-1,CineStar TV Fantasy
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/807.m3u8
+#EXTINF:-1,Cinestar Action
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/375.m3u8
+#EXTINF:-1,Cinestar Premiere 1
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/66.m3u8
+#EXTINF:-1,Cinestar tv
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/68.m3u8
+#EXTINF:-1,FOX movies
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/63.m3u8
+#EXTINF:-1,KLASIK tv
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/1210.m3u8
+#EXTINF:-1,Pink film
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/77.m3u8
+#EXTINF:-1,RTL 2  hr
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/39.m3u8
+#EXTINF:-1,RTS 1
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/21.m3u8
+#EXTINF:-1,RTS 2
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/22.m3u8
+#EXTINF:-1,TV 1000
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/61.m3u8
+#EXTINF:-1,cinestar premiere 2
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/67.m3u8
 
