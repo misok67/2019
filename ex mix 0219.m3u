@@ -43,6 +43,15 @@ http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379120.m3u8
 #EXTINF:-1,PINK FILM
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
 
+#EXTINF:-1,VIP FHD BBC 1
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374075.m3u8
+#EXTINF:-1,VIP FHD BBC 1
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374158.m3u8
+#EXTINF:-1,VIP FHD BBC 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374159.m3u8
+#EXTINF:-1,VIP FHD BBC  4
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374078.m3u8
+
 #EXTINF:-1,ENGLISH | CNN
 http://p4.giffy.be:8080/live/Testing1/Testing1/21275.m3u8
 #EXTINF:-1,UK | ITV 1
