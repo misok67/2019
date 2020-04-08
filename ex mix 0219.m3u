@@ -14,68 +14,34 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://p4.giffy.be:8080/live/Testing1/Testing1/64192.m3u8
 #EXTINF:-1,NOVA TV
 http://p4.giffy.be:8080/live/Testing1/Testing1/64229.m3u8
-#EXTINF:-1,NOVA TV HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7909.m3u8
-#EXTINF:-1,DOMA TV HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7910.m3u8
-#EXTINF:-1,RTL 2 HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7505.m3u8
-#EXTINF:-1,DOMA TV HD HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17588.m3u8
-#EXTINF:-1,NOVA TV  HD HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17589.m3u8
-#EXTINF:-1,HR:RTL 2 (HR)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17586.m3u8
-#EXTINF:-1 ,HBO ADRIA
-http://104.218.60.145:83/live/Elonge/4049153347@/379134.m3u8
-#EXTINF:-1 ,HBO 2
-http://104.218.60.145:83/live/Elonge/4049153347@/379130.m3u8
-#EXTINF:-1 ,HBO ADRIA
-http://104.218.60.145:83/live/Elonge/4049153347@/379134.m3u8
-#EXTINF:-1 ,CINEMAX-2
-http://104.218.60.145:83/live/Elonge/4049153347@/379121.m3u8
-#EXTINF:-1 ,RTS HD
-http://104.218.60.145:83/live/Elonge/4049153347@/379213.m3u8
-#EXTINF:-1 ,RTS 3
-http://104.218.60.145:83/live/Elonge/4049153347@/379212.m3u8
-
-#EXTINF:-1,: CINESTAR TV HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7498.m3u8
-#EXTINF:-1,: CINESTAR ACTION
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7500.m3u8
-#EXTINF:-1,: CINESTAR PREMIERE 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7375.m3u8
-#EXTINF:-1,: CINESTAR PREMIERE 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7499.m3u8
-#EXTINF:-1,: CINEMAX 1 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7501.m3u8
-#EXTINF:-1,: CINEMAX 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7378.m3u8
-#EXTINF:-1,: CINEMAX 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7377.m3u8
-#EXTINF:-1,: NOVA HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7494.m3u8
-#EXTINF:-1,RTS 1 HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7503.m3u8
-#EXTINF:-1,RTS 2 HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7504.m3u8
-#EXTINF:-1,:RTS SAT HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/8203.m3u8
-#EXTINF:-1,: FOX MOVIES
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7510.m3u8
-
-
-#EXTINF:-1,UK : BBC WORLD NEWS
-http://rayito-tv.xyz:41001/live/Armando/1234/34942.m3u8
-#EXTINF:-1,UK:BBC 1 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1495.m3u8
-#EXTINF:-1,UK:BBC 2 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1496.m3u8
-#EXTINF:-1,UK:BBC 3 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1497.m3u8
-#EXTINF:-1,UK:BBC 4 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1498.m3u8
-
+#EXTINF:-1,NOVA TV HR
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379177.m3u8
+#EXTINF:-1,EX YU: NOVA TV HR
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379127.m3u8
+#EXTINF:-1,EX YU: RTL 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379126.m3u8
+#EXTINF:-1,EX YU: DOMA-TV
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379122.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379136.m3u8
+#EXTINF:-1,CINESTAR PREMIER 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379135.m3u8
+#EXTINF:-1,EX YU: HBO ADRIA
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379134.m3u8
+#EXTINF:-1,EX YU: HBO 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379130.m3u8
+#EXTINF:-1,EX YU: HBO 3
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379123.m3u8
+#EXTINF:-1,FOX MOVIES
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379155.m3u8
+#EXTINF:-1,EX YU: CINEMAX-2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379121.m3u8
+#EXTINF:-1,EX YU: CINEMAX 1
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379120.m3u8
+#EXTINF:-1,PINK FILM
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
 
 #EXTINF:-1,ENGLISH | CNN
 http://p4.giffy.be:8080/live/Testing1/Testing1/21275.m3u8
