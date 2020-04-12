@@ -8,19 +8,15 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1 ,HRT 4
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1 ,RTL CRO
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,RTL 2
-http://p4.giffy.be:8080/live/Testing1/Testing1/64192.m3u8
 #EXTINF:-1,NOVA TV
 http://p4.giffy.be:8080/live/Testing1/Testing1/64229.m3u8
 #EXTINF:-1,NOVA TV HR
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379177.m3u8
-#EXTINF:-1,EX YU: NOVA TV HR
+#EXTINF:-1,NOVA TV HR
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379127.m3u8
-#EXTINF:-1,EX YU: RTL 2
+#EXTINF:-1,RTL 2
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379126.m3u8
-#EXTINF:-1,EX YU: DOMA-TV
+#EXTINF:-1,DOMA-TV
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379122.m3u8
 #EXTINF:-1,CINESTAR ACTION
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
@@ -28,68 +24,59 @@ http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379136.m3u8
 #EXTINF:-1,CINESTAR PREMIER 2
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379135.m3u8
-#EXTINF:-1,EX YU: HBO ADRIA
+#EXTINF:-1,HBO ADRIA
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379134.m3u8
-#EXTINF:-1,EX YU: HBO 2
+#EXTINF:-1,HBO 2
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379130.m3u8
-#EXTINF:-1,EX YU: HBO 3
+#EXTINF:-1,HBO 3
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379123.m3u8
 #EXTINF:-1,FOX MOVIES
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379155.m3u8
-#EXTINF:-1,EX YU: CINEMAX-2
+#EXTINF:-1,CINEMAX2
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379121.m3u8
-#EXTINF:-1,EX YU: CINEMAX 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379120.m3u8
 #EXTINF:-1,PINK FILM
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
 
 #EXTINF:-1,VIP FHD BBC 1
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374075.m3u8
-#EXTINF:-1,VIP FHD BBC 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374158.m3u8
 #EXTINF:-1,VIP FHD BBC 2
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374159.m3u8
 #EXTINF:-1,VIP FHD BBC  4
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374078.m3u8
+#EXTINF:-1,UK: BBC NEWS FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39723.m3u8
+#EXTINF:-1,UK: ITV 1 FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39718.m3u8
+#EXTINF:-1,UK: ITV 2 FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39717.m3u8
+#EXTINF:-1,UK: ITV 3 FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39716.m3u8
+#EXTINF:-1,UK: ITV 4 FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39715.m3u8
 
-#EXTINF:-1,ENGLISH | CNN
-http://p4.giffy.be:8080/live/Testing1/Testing1/21275.m3u8
-#EXTINF:-1,UK | ITV 1
-http://p4.giffy.be:8080/live/Testing1/Testing1/64397.m3u8
-#EXTINF:-1,UK | ITV 2
-http://p4.giffy.be:8080/live/Testing1/Testing1/64398.m3u8
-#EXTINF:-1,UK | ITV 3
-http://p4.giffy.be:8080/live/Testing1/Testing1/64396.m3u8
-#EXTINF:-1,UK | ITV 4
-http://p4.giffy.be:8080/live/Testing1/Testing1/64395.m3u8
-#EXTINF:-1,UK | SKY ARTS+
-http://p4.giffy.be:8080/live/Testing1/Testing1/64374.m3u8
-#EXTINF:-1,UK | SKY CINEMA PREMIER  FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64330.m3u8
-#EXTINF:-1,UK | SKY ATLANTIC HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64331.m3u8
-#EXTINF:-1,UK | SKY CINEMA THRILLER HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64333.m3u8
-#EXTINF:-1,UK | SKY CINEMA SELECT HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64334.m3u8
-#EXTINF:-1,UK | SKY CINEMA SCFI/HOR HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64335.m3u8
-#EXTINF:-1,UK | SKY CINEMA PREMIERE HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64336.m3u8
-#EXTINF:-1,UK | SKY CINEMA HITS HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64337.m3u8
-#EXTINF:-1,UK | SKY CINEMA GREATS HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64338.m3u8
-#EXTINF:-1,UK | SKY CINEMA FAMILY HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64339.m3u8
-#EXTINF:-1,UK | SKY CINEMA DRAMA HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64340.m3u8
-#EXTINF:-1,UK | SKY CINEMA DISNEY HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64341.m3u8
-#EXTINF:-1,UK | SKY CINEMA COMEDY HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64342.m3u8
-#EXTINF:-1,UK | SKY CINEMA ACTION HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64343.m3u8
-#EXTINF:-1,UK | SKY CINEMA CRIME HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64344.m3u8
-
+#EXTINF:-1,UK: SKY ATLANTIC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42117.m3u8
+#EXTINF:-1,UK: SKY CINEMA ACTION & ADVENTURE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42111.m3u8
+#EXTINF:-1,UK: SKY CINEMA COMEDY
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42118.m3u8
+#EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22962.m3u8
+#EXTINF:-1,UK: SKY CINEMA DISNEY
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42113.m3u8
+#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42112.m3u8
+#EXTINF:-1,UK: SKY CINEMA GREATS
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42116.m3u8
+#EXTINF:-1,UK: SKY CINEMA HITS
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42115.m3u8
+#EXTINF:-1,UK: SKY CINEMA PREMIERE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42114.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42121.m3u8
+#EXTINF:-1,UK: SKY CINEMA SELECT
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42120.m3u8
+#EXTINF:-1,UK: SKY CINEMA SUPERHEROES
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42119.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3431.m3u8
