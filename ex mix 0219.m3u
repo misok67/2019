@@ -8,83 +8,18 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1 ,HRT 4
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1,NOVA TV
-http://p4.giffy.be:8080/live/Testing1/Testing1/64229.m3u8
-#EXTINF:-1,NOVA TV HR
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379177.m3u8
-#EXTINF:-1,NOVA TV HR
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379127.m3u8
-#EXTINF:-1,RTL 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379126.m3u8
-#EXTINF:-1,DOMA-TV
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379122.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379136.m3u8
-#EXTINF:-1,CINESTAR PREMIER 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379135.m3u8
-#EXTINF:-1,HBO ADRIA
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379134.m3u8
-#EXTINF:-1,HBO 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379130.m3u8
-#EXTINF:-1,HBO 3
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379123.m3u8
-#EXTINF:-1,FOX MOVIES
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379155.m3u8
-#EXTINF:-1,CINEMAX2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379121.m3u8
-#EXTINF:-1,PINK FILM
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
-#EXTINF:-1,HBO (HD)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64581.m3u8
-#EXTINF:-1,HBO 1 HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64573.m3u8
-#EXTINF:-1,HBO 2 (HD)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64579.m3u8
-#EXTINF:-1,HBO 2 (HD).
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64578.m3u8
-#EXTINF:-1,HBO 3
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64580.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64530.m3u8
-#EXTINF:-1,PINK FILM
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64550.m3u8
-#EXTINF:-1,FOX MOVIES HD (HR SUB)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64574.m3u8
-#EXTINF:-1,RTL 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64669.m3u8
-#EXTINF:-1,RTS 1
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64582.m3u8
-#EXTINF:-1,RTS 1 (LOCAL)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64586.m3u8
-#EXTINF:-1,RTS 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64583.m3u8
-#EXTINF:-1,RTS 2 (LOCAL)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64587.m3u8
-#EXTINF:-1,TV 1000
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64628.m3u8
-#EXTINF:-1,SI: HBO 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64691.m3u8
-#EXTINF:-1,SI: HBO 3
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64692.m3u8
-#EXTINF:-1,SI: NOVA 24 TV
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64699.m3u8
-#EXTINF:-1,BG: CINEMAX 1
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64711.m3u8
-#EXTINF:-1,BG: CINEMAX 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64712.m3u8
-#EXTINF:-1,BG: HBO 1 HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64722.m3u8
-#EXTINF:-1,BG: HBO 2 HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64723.m3u8
+#EXTINF:-1 ,RTL CRO
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,CINESTAR.PREMIERE1
+http://iptv.am000.tv:8000/live/a03971/2ee48d/2733.m3u8
+#EXTINF:-1,CINESTAR.PREMIERE2
+http://iptv.am000.tv:8000/live/a03971/2ee48d/2732.m3u8
 
-#EXTINF:-1,VIP FHD BBC 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374075.m3u8
-#EXTINF:-1,VIP FHD BBC 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374159.m3u8
-#EXTINF:-1,VIP FHD BBC  4
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374078.m3u8
+
+#EXTINF:-1,BBC ONE HD
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/154.m3u8
+#EXTINF:-1,BBC TWO HD
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/155.m3u8
 #EXTINF:-1,UK: BBC NEWS FHD
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39723.m3u8
 #EXTINF:-1,UK: ITV 1 FHD
@@ -95,6 +30,37 @@ http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39717.m3u8
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39716.m3u8
 #EXTINF:-1,UK: ITV 4 FHD
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/39715.m3u8
+
+
+#EXTINF:-1,SKY ARTS
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/21.m3u8
+#EXTINF:-1,SKY CINEMA PREMIER
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/78.m3u8
+#EXTINF:-1,SKY CINEMA PREMIER
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/78.m3u8
+#EXTINF:-1,SKY CINEMA HITS
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/79.m3u8
+#EXTINF:-1,SKY CINEMA DISNEY
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/80.m3u8
+#EXTINF:-1,SKY CINEMA ACTION & ADVENTURE
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/81.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/82.m3u8
+#EXTINF:-1,SKY CINEMA CRIME & THRILLER
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/83.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/84.m3u8
+#EXTINF:-1,SKY CINEMA SCI-FI / HORROR
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/85.m3u8
+#EXTINF:-1,SKY CINEMA SELECT
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/86.m3u8
+#EXTINF:-1,SKY CINEMA GREATS
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/87.m3u8
+#EXTINF:-1,BBC NEWS
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/131.m3u8
+#EXTINF:-1,BBC PARLIAMENT
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/137.m3u8
+
 
 #EXTINF:-1,UK: SKY ATLANTIC
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42117.m3u8
@@ -122,3 +88,10 @@ http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42120.m3u8
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42119.m3u8
 #EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR
 http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3431.m3u8
+
+#EXTINF:-1,CINESTAR ACTION
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379136.m3u8
+#EXTINF:-1,CINESTAR PREMIER 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379135.m3u8
