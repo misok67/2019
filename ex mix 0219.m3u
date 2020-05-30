@@ -10,79 +10,44 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-
-#EXTINF:-1,HRT 1, b
-http://195.181.161.119:80/live/lgeDIC06Nv/NuLLovttej/560.m3u8
-#EXTINF:-1,HRT 2, b
-http://195.181.161.119:80/live/lgeDIC06Nv/NuLLovttej/6049.m3u8
-#EXTINF:-1,HRT 3, b
-http://195.181.161.119:80/live/lgeDIC06Nv/NuLLovttej/558.m3u8
-#EXTINF:-1,HRT 4. b
-http://195.181.161.119:80/live/lgeDIC06Nv/NuLLovttej/557.m3u8
-
-#EXTINF:-1,RTL
-http://195.181.161.119:80/live/lgeDIC06Nv/NuLLovttej/8220.m3u8
-#EXTINF:-1,RT 2
-http://195.181.161.119:80/live/lgeDIC06Nv/NuLLovttej/8298.m3u8
-#EXTINF:-1,NOVA TV
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/9030.m3u8
-#EXTINF:-1,DOMA
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/9037.m3u8
-#EXTINF:-1,HBO 1 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/419.m3u8
-#EXTINF:-1,HBO 2 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/418.m3u8
-#EXTINF:-1,HBO 3 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/417.m3u8
-#EXTINF:-1,HBO GO
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/8019.m3u8
-#EXTINF:-1,CINEMAX 1 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/435.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/434.m3u8
+#EXTINF:-1,NOVA TV ( CRO )
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40506.m3u8
+#EXTINF:-1,RTL 2
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40431.m3u8
+#EXTINF:-1,DOMA TV
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40415.m3u8
+#EXTINF:-1,HBO ADRIA
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40412.m3u8
+#EXTINF:-1,HBO 2
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40411.m3u8
+#EXTINF:-1,HBO 3
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40487.m3u8
 #EXTINF:-1,KINO TV
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/416.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/6543.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/6542.m3u8
-#EXTINF:-1,CINESTAR TV
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/429.m3u8
-#EXTINF:-1,CINESTAR TV 2 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/8304.m3u8
-#EXTINF:-1,CINESTAR FANTASY
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/432.m3u8
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40497.m3u8
 #EXTINF:-1,CINESTAR ACTION
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/433.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/6308.m3u8
-#EXTINF:-1,TV 1000
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/408.m3u8
-#EXTINF:-1,M1 FILM
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/414.m3u8
-#EXTINF:-1,RTS 1 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/521.m3u8
-#EXTINF:-1,RTS 2 HD
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/520.m3u8
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40378.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40377.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40376.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40379.m3u8
+#EXTINF:-1,CINEMAX HD
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40380.m3u8
+#EXTINF:-1,FOX MOVIES
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40393.m3u8
 #EXTINF:-1,PINK FILM
-http://195.181.161.111:80/live/lgeDIC06Nv/NuLLovttej/369.m3u8
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40422.m3u8
+
+#EXTINF:-1,RTS 1
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40429.m3u8
+#EXTINF:-1,RTS 2
+http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40428.m3u8
+
+
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
 #EXTINF:-1,BBC 2
 http://80.32.125.233:8000/play/a002/index.m3u8
-#EXTINF:-1,Channel 4
-http://80.32.125.233:8000/play/a004/index.m3u8
-#EXTINF:-1,Five
-http://80.32.125.233:8000/play/a005/index.m3u8
 #EXTINF:-1,ITV 1
 http://80.32.125.233:8000/play/a003/index.m3u8 
-#EXTINF:-1 ,HRT 1
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 ,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1 ,HRT 3
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1 ,HRT 4
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1 ,RTL CRO
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
