@@ -10,39 +10,88 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,NOVA TV ( CRO )
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40506.m3u8
 #EXTINF:-1,RTL 2
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40431.m3u8
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3558.m3u8
+#EXTINF:-1,NOVA TV HR
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3538.m3u8
+#EXTINF:-1,NOVA TV HR
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4342.m3u8
+#EXTINF:-1,DOMA-TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3546.m3u8
 #EXTINF:-1,DOMA TV
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40415.m3u8
-#EXTINF:-1,HBO ADRIA
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40412.m3u8
-#EXTINF:-1,HBO 2
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40411.m3u8
-#EXTINF:-1,HBO 3
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40487.m3u8
-#EXTINF:-1,KINO TV
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40497.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40378.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40377.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40376.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40379.m3u8
-#EXTINF:-1,CINEMAX HD
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40380.m3u8
-#EXTINF:-1,FOX MOVIES
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40393.m3u8
-#EXTINF:-1,PINK FILM
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40422.m3u8
+http://digitech-tv.webhop.org:2016/live/karat/karat/52062.m3u8
+#EXTINF:-1,NOVA
+http://digitech-tv.webhop.org:2016/live/karat/karat/52059.m3u8
+#EXTINF:-1,NOVA TV HD
+http://digitech-tv.webhop.org:2016/live/karat/karat/52061.m3u8
 
+#EXTINF:-1,CINEMAX-2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3550.m3u8
+#EXTINF:-1,HBO ADRIA
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3544.m3u8
+#EXTINF:-1,HBO 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3545.m3u8
+#EXTINF:-1,HBO 3
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4011.m3u8
+#EXTINF:-1,SLO: HBO
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6828.m3u8
+#EXTINF:-1,SLO: HBO 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6829.m3u8
+#EXTINF:-1,SLO: HBO 3
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6816.m3u8
+#EXTINF:-1,CINESTAR PREMIER 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3556.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3534.m3u8
+#EXTINF:-1,FOX MOVIES
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3517.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3555.m3u8
+#EXTINF:-1,PINK FILM
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3566.m3u8
 #EXTINF:-1,RTS 1
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40429.m3u8
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3599.m3u8
+#EXTINF:-1,RTS 2 (LOCAL)
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3598.m3u8
+
+#EXTINF:-1,HBO 1
+http://digitech-tv.webhop.org:2016/live/karat/karat/51931.m3u8
+#EXTINF:-1,HBO 2
+http://digitech-tv.webhop.org:2016/live/karat/karat/51930.m3u8
+#EXTINF:-1,HBO 3
+http://digitech-tv.webhop.org:2016/live/karat/karat/51929.m3u8
+#EXTINF:-1,HBO ADRIA
+http://digitech-tv.webhop.org:2016/live/karat/karat/51928.m3u8
+#EXTINF:-1,HBO COMEDY
+http://digitech-tv.webhop.org:2016/live/karat/karat/51927.m3u8
+#EXTINF:-1,KINO TV
+http://digitech-tv.webhop.org:2016/live/karat/karat/52078.m3u8
+#EXTINF:-1,CINEMAX 1
+http://digitech-tv.webhop.org:2016/live/karat/karat/51942.m3u8
+#EXTINF:-1,CINEMAX 2
+http://digitech-tv.webhop.org:2016/live/karat/karat/51941.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://digitech-tv.webhop.org:2016/live/karat/karat/51940.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://digitech-tv.webhop.org:2016/live/karat/karat/51939.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://digitech-tv.webhop.org:2016/live/karat/karat/51938.m3u8
+#EXTINF:-1,CINESTAR TV
+http://digitech-tv.webhop.org:2016/live/karat/karat/51937.m3u8
+#EXTINF:-1,FOX MOVIES
+http://digitech-tv.webhop.org:2016/live/karat/karat/52066.m3u8
+#EXTINF:-1,M1 FILM
+http://digitech-tv.webhop.org:2016/live/karat/karat/51932.m3u8
+#EXTINF:-1,PINK FILM
+http://digitech-tv.webhop.org:2016/live/karat/karat/51972.m3u8
+#EXTINF:-1,RTL 2 HR
+http://digitech-tv.webhop.org:2016/live/karat/karat/52071.m3u8
+#EXTINF:-1,RTS 1
+http://digitech-tv.webhop.org:2016/live/karat/karat/52057.m3u8
+#EXTINF:-1,RTS 1 HD
+http://digitech-tv.webhop.org:2016/live/karat/karat/52056.m3u8
 #EXTINF:-1,RTS 2
-http://net-tv.ddns.net:69/live/c3SZ4iegR6/jHmT4creRW/40428.m3u8
+http://digitech-tv.webhop.org:2016/live/karat/karat/52055.m3u8
 
 
 #EXTINF:-1,BBC 1
