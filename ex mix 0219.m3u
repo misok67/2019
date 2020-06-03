@@ -8,96 +8,76 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1 ,HRT 4
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1 ,RTL CRO
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,RTL 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3558.m3u8
-#EXTINF:-1,NOVA TV HR
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3538.m3u8
-#EXTINF:-1,DOMA-TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3546.m3u8
-#EXTINF:-1,CINEMAX-2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3550.m3u8
-#EXTINF:-1,HBO ADRIA
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3544.m3u8
-#EXTINF:-1,HBO 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3545.m3u8
-#EXTINF:-1,HBO 3
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4011.m3u8
-#EXTINF:-1,SLO: HBO
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6828.m3u8
-#EXTINF:-1,SLO: HBO 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6829.m3u8
-#EXTINF:-1,SLO: HBO 3
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6816.m3u8
-#EXTINF:-1,CINESTAR PREMIER 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3556.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3534.m3u8
-#EXTINF:-1,FOX MOVIES
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3517.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3555.m3u8
-#EXTINF:-1,PINK FILM
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3566.m3u8
+#EXTINF:-1,RTL 2  HR
+http://fisek1.sveokpro.com:7990/live/test/test/39.m3u8
+#EXTINF:-1,NOVA TV  HR
+http://fisek1.sveokpro.com:7990/live/test/test/40.m3u8
+#EXTINF:-1,DOMA TV
+http://fisek1.sveokpro.com:7990/live/test/test/41.m3u8
 #EXTINF:-1,RTS 1
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3599.m3u8
-#EXTINF:-1,RTS 2 (LOCAL)
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3598.m3u8
-
+http://fisek1.sveokpro.com:7990/live/test/test/21.m3u8
+#EXTINF:-1,RTS 2
+http://fisek1.sveokpro.com:7990/live/test/test/22.m3u8
+#EXTINF:-1,HBO 
+http://fisek1.sveokpro.com:7990/live/test/test/1227.m3u8
+#EXTINF:-1,HBO2 
+http://fisek1.sveokpro.com:7990/live/test/test/59.m3u8
+#EXTINF:-1,HBO3 
+http://fisek1.sveokpro.com:7990/live/test/test/60.m3u8
+#EXTINF:-1,CINESTAR TV
+http://fisek1.sveokpro.com:7990/live/test/test/68.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://fisek1.sveokpro.com:7990/live/test/test/375.m3u8
+#EXTINF:-1,CINESTAR TV COMEDY
+http://fisek1.sveokpro.com:7990/live/test/test/1355.m3u8
+#EXTINF:-1,CINESTAR TV FANTASY
+http://fisek1.sveokpro.com:7990/live/test/test/807.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://fisek1.sveokpro.com:7990/live/test/test/66.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://fisek1.sveokpro.com:7990/live/test/test/67.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 SD
+http://fisek1.sveokpro.com:7990/live/test/test/1248.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 SD
+http://fisek1.sveokpro.com:7990/live/test/test/1249.m3u8
+#EXTINF:-1,CINEMAX
+http://fisek1.sveokpro.com:7990/live/test/test/69.m3u8
+#EXTINF:-1,CINEMAX 2
+http://fisek1.sveokpro.com:7990/live/test/test/70.m3u8
+#EXTINF:-1,M1 FILM
+http://fisek1.sveokpro.com:7990/live/test/test/814.m3u8
+#EXTINF:-1,M1 FILM GOLD
+http://fisek1.sveokpro.com:7990/live/test/test/1236.m3u8
+#EXTINF:-1,FOX MOVIES
+http://fisek1.sveokpro.com:7990/live/test/test/63.m3u8
+#EXTINF:-1,TV 1000
+http://fisek1.sveokpro.com:7990/live/test/test/61.m3u8
+#EXTINF:-1,PINK FILM
+http://fisek1.sveokpro.com:7990/live/test/test/77.m3u8
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
 #EXTINF:-1,BBC 2
 http://80.32.125.233:8000/play/a002/index.m3u8
 #EXTINF:-1,ITV 1
 http://80.32.125.233:8000/play/a003/index.m3u8 
+#EXTINF:-1 tvg-id="130a1ff5450e20880845e8022828954e",BBC NEWS
+http://81.24.248.26:9981/stream/channelid/1964968467?ticket=2A002B8628407F76A23E823B93C8CDFCC989F93A&profile=pass
+#EXTINF:-1 tvg-id="285c7ccee665c7f703ccfd1540",BBC One HD
+http://81.24.248.26:9981/stream/channelid/1316772904?ticket=C114A91E0F4F14734ED07160DC7E67CFC3C92D8E&profile=pass
+#EXTINF:-1 tvg-id="0e093e0bbbfbef83e0b54ab3bb5d7a97",BBC Two HD
+http://81.24.248.26:9981/stream/channelid/188614926?ticket=34EDFA674145E1CDEBA2363FC072B72EC0DBrofile=pass
+#EXTINF:-1 tvg-id="f33a1696273185cbe99c5c4ba7c4d0a3",CNN
+http://81.24.248.26:9981/stream/channelid/370555635?ticket=40C1B3AA8540134EA8DA6E0B4B978DDA71FFAC46&profile=pass
+#EXTINF:-1 tvg-id="2e73a9ca0ccdd591a13c1d65009a0df5",ITV HD
+http://81.24.248.26:9981/stream/channelid/1252619054?ticket=38F408C2AEABFA7CBADC94D9188FE303CC&profile=pass
+#EXTINF:-1 tvg-id="ef7998a25848479d146ed4f8e7cec76e",ITV2
+http://81.24.248.26:9981/stream/channelid/580418031?ticket=977C9ED33860DAED6B29DAC6BFE4F57870FD49FC&profile=pass
+#EXTINF:-1 tvg-id="14e0c440a929e2edde1fae71d8ea4d27",ITV3
+http://81.24.248.26:9981/stream/channelid/1086644244?ticket=E09C9BDEE2FA4DA1B7DEAD163DFD169A0BE13BB8&profile=pass
+#EXTINF:-1 tvg-id="6f3884e6210656d63e180e4449c81b99",ITV4
+http://81.24.248.26:9981/stream/channelid/1719941231?ticket=E3B0D07CB5BC046F098695956350171429D3C2AE&profile=pass
 
-#EXTINF:-1,..B1..RTL 2  HR
-http://fisek1.sveokpro.com:7990/live/test/test/39.m3u8
-#EXTINF:-1,..B1..NOVA TV  HR
-http://fisek1.sveokpro.com:7990/live/test/test/40.m3u8
-#EXTINF:-1,..B1..DOMA TV
-http://fisek1.sveokpro.com:7990/live/test/test/41.m3u8
-#EXTINF:-1,..B1..RTS 1
-http://fisek1.sveokpro.com:7990/live/test/test/21.m3u8
-#EXTINF:-1,..B1..RTS 2
-http://fisek1.sveokpro.com:7990/live/test/test/22.m3u8
-#EXTINF:-1,..B1..HBO 
-http://fisek1.sveokpro.com:7990/live/test/test/1227.m3u8
-#EXTINF:-1,..B1..HBO2 
-http://fisek1.sveokpro.com:7990/live/test/test/59.m3u8
-#EXTINF:-1,..B1..HBO3 
-http://fisek1.sveokpro.com:7990/live/test/test/60.m3u8
-#EXTINF:-1,..B1..CINESTAR TV
-http://fisek1.sveokpro.com:7990/live/test/test/68.m3u8
-#EXTINF:-1,..B1..CINESTAR ACTION
-http://fisek1.sveokpro.com:7990/live/test/test/375.m3u8
-#EXTINF:-1,..B1..CINESTAR TV COMEDY
-http://fisek1.sveokpro.com:7990/live/test/test/1355.m3u8
-#EXTINF:-1,..B1..CINESTAR TV FANTASY
-http://fisek1.sveokpro.com:7990/live/test/test/807.m3u8
-#EXTINF:-1,..B1..CINESTAR PREMIERE 1
-http://fisek1.sveokpro.com:7990/live/test/test/66.m3u8
-#EXTINF:-1,..B1..CINESTAR PREMIERE 2
-http://fisek1.sveokpro.com:7990/live/test/test/67.m3u8
-#EXTINF:-1,..B1..CINESTAR PREMIERE 1 SD
-http://fisek1.sveokpro.com:7990/live/test/test/1248.m3u8
-#EXTINF:-1,..B1..CINESTAR PREMIERE 2 SD
-http://fisek1.sveokpro.com:7990/live/test/test/1249.m3u8
-#EXTINF:-1,..B1..CINEMAX
-http://fisek1.sveokpro.com:7990/live/test/test/69.m3u8
-#EXTINF:-1,..B1..CINEMAX 2
-http://fisek1.sveokpro.com:7990/live/test/test/70.m3u8
-#EXTINF:-1,..B1..M1 FILM
-http://fisek1.sveokpro.com:7990/live/test/test/814.m3u8
-#EXTINF:-1,..B1..M1 FILM GOLD
-http://fisek1.sveokpro.com:7990/live/test/test/1236.m3u8
-#EXTINF:-1,..B1..FOX MOVIES
-http://fisek1.sveokpro.com:7990/live/test/test/63.m3u8
-#EXTINF:-1,..B1..TV 1000
-http://fisek1.sveokpro.com:7990/live/test/test/61.m3u8
-#EXTINF:-1,..B1..PINK FILM
-http://fisek1.sveokpro.com:7990/live/test/test/77.m3u8
+
 
 #EXTINF::-1,..B2..RTL 2 HR EX-YU
 http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/216.m3u8
