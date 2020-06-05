@@ -88,4 +88,32 @@ http://81.24.248.26:9981/stream/channelid/1086644244?ticket=E09C9BDEE2FA4DA1B7DE
 #EXTINF:-1 tvg-id="6f3884e6210656d63e180e4449c81b99",ITV4
 http://81.24.248.26:9981/stream/channelid/1719941231?ticket=E3B0D07CB5BC046F098695956350171429D3C2AE&profile=pass
 
+#EXTINF:-1,..BE1..NOVA TV HR
+http://54.39.97.88:25461/live/danny1/danny1/332646.m3u8
+#EXTINF:-1,..BE1..DOMA-TV
+http://54.39.97.88:25461/live/danny1/danny1/332601.m3u8
+#EXTINF:-1,..BE1..CINEMAX 1
+http://54.39.97.88:25461/live/danny1/danny1/332593.m3u8
+#EXTINF:-1,..BE1..CINEMAX-2
+http://54.39.97.88:25461/live/danny1/danny1/332594.m3u8
+#EXTINF:-1,..BE1..CINESTAR ACTION
+http://54.39.97.88:25461/live/danny1/danny1/332595.m3u8
+#EXTINF:-1,..BE1..CINESTAR PREMIERE 1
+http://54.39.97.88:25461/live/danny1/danny1/332596.m3u8
+#EXTINF:-1,..BE1..CINESTAR PREMIER 2
+http://54.39.97.88:25461/live/danny1/danny1/332597.m3u8
+#EXTINF:-1,..BE1..FOX MOVIES
+http://54.39.97.88:25461/live/danny1/danny1/332611.m3u8
+#EXTINF:-1,..BE1..HBO 2
+http://54.39.97.88:25461/live/danny1/danny1/332620.m3u8
+#EXTINF:-1,..BE1..HBO 3
+http://54.39.97.88:25461/live/danny1/danny1/332621.m3u8
+#EXTINF:-1,..BE1..PINK FILM
+http://54.39.97.88:25461/live/danny1/danny1/332658.m3u8
+#EXTINF:-1,..BE1..RTL 2
+http://54.39.97.88:25461/live/danny1/danny1/332690.m3u8
+#EXTINF:-1,..BE1..RTS 1 (LOCAL)
+http://54.39.97.88:25461/live/danny1/danny1/332695.m3u8
+#EXTINF:-1,..BE1..RTS 2 (LOCAL)
+http://54.39.97.88:25461/live/danny1/danny1/332696.m3u8
 
