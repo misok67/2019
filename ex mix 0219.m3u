@@ -10,54 +10,40 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,Hr- Nova
-http://m-iptv.net:6204/95025267076109/65839594001441/21410
-#EXTINF:-1,Yu- Nova
-http://m-iptv.net:6204/95025267076109/65839594001441/28822
-#EXTINF:-1,Hr- RTL 2
-http://m-iptv.net:6204/95025267076109/65839594001441/21424
-#EXTINF:-1,Hr- RTL Crime HR
-http://m-iptv.net:6204/95025267076109/65839594001441/21423
-#EXTINF:-1,Hr- CINESTAR PREMIERE
-http://m-iptv.net:6204/95025267076109/65839594001441/29187
-#EXTINF:-1,Hr- CINESTAR PREMIERE 2
-http://m-iptv.net:6204/95025267076109/65839594001441/29188
-#EXTINF:-1,Hr- FOX MOVIES
-http://m-iptv.net:6204/95025267076109/65839594001441/29200
-#EXTINF:-1,Hr- HBO ADRIA
-http://m-iptv.net:6204/95025267076109/65839594001441/29201
-#EXTINF:-1,Yu- Cinemax 1
-http://m-iptv.net:6204/95025267076109/65839594001441/21246
-#EXTINF:-1,Yu- Cinemax 2
-http://m-iptv.net:6204/95025267076109/65839594001441/21245
-#EXTINF:-1,Yu- Cinestar Premiere 1
-http://m-iptv.net:6204/95025267076109/65839594001441/21244
-#EXTINF:-1,Yu- Cinestar Premiere 2
-http://m-iptv.net:6204/95025267076109/65839594001441/21243
-#EXTINF:-1,Yu- Film Klub
-http://m-iptv.net:6204/95025267076109/65839594001441/21242
-#EXTINF:-1,Yu- Film Klub Extra
-http://m-iptv.net:6204/95025267076109/65839594001441/21241
-#EXTINF:-1,Yu- HBO Adria
-http://m-iptv.net:6204/95025267076109/65839594001441/21239
-#EXTINF:-1,Yu- HBO Comedy
-http://m-iptv.net:6204/95025267076109/65839594001441/21238
-#EXTINF:-1,Yu- M1 Film
-http://m-iptv.net:6204/95025267076109/65839594001441/21237
-#EXTINF:-1,Sr- Pink Film
-http://m-iptv.net:6204/95025267076109/65839594001441/14097
-#EXTINF:-1,Sr- HBO 1 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/21253
-#EXTINF:-1,Sr- HBO 2 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/21252
-#EXTINF:-1,Sr- HBO 3 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/21251
-#EXTINF:-1,Sr- TV1000
-http://m-iptv.net:6204/95025267076109/65839594001441/21248
-#EXTINF:-1,Yu- RTS 1 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/21269
-#EXTINF:-1,Yu- RTS 2
-http://m-iptv.net:6204/95025267076109/65839594001441/21268
+#EXTINF:-1, RTL 2
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/216.m3u8
+#EXTINF:-1, NOVA
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/907.m3u8
+#EXTINF:-1, DOMA TV
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1300.m3u8
+#EXTINF:-1, PINK FILM
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/530.m3u8
+#EXTINF:-1, RTS 1 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/597.m3u8
+#EXTINF:-1, RTS 2 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/590.m3u8
+#EXTINF:-1, HBO ADRIA HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4768.m3u8
+#EXTINF:-1, HBO 2 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/802.m3u8
+#EXTINF:-1, HBO 3 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4771.m3u8
+#EXTINF:-1, CINESTAR TV
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/903.m3u8
+#EXTINF:-1, CINEMAX 1 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1293.m3u8
+#EXTINF:-1, CINEMAX 2 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/900.m3u8
+#EXTINF:-1, CINESTAR PREMIERE 1
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4760.m3u8
+#EXTINF:-1, CINESTAR PREMIERE 2
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/252.m3u8
+#EXTINF:-1, CINESTAR ACTION
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/255.m3u8
+#EXTINF:-1, FOX MOVIES
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/162.m3u8
+#EXTINF:-1, TV 1000
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/160.m3u8
 
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
@@ -81,33 +67,4 @@ http://81.24.248.26:9981/stream/channelid/580418031?ticket=977C9ED33860DAED6B29D
 http://81.24.248.26:9981/stream/channelid/1086644244?ticket=E09C9BDEE2FA4DA1B7DEAD163DFD169A0BE13BB8&profile=pass
 #EXTINF:-1 tvg-id="6f3884e6210656d63e180e4449c81b99",ITV4
 http://81.24.248.26:9981/stream/channelid/1719941231?ticket=E3B0D07CB5BC046F098695956350171429D3C2AE&profile=pass
-
-#EXTINF:-1,..BE1..NOVA TV HR
-http://54.39.97.88:25461/live/danny1/danny1/332646.m3u8
-#EXTINF:-1,..BE1..DOMA-TV
-http://54.39.97.88:25461/live/danny1/danny1/332601.m3u8
-#EXTINF:-1,..BE1..CINEMAX 1
-http://54.39.97.88:25461/live/danny1/danny1/332593.m3u8
-#EXTINF:-1,..BE1..CINEMAX-2
-http://54.39.97.88:25461/live/danny1/danny1/332594.m3u8
-#EXTINF:-1,..BE1..CINESTAR ACTION
-http://54.39.97.88:25461/live/danny1/danny1/332595.m3u8
-#EXTINF:-1,..BE1..CINESTAR PREMIERE 1
-http://54.39.97.88:25461/live/danny1/danny1/332596.m3u8
-#EXTINF:-1,..BE1..CINESTAR PREMIER 2
-http://54.39.97.88:25461/live/danny1/danny1/332597.m3u8
-#EXTINF:-1,..BE1..FOX MOVIES
-http://54.39.97.88:25461/live/danny1/danny1/332611.m3u8
-#EXTINF:-1,..BE1..HBO 2
-http://54.39.97.88:25461/live/danny1/danny1/332620.m3u8
-#EXTINF:-1,..BE1..HBO 3
-http://54.39.97.88:25461/live/danny1/danny1/332621.m3u8
-#EXTINF:-1,..BE1..PINK FILM
-http://54.39.97.88:25461/live/danny1/danny1/332658.m3u8
-#EXTINF:-1,..BE1..RTL 2
-http://54.39.97.88:25461/live/danny1/danny1/332690.m3u8
-#EXTINF:-1,..BE1..RTS 1 (LOCAL)
-http://54.39.97.88:25461/live/danny1/danny1/332695.m3u8
-#EXTINF:-1,..BE1..RTS 2 (LOCAL)
-http://54.39.97.88:25461/live/danny1/danny1/332696.m3u8
 
