@@ -10,41 +10,42 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1, RTL 2
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/216.m3u8
-#EXTINF:-1, NOVA
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/907.m3u8
-#EXTINF:-1, DOMA TV
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1300.m3u8
-#EXTINF:-1, PINK FILM
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/530.m3u8
-#EXTINF:-1, RTS 1 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/597.m3u8
-#EXTINF:-1, RTS 2 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/590.m3u8
-#EXTINF:-1, HBO ADRIA HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4768.m3u8
-#EXTINF:-1, HBO 2 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/802.m3u8
-#EXTINF:-1, HBO 3 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4771.m3u8
-#EXTINF:-1, CINESTAR TV
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/903.m3u8
-#EXTINF:-1, CINEMAX 1 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1293.m3u8
-#EXTINF:-1, CINEMAX 2 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/900.m3u8
-#EXTINF:-1, CINESTAR PREMIERE 1
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4760.m3u8
-#EXTINF:-1, CINESTAR PREMIERE 2
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/252.m3u8
-#EXTINF:-1, CINESTAR ACTION
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/255.m3u8
-#EXTINF:-1, FOX MOVIES
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/162.m3u8
-#EXTINF:-1, TV 1000
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/160.m3u8
-
+#EXTINF:-1,RTS 1
+http://linux-app.tv:6204/60400655844704/32991126026152/21397
+#EXTINF:-1,RTS 3
+http://linux-app.tv:6204/60400655844704/32991126026152/21396
+#EXTINF:-1,RTS HD
+http://linux-app.tv:6204/60400655844704/32991126026152/21395
+#EXTINF:-1,RTS 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/21269
+#EXTINF:-1,RTS 2
+http://linux-app.tv:6204/60400655844704/32991126026152/21268
+#EXTINF:-1,Cinemax 1
+http://linux-app.tv:6204/60400655844704/32991126026152/21246
+#EXTINF:-1,Cinemax 2
+http://linux-app.tv:6204/60400655844704/32991126026152/21245
+#EXTINF:-1,Cinestar Premiere 1
+http://linux-app.tv:6204/60400655844704/32991126026152/21244
+#EXTINF:-1,Cinestar Premiere 2
+http://linux-app.tv:6204/60400655844704/32991126026152/21243
+#EXTINF:-1,Film Klub
+http://linux-app.tv:6204/60400655844704/32991126026152/21242
+#EXTINF:-1,Film Klub Extra
+http://linux-app.tv:6204/60400655844704/32991126026152/21241
+#EXTINF:-1,HBO Adria
+http://linux-app.tv:6204/60400655844704/32991126026152/21239
+#EXTINF:-1,HBO Comedy
+http://linux-app.tv:6204/60400655844704/32991126026152/21238
+#EXTINF:-1,Arena Sport 1 HR HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33411
+#EXTINF:-1,Arena Sport 2 HR HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33412
+#EXTINF:-1,Arena Sport 3 HR HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33413
+#EXTINF:-1,Arena Sport 4 HR HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33414
+#EXTINF:-1,Arena Sport 5 HR HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33415 
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
 #EXTINF:-1,BBC 2
