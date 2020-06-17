@@ -16,7 +16,40 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
 #EXTINF:-1,PINK FILM
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/816.m3u8
-
+#EXTINF:-1,HR: RTL 2
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2393.m3u8
+#EXTINF:-1,HR: DOMA TV HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2391.m3u8
+#EXTINF:-1,HR: NOVA TV
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2390.m3u8
+#EXTINF:-1,CINEMAX 1 HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2444.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2445.m3u8
+#EXTINF:-1,CINESTAR
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2441.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2449.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2448.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2446.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2447.m3u8
+#EXTINF:-1,HBO HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2430.m3u8
+#EXTINF:-1,HBO 2 HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2432.m3u8
+#EXTINF:-1,HBO 3 HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2431.m3u8
+#EXTINF:-1,FOX MOVIES
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2434.m3u8
+#EXTINF:-1,PINK FILM
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2460.m3u8
+#EXTINF:-1,SRB: RTS 1 HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2366.m3u8
+#EXTINF:-1,SRB: RTS 2 HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2367.m3u8
 
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
