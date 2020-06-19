@@ -16,40 +16,69 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
 #EXTINF:-1,PINK FILM
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/816.m3u8
-#EXTINF:-1,HR: RTL 2
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2393.m3u8
-#EXTINF:-1,HR: DOMA TV HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2391.m3u8
-#EXTINF:-1,HR: NOVA TV
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2390.m3u8
-#EXTINF:-1,CINEMAX 1 HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2444.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2445.m3u8
-#EXTINF:-1,CINESTAR
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2441.m3u8
+#EXTINF:-1,CINEMAX 1
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189787.m3u8
+#EXTINF:-1,CINEMAX 2
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189788.m3u8
 #EXTINF:-1,CINESTAR ACTION
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2449.m3u8
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189789.m3u8
 #EXTINF:-1,CINESTAR FANTASY
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2448.m3u8
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189790.m3u8
 #EXTINF:-1,CINESTAR PREMIERE 1
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2446.m3u8
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189791.m3u8
 #EXTINF:-1,CINESTAR PREMIERE 2
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2447.m3u8
-#EXTINF:-1,HBO HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2430.m3u8
-#EXTINF:-1,HBO 2 HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2432.m3u8
-#EXTINF:-1,HBO 3 HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2431.m3u8
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189792.m3u8
+#EXTINF:-1,CINESTAR TV
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189793.m3u8
 #EXTINF:-1,FOX MOVIES
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2434.m3u8
-#EXTINF:-1,PINK FILM
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2460.m3u8
-#EXTINF:-1,SRB: RTS 1 HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2366.m3u8
-#EXTINF:-1,SRB: RTS 2 HD
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2367.m3u8
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189801.m3u8
+#EXTINF:-1,HBO
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189802.m3u8
+#EXTINF:-1,HBO 2
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189803.m3u8
+#EXTINF:-1,HBO 3
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189804.m3u8
+#EXTINF:-1,M1 FILM
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189807.m3u8
+#EXTINF:-1,TV 1000
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189819.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 (SL)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189617.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 (SL)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189618.m3u8
+#EXTINF:-1,HBO 1 HD (SL)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189624.m3u8
+#EXTINF:-1,HBO 3 HD (SL)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189625.m3u8
+#EXTINF:-1,RTS 1
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189631.m3u8
+#EXTINF:-1,SLOVENIJA | FOX MOVIES
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189642.m3u8
+#EXTINF:-1,SLOVENIJA | HBO 1
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189643.m3u8
+#EXTINF:-1,SLOVENIJA | HBO 2
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189644.m3u8
+#EXTINF:-1,SLOVENIJA | HBO 3
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189645.m3u8
+#EXTINF:-1,BIH | NOVA BH
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189674.m3u8
+#EXTINF:-1,SRBIJA | NOVA S
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189714.m3u8
+#EXTINF:-1,SRBIJA | NOVA S HD
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189715.m3u8
+#EXTINF:-1,SRBIJA | RTS 1 HD
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189723.m3u8
+#EXTINF:-1,SRBIJA | RTS 2 HD
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189724.m3u8
+#EXTINF:-1,HRVATSKA | DOMA TV
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189821.m3u8
+#EXTINF:-1,HRVATSKA | NOVA TV
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189835.m3u8
+#EXTINF:-1,HRVATSKA | NOVA TV  HD
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189836.m3u8
+#EXTINF:-1,HRVATSKA | RTL 2
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189840.m3u8
+
 
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
