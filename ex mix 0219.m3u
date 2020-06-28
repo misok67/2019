@@ -28,6 +28,48 @@ http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7266.m3u8
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7289.m3u8
 #EXTINF:-1,CINEMAX 2 HD
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7290.m3u8
+#EXTINF:-1,HBO 1 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/419.m3u8
+#EXTINF:-1,HBO 2 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/418.m3u8
+#EXTINF:-1,HBO 3 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/417.m3u8
+#EXTINF:-1,CINEMAX 1 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/435.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/434.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://tv.nova-iptv.com:80/live/EDE/EDE123/6543.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://tv.nova-iptv.com:80/live/EDE/EDE123/6542.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/431.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/430.m3u8
+#EXTINF:-1,CINESTAR TV
+http://tv.nova-iptv.com:80/live/EDE/EDE123/429.m3u8
+#EXTINF:-1,CINESTAR TV 2 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/8304.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://tv.nova-iptv.com:80/live/EDE/EDE123/432.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://tv.nova-iptv.com:80/live/EDE/EDE123/433.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/6308.m3u8
+#EXTINF:-1,TV 1000
+http://tv.nova-iptv.com:80/live/EDE/EDE123/408.m3u8
+#EXTINF:-1,KINO TV
+http://tv.nova-iptv.com:80/live/EDE/EDE123/416.m3u8
+#EXTINF:-1,M1 FILM
+http://tv.nova-iptv.com:80/live/EDE/EDE123/414.m3u8
+#EXTINF:-1,PINK FILM
+http://tv.nova-iptv.com:80/live/EDE/EDE123/369.m3u8
+#EXTINF:-1,RTS 1 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/521.m3u8
+#EXTINF:-1,RTS 1
+http://tv.nova-iptv.com:80/live/EDE/EDE123/6886.m3u8
+#EXTINF:-1,RTS 2 HD
+http://tv.nova-iptv.com:80/live/EDE/EDE123/520.m3u8
 #EXTINF:-1,RTS 1 HD
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7274.m3u8
 #EXTINF:-1,PINK FILM
@@ -50,6 +92,17 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/880.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/878.m3u8
 #EXTINF:-1,TLC
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/753.m3u8
+#EXTINF:-1,..B1...RTS 1 HD
+http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/7274.m3u8
+#EXTINF:-1,..B1...CINESTAR PREMIER 1
+http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/7265.m3u8
+#EXTINF:-1,..B1...CINESTAR PREMIER 2
+http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/7266.m3u8
+#EXTINF:-1,..B1...CINEMAX 1 HD
+http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/7289.m3u8
+#EXTINF:-1,..B1...CINEMAX 2 HD
+http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/7290.m3u8
+
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
 #EXTINF:-1,BBC 2
