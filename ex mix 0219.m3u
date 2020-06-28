@@ -14,9 +14,42 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
 #EXTINF:-1,DOMA TV
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
+#EXTINF:-1,NOVA HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7286.m3u8
+#EXTINF:-1,HBO 3 HD
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7287.m3u8
+#EXTINF:-1,DOMA TV HD
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7314.m3u8
+#EXTINF:-1,CINESTAR PREMIER 1
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7265.m3u8
+#EXTINF:-1,CINESTAR PREMIER 2
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7266.m3u8
+#EXTINF:-1,CINEMAX 1 HD
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7289.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7290.m3u8
+#EXTINF:-1,RTS 1 HD
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7274.m3u8
 #EXTINF:-1,PINK FILM
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/816.m3u8
-
+#EXTINF:-1,ANIMAL PLANET
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/899
+#EXTINF:-1,NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/842.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/841.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/745,m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/746,m3u8
+#EXTINF:-1,VIASAT NATURE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/744.m3u8
+#EXTINF:-1,DISCOVERY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/880.m3u8
+#EXTINF:-1,DISCOVERY IDXTRA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/878.m3u8
+#EXTINF:-1,TLC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/753.m3u8
 #EXTINF:-1,BBC 1
 http://80.32.125.233:8000/play/a001/index.m3u8
 #EXTINF:-1,BBC 2
@@ -25,14 +58,6 @@ http://80.32.125.233:8000/play/a002/index.m3u8
 http://80.32.125.233:8000/play/a003/index.m3u8 
 #EXTINF:-1 tvg-id="130a1ff5450e20880845e8022828954e",BBC NEWS
 http://81.24.248.26:9981/stream/channelid/1964968467?ticket=2A002B8628407F76A23E823B93C8CDFCC989F93A&profile=pass
-#EXTINF:-1 tvg-id="285c7ccee665c7f703ccfd1540",BBC One HD
-http://81.24.248.26:9981/stream/channelid/1316772904?ticket=C114A91E0F4F14734ED07160DC7E67CFC3C92D8E&profile=pass
-#EXTINF:-1 tvg-id="0e093e0bbbfbef83e0b54ab3bb5d7a97",BBC Two HD
-http://81.24.248.26:9981/stream/channelid/188614926?ticket=34EDFA674145E1CDEBA2363FC072B72EC0DBrofile=pass
-#EXTINF:-1 tvg-id="f33a1696273185cbe99c5c4ba7c4d0a3",CNN
-http://81.24.248.26:9981/stream/channelid/370555635?ticket=40C1B3AA8540134EA8DA6E0B4B978DDA71FFAC46&profile=pass
-#EXTINF:-1 tvg-id="2e73a9ca0ccdd591a13c1d65009a0df5",ITV HD
-http://81.24.248.26:9981/stream/channelid/1252619054?ticket=38F408C2AEABFA7CBADC94D9188FE303CC&profile=pass
 #EXTINF:-1 tvg-id="ef7998a25848479d146ed4f8e7cec76e",ITV2
 http://81.24.248.26:9981/stream/channelid/580418031?ticket=977C9ED33860DAED6B29DAC6BFE4F57870FD49FC&profile=pass
 #EXTINF:-1 tvg-id="14e0c440a929e2edde1fae71d8ea4d27",ITV3
