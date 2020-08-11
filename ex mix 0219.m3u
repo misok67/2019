@@ -14,53 +14,6 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
 #EXTINF:-1,DOMA TV
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
-#EXTINF:-1,|EX-YU| NOVA TV
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69798.m3u8
-#EXTINF:-1,|EX-YU| RTS 1 HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69750.m3u8
-#EXTINF:-1,|EX-YU| RTS 2 HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69749.m3u8
-#EXTINF:-1,|EX-YU| PINK FILM
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69689.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR ACTION
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69591.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR FANTASY
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69590.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 1
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69588.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 2
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69587.m3u8
-#EXTINF:-1,|EX-YU| CINEMAX 1 HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69586.m3u8
-#EXTINF:-1,|EX-YU| CINEMAX 2 HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69585.m3u8
-#EXTINF:-1,|EX-YU| FOX MOVIES HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69580.m3u8
-#EXTINF:-1,|EX-YU| KINO TV HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69574.m3u8
-#EXTINF:-1,|EX-YU| HBO 3 HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69569.m3u8
-#EXTINF:-1,|EX-YU| HBO 2 HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69568.m3u8
-#EXTINF:-1,|EX-YU| HBO HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69567.m3u8
-#EXTINF:-1,|EX-YU| M1 FILM  HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69564.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR TV2
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69559.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR COMEDY
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69482.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR TV PREMIERE 1 MK
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69477.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR TV PREMIERE 2 MK
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69476.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR TV PREMIERE 1
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69436.m3u8
-#EXTINF:-1,|EX-YU| CINESTAR TV PREMIERE 2
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69435.m3u8
-#EXTINF:-1,|EX-YU| FOX MOVIES (SLO)
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69433.m3u8
-
 #EXTINF:-1,UK: BBC ONE (HD)
 http://iptv1.privateiptv.club:80/live/freeview/freeview/807.m3u8
 #EXTINF:-1,UK: BBC TWO ENGLAND (HD)
@@ -69,4 +22,11 @@ http://iptv1.privateiptv.club:80/live/freeview/freeview/814.m3u8
 http://iptv1.privateiptv.club:80/live/freeview/freeview/819.m3u8
 #EXTINF:-1,UK: BBC NEWS (HD)
 http://iptv1.privateiptv.club:80/live/freeview/freeview/825.m3u8
-
+#EXTINF:-1,UK: ITV (SD)
+http://iptv1.privateiptv.club:80/live/freeview/freeview/830.m3u8
+#EXTINF:-1,UK: ITV2 (SD)
+http://iptv1.privateiptv.club:80/live/freeview/freeview/831.m3u8
+#EXTINF:-1,UK: ITV4 +1 (SD)
+http://iptv1.privateiptv.club:80/live/freeview/freeview/837.m3u8
+#EXTINF:-1,UK: ITVBe (SD)
+http://iptv1.privateiptv.club:80/live/freeview/freeview/838.m3u8
