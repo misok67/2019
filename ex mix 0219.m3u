@@ -14,19 +14,65 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
 #EXTINF:-1,DOMA TV
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
-#EXTINF:-1,UK: BBC ONE (HD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/807.m3u8
-#EXTINF:-1,UK: BBC TWO ENGLAND (HD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/814.m3u8
-#EXTINF:-1,UK: BBC FOUR (HD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/819.m3u8
-#EXTINF:-1,UK: BBC NEWS (HD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/825.m3u8
-#EXTINF:-1,UK: ITV (SD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/830.m3u8
-#EXTINF:-1,UK: ITV2 (SD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/831.m3u8
-#EXTINF:-1,UK: ITV4 +1 (SD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/837.m3u8
-#EXTINF:-1,UK: ITVBe (SD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/838.m3u8
+#EXTINF:-1,EX YU: NOVA TV HR
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3538.m3u8
+#EXTINF:-1,EX YU: CINEMAX 1
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3551.m3u8
+#EXTINF:-1,EX YU: CINEMAX-2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3550.m3u8
+#EXTINF:-1,EX YU: HBO 3
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4011.m3u8
+#EXTINF:-1,EX YU: HBO 2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3545.m3u8
+#EXTINF:-1,EX YU: HBO ADRIA
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3544.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIER 2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3556.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3534.m3u8
+#EXTINF:-1,EX-YU: FOX MOVIES
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3517.m3u8
+#EXTINF:-1,EX-YU: CINESTAR ACTION
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3555.m3u8
+#EXTINF:-1,EX-YU: PINK FILM
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3566.m3u8
+#EXTINF:-1,EX-YU: RTS 1 (LOCAL)
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3599.m3u8
+#EXTINF:-1,EX-YU: RTS 2 (LOCAL)
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3598.m3u8
+
+
+#EXTINF:-1,UK: BBC 1 FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39727.m3u8
+#EXTINF:-1,UK: BBC 2 FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39726.m3u8
+#EXTINF:-1,UK: BBC 4 HD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/3447.m3u8
+#EXTINF:-1,UK: ITV 1 FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39718.m3u8
+#EXTINF:-1,UK: ITV 2 FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39717.m3u8
+#EXTINF:-1,UK: ITV 3 HD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/3205.m3u8
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42111.m3u8
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42118.m3u8
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/22962.m3u8
+#EXTINF:-1,UK: Sky Cinema Disney
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42113.m3u8
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42112.m3u8
+#EXTINF:-1,UK: Sky Cinema Greats
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42116.m3u8
+#EXTINF:-1,UK: Sky Cinema Hits
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42115.m3u8
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42114.m3u8
+#EXTINF:-1,UK: Sky Cinema SciFi & Horror
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42121.m3u8
+#EXTINF:-1,UK: Sky Cinema Select
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42120.m3u8
+#EXTINF:-1,UK: Sky Cinema Superheroes
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42119.m3u8
