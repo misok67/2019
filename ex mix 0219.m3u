@@ -14,106 +14,82 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
 #EXTINF:-1,DOMA TV
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
-#EXTINF:-1 ,SERBIE | RTS 1..
-http://storm.sphd.co:8080/live/5677543455/4677644446/27815.m3u8
-#EXTINF:-1 ,SERBIE | RTS 2..
-http://storm.sphd.co:8080/live/5677543455/4677644446/27816.m3u8
-#EXTINF:-1 ,SERBIE | NOVA TV HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/27872.m3u8
-#EXTINF:-1 ,SERBIE | HBO HD..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28010.m3u8
-#EXTINF:-1 ,SERBIE | HBO 2 HD..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28011.m3u8
-#EXTINF:-1 ,SERBIE | HBO 3 HD..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28012.m3u8
-#EXTINF:-1 ,SERBIE | CINEMAX 2 HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/28014.m3u8
-#EXTINF:-1 ,SERBIE | CINESTAR TV 1..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28015.m3u8
-#EXTINF:-1 ,SERBIE | CINESTAR TV 2..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28016.m3u8
-#EXTINF:-1 ,SERBIE | CINESTAR TV FANTASY..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28017.m3u8
-#EXTINF:-1 ,SERBIE | CINESTAR COMEDY..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28018.m3u8
-#EXTINF:-1 ,SERBIE | CINESTAR TV ACTION..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28019.m3u8
-#EXTINF:-1 ,SERBIE | CINESTAR TV PREMIERE 1 HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/28020.m3u8
-#EXTINF:-1 ,SERBIE | KINO TV HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/28035.m3u8
-#EXTINF:-1 ,SERBIE | TV 1000..
-http://storm.sphd.co:8080/live/5677543455/4677644446/28038.m3u8
-#EXTINF:-1 ,MACEDONIA | HBO HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/28141.m3u8
-#EXTINF:-1 ,MACEDONIA | HBO 2
-http://storm.sphd.co:8080/live/5677543455/4677644446/28142.m3u8
-#EXTINF:-1 ,MACEDONIA | HBO 3 HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/28143.m3u8
-#EXTINF:-1 ,MACEDONIA | CINESTAR TV PREMIERE 2
-http://storm.sphd.co:8080/live/5677543455/4677644446/28147.m3u8
 
-#EXTINF:-1,UK |  BBC 1
-http://storm.sphd.co:8080/live/5677543455/4677644446/46081.m3u8
-#EXTINF:-1,UK |  BBC 2 | HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46085.m3u8
-#EXTINF:-1,UK |  BBC 4 | HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46089.m3u8
-#EXTINF:-1,UK |  SKY CINEMA ACTION & ADVENTURE
-http://storm.sphd.co:8080/live/5677543455/4677644446/46120.m3u8
-#EXTINF:-1,UK |  SKY CINEMA COMEDY | UHD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46121.m3u8
-#EXTINF:-1,UK |  SKY CINEMA DISNEY
-http://storm.sphd.co:8080/live/5677543455/4677644446/46122.m3u8
-#EXTINF:-1,UK |  SKY CINEMA DRAMA & ROMANCE
-http://storm.sphd.co:8080/live/5677543455/4677644446/46123.m3u8
-#EXTINF:-1,UK |  SKY CINEMA FAMILY
-http://storm.sphd.co:8080/live/5677543455/4677644446/46124.m3u8
-#EXTINF:-1,UK |  SKY CINEMA GREATS | UHD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46125.m3u8
-#EXTINF:-1,UK |  SKY CINEMA HITS | UHD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46126.m3u8
-#EXTINF:-1,UK |  SKY CINEMA PREMIERE
-http://storm.sphd.co:8080/live/5677543455/4677644446/46127.m3u8
-#EXTINF:-1,UK |  SKY CINEMA SCI-FI
-http://storm.sphd.co:8080/live/5677543455/4677644446/46128.m3u8
-#EXTINF:-1,UK |  SKY CINEMA SELECT | HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46129.m3u8
-#EXTINF:-1,UK |  SKY CINEMA THRILLER | HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46130.m3u8
-#EXTINF:-1,UK |  SKY ARTS | HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46152.m3u8
-#EXTINF:-1,UK |  SKY ATLANTIC | HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/46167.m3u8
-#EXTINF:-1,UK |  ITV 1
-http://storm.sphd.co:8080/live/5677543455/4677644446/46186.m3u8
-#EXTINF:-1,UK |  ITV 2
-http://storm.sphd.co:8080/live/5677543455/4677644446/46187.m3u8
-#EXTINF:-1,UK |  ITV 3
-http://storm.sphd.co:8080/live/5677543455/4677644446/46188.m3u8
-#EXTINF:-1,UK |  ITV 4
-http://storm.sphd.co:8080/live/5677543455/4677644446/46189.m3u8
-#EXTINF:-1,UK |  ITV BE
-http://storm.sphd.co:8080/live/5677543455/4677644446/46192.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA ACTION HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16953.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA FAMILY HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16954.m3u8
-#EXTINF:-1,|UK.MOVIE| SKY CINEMA COMEDY HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16955.m3u8
-#EXTINF:-1,|UK.KIDS | SKY CINEMA DISNEY HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16956.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA DRAMA HD 
-http://storm.sphd.co:8080/live/5677543455/4677644446/16957.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA HITS HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16958.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA GREATS HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16959.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA PREMIERE HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16960.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA PREMIERE HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16960.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA SCFI & HORROR HD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16961.m3u8
-#EXTINF:-1,|UK.MOVIES| SKY CINEMA CRIME & THRILLER FHD
-http://storm.sphd.co:8080/live/5677543455/4677644446/16963.m3u8
+#EXTINF:-1,UK: BBC 1 FHD
+http://ingrid.ltd:25461/live/frank1/frank/39727.m3u8
+#EXTINF:-1,UK: BBC 2 FHD
+http://ingrid.ltd:25461/live/frank1/frank/39726.m3u8
+#EXTINF:-1,UK: BBC 4 HD
+http://ingrid.ltd:25461/live/frank1/frank/3447.m3u8
+#EXTINF:-1,UK: ITV 1 HD
+http://ingrid.ltd:25461/live/frank1/frank/3207.m3u8
+#EXTINF:-1,UK: ITV 1 FHD
+http://ingrid.ltd:25461/live/frank1/frank/39718.m3u8
+#EXTINF:-1,UK: ITV 2 HD
+http://ingrid.ltd:25461/live/frank1/frank/3206.m3u8
+#EXTINF:-1,UK: SKY ATLANTIC
+http://ingrid.ltd:25461/live/frank1/frank/42117.m3u8
+#EXTINF:-1,UK: SKY CINEMA ACTION & ADVENTURE
+http://ingrid.ltd:25461/live/frank1/frank/42111.m3u8
+#EXTINF:-1,UK: SKY CINEMA COMEDY
+http://ingrid.ltd:25461/live/frank1/frank/42118.m3u8
+#EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER
+http://ingrid.ltd:25461/live/frank1/frank/22962.m3u8
+#EXTINF:-1,UK: SKY CINEMA DISNEY
+http://ingrid.ltd:25461/live/frank1/frank/42113.m3u8
+#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE
+http://ingrid.ltd:25461/live/frank1/frank/42112.m3u8
+#EXTINF:-1,UK: SKY CINEMA GREATS
+http://ingrid.ltd:25461/live/frank1/frank/42116.m3u8
+#EXTINF:-1,UK: SKY CINEMA HITS
+http://ingrid.ltd:25461/live/frank1/frank/42115.m3u8
+#EXTINF:-1,UK: SKY CINEMA PREMIERE
+http://ingrid.ltd:25461/live/frank1/frank/42114.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR
+http://ingrid.ltd:25461/live/frank1/frank/42121.m3u8
+#EXTINF:-1,UK: SKY CINEMA SELECT
+http://ingrid.ltd:25461/live/frank1/frank/42120.m3u8
+#EXTINF:-1,UK: SKY CINEMA SUPERHEROES
+http://ingrid.ltd:25461/live/frank1/frank/42119.m3u8
+#EXTINF:-1,UK: SKY ATLANTIC FHD
+http://ingrid.ltd:25461/live/frank1/frank/3390.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR
+http://ingrid.ltd:25461/live/frank1/frank/3431.m3u8
+
+#EXTINF:-1,..B1..GB : BBC 2 HD
+http://randomserver.site:2086/live/riyad/riyad/90876.m3u8
+#EXTINF:-1,..B1..GB : BBC ONE HD
+http://randomserver.site:2086/live/riyad/riyad/90864.m3u8
+#EXTINF:-1,..B1..GB : ITV
+http://randomserver.site:2086/live/riyad/riyad/66991.m3u8
+#EXTINF:-1,..B1..GB : ITV2
+http://randomserver.site:2086/live/riyad/riyad/67003.m3u8
+#EXTINF:-1,..B1..GB : SKY ARTS
+http://randomserver.site:2086/live/riyad/riyad/98689.m3u8
+#EXTINF:-1,..B1..GB : SKY ATLANTIC
+http://randomserver.site:2086/live/riyad/riyad/91780.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA ACTION
+http://randomserver.site:2086/live/riyad/riyad/87571.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA COMEDY
+http://randomserver.site:2086/live/riyad/riyad/87572.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA DISNEY
+http://randomserver.site:2086/live/riyad/riyad/87573.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA DRAMA
+http://randomserver.site:2086/live/riyad/riyad/87574.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA FAMILY
+http://randomserver.site:2086/live/riyad/riyad/87575.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA GREATS
+http://randomserver.site:2086/live/riyad/riyad/87576.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA HITS
+http://randomserver.site:2086/live/riyad/riyad/87577.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA PREMIERE
+http://randomserver.site:2086/live/riyad/riyad/87578.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA SCI-FI
+http://randomserver.site:2086/live/riyad/riyad/87579.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA SELECT
+http://randomserver.site:2086/live/riyad/riyad/87580.m3u8
+#EXTINF:-1,..B1..GB : SKY CINEMA THRILLER
+http://randomserver.site:2086/live/riyad/riyad/87581.m3u8
+#EXTINF:-1,..B1..US : BBC AMERICA
+http://randomserver.site:2086/live/riyad/riyad/1277.m3u8
+
