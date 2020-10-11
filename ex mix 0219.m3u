@@ -14,53 +14,101 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
 #EXTINF:-1,DOMA TV
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
+#EXTINF:-1,RTS1
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/767.m3u8
+#EXTINF:-1,RTS2
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/766.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/842.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/841.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/745.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/746.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/744.m3u8
+#EXTINF:-1,DISCOVERY
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/880.m3u8
+#EXTINF:-1,DISCOVERY IDXTRA
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/878.m3u8
+#EXTINF:-1,TLC
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/753.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/899.m3u8
+#EXTINF:-1,SLO1
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/759.m3u8
+#EXTINF:-1,SLO 2
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/760.m3u8
 
-#EXTINF:-1 ,FOX MOVIES
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/583.m3u8
-#EXTINF:-1 ,HBO FHD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/581.m3u8
-#EXTINF:-1 ,HBO 2 FHD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/580.m3u8
-#EXTINF:-1 ,HBO 3 FHD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/579.m3u8
-#EXTINF:-1 ,CINEMAX 2 FHD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/577.m3u8
-#EXTINF:-1 ,CINEMAX FHD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/578.m3u8
-#EXTINF:-1 ,EXYU | HBO ADRIA
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/208.m3u8
-#EXTINF:-1 ,EXYU | CINESTAR ACTION
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/199.m3u8
-#EXTINF:-1 ,EXYU | CINESTAR PREMIERE 1
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/198.m3u8
-#EXTINF:-1 ,EXYU | CINESTAR PREMIER 2
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/197.m3u8
+#EXTINF:-1,PINK FILM
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/816.m3u8
 
-#EXTINF:-1,[UK] BBC ONE
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4259.m3u8
-#EXTINF:-1,[UK] BBC TWO
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4260.m3u8
-#EXTINF:-1,[UK] ITV 1
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4261.m3u8
-#EXTINF:-1,[UK] ITV 2
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4262.m3u8
-#EXTINF:-1,[UK] SKY CINEMA PREMIERE
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4265.m3u8
-#EXTINF:-1,[UK] SKY CINEMA GREATS
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4266.m3u8
-#EXTINF:-1,[UK] SKY CINEMA DISNEY
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4267.m3u8
-#EXTINF:-1,[UK] SKY CINEMA ACTION
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4269.m3u8
-#EXTINF:-1,[UK] SKY CINEMA COMEDY
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4270.m3u8
-#EXTINF:-1,[UK] SKY CINEMA DRAMA
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4271.m3u8
-#EXTINF:-1,[UK] SKY CINEMA SCI-FI & HORROR
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4272.m3u8
-#EXTINF:-1,[UK] SKY CINEMA SELECT
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4273.m3u8
-#EXTINF:-1,[UK] SKY ATLANTIC
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4305.m3u8
-#EXTINF:-1,[UK] SKY ARTS
-http://iptvsmarters.cc:25461/live/tapsin/suQ1xQVsQf/4323.m3u8
+#EXTINF:-1,HBO FHD MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/657495.m3u8
+#EXTINF:-1,HBO HD MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/657491.m3u8
+#EXTINF:-1,HBO 2 FHD MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/674109.m3u8
+#EXTINF:-1,HBO 3 FHD MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/657493.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 1 MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/657490.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 2 MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/657489.m3u8
+#EXTINF:-1,TV 1000 MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/657488.m3u8
+#EXTINF:-1,M1 FILM MK
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/657497.m3u8
+#EXTINF:-1,HBO FHD BG
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5977.m3u8
+#EXTINF:-1,HBO 1 BG
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/37971.m3u8
+#EXTINF:-1,HBO 2 FHD BG
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5976.m3u8
+#EXTINF:-1,HBO 3 FHD BG
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5975.m3u8
+#EXTINF:-1,CINEMAX 1 BG
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/37963.m3u8
+#EXTINF:-1,CINEMAX 2 BG
+http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/37962.m3u8
+
+
+#EXTINF:-1,BBC ONE FHD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/62590.m3u8
+#EXTINF:-1,BBC TWO HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/337.m3u8
+#EXTINF:-1,ITV FHD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/339.m3u8
+#EXTINF:-1,ITV2 HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/342.m3u8
+#EXTINF:-1,ITV3 HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/353.m3u8
+#EXTINF:-1,ITV4 HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/356.m3u8
+#EXTINF:-1,ITVBE HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/359.m3u8
+#EXTINF:-1,SKY ARTS HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/439.m3u8
+#EXTINF:-1,SKY ARTS
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/440.m3u8
+#EXTINF:-1,SKY ATLANTIC HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/441.m3u8
+#EXTINF:-1,SKY CINEMA PREMIERE HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/719.m3u8
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/722.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA&ROMANCE HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/728.m3u8
+#EXTINF:-1,SKY CINEMA SCI-FI & HORROR HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/736.m3u8
+#EXTINF:-1,SKY CINEMA SCI-FI & HORROR HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/737.m3u8
+#EXTINF:-1,SKY CINEMA GREATS HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/732.m3u8
+#EXTINF:-1,SKY CINEMA SELECT HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/739.m3u8
+#EXTINF:-1,SKY CINEMA THRILLER HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/740.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://magicstreams.xyz:80/live/mikes3pm2019/MyTgDlKv5643871/735.m3u8
