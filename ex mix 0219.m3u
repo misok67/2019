@@ -12,9 +12,10 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,RTL 2 HRVATSKA
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
-#EXTINF:-1,HR: NOVA TV
-http://vip.tvxip.pw:8000/live/0B0oAVUFOg/DprA6CVGGn/3995.m3u8
-
+#EXTINF:-1,RS-LOCAL: NOVA TV.
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52195.m3u8
+#EXTINF:-1,MK: TV NOVA
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38370.m3u8
 #EXTINF:-1,DOMA TV
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
 #EXTINF:-1,PINK FILM
@@ -33,7 +34,18 @@ http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/744.m3u8
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/880.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/899.m3u8
-#EXTM3U
+#EXTINF:-1,MK: HBO FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38337.m3u8
+#EXTINF:-1,HR: HBO ADRIA
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31790.m3u8
+#EXTINF:-1,MK: HBO 2 FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38338.m3u8
+#EXTINF:-1,HR: CINEMAX 1 FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31772.m3u8
+#EXTINF:-1,MK: CINESTAR TV PREMIERE 1
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38348.m3u8
+#EXTINF:-1,MK: CINESTAR TV PREMIERE 2
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38349.m3u8
 #EXTINF:-1,RS-LOCAL: CINESTAR ACTION AND THRILLER
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52159.m3u8
 #EXTINF:-1,RS-LOCAL: CINESTAR FANTASY.
@@ -46,8 +58,6 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52162.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52172.m3u8
 #EXTINF:-1,RS-LOCAL: KINO TV
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52185.m3u8
-#EXTINF:-1,RS-LOCAL: NOVA TV.
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52195.m3u8
 #EXTINF:-1,RS-LOCAL: PINK FILM
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52207.m3u8
 #EXTINF:-1,RS-LOCAL: RTS 1
@@ -56,22 +66,8 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52240.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52241.m3u8
 #EXTINF:-1,RS-LOCAL: VIASAT TV 1000
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52259.m3u8
-#EXTINF:-1,MK: HBO FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38337.m3u8
-#EXTINF:-1,MK: HBO 2 FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38338.m3u8
-#EXTINF:-1,MK: CINESTAR TV PREMIERE 1
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38348.m3u8
-#EXTINF:-1,MK: CINESTAR TV PREMIERE 2
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38349.m3u8
 #EXTINF:-1,MK: TV 1000
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38368.m3u8
-#EXTINF:-1,MK: TV NOVA
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38370.m3u8
-#EXTINF:-1,HR: CINEMAX 1
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31771.m3u8
-#EXTINF:-1,HR: CINEMAX 1 FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31772.m3u8
 #EXTINF:-1,HR: CINESTAR ACTION & THRILLER
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31774.m3u8
 #EXTINF:-1,HR: CINESTAR PREMIERE 2
@@ -80,8 +76,6 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31776.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31784.m3u8
 #EXTINF:-1,HR: FOX MOVIES
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31789.m3u8
-#EXTINF:-1,HR: HBO ADRIA
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31790.m3u8
 #EXTINF:-1,HR: NOVA [BACKUP]
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31816.m3u8
 #EXTINF:-1,HR: TV 1000
