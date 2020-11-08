@@ -10,32 +10,14 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,RTL 2 HRVATSKA
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/780.m3u8
-#EXTINF:-1,RS-LOCAL: NOVA TV.
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52195.m3u8
 #EXTINF:-1,HR: NOVA [BACKUP]
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31816.m3u8
-#EXTINF:-1,DOMA TV
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/875.m3u8
-#EXTINF:-1,PINK FILM
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/816.m3u8
+#EXTINF:-1,HR: Doma TV
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31784.m3u8
+#EXTINF:-1,RS-LOCAL: NOVA TV.
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52195.m3u8
 #EXTINF:-1,HR: Klasik TV
 http://mahs.work:80/live//a3seJKK9EB/kUiRZfGfhk/31799.m3u8
-#EXTINF:-1,RTS1
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/767.m3u8
-#EXTINF:-1,RTS2
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/766.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/842.m3u8
-#EXTINF:-1,VIASAT HISTORY
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/745.m3u8
-#EXTINF:-1,VIASAT NATURE
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/744.m3u8
-#EXTINF:-1,DISCOVERY
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/880.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/899.m3u8
 #EXTINF:-1,MK: HBO FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38337.m3u8
 #EXTINF:-1,HR: HBO ADRIA
