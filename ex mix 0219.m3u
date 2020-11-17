@@ -10,53 +10,5 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,EX-YU: NOVA
-http://showmetv.me:80/live/showmelive9974/5474441/15200.m3u8
-#EXTINF:-1,EX-YU: NOVA TV HD
-http://showmetv.me:80/live/showmelive9974/5474441/15202.m3u8
-#EXTINF:-1,EX-YU: PINK FILM
-http://showmetv.me:80/live/showmelive9974/5474441/15117.m3u8
-#EXTINF:-1,EX-YU: RTL 2 HR
-http://showmetv.me:80/live/showmelive9974/5474441/15211.m3u8
-#EXTINF:-1,EX-YU: RTS 1
-http://showmetv.me:80/live/showmelive9974/5474441/15198.m3u8
-#EXTINF:-1,EX-YU: RTS 1 HD
-http://showmetv.me:80/live/showmelive9974/5474441/15197.m3u8
-#EXTINF:-1,EX-YU: RTS 2
-http://showmetv.me:80/live/showmelive9974/5474441/15196.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 1
-http://showmetv.me:80/live/showmelive9974/5474441/15089.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 1 HD
-http://showmetv.me:80/live/showmelive9974/5474441/15088.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 2
-http://showmetv.me:80/live/showmelive9974/5474441/15087.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 2 HD
-http://showmetv.me:80/live/showmelive9974/5474441/15086.m3u8
-#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1
-http://showmetv.me:80/live/showmelive9974/5474441/15085.m3u8
-#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2
-http://showmetv.me:80/live/showmelive9974/5474441/15084.m3u8
-#EXTINF:-1,EX-YU: DOMA TV
-http://showmetv.me:80/live/showmelive9974/5474441/15203.m3u8
-#EXTINF:-1,EX-YU: FOX MOVIES
-http://showmetv.me:80/live/showmelive9974/5474441/15207.m3u8
-#EXTINF:-1,EX-YU: HBO 1 SRB
-http://showmetv.me:80/live/showmelive9974/5474441/15079.m3u8
-#EXTINF:-1,EX-YU: HBO 2 SRB
-http://showmetv.me:80/live/showmelive9974/5474441/15078.m3u8
-#EXTINF:-1,EX-YU: HBO 3 HD
-http://showmetv.me:80/live/showmelive9974/5474441/15076.m3u8
-#EXTINF:-1,EX-YU: HBO 3 SRB
-http://showmetv.me:80/live/showmelive9974/5474441/15077.m3u8
-#EXTINF:-1,EX-YU: HBO ADRIA
-http://showmetv.me:80/live/showmelive9974/5474441/15075.m3u8
-#EXTINF:-1,EX-YU: HBO COMEDY
-http://showmetv.me:80/live/showmelive9974/5474441/15074.m3u8
-#EXTINF:-1,EX-YU: KINO TV
-http://showmetv.me:80/live/showmelive9974/5474441/15218.m3u8
-#EXTINF:-1,EX-YU: M1 FILM
-http://showmetv.me:80/live/showmelive9974/5474441/15080.m3u8
-
-#EXTINF:-1,HR: NOVA [BACKUP]
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31816.m3u8
-
+#EXTINF:-1,EX-YU: Nova TV.
+http://mac-tv.live:80/Motana_allezawe/lYGA1uSgT5/91929
