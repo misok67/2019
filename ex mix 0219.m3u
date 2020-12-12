@@ -10,37 +10,61 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,EX-YU: Nova HR
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3504.m3u8
-#EXTINF:-1,EX-YU: Doma TV
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3503.m3u8
-#EXTINF:-1,EX-YU: RTS 1
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3507.m3u8
-#EXTINF:-1,EX-YU: RTS 2
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3506.m3u8
-#EXTINF:-1,Ex-Yu: HBO HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3491.m3u8
-#EXTINF:-1,Ex-Yu: HBO HD 2
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3492.m3u8
-#EXTINF:-1,EX-YU: HBO 3
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3493.m3u8
-#EXTINF:-1,EX YU: CINEMAX-1
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/907.m3u8
-#EXTINF:-1,EX YU: CINEMAX-2
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/906.m3u8
-#EXTINF:-1,EX-YU: Cinemax HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47870.m3u8
-#EXTINF:-1,EX-YU: Cinestar Premiere 1
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47904.m3u8
-#EXTINF:-1,EX-YU: Cinestar Premier 2
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47868.m3u8
-#EXTINF:-1,EX-YU: Cinestar Action
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47869.m3u8
-#EXTINF:-1,EX-YU: Cinestar Fantasy HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47914.m3u8
-#EXTINF:-1,EX-YU: Pink Film
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1104.m3u8
-#EXTINF:-1,EX-YU: KLASIK TV
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47949.m3u8
+
+#EXTINF:-1,HR | NOVA TV
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34441.m3u8
+#EXTINF:-1,HR | DOMA TV
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34442.m3u8
+#EXTINF:-1,HR | RTL 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34444.m3u8
+#EXTINF:-1,SRB | RTS 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34405.m3u8
+#EXTINF:-1,SRB | RTS 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34406.m3u8
+#EXTINF:-1,EX_YU: HBO 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34454.m3u8
+#EXTINF:-1,EX_YU: HBO 3
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34455.m3u8
+#EXTINF:-1,SLO HBO 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34513.m3u8
+#EXTINF:-1,SLO HBO 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34514.m3u8
+#EXTINF:-1,EX_YU: CINESTAR PREMIERE 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34459.m3u8
+#EXTINF:-1,EX_YU: CINEMAX
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34460.m3u8
+#EXTINF:-1,EX_YU: CINEMAX 2
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34461.m3u8
+#EXTINF:-1,EX_YU: CINESTAR TV
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/34462.m3u8
+#EXTINF:-1,VIP EX_YU: NOVA
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51627.m3u8
+#EXTINF:-1,VIP EX_YU: FOX MOVIES
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51629.m3u8
+#EXTINF:-1,VIP EX_YU: KINO TV
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51633.m3u8
+#EXTINF:-1,VIP EX_YU: CINESTAR PREMIERE 1
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51634.m3u8
+#EXTINF:-1,VIP EX_YU: CINESTAR ACTION
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51635.m3u8
+#EXTINF:-1,VIP EX_YU: CINESTAR FANTASY
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51636.m3u8
+#EXTINF:-1,VIP EX_YU:  M1 FILM
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51637.m3u8
+#EXTINF:-1,VIP EX_YU: TV 1000
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51640.m3u8
+#EXTINF:-1,VIP EX_YU: KLASIK TV
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/51643.m3u8
+#EXTINF:-1,SLO: CINESTAR PREMIERE
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287917.m3u8
+#EXTINF:-1,SLO: TV 1000
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287920.m3u8
+#EXTINF:-1,SLO: NOVA 24 TV
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287926.m3u8
+#EXTINF:-1,SLO: HBO
+http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/287927.m3u8
+
+
+
 #EXTINF:-1,HU: Sport 1 HD
 http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4258.m3u8
