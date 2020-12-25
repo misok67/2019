@@ -10,7 +10,12 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-
+#EXTINF:-1,EX-YU: PINK FILM
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/869.m3u8
+#EXTINF:-1,EX-YU: RTL 2
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/982.m3u8
+#EXTINF:-1,EX-YU: FOX MOVIES
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/986.m3u8
 #EXTINF:-1,HRVATSKA | DOMA TV
 http://nomorecable.xyz:80/1tvtesting/206047/97935
 #EXTINF:-1,HRVATSKA | NOVA TV
@@ -55,6 +60,134 @@ http://nomorecable.xyz:80/1tvtesting/206047/98096
 http://nomorecable.xyz:80/1tvtesting/206047/98151
 #EXTINF:-1,SLOVENIJA | HBO
 http://nomorecable.xyz:80/1tvtesting/206047/98153
+
+#EXTINF:-1, L2...DOMA TV
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2446.ts.m3u8
+#EXTINF:-1, L2...NOVA TV SD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2447.ts.m3u8
+#EXTINF:-1, L2...DOMA TV SD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2448.ts.m3u8
+#EXTINF:-1, L2...RTL 2 HRVATSKA
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2444.ts.m3u8
+#EXTINF:-1, L2...RTS 2
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2471.ts.m3u8
+#EXTINF:-1, L2...RTS 1
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2473.ts.m3u8
+#EXTINF:-1, L2...PINK FILM
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2640.ts.m3u8
+#EXTINF:-1, L2...HBO
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2659.ts.m3u8
+#EXTINF:-1, L2...HBO 2
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2660.ts.m3u8
+#EXTINF:-1, L2...HBO 3
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2661.ts.m3u8
+#EXTINF:-1, L2...FOX MOVIES
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2665.ts.m3u8
+#EXTINF:-1, L2...CINESTAR TV
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2667.ts.m3u8
+#EXTINF:-1, L2...CINESTAR PREMIERE 1
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2668.ts.m3u8
+#EXTINF:-1, L2...CINESTAR PREMIERE 2
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2669.ts.m3u8
+#EXTINF:-1, L2...CINESTAR FANTASY
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2671.ts.m3u8
+#EXTINF:-1, L2...M1 FILM
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2672.ts.m3u8
+#EXTINF:-1, L2...CINEMAX 1
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2673.ts.m3u8
+#EXTINF:-1, L2...CINEMAX 2
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2674.ts.m3u8
+#EXTINF:-1, L2...TV 1000
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2675.ts.m3u8
+#EXTINF:-1, L2...KLASIK TV
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2679.ts.m3u8
+
+
+#EXTINF:-1,UK: ITV 2
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/437.m3u8
+#EXTINF:-1,UK: ITV 1
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/619.m3u8
+#EXTINF:-1,UK: BBC THREE
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/617.m3u8
+#EXTINF:-1,UK: BBC TWO
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/616.m3u8
+#EXTINF:-1,UK: BBC ONE
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/615.m3u8
+#EXTINF:-1,UK: SKY CINEMA PREMIER HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/631.m3u8
+#EXTINF:-1,UK: SKY CINEMA PREMIER HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/631.m3u8
+#EXTINF:-1,UK: SKY CINEMA COMEDY HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/632.m3u8
+#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/633.m3u8
+#EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/634.m3u8
+#EXTINF:-1,UK: SKY CINEMA GREATS HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/635.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCI-FI & HORROR HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/636.m3u8
+#EXTINF:-1,UK: SKY CINEMA SELECT HD
+http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/637.m3u8
+
+#EXTINF:-1, L2...BBC ONE HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1839.ts.m3u8
+#EXTINF:-1, L2...BBC FIRST HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1840.ts.m3u8
+#EXTINF:-1, L2...BBC ONE HD HEVC
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1930.ts.m3u8
+#EXTINF:-1, L2...BBC FIRST HD HEVC
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1931.ts.m3u8
+#EXTINF:-1, L2...ITV
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/839.ts.m3u8
+#EXTINF:-1, L2...ITV 2
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/840.ts.m3u8
+#EXTINF:-1, L2...BBC ONE LONDON
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/847.ts.m3u8
+#EXTINF:-1, L2...BBC TWO
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/849.ts.m3u8
+#EXTINF:-1, L2...SKY ARTS HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/904.ts.m3u8
+#EXTINF:-1, L2...SKY ATLANTIC HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/923.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA FAMILY
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1732.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA HITS
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1733.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA FAMILY FHD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1734.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA HITS FHD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1735.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA COMEDY
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1736.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA +24 HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1737.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA ACTION
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1738.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA EMOTION
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1739.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA SPECIAL FHD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1743.ts.m3u8
+#EXTINF:-1, L2...SKY ATLANTIC HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/1747.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA BEST OF FHD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15675.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA BEST OF HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15676.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA SUMMERFEELING
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15677.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA THRILLER FHD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15678.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA PREMIEREN +24 HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15679.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA PREMIEREN +24 HD
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15679.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA PREMIEREN
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15681.ts.m3u8
+#EXTINF:-1, L2...SKY CINEMA PREMIEREN
+http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15681.ts.m3u8
+
+
 
 #EXTINF:-1,UK | BBC1 HD
 http://nomorecable.xyz:80/1tvtesting/206047/1940
@@ -108,6 +241,7 @@ http://nomorecable.xyz:80/1tvtesting/206047/2052
 http://nomorecable.xyz:80/1tvtesting/206047/69284
 #EXTINF:-1,USA | BBC WORLD NEWS
 http://nomorecable.xyz:80/1tvtesting/206047/69285
+
 
 
 #EXTINF:-1,|UK| BBC HD 1
