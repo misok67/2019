@@ -10,125 +10,55 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,EX-YU: NOVA HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/3406.m3u8
-#EXTINF:-1,EX-YU: DOMA HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/3398.m3u8
-#EXTINF:-1,EX-YU: HBO 1 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/145939.m3u8
-#EXTINF:-1,EX-YU: HBO 2 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/4161.m3u8
-#EXTINF:-1,EX-YU: HBO 3 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/10696.m3u8
-#EXTINF:-1,EX-YU: HBO ADRIA
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/35257.m3u8
-#EXTINF:-1,EX-YU: HBO COMEDY
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/148156.m3u8
-#EXTINF:-1,EX-YU: HBO CRO
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/198022.m3u8
-#EXTINF:-1,EX-YU: HBO GO
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/157367.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 1 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/4138.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 2 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/4139.m3u8
-#EXTINF:-1,EX-YU: CINEMAX HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/23064.m3u8
-#EXTINF:-1,EX-YU: CINESTAR ACTION & THRILLER
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/171933.m3u8
-#EXTINF:-1,EX-YU: CINESTAR ACTION HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/26785.m3u8
-#EXTINF:-1,EX-YU: CINESTAR FANTASY HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/36890.m3u8
-#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/192244.m3u8
-#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/192637.m3u8
-#EXTINF:-1,EX-YU: CINESTAR TV
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/193639.m3u8
-#EXTINF:-1,EX-YU: FOX MOVIES HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/4155.m3u8
-#EXTINF:-1,EX-YU: KLASIK TV
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/195736.m3u8
-#EXTINF:-1,EX-YU: M1 FILM
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/4173.m3u8
-#EXTINF:-1,EX-YU: RTS 1 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/3448.m3u8
-#EXTINF:-1,EX-YU: RTS 2 HD
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/3449.m3u8
-#EXTINF:-1,EX-YU: TV 1000
-http://iptvtree.net:8080/live/766a3d10/7781c6505e/4210.m3u8
-#EXTM3U
-#EXTINF:-1, L2...NOVA TV HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/14.m3u8
-#EXTINF:-1, L2...DOMA TV
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/23.m3u8
-#EXTINF:-1, L2...DOMA TV HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/24.m3u8
-#EXTINF:-1, L2...HBO
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/447.m3u8
-#EXTINF:-1, L2...HBO HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/448.m3u8
-#EXTINF:-1, L2...HBO 2
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/449.m3u8
-#EXTINF:-1, L2...HBO 2 HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/450.m3u8
-#EXTINF:-1, L2...HBO 3
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/451.m3u8
-#EXTINF:-1, L2...HBO 3 HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/452.m3u8
-#EXTINF:-1, L2...HBO PLUS
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/49947.m3u8
-#EXTINF:-1, L2...HBO GO
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/49948.m3u8
-#EXTINF:-1, L2...FOX MOVIES
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/454.m3u8
-#EXTINF:-1, L2...KINO TV
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/457.m3u8
-#EXTINF:-1, L2...CINESTAR TV 1
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/462.m3u8
-#EXTINF:-1, L2...CINESTAR TV 2
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/476.m3u8
-#EXTINF:-1, L2...CINESTAR FANTASY
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/458.m3u8
-#EXTINF:-1, L2...CINESTAR PREMIERE 1 HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/459.m3u8
-#EXTINF:-1, L2...CINESTAR PREMIERE 2 HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/460.m3u8
-#EXTINF:-1, L2...CINESTAR ACTION TV
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/461.m3u8
-#EXTINF:-1, L2...CINEMAX 1 SD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/464.m3u8
-#EXTINF:-1, L2...CINEMAX 2 SD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/465.m3u8
-#EXTINF:-1, L2...TV 1000
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/471.m3u8
-#EXTINF:-1, L2...KLASIK TV
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/472.m3u8
-#EXTINF:-1, L2...M1 FILM
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/474.m3u8
-#EXTINF:-1, L2...RTS 1 HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/133.m3u8
-#EXTINF:-1, L2...RTS 2
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/134.m3u8
-#EXTINF:-1, L2...PINK FILM
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/212.m3u8
-
-#EXTINF:-1,UK | BBC ONE HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1279.m3u8
-#EXTINF:-1,UK | BBC NEWS HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1277.m3u8
-#EXTINF:-1,UK | BBC TWO HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1278.m3u8
-#EXTINF:-1,UK | ITV1
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1259.m3u8
-#EXTINF:-1,UK | ITV2
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1258.m3u8
-#EXTINF:-1,DE | SKY ARTS HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1458.m3u8
-#EXTINF:-1,IT | SKY ATLANTIC HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1568.m3u8
-#EXTINF:-1,IT | SKY ARTE HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1569.m3u8
-#EXTINF:-1,UK | SKY ARTS HD
-http://nightfight.xyz:25461/live/kMxNxqp39pministra/Vo5144viAGministra/1519.m3u8
+#EXTINF:-1,EX-YU | NOVA HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18013.m3u8
+#EXTINF:-1,EX-YU | DOMA HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18198.m3u8
+#EXTINF:-1,EX-YU | RTL 2 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/17960.m3u8
+#EXTINF:-1,EX-YU | HBO 1 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18139.m3u8
+#EXTINF:-1,EX-YU | HBO 2 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18138.m3u8
+#EXTINF:-1,EX-YU | HBO 3 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18137.m3u8
+#EXTINF:-1,EX-YU | HBO ADRIA
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18136.m3u8
+#EXTINF:-1,EX-YU | HBO COMEDY
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18135.m3u8
+#EXTINF:-1,EX-YU | HBO CRO
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18134.m3u8
+#EXTINF:-1,EX-YU | HBO GO
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18133.m3u8
+#EXTINF:-1,EX-YU | HBO HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18132.m3u8
+#EXTINF:-1,EX-YU | KINO TV HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18089.m3u8
+#EXTINF:-1,EX-YU | CINEMAX 1 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18249.m3u8
+#EXTINF:-1,EX-YU | CINEMAX 2 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18248.m3u8
+#EXTINF:-1,EX-YU | CINEMAX HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18247.m3u8
+#EXTINF:-1,EX-YU | CINESTAR ACTION & THRILLER
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18246.m3u8
+#EXTINF:-1,EX-YU | CINESTAR ACTION HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18245.m3u8
+#EXTINF:-1,EX-YU | CINESTAR FANTASY HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18244.m3u8
+#EXTINF:-1,EX-YU | CINESTAR PREMIERE 1 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18243.m3u8
+#EXTINF:-1,EX-YU | CINESTAR PREMIERE 2 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18242.m3u8
+#EXTINF:-1,EX-YU | CINESTAR TV
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18241.m3u8
+#EXTINF:-1,EX-YU | KLASIK TV
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18088.m3u8
+#EXTINF:-1,EX-YU | RTS 1 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/17951.m3u8
+#EXTINF:-1,EX-YU | RTS 2 HD
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/17950.m3u8
+#EXTINF:-1,EX-YU | M1 FILM
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/18080.m3u8
+#EXTINF:-1,EX-YU | TV 1000
+http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/17855.m3u8
