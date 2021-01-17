@@ -10,71 +10,51 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,YU098:NOVA TV
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49228.m3u8
-#EXTINF:-1,YU243:NOVA HD (SRB)
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49083.m3u8
-#EXTINF:-1,HR014:DOMA TV (HR)
-http://a1.gokakka.club:8880/live/testzyx030/123456789/46244.m3u8
-#EXTINF:-1,YU157:RTL 2
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49169.m3u8
-#EXTINF:-1,YU062:HBO 1 HD
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49264.m3u8
-#EXTINF:-1,YU063:HBO 2 HD
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49263.m3u8
-#EXTINF:-1,YU064:HBO 3 HD
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49262.m3u8
-#EXTINF:-1,YU065:HBO ADRIA
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49261.m3u8
-#EXTINF:-1,YU066:HBO FAMILY
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49260.m3u8
-#EXTINF:-1,HR015:HBO (HR)
-http://a1.gokakka.club:8880/live/testzyx030/123456789/46243.m3u8
-#EXTINF:-1,HR016:HBO 2 (HR)
-http://a1.gokakka.club:8880/live/testzyx030/123456789/46242.m3u8
-#EXTINF:-1,YU023:CINEMAX 1
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49303.m3u8
-#EXTINF:-1,YU024:CINEMAX 2
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49302.m3u8
-#EXTINF:-1,YU025:CINESTAR ACTION
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49301.m3u8
-#EXTINF:-1,YU026:CINESTAR ACTION & THRILLER
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49300.m3u8
-#EXTINF:-1,YU027:CINESTAR PREMIER 1
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49299.m3u8
-#EXTINF:-1,YU028:CINESTAR PREMIER 2
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49298.m3u8
-#EXTINF:-1,YU029:CINESTAR TV
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49297.m3u8
-#EXTINF:-1,YU081:KLASIK TV
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49245.m3u8
-#EXTINF:-1,YU279:PINK FILM (SRB)
-http://a1.gokakka.club:8880/live/testzyx030/123456789/49047.m3u8
-#EXTINF:-1, L2...EX-YU: NOVA TV HR
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379177.m3u8
-#EXTINF:-1, L2...EX YU: NOVA TV HR
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379127.m3u8
-#EXTINF:-1, L2...EX YU: DOMA-TV
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379122.m3u8
-#EXTINF:-1, L2...EX YU: HBO ADRIA
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379134.m3u8
-#EXTINF:-1, L2...EX YU: HBO 2
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379130.m3u8
-#EXTINF:-1, L2...EX YU: HBO 3
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379123.m3u8
-#EXTINF:-1, L2...EX YU: CINEMAX-2
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379121.m3u8
-#EXTINF:-1, L2...EX YU: CINEMAX 1
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379120.m3u8
-#EXTINF:-1, L2...EX-YU: CINESTAR ACTION
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379164.m3u8
-#EXTINF:-1, L2...EX-YU: CINESTAR PREMIERE 1
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379136.m3u8
-#EXTINF:-1, L2...EX-YU: CINESTAR PREMIER 2
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379135.m3u8
-#EXTINF:-1, L2...EX-YU: FOX MOVIES
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379155.m3u8
-#EXTINF:-1, L2...EX-YU: KLASIK TV
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379163.m3u8
-#EXTINF:-1, L2...EX-YU: PINK FILM
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/379186.m3u8
+#EXTINF:-1,CRO: NOVA HR HD
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/22144.m3u8
+#EXTINF:-1,ES: NOVA
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/3667.m3u8
+#EXTINF:-1,CRO: DOMA TV HD
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1613.m3u8
+#EXTINF:-1,CRO: HBO ADRIA
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2879.m3u8
+#EXTINF:-1,EX-YU: HBO (HD)
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2743.m3u8
+#EXTINF:-1,EX-YU: HBO 2
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2880.m3u8
+#EXTINF:-1,EX-YU: HBO 2 (HD)
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2744.m3u8
+#EXTINF:-1,EX-YU: HBO 2 (HD).
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/954.m3u8
+#EXTINF:-1,EX-YU: HBO 3
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2881.m3u8
+#EXTINF:-1,EX-YU: KINO TV
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/21013.m3u8
+#EXTINF:-1,CRO: CINEMAX-1
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2885.m3u8
+#EXTINF:-1,CRO: CINEMAX-2
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2886.m3u8
+#EXTINF:-1,CRO: CINESTAR TV
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2882.m3u8
+#EXTINF:-1,CRO: CINESTAR ACTION
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1609.m3u8
+#EXTINF:-1,CRO: CINESTAR PREMIER 1
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1610.m3u8
+#EXTINF:-1,CRO: CINESTAR PREMIER 2
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1611.m3u8
+#EXTINF:-1,CRO: CINESTAR FANTASY
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/7929.m3u8
+#EXTINF:-1,EX-YU: FOX MOVIES HD
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2888.m3u8
+#EXTINF:-1,EX-YU: KLASIK TV
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2875.m3u8
+#EXTINF:-1,EX-YU: PINK FILM
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1011.m3u8
+#EXTINF:-1,EX-YU: RTS 1
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1049.m3u8
+#EXTINF:-1,EX-YU: RTS 1 (LOCAL)
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2746.m3u8
+#EXTINF:-1,EX-YU: RTS 2
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1050.m3u8
+#EXTINF:-1,EX-YU: RTS 2 (LOCAL)
+http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/2747.m3u8
