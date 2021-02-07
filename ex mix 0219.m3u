@@ -10,6 +10,100 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,NOVA TV FHD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8960.m3u8
+#EXTINF:-1,NOVA HD HR [BACKUP]
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/15125.m3u8
+#EXTINF:-1,DOMA TV HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8956.m3u8
+#EXTINF:-1,HBO ADRIA HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8918.m3u8
+#EXTINF:-1,HBO 3 HD RS
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8989.m3u8
+#EXTINF:-1,HBO HD RS
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8988.m3u8
+#EXTINF:-1,HBO 2 RS
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8991.m3u8
+#EXTINF:-1,CINEMAX 1 FHD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9002.m3u8
+#EXTINF:-1,CINEMAX 1 HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9001.m3u8
+#EXTINF:-1,CINEMAX 2 HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9000.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9003.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9006.m3u8
+#EXTINF:-1,CINESTAR ACTION & THRILLER HD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8998.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 1 MK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/42388.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 2 MK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/42387.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD SI
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/49253.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD SI
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/49254.m3u8
+#EXTINF:-1,FOX MOVIES HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9009.m3u8
+#EXTINF:-1,KLASIK TV HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8946.m3u8
+#EXTINF:-1,PINK FILM RS
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9030.m3u8
+#EXTINF:-1,RTS 1 RS
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8979.m3u8
+#EXTINF:-1,RTS 2 HD RS
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8977.m3u8
+
+#EXTINF:-1, L3...EX-YU: NOVA TV HD HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35955.m3u8
+#EXTINF:-1, L3...EX-YU: NOVA HD HR [BACKUP]
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35956.m3u8
+#EXTINF:-1, L3...EX-YU: HBO ADRIA HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35968.m3u8
+#EXTINF:-1, L3...EX-YU: HBO 3 HD RS
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36020.m3u8
+#EXTINF:-1, L3...EX-YU: HBO HD RS
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36021.m3u8
+#EXTINF:-1, L3...EX-YU: HBO 2 RS
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36022.m3u8
+#EXTINF:-1, L3...EX-YU: CINEMAX 1 FHD HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35935.m3u8
+#EXTINF:-1, L3...EX-YU: CINEMAX 1 HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35936.m3u8
+#EXTINF:-1, L3...EX-YU: CINEMAX 2 HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35937.m3u8
+#EXTINF:-1, L3...EX-YU: CINESTAR PREMIERE 2 HD HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35938.m3u8
+#EXTINF:-1, L3...EX-YU: CINESTAR PREMIERE 1 HD HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35939.m3u8
+#EXTINF:-1, L3...EX-YU: CINESTAR ACTION & THRILLER HD HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35979.m3u8
+#EXTINF:-1, L3...EX-YU: FOX MOVIES HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35970.m3u8
+#EXTINF:-1, L3...EX-YU: KLASIK TV HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35960.m3u8
+#EXTINF:-1, L3...EX-YU: PINK FILM RS
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36033.m3u8
+#EXTINF:-1, L3...EX-YU: RTS 1 RS
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36068.m3u8
+#EXTINF:-1, L3...EX-YU: RTS 2 HD RS
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36069.m3u8
+#EXTINF:-1, L3...EX-YU: M1 FILM HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35951.m3u8
+#EXTINF:-1, L3...EX-YU: TV 1000 HR
+http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35991.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,HR | NOVA TV
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34441.m3u8
 #EXTINF:-1,HR | DOMA TV
@@ -59,70 +153,3 @@ http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51640.m3
 #EXTINF:-1,SLO: TV 1000
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287920.m3u8
 
-#EXTINF:-1, L2...HR | NOVA TV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34441.m3u8
-#EXTINF:-1, L2...HR | DOMA TV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34442.m3u8
-#EXTINF:-1, L2...HBO FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/173736.m3u8
-#EXTINF:-1, L2...HBO 3 FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/173737.m3u8
-#EXTINF:-1, L2...HBO 2 FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/173738.m3u8
-#EXTINF:-1, L2...EX_YU: HBO 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34454.m3u8
-#EXTINF:-1, L2...EX_YU: HBO 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34455.m3u8
-#EXTINF:-1, L2...SLO HBO 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34513.m3u8
-#EXTINF:-1, L2...SLO HBO 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34514.m3u8
-#EXTINF:-1, L2...VIP EX_YU: HBO GO
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/51619.m3u8
-#EXTINF:-1, L2...EX_YU: CINEMAX
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34460.m3u8
-#EXTINF:-1, L2...EX_YU: CINEMAX 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34461.m3u8
-#EXTINF:-1, L2...EX_YU: CINESTAR PREMIERE 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34459.m3u8
-#EXTINF:-1, L2...EX_YU: CINESTAR TV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34462.m3u8
-#EXTINF:-1, L2...VIP EX_YU: CINESTAR PREMIERE 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/51634.m3u8
-#EXTINF:-1, L2...VIP EX_YU: CINESTAR ACTION
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/51635.m3u8
-#EXTINF:-1, L2...VIP EX_YU: CINESTAR FANTASY
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/51636.m3u8
-#EXTINF:-1, L2...SLO: CINESTAR PREMIERE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/287917.m3u8
-#EXTINF:-1, L2...VIP EX_YU: FOX MOVIES
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/51629.m3u8
-#EXTINF:-1, L2...VIP EX_YU: KLASIK TV
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/51643.m3u8
-#EXTINF:-1, L2...EX_YU: PINK FILM
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34380.m3u8
-
-#EXTINF:-1,ITV 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/242508.m3u8
-#EXTINF:-1,ITV 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/210.m3u8
-#EXTINF:-1,ITV 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/211.m3u8
-#EXTINF:-1,BBC 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/26902.m3u8
-#EXTINF:-1,BBC 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/153518.m3u8
-#EXTINF:-1,BBC 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/26903.m3u8
-#EXTINF:-1,BBC 4
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/103.m3u8
-#EXTINF:-1,UK: CBBC
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/27110.m3u8
-#EXTINF:-1,UK: SKY ARTS HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/26952.m3u8
-#EXTINF:-1,SKY ARTS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/172.m3u8
-#EXTINF:-1,UK: SKY ATLANTIC
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/26953.m3u8
-#EXTINF:-1,UK: SKY ATLANTIC | HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/188.m3u8
