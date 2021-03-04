@@ -11,237 +11,37 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,EX-YU: NOVA HR
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47890.m3u8
+#EXTINF:-1,EX-YU: NOVA TV HD
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29749.m3u8
+#EXTINF:-1,EX-YU: DOMA TV HD
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29751.m3u8
 #EXTINF:-1,EX-YU: DOMA TV
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1102.m3u8
-#EXTINF:-1,EX-YU: HBO ADRIA
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/894.m3u8
-#EXTINF:-1,EX-YU: HBO HD
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3496.m3u8
-#EXTINF:-1,EX-YU: HBO HD 2
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3495.m3u8
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29750.m3u8
 #EXTINF:-1,EX-YU: HBO 3
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3514.m3u8
-#EXTINF:-1,EX-YU: HBO 2 SLO
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47942.m3u8
-#EXTINF:-1,EX-YU: HBO COMEDY
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47943.m3u8
-#EXTINF:-1,EX YU: CINEMAX-1
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3486.m3u8
-#EXTINF:-1,EX YU: CINEMAX-2
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3483.m3u8
-#EXTINF:-1,EX-YU: CINEMAX HD
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47909.m3u8
-#EXTINF:-1,EX YU: CINESTAR TV
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3484.m3u8
-#EXTINF:-1,EX YU: CINESTAR PREMIERE 2
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3485.m3u8
-#EXTINF:-1,EX-YU: CINESTAR ACTION
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/48061.m3u8
-#EXTINF:-1,EX-YU: CINESTAR FANTASY HD
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47910.m3u8
-#EXTINF:-1,EX-YU: CINESTAR PREMIER 2
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47915.m3u8
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29905.m3u8
+#EXTINF:-1,EX-YU: HBO 2
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29904.m3u8
+#EXTINF:-1,EX-YU: HBO
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29903.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 1
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29909.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 2
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29910.m3u8
 #EXTINF:-1,EX-YU: CINESTAR PREMIERE 1
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47917.m3u8
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29913.m3u8
+#EXTINF:-1,EX-YU: CINESTAR TV ACTION
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29912.m3u8
+#EXTINF:-1,EX-YU: CINESTAR TV 1
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29911.m3u8
 #EXTINF:-1,EX-YU: FOX MOVIES
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/906.m3u8
-#EXTINF:-1,EX-YU: KLASIK TV
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47959.m3u8
-#EXTINF:-1,EX-YU: PINK FILM
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/4649.m3u8
-#EXTINF:-1, L1...VIP EX_YU: NOVA
-http://media-kings.xyz:8080/live/ali2020/2020ali/151242.m3u8
-#EXTINF:-1, L1...EX_YU: HBO 2
-http://media-kings.xyz:8080/live/ali2020/2020ali/151127.m3u8
-#EXTINF:-1, L1...EX_YU: HBO 3
-http://media-kings.xyz:8080/live/ali2020/2020ali/151128.m3u8
-#EXTINF:-1, L1...VIP EX_YU: HBO GO
-http://media-kings.xyz:8080/live/ali2020/2020ali/151234.m3u8
-#EXTINF:-1, L1...VIP EX_YU: KINO TV
-http://media-kings.xyz:8080/live/ali2020/2020ali/151248.m3u8
-#EXTINF:-1, L1...EX_YU: CINEMAX
-http://media-kings.xyz:8080/live/ali2020/2020ali/151133.m3u8
-#EXTINF:-1, L1...EX_YU: CINEMAX 2
-http://media-kings.xyz:8080/live/ali2020/2020ali/151134.m3u8
-#EXTINF:-1, L1...EX_YU: CINESTAR PREMIERE 2
-http://media-kings.xyz:8080/live/ali2020/2020ali/151132.m3u8
-#EXTINF:-1, L1...EX_YU: CINESTAR TV
-http://media-kings.xyz:8080/live/ali2020/2020ali/151135.m3u8
-#EXTINF:-1, L1...VIP EX_YU: CINESTAR ACTION
-http://media-kings.xyz:8080/live/ali2020/2020ali/151250.m3u8
-#EXTINF:-1, L1...VIP EX_YU: CINESTAR FANTASY
-http://media-kings.xyz:8080/live/ali2020/2020ali/151251.m3u8
-#EXTINF:-1, L1...VIP EX_YU: CINESTAR PREMIERE 1
-http://media-kings.xyz:8080/live/ali2020/2020ali/151249.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3467.m3u8
-#EXTINF:-1, L2...EX-YU SPORT KLUB 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273491.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3468.m3u8
-#EXTINF:-1, L2...EX-YU SPORT KLUB 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273486.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 3 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3469.m3u8
-#EXTINF:-1, L2...EX-YU SPORT KLUB 3 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273497.m3u8
-#EXTINF:-1, L2...HR: SPORT KLUB 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4201.m3u8
-#EXTINF:-1, L2...HR: SPORT KLUB 2 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4202.m3u8
-#EXTINF:-1, L2...HR: SPORT KLUB 3 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/10964.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3461.m3u8
-#EXTINF:-1, L2...EX-YU ARENA SPORT 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273358.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3462.m3u8
-#EXTINF:-1, L2...EX-YU ARENA SPORT 2 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/37207.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 3 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/264526.m3u8
-#EXTINF:-1, L2...EX-YU ARENA SPORT 3 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273416.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 4 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3465.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 5 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3464.m3u8
-#EXTINF:-1, L2...HR: ARENA SPORT 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3601.m3u8
-#EXTINF:-1, L2...HR ARENA SPORT 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273359.m3u8
-#EXTINF:-1, L2...HR: ARENA SPORT 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3603.m3u8
-#EXTINF:-1, L2...HR ARENA SPORT 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273365.m3u8
-#EXTINF:-1, L2...HR: ARENA SPORT 3 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3605.m3u8
-#EXTINF:-1, L2...HR ARENA SPORT 3 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273414.m3u8
-#EXTINF:-1, L2...HR: ARENA SPORT 4 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3607.m3u8
-#EXTINF:-1, L2...HR: ARENA SPORT 5 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3608.m3u8
-#EXTINF:-1, L2...DE: DAZN 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/48355.m3u8
-#EXTINF:-1, L2...DE DAZN 1 BAR FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/275024.m3u8
-#EXTINF:-1, L2...DE: DAZN 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2387.m3u8
-#EXTINF:-1, L2...UK: BT SPORT 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273.m3u8
-#EXTINF:-1, L2...UK BT SPORT 2 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/28344.m3u8
-#EXTINF:-1, L2...UK: BT SPORT 3 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/271.m3u8
-#EXTINF:-1, L2...UK BT SPORT 3 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/28348.m3u8
-#EXTINF:-1, L2...UK: BT SPORT 1 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/270.m3u8
-#EXTINF:-1, L2...UK BT SPORT 1 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/28340.m3u8
-#EXTINF:-1, L2...DE: SKY SPORT 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/266589.m3u8
-#EXTINF:-1, L2...DE SKY SPORT 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273273.m3u8
-#EXTINF:-1, L2...DE: SKY SPORT BUNDESLIGA 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2431.m3u8
-#EXTINF:-1, L2...DE: SKY SPORT LIGA 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/277150.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 3 EREDIVISIE FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2466.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 4 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4522.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 5 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4523.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 6 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4524.m3u8
-#EXTINF:-1, L2...FR: RMC SPORT 1 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2984.m3u8
-#EXTINF:-1, L2...FR RMC SPORT 1 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/37157.m3u8
-#EXTINF:-1, L2...FR: RMC SPORT 2 ACCESS HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/15413.m3u8
-#EXTINF:-1, L2...FR: RMC SPORT 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/1938.m3u8
-#EXTINF:-1, L2...FR RMC SPORT 2 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/37158.m3u8
-#EXTINF:-1, L2...FR: RMC SPORT 3 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2983.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 1 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/100.m3u8
-#EXTINF:-1, L2...AR BEIN SPORTS 1 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/386.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 2 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/101.m3u8
-#EXTINF:-1, L2...AR BEIN SPORTS 2 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/395.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 3 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/102.m3u8
-#EXTINF:-1, L2...AR BEIN SPORTS 3 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273319.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 4 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/103.m3u8
-#EXTINF:-1, L2...AR BEIN SPORTS 4 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/399.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 5 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/104.m3u8
-#EXTINF:-1, L2...AR BEIN SPORTS 5 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273271.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 6 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/105.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 7 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/106.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 8 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/107.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 9 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/108.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 10 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/109.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 11 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/110.m3u8
-#EXTINF:-1, L2...AR BEIN SPORTS 11 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/390.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 12 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/111.m3u8
-#EXTINF:-1, L2...AR BEIN SPORTS 12 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/391.m3u8
-#EXTINF:-1, L2...FR BEIN SPORTS 1 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273327.m3u8
-#EXTINF:-1, L2...FR: BEIN SPORTS 2 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/145.m3u8
-#EXTINF:-1, L2...FR BEIN SPORTS 2 HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273332.m3u8
-#EXTINF:-1, L2...FR: BEIN SPORTS 3 FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/146.m3u8
-#EXTINF:-1, L2...US: SUPER TENNIS HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/174783.m3u8
-#EXTINF:-1, L2...US: TENNIS CHANNEL HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2360.m3u8
-#EXTINF:-1, L2...IT: SKY SUPER TENNIS HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/146692.m3u8
-#EXTINF:-1, L2...IT: SUPER TENNIS FHD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/1052.m3u8
-#EXTINF:-1, L2...ZA: SUPERSPORT TENNIS HD
-http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/15200.m3u8
-
-
-#EXTINF:-1,BBC ONE HD
-http://media-kings.xyz:8080/live/ali2020/2020ali/31136.m3u8
-#EXTINF:-1,BBC 2 HD
-http://media-kings.xyz:8080/live/ali2020/2020ali/31033.m3u8
-#EXTINF:-1,BBC THREE HD
-http://media-kings.xyz:8080/live/ali2020/2020ali/31114.m3u8
-#EXTINF:-1,ITV 1 HD
-http://media-kings.xyz:8080/live/ali2020/2020ali/90.m3u8
-#EXTINF:-1,ITV 2 HD
-http://media-kings.xyz:8080/live/ali2020/2020ali/91.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://media-kings.xyz:8080/live/ali2020/2020ali/84.m3u8
-#EXTINF:-1,SKY ARTS HD
-http://media-kings.xyz:8080/live/ali2020/2020ali/78.m3u8
-#EXTINF:-1,SKY ARTS HD BACKUP
-http://media-kings.xyz:8080/live/ali2020/2020ali/54436.m3u8
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29919.m3u8
+#EXTINF:-1,EX-YU: RTS 1
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29761.m3u8
+#EXTINF:-1,EX-YU: RTS 1 HD
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29762.m3u8
+#EXTINF:-1,EX-YU: RTS 2
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29764.m3u8
+#EXTINF:-1,EX-YU: RTS 2 HD
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29763.m3u8
+#EXTINF:-1,EX-YU: TV 1000
+http://iptv.re-stream.tv:7711/live/Carlos/12345/29900.m3u8
