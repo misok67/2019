@@ -11,57 +11,148 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,VIP EX_YU: NOVA
-http://152.89.62.111:8080/live/m123/m123/151242.m3u8
+#EXTINF:-1,|HR| NOVA TV
+http://pulsestreamstv.uk:8080/live/66666/66666/212014.m3u8
+#EXTINF:-1,|HR| NOVA TV HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212015.m3u8
+#EXTINF:-1,|HR| DOMA TV HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212017.m3u8
 #EXTINF:-1,EX_YU: HBO 2
-http://152.89.62.111:8080/live/m123/m123/151127.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/151127.m3u8
 #EXTINF:-1,EX_YU: HBO 3
-http://152.89.62.111:8080/live/m123/m123/151128.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/151128.m3u8
+#EXTINF:-1,VIP EX_YU: HBO GO
+http://pulsestreamstv.uk:8080/live/66666/66666/151234.m3u8
+#EXTINF:-1,|EX-YU| HBO HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212235.m3u8
+#EXTINF:-1,|EX-YU| HBO 2 HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212236.m3u8
+#EXTINF:-1,|EX-YU| HBO 3 HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212237.m3u8
+#EXTINF:-1,VIP EX_YU: KINO TV
+http://pulsestreamstv.uk:8080/live/66666/66666/151248.m3u8
+#EXTINF:-1,|EX-YU| KINO TV HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212250.m3u8
+#EXTINF:-1,EX_YU: CINEMAX
+http://pulsestreamstv.uk:8080/live/66666/66666/151133.m3u8
 #EXTINF:-1,EX_YU: CINEMAX 2
-http://152.89.62.111:8080/live/m123/m123/151134.m3u8
-#EXTINF:-1,EX_YU: CINESTAR PREMIERE 2
-http://152.89.62.111:8080/live/m123/m123/151132.m3u8
-#EXTINF:-1,EX_YU: CINESTAR TV
-http://152.89.62.111:8080/live/m123/m123/151135.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/151134.m3u8
+#EXTINF:-1,|EX-YU| CINEMAX TV
+http://pulsestreamstv.uk:8080/live/66666/66666/212216.m3u8
+#EXTINF:-1,|EX-YU| CINEMAX HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212218.m3u8
+#EXTINF:-1,|EX-YU| CINEMAX 2 HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212219.m3u8
 #EXTINF:-1,VIP EX_YU: CINESTAR ACTION
-http://152.89.62.111:8080/live/m123/m123/151250.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/151250.m3u8
 #EXTINF:-1,VIP EX_YU: CINESTAR FANTASY
-http://152.89.62.111:8080/live/m123/m123/151251.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/151251.m3u8
 #EXTINF:-1,VIP EX_YU: CINESTAR PREMIERE 1
-http://152.89.62.111:8080/live/m123/m123/151249.m3u8
-#EXTINF:-1,BBC ONE HD
-http://152.89.62.111:8080/live/m123/m123/31136.m3u8
-#EXTINF:-1,BBC 2 HD
-http://152.89.62.111:8080/live/m123/m123/31033.m3u8
-#EXTINF:-1,BBC THREE HD
-http://152.89.62.111:8080/live/m123/m123/31114.m3u8
-#EXTINF:-1,ITV 1 HD
-http://152.89.62.111:8080/live/m123/m123/90.m3u8
-#EXTINF:-1,ITV 2 HD
-http://152.89.62.111:8080/live/m123/m123/91.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://152.89.62.111:8080/live/m123/m123/84.m3u8
-#EXTINF:-1,SKY ARTS HD
-http://152.89.62.111:8080/live/m123/m123/78.m3u8
-#EXTINF:-1,SKY CINEMA PREMIERE HD
-http://152.89.62.111:8080/live/m123/m123/33899.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/151249.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR TV |SR|
+http://pulsestreamstv.uk:8080/live/66666/66666/212220.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR ACTION
+http://pulsestreamstv.uk:8080/live/66666/66666/212221.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR FANTASY
+http://pulsestreamstv.uk:8080/live/66666/66666/212222.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 1 HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212223.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 2 HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212224.m3u8
+#EXTINF:-1,|EX-YU| FOX MOVIES HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212232.m3u8
+#EXTINF:-1,VIP EX_YU: KLASIK TV
+http://pulsestreamstv.uk:8080/live/66666/66666/151258.m3u8
+#EXTINF:-1,|PINK| PINK FILM
+http://pulsestreamstv.uk:8080/live/66666/66666/212137.m3u8
+#EXTINF:-1,|RS| RTS 1 HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212089.m3u8
+#EXTINF:-1,|RS| RTS 2 HD
+http://pulsestreamstv.uk:8080/live/66666/66666/212091.m3u8
+
+#EXTINF:-1, L1...EX-YU: NOVA HR
+http://tvmedia2.com:8080/live/doreen/doreen/165441.m3u8
+#EXTINF:-1, L1...EX-YU: DOMA TV
+http://tvmedia2.com:8080/live/doreen/doreen/165439.m3u8
+#EXTINF:-1, L1...EX-YU: HBO ADRIA
+http://tvmedia2.com:8080/live/doreen/doreen/165408.m3u8
+#EXTINF:-1, L1...EX-YU: HBO HD
+http://tvmedia2.com:8080/live/doreen/doreen/165427.m3u8
+#EXTINF:-1, L1...EX-YU: HBO HD 2
+http://tvmedia2.com:8080/live/doreen/doreen/165428.m3u8
+#EXTINF:-1, L1...EX-YU: HBO 3
+http://tvmedia2.com:8080/live/doreen/doreen/165429.m3u8
+#EXTINF:-1, L1...EX-YU: HBO 2 SLO
+http://tvmedia2.com:8080/live/doreen/doreen/165475.m3u8
+#EXTINF:-1, L1...EX-YU: HBO COMEDY
+http://tvmedia2.com:8080/live/doreen/doreen/165476.m3u8
+#EXTINF:-1, L1...EX YU: CINEMAX-1
+http://tvmedia2.com:8080/live/doreen/doreen/165415.m3u8
+#EXTINF:-1, L1...EX YU: CINEMAX-2
+http://tvmedia2.com:8080/live/doreen/doreen/165416.m3u8
+#EXTINF:-1, L1...EX-YU: CINEMAX HD
+http://tvmedia2.com:8080/live/doreen/doreen/165456.m3u8
+#EXTINF:-1, L1...EX YU: CINESTAR TV
+http://tvmedia2.com:8080/live/doreen/doreen/165413.m3u8
+#EXTINF:-1, L1...EX YU: CINESTAR PREMIERE 2
+http://tvmedia2.com:8080/live/doreen/doreen/165414.m3u8
+#EXTINF:-1, L1...EX-YU: CINESTAR ACTION
+http://tvmedia2.com:8080/live/doreen/doreen/165457.m3u8
+#EXTINF:-1, L1...EX-YU: CINESTAR FANTASY HD
+http://tvmedia2.com:8080/live/doreen/doreen/165458.m3u8
+#EXTINF:-1, L1...EX-YU: CINESTAR PREMIER 2
+http://tvmedia2.com:8080/live/doreen/doreen/165459.m3u8
+#EXTINF:-1, L1...EX-YU: CINESTAR PREMIERE 1
+http://tvmedia2.com:8080/live/doreen/doreen/165460.m3u8
+#EXTINF:-1, L1...EX-YU: FOX MOVIES
+http://tvmedia2.com:8080/live/doreen/doreen/165410.m3u8
+#EXTINF:-1, L1...EX-YU: KLASIK TV
+http://tvmedia2.com:8080/live/doreen/doreen/165487.m3u8
+#EXTINF:-1, L1...EX-YU: PINK FILM
+http://tvmedia2.com:8080/live/doreen/doreen/165399.m3u8
+#EXTINF:-1, L1...EX-YU: RTS 1
+http://tvmedia2.com:8080/live/doreen/doreen/165443.m3u8
+#EXTINF:-1, L1...EX-YU: RTS 2
+http://tvmedia2.com:8080/live/doreen/doreen/165444.m3u8
+
+#EXTINF:-1,BBC ONE UHD
+http://pulsestreamstv.uk:8080/live/66666/66666/31136.m3u8
+#EXTINF:-1,BBC TWO UHD
+http://pulsestreamstv.uk:8080/live/66666/66666/31033.m3u8
+#EXTINF:-1,BBC THREE UHD
+http://pulsestreamstv.uk:8080/live/66666/66666/31114.m3u8
+#EXTINF:-1,ITV 1 UHD
+http://pulsestreamstv.uk:8080/live/66666/66666/90.m3u8
+#EXTINF:-1,ITV 2 UHD
+http://pulsestreamstv.uk:8080/live/66666/66666/91.m3u8
+#EXTINF:-1,SKY ATLANTIC UHD
+http://pulsestreamstv.uk:8080/live/66666/66666/84.m3u8
+#EXTINF:-1,SKY ARTS UHD
+http://pulsestreamstv.uk:8080/live/66666/66666/78.m3u8
+#EXTINF:-1,SKY ARTS HD (BACKUP)
+http://pulsestreamstv.uk:8080/live/66666/66666/54436.m3u8
 #EXTINF:-1,SKY CINEMA ANIMATION HD
-http://152.89.62.111:8080/live/m123/m123/59547.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/59547.m3u8
+#EXTINF:-1,SKY CINEMA PREMIERE HD
+http://pulsestreamstv.uk:8080/live/66666/66666/33899.m3u8
 #EXTINF:-1,SKY CINEMA ACTION HD
-http://152.89.62.111:8080/live/m123/m123/31.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/31.m3u8
 #EXTINF:-1,SKY CINEMA COMEDY HD
-http://152.89.62.111:8080/live/m123/m123/28.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/28.m3u8
 #EXTINF:-1,SKY CINEMA DRAMA HD
-http://152.89.62.111:8080/live/m123/m123/39.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://152.89.62.111:8080/live/m123/m123/33.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/39.m3u8
 #EXTINF:-1,SKY CINEMA GREATS HD
-http://152.89.62.111:8080/live/m123/m123/33897.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/33897.m3u8
 #EXTINF:-1,SKY CINEMA HITS HD
-http://152.89.62.111:8080/live/m123/m123/36901.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/36901.m3u8
 #EXTINF:-1,SKY CINEMA SELECT HD
-http://152.89.62.111:8080/live/m123/m123/33900.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/33900.m3u8
 #EXTINF:-1,SKY CINEMA SCI-FI & HORROR HD
-http://152.89.62.111:8080/live/m123/m123/33898.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/33898.m3u8
 #EXTINF:-1,SKY CINEMA THRILLER HD
-http://152.89.62.111:8080/live/m123/m123/33901.m3u8
+http://pulsestreamstv.uk:8080/live/66666/66666/33901.m3u8
+#EXTINF:-1,SKY CINEMA THRILLER FHD
+http://pulsestreamstv.uk:8080/live/66666/66666/214440.m3u8
+#EXTINF:-1,SKY CINEMA THRILLER HD BACKUP
+http://pulsestreamstv.uk:8080/live/66666/66666/54452.m3u8
+
