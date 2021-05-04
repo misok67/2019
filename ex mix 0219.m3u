@@ -11,6 +11,108 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
+#EXTINF:-1,[EXYU]NOVA TV HD
+http://ky-tv.cc:25461/live/cde123/cde123/222641.m3u8
+#EXTINF:-1,HR: NOVA HR HD
+http://ky-tv.cc:25461/live/cde123/cde123/187736.m3u8
+#EXTINF:-1,[EXYU]HBO HD
+http://ky-tv.cc:25461/live/cde123/cde123/222780.m3u8
+#EXTINF:-1,[EXYU]HBO 2 HD
+http://ky-tv.cc:25461/live/cde123/cde123/222781.m3u8
+#EXTINF:-1,[EXYU]HBO 3 HD
+http://ky-tv.cc:25461/live/cde123/cde123/222782.m3u8
+#EXTINF:-1,EX-YU: HBO 2 HD
+http://ky-tv.cc:25461/live/cde123/cde123/225409.m3u8
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://ky-tv.cc:25461/live/cde123/cde123/225411.m3u8
+#EXTINF:-1,EX-YU: HBO COMEDY
+http://ky-tv.cc:25461/live/cde123/cde123/225412.m3u8
+#EXTINF:-1,HR: HBO 2 FHD
+http://ky-tv.cc:25461/live/cde123/cde123/187679.m3u8
+#EXTINF:-1,HR: HBO 3 FHD
+http://ky-tv.cc:25461/live/cde123/cde123/187680.m3u8
+#EXTINF:-1,HR: HBO ADRIA HD
+http://ky-tv.cc:25461/live/cde123/cde123/187681.m3u8
+#EXTINF:-1,[EXYU]KINO TV HD
+http://ky-tv.cc:25461/live/cde123/cde123/222803.m3u8
+#EXTINF:-1,EX-YU: KINO TV HD
+http://ky-tv.cc:25461/live/cde123/cde123/225439.m3u8
+#EXTINF:-1,[EXYU]CINEMAX HD
+http://ky-tv.cc:25461/live/cde123/cde123/222783.m3u8
+#EXTINF:-1,[EXYU]CINEMAX 2 HD
+http://ky-tv.cc:25461/live/cde123/cde123/222784.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 1 HD
+http://ky-tv.cc:25461/live/cde123/cde123/225340.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 2 HD
+http://ky-tv.cc:25461/live/cde123/cde123/225341.m3u8
+#EXTINF:-1,EX-YU: CINEMAX HD
+http://ky-tv.cc:25461/live/cde123/cde123/225342.m3u8
+#EXTINF:-1,HR: CINEMAX
+http://ky-tv.cc:25461/live/cde123/cde123/187644.m3u8
+#EXTINF:-1,HR: CINEMAX 1
+http://ky-tv.cc:25461/live/cde123/cde123/187645.m3u8
+#EXTINF:-1,HR: CINEMAX 2
+http://ky-tv.cc:25461/live/cde123/cde123/187646.m3u8
+#EXTINF:-1,[EXYU]CINESTAR TV
+http://ky-tv.cc:25461/live/cde123/cde123/222785.m3u8
+#EXTINF:-1,[EXYU]CINESTAR TV FANTASY
+http://ky-tv.cc:25461/live/cde123/cde123/222786.m3u8
+#EXTINF:-1,[EXYU]CINESTAR TV ACTION
+http://ky-tv.cc:25461/live/cde123/cde123/222788.m3u8
+#EXTINF:-1,[EXYU]CINESTAR TV PREMIERE 1 HD
+http://ky-tv.cc:25461/live/cde123/cde123/222789.m3u8
+#EXTINF:-1,[EXYU]CINESTAR TV PREMIERE 2 HD
+http://ky-tv.cc:25461/live/cde123/cde123/222790.m3u8
+#EXTINF:-1,EX-YU: CINESTAR ACTION TV
+http://ky-tv.cc:25461/live/cde123/cde123/225344.m3u8
+#EXTINF:-1,EX-YU: CINESTAR FANTASY
+http://ky-tv.cc:25461/live/cde123/cde123/225346.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1 HD
+http://ky-tv.cc:25461/live/cde123/cde123/225347.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2 HD
+http://ky-tv.cc:25461/live/cde123/cde123/225348.m3u8
+#EXTINF:-1,EX-YU: CINESTAR TV
+http://ky-tv.cc:25461/live/cde123/cde123/225349.m3u8
+#EXTINF:-1,HR: CINESTAR ACTION TV
+http://ky-tv.cc:25461/live/cde123/cde123/187647.m3u8
+#EXTINF:-1,HR: CINESTAR FANTASY TV
+http://ky-tv.cc:25461/live/cde123/cde123/187648.m3u8
+#EXTINF:-1,HR: CINESTAR PREMIERE 1
+http://ky-tv.cc:25461/live/cde123/cde123/187650.m3u8
+#EXTINF:-1,HR: CINESTAR PREMIERE 2
+http://ky-tv.cc:25461/live/cde123/cde123/187651.m3u8
+#EXTINF:-1,HR: CINESTAR TV
+http://ky-tv.cc:25461/live/cde123/cde123/187652.m3u8
+#EXTINF:-1,EX-YU: FOX MOVIES HD
+http://ky-tv.cc:25461/live/cde123/cde123/225394.m3u8
+#EXTINF:-1,EX-YU: KLASIK TV
+http://ky-tv.cc:25461/live/cde123/cde123/225440.m3u8
+#EXTINF:-1,HR: KLASIK TV
+http://ky-tv.cc:25461/live/cde123/cde123/187700.m3u8
+#EXTINF:-1,[EXYU]PINK FILM
+http://ky-tv.cc:25461/live/cde123/cde123/222685.m3u8
+#EXTINF:-1,UK BBC 1
+http://ky-tv.cc:25461/live/cde123/cde123/189890.m3u8
+#EXTINF:-1,UK BBC 2
+http://ky-tv.cc:25461/live/cde123/cde123/189891.m3u8
+#EXTINF:-1,UK BBC 4
+http://ky-tv.cc:25461/live/cde123/cde123/189892.m3u8
+#EXTINF:-1,UK BBC NEWS HD
+http://ky-tv.cc:25461/live/cde123/cde123/189894.m3u8
+#EXTINF:-1,UK C ITV
+http://ky-tv.cc:25461/live/cde123/cde123/189911.m3u8
+#EXTINF:-1,UK ITV 2 HD
+http://ky-tv.cc:25461/live/cde123/cde123/391480.m3u8
+#EXTINF:-1,UK SKY ARTS
+http://ky-tv.cc:25461/live/cde123/cde123/190000.m3u8
+#EXTINF:-1,IT: SKY ARTE
+http://ky-tv.cc:25461/live/cde123/cde123/387133.m3u8
+#EXTINF:-1,IT: SKY ATLANTIC
+http://ky-tv.cc:25461/live/cde123/cde123/387208.m3u8
+#EXTINF:-1,IT: SKY CINEMA UNO
+http://ky-tv.cc:25461/live/cde123/cde123/387209.m3u8
+
+
 #EXTINF:-1,BBC ONE UK
 http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/3580.m3u8
 #EXTINF:-1,BBC TWO FHD UK
