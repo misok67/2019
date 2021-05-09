@@ -11,146 +11,107 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,[EXYU]NOVA TV HD
-http://ky-tv.cc:25461/live/cde123/cde123/222641.m3u8
-#EXTINF:-1,HR: NOVA HR HD
-http://ky-tv.cc:25461/live/cde123/cde123/187736.m3u8
-#EXTINF:-1,[EXYU]HBO HD
-http://ky-tv.cc:25461/live/cde123/cde123/222780.m3u8
-#EXTINF:-1,[EXYU]HBO 2 HD
-http://ky-tv.cc:25461/live/cde123/cde123/222781.m3u8
-#EXTINF:-1,[EXYU]HBO 3 HD
-http://ky-tv.cc:25461/live/cde123/cde123/222782.m3u8
-#EXTINF:-1,EX-YU: HBO 2 HD
-http://ky-tv.cc:25461/live/cde123/cde123/225409.m3u8
-#EXTINF:-1,EX-YU: HBO ADRIA
-http://ky-tv.cc:25461/live/cde123/cde123/225411.m3u8
-#EXTINF:-1,EX-YU: HBO COMEDY
-http://ky-tv.cc:25461/live/cde123/cde123/225412.m3u8
-#EXTINF:-1,HR: HBO 2 FHD
-http://ky-tv.cc:25461/live/cde123/cde123/187679.m3u8
-#EXTINF:-1,HR: HBO 3 FHD
-http://ky-tv.cc:25461/live/cde123/cde123/187680.m3u8
-#EXTINF:-1,HR: HBO ADRIA HD
-http://ky-tv.cc:25461/live/cde123/cde123/187681.m3u8
-#EXTINF:-1,[EXYU]KINO TV HD
-http://ky-tv.cc:25461/live/cde123/cde123/222803.m3u8
-#EXTINF:-1,EX-YU: KINO TV HD
-http://ky-tv.cc:25461/live/cde123/cde123/225439.m3u8
-#EXTINF:-1,[EXYU]CINEMAX HD
-http://ky-tv.cc:25461/live/cde123/cde123/222783.m3u8
-#EXTINF:-1,[EXYU]CINEMAX 2 HD
-http://ky-tv.cc:25461/live/cde123/cde123/222784.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 1 HD
-http://ky-tv.cc:25461/live/cde123/cde123/225340.m3u8
-#EXTINF:-1,EX-YU: CINEMAX 2 HD
-http://ky-tv.cc:25461/live/cde123/cde123/225341.m3u8
-#EXTINF:-1,EX-YU: CINEMAX HD
-http://ky-tv.cc:25461/live/cde123/cde123/225342.m3u8
-#EXTINF:-1,HR: CINEMAX
-http://ky-tv.cc:25461/live/cde123/cde123/187644.m3u8
+#EXTINF:-1,HR: NOVA TV
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4500.m3u8
+#EXTINF:-1,HR: DOMA TV HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4496.m3u8
+#EXTINF:-1,SRB: HBO HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4290.m3u8
+#EXTINF:-1,SRB: HBO 2 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4291.m3u8
+#EXTINF:-1,SRB: HBO 3 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4292.m3u8
+#EXTINF:-1,HR: HBO ADRIA
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4540.m3u8
+#EXTINF:-1,HR: HBO 2 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4582.m3u8
+#EXTINF:-1,HR: HBO 3 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4583.m3u8
+#EXTINF:-1,SRB: CINEMAX 1 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4283.m3u8
+#EXTINF:-1,SRB: CINEMAX 2 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4284.m3u8
 #EXTINF:-1,HR: CINEMAX 1
-http://ky-tv.cc:25461/live/cde123/cde123/187645.m3u8
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4534.m3u8
 #EXTINF:-1,HR: CINEMAX 2
-http://ky-tv.cc:25461/live/cde123/cde123/187646.m3u8
-#EXTINF:-1,[EXYU]CINESTAR TV
-http://ky-tv.cc:25461/live/cde123/cde123/222785.m3u8
-#EXTINF:-1,[EXYU]CINESTAR TV FANTASY
-http://ky-tv.cc:25461/live/cde123/cde123/222786.m3u8
-#EXTINF:-1,[EXYU]CINESTAR TV ACTION
-http://ky-tv.cc:25461/live/cde123/cde123/222788.m3u8
-#EXTINF:-1,[EXYU]CINESTAR TV PREMIERE 1 HD
-http://ky-tv.cc:25461/live/cde123/cde123/222789.m3u8
-#EXTINF:-1,[EXYU]CINESTAR TV PREMIERE 2 HD
-http://ky-tv.cc:25461/live/cde123/cde123/222790.m3u8
-#EXTINF:-1,EX-YU: CINESTAR ACTION TV
-http://ky-tv.cc:25461/live/cde123/cde123/225344.m3u8
-#EXTINF:-1,EX-YU: CINESTAR FANTASY
-http://ky-tv.cc:25461/live/cde123/cde123/225346.m3u8
-#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1 HD
-http://ky-tv.cc:25461/live/cde123/cde123/225347.m3u8
-#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2 HD
-http://ky-tv.cc:25461/live/cde123/cde123/225348.m3u8
-#EXTINF:-1,EX-YU: CINESTAR TV
-http://ky-tv.cc:25461/live/cde123/cde123/225349.m3u8
-#EXTINF:-1,HR: CINESTAR ACTION TV
-http://ky-tv.cc:25461/live/cde123/cde123/187647.m3u8
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4550.m3u8
+#EXTINF:-1,SRB: CINESTAR
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4285.m3u8
+#EXTINF:-1,SRB: CINESTAR ACTION
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4286.m3u8
+#EXTINF:-1,SRB: CINESTAR FANTASY
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4287.m3u8
+#EXTINF:-1,SRB: CINESTAR PREMIERE 1
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4288.m3u8
+#EXTINF:-1,SRB: CINESTAR PREMIERE 2
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4289.m3u8
+#EXTINF:-1,HR: CINESTAR COMEDY
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4520.m3u8
+#EXTINF:-1,HR: CINESTAR ACTION
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4535.m3u8
+#EXTINF:-1,HR: CINESTAR PREMIER 1
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4536.m3u8
+#EXTINF:-1,HR: CINESTAR PREMIER 2
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4537.m3u8
+#EXTINF:-1,HR: CINESTAR TV 1
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4538.m3u8
 #EXTINF:-1,HR: CINESTAR FANTASY TV
-http://ky-tv.cc:25461/live/cde123/cde123/187648.m3u8
-#EXTINF:-1,HR: CINESTAR PREMIERE 1
-http://ky-tv.cc:25461/live/cde123/cde123/187650.m3u8
-#EXTINF:-1,HR: CINESTAR PREMIERE 2
-http://ky-tv.cc:25461/live/cde123/cde123/187651.m3u8
-#EXTINF:-1,HR: CINESTAR TV
-http://ky-tv.cc:25461/live/cde123/cde123/187652.m3u8
-#EXTINF:-1,EX-YU: FOX MOVIES HD
-http://ky-tv.cc:25461/live/cde123/cde123/225394.m3u8
-#EXTINF:-1,EX-YU: KLASIK TV
-http://ky-tv.cc:25461/live/cde123/cde123/225440.m3u8
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4551.m3u8
+#EXTINF:-1,SRB: KLASIK TV
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4299.m3u8
 #EXTINF:-1,HR: KLASIK TV
-http://ky-tv.cc:25461/live/cde123/cde123/187700.m3u8
-#EXTINF:-1,[EXYU]PINK FILM
-http://ky-tv.cc:25461/live/cde123/cde123/222685.m3u8
-#EXTINF:-1,UK BBC 1
-http://ky-tv.cc:25461/live/cde123/cde123/189890.m3u8
-#EXTINF:-1,UK BBC 2
-http://ky-tv.cc:25461/live/cde123/cde123/189891.m3u8
-#EXTINF:-1,UK BBC 4
-http://ky-tv.cc:25461/live/cde123/cde123/189892.m3u8
-#EXTINF:-1,UK BBC NEWS HD
-http://ky-tv.cc:25461/live/cde123/cde123/189894.m3u8
-#EXTINF:-1,UK C ITV
-http://ky-tv.cc:25461/live/cde123/cde123/189911.m3u8
-#EXTINF:-1,UK ITV 2 HD
-http://ky-tv.cc:25461/live/cde123/cde123/391480.m3u8
-#EXTINF:-1,UK SKY ARTS
-http://ky-tv.cc:25461/live/cde123/cde123/190000.m3u8
-#EXTINF:-1,IT: SKY ARTE
-http://ky-tv.cc:25461/live/cde123/cde123/387133.m3u8
-#EXTINF:-1,IT: SKY ATLANTIC
-http://ky-tv.cc:25461/live/cde123/cde123/387208.m3u8
-#EXTINF:-1,IT: SKY CINEMA UNO
-http://ky-tv.cc:25461/live/cde123/cde123/387209.m3u8
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4559.m3u8
+#EXTINF:-1,SRB: PINK FILM
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4311.m3u8
+#EXTINF:-1,SRB: RTS 1 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4251.m3u8
+#EXTINF:-1,SRB: RTS 2 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4252.m3u8
+
+#EXTINF:-1,**|CR| NOVA
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6111.m3u8
+#EXTINF:-1,|CR| HBO ADRIA
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/4907.m3u8
+#EXTINF:-1,|MK| HBO 2 HD MK
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/81571.m3u8
+#EXTINF:-1,|MK| HBO 3 HD MK
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/81572.m3u8
+#EXTINF:-1,|MK| HBO HD MK
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/81573.m3u8
+#EXTINF:-1,|CR| CINESTAR PREMIERE
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6106.m3u8
+#EXTINF:-1,|CR| CINESTAR PREMIERE 2
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6107.m3u8
+#EXTINF:-1,|SRB| CINESTAR ACTION
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/55157.m3u8
+#EXTINF:-1,|SRB| CINESTAR FANTASY
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/55158.m3u8
+#EXTINF:-1,|SRB| CINESTAR PREMIERE 1
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/55159.m3u8
+#EXTINF:-1,|SRB| CINESTAR PREMIERE 2
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/55160.m3u8
+#EXTINF:-1,|CR| FOX MOVIES
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6116.m3u8
+#EXTINF:-1,|EXYU| PINK FILM
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/5625.m3u8
+#EXTINF:-1,|SRB| RTS 1
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/55139.m3u8
+#EXTINF:-1,|SRB| RTS 2
+http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/79970.m3u8
 
 
-#EXTINF:-1,BBC ONE UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/3580.m3u8
-#EXTINF:-1,BBC TWO FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/12347.m3u8
-#EXTINF:-1,BBC FOUR HD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1993.m3u8
-#EXTINF:-1,ITV 1 UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/3576.m3u8
-#EXTINF:-1,ITV 2 UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/3577.m3u8
-#EXTINF:-1,SKY ARTS HD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/16728.m3u8
-#EXTINF:-1,SKY ARTS UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1963.m3u8
-#EXTINF:-1,SKY ATLANTIC HD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/3562.m3u8
-#EXTINF:-1,SKY CINEMA ACTION & ADVENTURE HD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1961.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20109.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/3563.m3u8
-#EXTINF:-1,SKY CINEMA CRIME & THRILLER FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20118.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA & ROMANCE UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1960.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20112.m3u8
-#EXTINF:-1,SKY CINEMA GREATS FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20113.m3u8
-#EXTINF:-1,SKY CINEMA HITS FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20114.m3u8
-#EXTINF:-1,SKY CINEMA PREMIERE FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20115.m3u8
-#EXTINF:-1,SKY CINEMA SCI-FI & HORROR FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20116.m3u8
-#EXTINF:-1,SKY CINEMA SELECT HD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14765.m3u8
-#EXTINF:-1,SKY CINEMA SELECT FHD UK
-http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/20117.m3u8
 
+#EXTINF:-1,UK: SKY ATLANTIC HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4813.m3u8
+#EXTINF:-1,UK: ITV 2 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4819.m3u8
+#EXTINF:-1,UK: ITV 1
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4820.m3u8
+#EXTINF:-1,UK: BBC 4 HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4833.m3u8
+#EXTINF:-1,UK: BBC ONE FHD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4854.m3u8
+#EXTINF:-1,UK: BBC TWO HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4855.m3u8
+#EXTINF:-1,UK: BBC WORLD NEWS HD
+http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4856.m3u8
