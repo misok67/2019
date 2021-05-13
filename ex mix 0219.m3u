@@ -11,62 +11,6 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,HR: NOVA TV
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4500.m3u8
-#EXTINF:-1,HR: DOMA TV HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4496.m3u8
-#EXTINF:-1,SRB: HBO HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4290.m3u8
-#EXTINF:-1,SRB: HBO 2 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4291.m3u8
-#EXTINF:-1,SRB: HBO 3 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4292.m3u8
-#EXTINF:-1,HR: HBO ADRIA
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4540.m3u8
-#EXTINF:-1,HR: HBO 2 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4582.m3u8
-#EXTINF:-1,HR: HBO 3 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4583.m3u8
-#EXTINF:-1,SRB: CINEMAX 1 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4283.m3u8
-#EXTINF:-1,SRB: CINEMAX 2 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4284.m3u8
-#EXTINF:-1,HR: CINEMAX 1
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4534.m3u8
-#EXTINF:-1,HR: CINEMAX 2
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4550.m3u8
-#EXTINF:-1,SRB: CINESTAR
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4285.m3u8
-#EXTINF:-1,SRB: CINESTAR ACTION
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4286.m3u8
-#EXTINF:-1,SRB: CINESTAR FANTASY
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4287.m3u8
-#EXTINF:-1,SRB: CINESTAR PREMIERE 1
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4288.m3u8
-#EXTINF:-1,SRB: CINESTAR PREMIERE 2
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4289.m3u8
-#EXTINF:-1,HR: CINESTAR COMEDY
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4520.m3u8
-#EXTINF:-1,HR: CINESTAR ACTION
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4535.m3u8
-#EXTINF:-1,HR: CINESTAR PREMIER 1
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4536.m3u8
-#EXTINF:-1,HR: CINESTAR PREMIER 2
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4537.m3u8
-#EXTINF:-1,HR: CINESTAR TV 1
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4538.m3u8
-#EXTINF:-1,HR: CINESTAR FANTASY TV
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4551.m3u8
-#EXTINF:-1,SRB: KLASIK TV
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4299.m3u8
-#EXTINF:-1,HR: KLASIK TV
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4559.m3u8
-#EXTINF:-1,SRB: PINK FILM
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4311.m3u8
-#EXTINF:-1,SRB: RTS 1 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4251.m3u8
-#EXTINF:-1,SRB: RTS 2 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4252.m3u8
 
 #EXTINF:-1,**|CR| NOVA
 http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6111.m3u8
@@ -99,19 +43,3 @@ http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/55139.m3u8
 #EXTINF:-1,|SRB| RTS 2
 http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/79970.m3u8
 
-
-
-#EXTINF:-1,UK: SKY ATLANTIC HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4813.m3u8
-#EXTINF:-1,UK: ITV 2 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4819.m3u8
-#EXTINF:-1,UK: ITV 1
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4820.m3u8
-#EXTINF:-1,UK: BBC 4 HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4833.m3u8
-#EXTINF:-1,UK: BBC ONE FHD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4854.m3u8
-#EXTINF:-1,UK: BBC TWO HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4855.m3u8
-#EXTINF:-1,UK: BBC WORLD NEWS HD
-http://ankastream.com:8080/live/kortez-skype/B2if3NRDHdcP/4856.m3u8
