@@ -11,43 +11,135 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,HR025:NOVA TV
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/46233.m3u8
-#EXTINF:-1,YU038:DOMA TV
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49288.m3u8
-#EXTINF:-1,HR028:RTL 2
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/46230.m3u8
-#EXTINF:-1,YU062:HBO 1 HD
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49264.m3u8
-#EXTINF:-1,YU063:HBO 2 HD
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49263.m3u8
-#EXTINF:-1,YU064:HBO 3 HD
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49262.m3u8
-#EXTINF:-1,YU065:HBO ADRIA
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49261.m3u8
-#EXTINF:-1,YU066:HBO FAMILY
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49260.m3u8
-#EXTINF:-1,HR015:HBO
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/46243.m3u8
-#EXTINF:-1,HR016:HBO 2
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/46242.m3u8
-#EXTINF:-1,HR038:HBO 3
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49988.m3u8
-#EXTINF:-1,YU023:CINEMAX 1
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49303.m3u8
-#EXTINF:-1,YU024:CINEMAX 2
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49302.m3u8
-#EXTINF:-1,YU025:CINESTAR ACTION
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49301.m3u8
-#EXTINF:-1,YU026:CINESTAR ACTION & THRILLER
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49300.m3u8
-#EXTINF:-1,YU027:CINESTAR PREMIER 1
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49299.m3u8
-#EXTINF:-1,YU028:CINESTAR PREMIER 2
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49298.m3u8
-#EXTINF:-1,YU029:CINESTAR TV
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49297.m3u8
-#EXTINF:-1,YU081:KLASIK TV
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49245.m3u8
-#EXTINF:-1,SRB074:PINK FILM
-http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/49047.m3u8
+#EXTINF:-1,FILMSKI | HBO
+http://directtv1.xyz:80/live/18501/18501/97506.m3u8
+#EXTINF:-1,FILMSKI | HBO 2
+http://directtv1.xyz:80/live/18501/18501/97507.m3u8
+#EXTINF:-1,FILMSKI | HBO 3
+http://directtv1.xyz:80/live/18501/18501/97508.m3u8
+#EXTINF:-1,FILMSKI | KINO TV
+http://directtv1.xyz:80/live/18501/18501/97509.m3u8
+#EXTINF:-1,FILMSKI | CINEMAX 1
+http://directtv1.xyz:80/live/18501/18501/97483.m3u8
+#EXTINF:-1,FILMSKI | CINEMAX 2
+http://directtv1.xyz:80/live/18501/18501/97484.m3u8
+#EXTINF:-1,FILMSKI | CINESTAR ACTION
+http://directtv1.xyz:80/live/18501/18501/97487.m3u8
+#EXTINF:-1,FILMSKI | CINESTAR COMEDY
+http://directtv1.xyz:80/live/18501/18501/97488.m3u8
+#EXTINF:-1,FILMSKI | CINESTAR FANTASY
+http://directtv1.xyz:80/live/18501/18501/97489.m3u8
+#EXTINF:-1,FILMSKI | CINESTAR PREMIERE 1
+http://directtv1.xyz:80/live/18501/18501/97490.m3u8
+#EXTINF:-1,FILMSKI | CINESTAR PREMIERE 2
+http://directtv1.xyz:80/live/18501/18501/97491.m3u8
+#EXTINF:-1,FILMSKI | CINESTAR TV
+http://directtv1.xyz:80/live/18501/18501/97492.m3u8
+#EXTINF:-1,FILMSKI | CINESTAR TV 2
+http://directtv1.xyz:80/live/18501/18501/97493.m3u8
+#EXTINF:-1,MAKEDONIJA | CINESTAR TV PREMIERE 1
+http://directtv1.xyz:80/live/18501/18501/151708.m3u8
+#EXTINF:-1,MAKEDONIJA | CINESTAR TV PREMIERE 2
+http://directtv1.xyz:80/live/18501/18501/151709.m3u8
+#EXTINF:-1,FILMSKI | FOX MOVIES
+http://directtv1.xyz:80/live/18501/18501/97505.m3u8
+#EXTINF:-1,FILMSKI | M1 FILM
+http://directtv1.xyz:80/live/18501/18501/97512.m3u8
+#EXTINF:-1,FILMSKI | M1 FILM GOLD
+http://directtv1.xyz:80/live/18501/18501/97513.m3u8
+#EXTINF:-1,FILMSKI | TV 1000
+http://directtv1.xyz:80/live/18501/18501/97531.m3u8
+
+
+#EXTINF:-1,UK | BBC ONE
+http://directtv1.xyz:80/live/18501/18501/194262.m3u8
+#EXTINF:-1,UK | BBC TWO
+http://directtv1.xyz:80/live/18501/18501/194263.m3u8
+#EXTINF:-1,UK | ITV
+http://directtv1.xyz:80/live/18501/18501/194264.m3u8
+#EXTINF:-1,UK | ITV 2
+http://directtv1.xyz:80/live/18501/18501/194267.m3u8
+#EXTINF:-1,UK | BBC NEWS
+http://directtv1.xyz:80/live/18501/18501/194369.m3u8
+
+#EXTINF:-1,BBC ONE FHD
+http://sofadad.co.uk:80/live/Sarah123/Sarah123/560.m3u8
+#EXTINF:-1,BBC TWO FHD
+http://sofadad.co.uk:80/live/Sarah123/Sarah123/561.m3u8
+#EXTINF:-1,ITV HD
+http://sofadad.co.uk:80/live/Sarah123/Sarah123/305.m3u8
+#EXTINF:-1,SKY ATLANTIC HD
+http://sofadad.co.uk:80/live/Sarah123/Sarah123/275.m3u8
+#EXTINF:-1,ITV2 HD
+http://sofadad.co.uk:80/live/Sarah123/Sarah123/302.m3u8
+#EXTINF:-1,BBC FOUR HD
+http://sofadad.co.uk:80/live/Sarah123/Sarah123/11254.m3u8
+#EXTINF:-1,SKY ARTS HD
+http://sofadad.co.uk:80/live/Sarah123/Sarah123/278.m3u8
+
+#EXTINF:-1,UK: BBC 1 FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63282.m3u8
+#EXTINF:-1,UK: BBC 4 FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63283.m3u8
+#EXTINF:-1,UK: BBC FIRST HD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63290.m3u8
+#EXTINF:-1,UK: BBC RED BUTTON 1
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63294.m3u8
+#EXTINF:-1,UK: ITV 1 +1
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63434.m3u8
+#EXTINF:-1,UK: ITV 2 FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63435.m3u8
+#EXTINF:-1,UK: SKY ARTS 1
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63538.m3u8
+#EXTINF:-1,UK: SKY ARTS FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63539.m3u8
+#EXTINF:-1,UK: SKY ATLANTIC FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63540.m3u8
+#EXTINF:-1,UK: SKY CINEMA ACTION FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63543.m3u8
+#EXTINF:-1,UK: SKY CINEMA COMEDY FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63544.m3u8
+#EXTINF:-1,UK: SKY CINEMA CRIME
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63545.m3u8
+#EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63546.m3u8
+#EXTINF:-1,UK: SKY CINEMA DISNEY FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63547.m3u8
+#EXTINF:-1,UK SKY CINEMA DISNEY FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63548.m3u8
+#EXTINF:-1,UK: SKY CINEMA DRAMA FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63549.m3u8
+#EXTINF:-1,UK: SKY CINEMA FAMILY FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63550.m3u8
+#EXTINF:-1,UK: SKY CINEMA GRATES
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63551.m3u8
+#EXTINF:-1,UK: SKY CINEMA GREAT FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63552.m3u8
+#EXTINF:-1,UK: SKY CINEMA HITS FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63553.m3u8
+#EXTINF:-1,UK: SKY CINEMA MODERN HD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63554.m3u8
+#EXTINF:-1,UK: SKY CINEMA MODERN-GEANT
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63555.m3u8
+#EXTINF:-1,UK: SKY CINEMA MUSICALS
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63556.m3u8
+#EXTINF:-1,UK: SKY CINEMA PREMIERE FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63557.m3u8
+#EXTINF:-1,UK: SKY CINEMA PREMIERE FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63557.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCI-FI
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63558.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCI-FI & HORROR FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63559.m3u8
+#EXTINF:-1,UK: SKY CINEMA SELECT FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63560.m3u8
+#EXTINF:-1,UK: SKY CINEMA SHOWCASE HD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63561.m3u8
+#EXTINF:-1,UK: SKY CINEMA SUPERHERO FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63562.m3u8
+#EXTINF:-1,UK: SKY CINEMA THRILLER FHD
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63563.m3u8
+#EXTINF:-1,UK: SKY CINEMA WITNESS
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63564.m3u8
+#EXTINF:-1,UK: SKY CINEMAEATS
+http://yeninesiliptv.com:8080/live/ediz99/ediz9999/63565.m3u8
