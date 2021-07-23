@@ -11,102 +11,128 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,NOVA TV HD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5027.m3u8
-#EXTINF:-1,DOMA TV HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5057.m3u8
-#EXTINF:-1,HBO 2 HD BR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/6121.m3u8
-#EXTINF:-1,HBO FAMILY HD BR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/13622.m3u8
-#EXTINF:-1,HBO 2 FHD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5040.m3u8
-#EXTINF:-1,HBO 3 HD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5039.m3u8
-#EXTINF:-1,HBO HD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5041.m3u8
-#EXTINF:-1,KINO TV HD RS
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/12396.m3u8
-#EXTINF:-1,CINESTAR TV FANTASY HD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/11053.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1 HD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/11490.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2 [B] HD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/11489.m3u8
-#EXTINF:-1,CINESTAR TV ACTION HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5062.m3u8
-#EXTINF:-1,CINESTAR TV 1 HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5063.m3u8
-#EXTINF:-1,FOX MOVIES HD HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5047.m3u8
-#EXTINF:-1,KLASIK TV HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5032.m3u8
-#EXTINF:-1,PINK FILM RS
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5011.m3u8
-#EXTINF:-1,M1 FILM HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5031.m3u8
-#EXTINF:-1,TV 1000 RO
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5310.m3u8
-#EXTINF:-1,TV 1000 HR
-http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9372.m3u8
+#EXTINF:-1,NOVA TV (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/11.m3u8
+#EXTINF:-1,DOMA TV (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/13.m3u8
+#EXTINF:-1,HBO (MK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/174.m3u8
+#EXTINF:-1,HBO 2 (MK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/175.m3u8
+#EXTINF:-1,HBO 3 (MK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/176.m3u8
+#EXTINF:-1,HBO
+http://89.163.242.83:2082/live/Zorica/Zorica123/238.m3u8
+#EXTINF:-1,HBO L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/5447.m3u8
+#EXTINF:-1,HBO 2
+http://89.163.242.83:2082/live/Zorica/Zorica123/239.m3u8
+#EXTINF:-1,HBO 2 L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/5448.m3u8
+#EXTINF:-1,HBO 3 HD
+http://89.163.242.83:2082/live/Zorica/Zorica123/240.m3u8
+#EXTINF:-1,HBO 3 L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/5449.m3u8
+#EXTINF:-1,HBO HD
+http://89.163.242.83:2082/live/Zorica/Zorica123/426730.m3u8
+#EXTINF:-1,HBO 2 HD
+http://89.163.242.83:2082/live/Zorica/Zorica123/426731.m3u8
+#EXTINF:-1,HBO 3  HD
+http://89.163.242.83:2082/live/Zorica/Zorica123/426732.m3u8
+#EXTINF:-1,CINEMAX 1
+http://89.163.242.83:2082/live/Zorica/Zorica123/241.m3u8
+#EXTINF:-1,CINEMAX 1 L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/425060.m3u8
+#EXTINF:-1,CINEMAX 2
+http://89.163.242.83:2082/live/Zorica/Zorica123/242.m3u8
+#EXTINF:-1,CINEMAX 2 L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/425061.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD (MK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/172.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD (MK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/173.m3u8
+#EXTINF:-1,CINESTAR TV1
+http://89.163.242.83:2082/live/Zorica/Zorica123/243.m3u8
+#EXTINF:-1,CINESTAR TV1 L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/425062.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://89.163.242.83:2082/live/Zorica/Zorica123/244.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/425064.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://89.163.242.83:2082/live/Zorica/Zorica123/245.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/425088.m3u8
+#EXTINF:-1,CINESTAR ACTION 
+http://89.163.242.83:2082/live/Zorica/Zorica123/246.m3u8
+#EXTINF:-1,CINESTAR ACTION L2
+http://89.163.242.83:2082/live/Zorica/Zorica123/425063.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://89.163.242.83:2082/live/Zorica/Zorica123/247.m3u8
+#EXTINF:-1,FOX MOVIES (MK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/169.m3u8
+#EXTINF:-1,FOX MOVIES
+http://89.163.242.83:2082/live/Zorica/Zorica123/262.m3u8
+#EXTINF:-1,KLASIK TV
+http://89.163.242.83:2082/live/Zorica/Zorica123/256.m3u8
+#EXTINF:-1,PINK FILM
+http://89.163.242.83:2082/live/Zorica/Zorica123/216.m3u8
+#EXTINF:-1,RTS 1 (SR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/91.m3u8
+#EXTINF:-1,RTS 2 (SR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/93.m3u8
+
+#EXTINF:-1,EX-YU: NOVA TV (HD)
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1199
+#EXTINF:-1,EX-YU: HBO
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1161
+#EXTINF:-1,EX-YU: HBO 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1162
+#EXTINF:-1,EX-YU: HBO 3
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1163
+#EXTINF:-1,SLO: HBO
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/36168
+#EXTINF:-1,EX-YU: KINO TV
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1164
+#EXTINF:-1,EX-YU: CINEMAX 1
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1175
+#EXTINF:-1,EX-YU: CINEMAX 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1176
+#EXTINF:-1,EX-YU: CINESTAR TV
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1165
+#EXTINF:-1,EX-YU: CINESTAR TV 2 
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/36502
+#EXTINF:-1,EX-YU: CINESTAR COMEDY 
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/39055
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1166
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1167
+#EXTINF:-1,EX-YU: CINESTAR ACTION
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1168
+#EXTINF:-1,EX-YU: CINESTAR FANTASY
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1169
+#EXTINF:-1,SLO: CINESTAR PREMIERE
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/36158
+#EXTINF:-1,EX-YU: FOX MOVIES
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1204
+#EXTINF:-1,EX-YU: KLASIK TV
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1173
+#EXTINF:-1,EX-YU: PINK FILM
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1292
+#EXTINF:-1,EX-YU:  RTS 1
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1850
+#EXTINF:-1,EX-YU: RTS 1 HD
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1255
+#EXTINF:-1,EX-YU: RTS 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1256
+#EXTINF:-1,EX-YU: TV 1000
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1170
 
 
-#EXTINF:-1,BBC 1 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38561.m3u8
-#EXTINF:-1,BBC 2 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38562.m3u8
-#EXTINF:-1,ITV 1 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38658.m3u8
-#EXTINF:-1,ITV 2 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38659.m3u8
-#EXTINF:-1,SKY ARTE HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18447.m3u8
-#EXTINF:-1,SKY ATLANTIC
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18446.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18445.m3u8
-#EXTINF:-1,SKY CINEMA  24
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18438.m3u8
-#EXTINF:-1,SKY CINEMA CLASSICS
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18437.m3u8
-#EXTINF:-1,SKY CINEMA CLASSICS HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18436.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18435.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18434.m3u8
-#EXTINF:-1,SKY CINEMA CULT
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18433.m3u8
-#EXTINF:-1,SKY CINEMA CULT HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18432.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18431.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18430.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18429.m3u8
-#EXTINF:-1,SKY CINEMA ROMANCE
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18428.m3u8
-#EXTINF:-1,SKY CINEMA ACTION
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18427.m3u8
-#EXTINF:-1,SKY CINEMA MAX HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18426.m3u8
 
 
-#EXTINF:-1,|UK| BBC 1 HD
-http://ultimateiptv.me:8080/live/amira/amira123/11222.m3u8
-#EXTINF:-1,|UK| BBC 2
-http://ultimateiptv.me:8080/live/amira/amira123/11223.m3u8
-#EXTINF:-1,|UK| BBC 2 HD
-http://ultimateiptv.me:8080/live/amira/amira123/11224.m3u8
-#EXTINF:-1,|UK| ITV 1 HD
-http://ultimateiptv.me:8080/live/amira/amira123/11178.m3u8
-#EXTINF:-1,|UK| ITV 2 HD
-http://ultimateiptv.me:8080/live/amira/amira123/11180.m3u8
-#EXTINF:-1,|UK| SKY ATLANTIC
-http://ultimateiptv.me:8080/live/amira/amira123/11191.m3u8
-#EXTINF:-1,|UK| SKY ARTS HD
-http://ultimateiptv.me:8080/live/amira/amira123/11193.m3u8
+
 
 #EXTINF:-1,UK| BBC HD 1...TS
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10580
