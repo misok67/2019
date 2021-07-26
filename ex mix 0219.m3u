@@ -11,77 +11,6 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,NOVA TV (HR)
-http://89.163.242.83:2082/live/Zorica/Zorica123/11.m3u8
-#EXTINF:-1,DOMA TV (HR)
-http://89.163.242.83:2082/live/Zorica/Zorica123/13.m3u8
-#EXTINF:-1,HBO (MK)
-http://89.163.242.83:2082/live/Zorica/Zorica123/174.m3u8
-#EXTINF:-1,HBO 2 (MK)
-http://89.163.242.83:2082/live/Zorica/Zorica123/175.m3u8
-#EXTINF:-1,HBO 3 (MK)
-http://89.163.242.83:2082/live/Zorica/Zorica123/176.m3u8
-#EXTINF:-1,HBO
-http://89.163.242.83:2082/live/Zorica/Zorica123/238.m3u8
-#EXTINF:-1,HBO L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/5447.m3u8
-#EXTINF:-1,HBO 2
-http://89.163.242.83:2082/live/Zorica/Zorica123/239.m3u8
-#EXTINF:-1,HBO 2 L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/5448.m3u8
-#EXTINF:-1,HBO 3 HD
-http://89.163.242.83:2082/live/Zorica/Zorica123/240.m3u8
-#EXTINF:-1,HBO 3 L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/5449.m3u8
-#EXTINF:-1,HBO HD
-http://89.163.242.83:2082/live/Zorica/Zorica123/426730.m3u8
-#EXTINF:-1,HBO 2 HD
-http://89.163.242.83:2082/live/Zorica/Zorica123/426731.m3u8
-#EXTINF:-1,HBO 3  HD
-http://89.163.242.83:2082/live/Zorica/Zorica123/426732.m3u8
-#EXTINF:-1,CINEMAX 1
-http://89.163.242.83:2082/live/Zorica/Zorica123/241.m3u8
-#EXTINF:-1,CINEMAX 1 L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/425060.m3u8
-#EXTINF:-1,CINEMAX 2
-http://89.163.242.83:2082/live/Zorica/Zorica123/242.m3u8
-#EXTINF:-1,CINEMAX 2 L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/425061.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1 HD (MK)
-http://89.163.242.83:2082/live/Zorica/Zorica123/172.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2 HD (MK)
-http://89.163.242.83:2082/live/Zorica/Zorica123/173.m3u8
-#EXTINF:-1,CINESTAR TV1
-http://89.163.242.83:2082/live/Zorica/Zorica123/243.m3u8
-#EXTINF:-1,CINESTAR TV1 L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/425062.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://89.163.242.83:2082/live/Zorica/Zorica123/244.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1 L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/425064.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://89.163.242.83:2082/live/Zorica/Zorica123/245.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2 L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/425088.m3u8
-#EXTINF:-1,CINESTAR ACTION 
-http://89.163.242.83:2082/live/Zorica/Zorica123/246.m3u8
-#EXTINF:-1,CINESTAR ACTION L2
-http://89.163.242.83:2082/live/Zorica/Zorica123/425063.m3u8
-#EXTINF:-1,CINESTAR FANTASY
-http://89.163.242.83:2082/live/Zorica/Zorica123/247.m3u8
-#EXTINF:-1,FOX MOVIES (MK)
-http://89.163.242.83:2082/live/Zorica/Zorica123/169.m3u8
-#EXTINF:-1,FOX MOVIES
-http://89.163.242.83:2082/live/Zorica/Zorica123/262.m3u8
-#EXTINF:-1,KLASIK TV
-http://89.163.242.83:2082/live/Zorica/Zorica123/256.m3u8
-#EXTINF:-1,PINK FILM
-http://89.163.242.83:2082/live/Zorica/Zorica123/216.m3u8
-#EXTINF:-1,RTS 1 (SR)
-http://89.163.242.83:2082/live/Zorica/Zorica123/91.m3u8
-#EXTINF:-1,RTS 2 (SR)
-http://89.163.242.83:2082/live/Zorica/Zorica123/93.m3u8
-
 #EXTINF:-1,EX-YU: NOVA TV (HD)
 http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1199
 #EXTINF:-1,EX-YU: HBO
@@ -131,25 +60,6 @@ http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1170
 
 
 
-
-
-
 #EXTINF:-1,UK| BBC HD 1...TS
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10580
-
-
-#EXTINF:-1,BBC ONE FHD
-http://sofadad.co.uk:80/live/Sarah123/Sarah123/560.m3u8
-#EXTINF:-1,BBC TWO FHD
-http://sofadad.co.uk:80/live/Sarah123/Sarah123/561.m3u8
-#EXTINF:-1,ITV HD
-http://sofadad.co.uk:80/live/Sarah123/Sarah123/305.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://sofadad.co.uk:80/live/Sarah123/Sarah123/275.m3u8
-#EXTINF:-1,ITV2 HD
-http://sofadad.co.uk:80/live/Sarah123/Sarah123/302.m3u8
-#EXTINF:-1,BBC FOUR HD
-http://sofadad.co.uk:80/live/Sarah123/Sarah123/11254.m3u8
-#EXTINF:-1,SKY ARTS HD
-http://sofadad.co.uk:80/live/Sarah123/Sarah123/278.m3u8
 
