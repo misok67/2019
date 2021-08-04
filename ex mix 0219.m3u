@@ -12,27 +12,144 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
 
-#EXTINF:-1,UK: BBC1 HD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/47887.m3u8
-#EXTINF:-1,UK: BBC2 HD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/47889.m3u8
-#EXTINF:-1,UK: ITV 1 FHD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/47999.m3u8
-#EXTINF:-1,UK: ITV2 HD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/47995.m3u8
-#EXTINF:-1,UK MOVIES: SKY CINEMA SCI & HORROR  
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684286.m3u8
-#EXTINF:-1,UK MOVIES: SKY CINEMA GREATS
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684285.m3u8
-#EXTINF:-1,UK MOVIES: SKY CINEMA PREMIERE FHD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684284.m3u8
-#EXTINF:-1,UK MOVIES: SKY CINEMA PREMIERE FHD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684284.m3u8
-#EXTINF:-1,UK MOVIES: SKY CINEMA DRAMA
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684281.m3u8
-#EXTINF:-1,UK MOVIES: SKY CINEMA THRILLER FHD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684279.m3u8
-#EXTINF:-1,UK MOVIES:  SKY CINEMA SELECT FHD
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684275.m3u8
-#EXTINF:-1,UK: SKY CINEMA ANIMATION
-http://mirror.streamhubtv.me:8080/live/Romantele/x7w3bPHUD0/684289.m3u8
+
+#EXTINF:-1,EX-YU | HR: DOMA TV
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44313
+#EXTINF:-1,EX-YU | HR: RTL 2 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44330
+#EXTINF:-1,EX-YU | SRB: HBO 1 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44403
+#EXTINF:-1,EX-YU | SRB: HBO 2 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44402
+#EXTINF:-1,EX-YU | SRB: HBO 3 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44401
+#EXTINF:-1,EX-YU | SRB: HBO ADRIA
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44366
+#EXTINF:-1,EX-YU | HR: HBO ADRIA HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44308
+#EXTINF:-1,EX-YU | HR: HBO 2
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44278
+#EXTINF:-1,EX-YU | HR: HBO 3
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44277
+#EXTINF:-1,EX-YU | HR: KINO TV
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44275
+#EXTINF:-1,EX-YU | SRB: CINEMAX 1
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44370
+#EXTINF:-1,EX-YU | SRB: CINEMAX 2
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44369
+#EXTINF:-1,EX-YU | HR: CINEMAX 1 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44297
+#EXTINF:-1,EX-YU | HR: CINEMAX 2 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44282
+#EXTINF:-1,EX-YU | SRB: CINESTAR PREMIERE 1 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44390
+#EXTINF:-1,EX-YU | SRB: CINESTAR PREMIERE 2 HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44389
+#EXTINF:-1,EX-YU | SRB: CINESTAR TV
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44388
+#EXTINF:-1,EX-YU | SRB: CINESTAR PREMIERE 1
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44368
+#EXTINF:-1,EX-YU | SRB: CINESTAR PREMIERE 2
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44367
+#EXTINF:-1,EX-YU | HR: CINESTAR FANTASY HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44298
+#EXTINF:-1,EX-YU | HR: CINESTAR ACTION TV
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44296
+#EXTINF:-1,EX-YU | HR: CINESTAR ACTION
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44281
+#EXTINF:-1,EX-YU | HR: CINESTAR PREMIERE 1
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44280
+#EXTINF:-1,EX-YU | HR: CINESTAR PREMIERE 2
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44279
+#EXTINF:-1,EX-YU | SRB: FOX MOVIES HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44393
+#EXTINF:-1,EX-YU | HR: FOX MOVIES HD
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44311
+#EXTINF:-1,EX-YU | SRB: KLASIK TV
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44411
+#EXTINF:-1,EX-YU | SRB: PINK FILM
+http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44456
+
+
+
+#EXTINF:-1,|EXYU| NOVA.HR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/31159
+#EXTINF:-1,|CRO| NOVA TV HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33229
+#EXTINF:-1,|EXYU| DOMA TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/31100
+#EXTINF:-1,|CRO| DOMA TV HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33168
+#EXTINF:-1,|SRB| HBO HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32915
+#EXTINF:-1,|SRB| HBO 2 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32916
+#EXTINF:-1,|SRB| HBO 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32917
+#EXTINF:-1,|SRB| HBO 3 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32918
+#EXTINF:-1,|SRB| HBO 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32919
+#EXTINF:-1,|SRB| HBO FAMILY FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32920
+#EXTINF:-1,|SRB| HBO GO FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32921
+#EXTINF:-1,|EXYU| HBO
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/30617
+#EXTINF:-1,|EXYU| HBO 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/30618
+#EXTINF:-1,|EXYU| HBO 3
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/30609
+#EXTINF:-1,|CRO| HBO 2 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33182
+#EXTINF:-1,|CRO| HBO 2 FHD  [B]
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33183
+#EXTINF:-1,|CRO| HBO 3 FHD  [B]
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33184
+#EXTINF:-1,|CRO| HBO 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33185
+#EXTINF:-1,|CRO| HBO ADRIA FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33186
+#EXTINF:-1,|CRO| HBO ADRIA
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33187
+#EXTINF:-1,|CRO| HBO FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33188
+#EXTINF:-1,|CRO| HBO FHD  [B]
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33189
+#EXTINF:-1,|CRO| KINO TV HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33204
+#EXTINF:-1,|CRO| CINEMAX 1 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33145
+#EXTINF:-1,|CRO| CINEMAX 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33146
+#EXTINF:-1,|CRO| CINEMAX 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33147
+#EXTINF:-1,|EXYU| CINESTAR ACTION
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/31102
+#EXTINF:-1,|EXYU| CINESTAR FANTASY
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/31103
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/115022
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/30616
+#EXTINF:-1,|CRO| CINESTAR ACTION  THRILLER HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33149
+#EXTINF:-1,|CRO| CINESTAR COMEDY FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33150
+#EXTINF:-1,|CRO| CINESTAR FANTASY
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33151
+#EXTINF:-1,|CRO| CINESTAR PREMIERE 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33152
+#EXTINF:-1,|CRO| CINESTAR PREMIERE 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33153
+#EXTINF:-1,|EXYU| FOX MOVIES
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/31104
+#EXTINF:-1,|CRO| FOX MOVIES FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33180
+#EXTINF:-1,|CRO| FOX MOVIES
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33181
+#EXTINF:-1,|CRO| KLASIK TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33213
+#EXTINF:-1,|SRB| PINK FILM
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/32933
+
