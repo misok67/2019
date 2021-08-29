@@ -15,46 +15,38 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/4865.m3u8
 #EXTINF:-1,CRO: DOMA TV 
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/4866.m3u8
+#EXTINF:-1,HBO ADRIA
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1385.m3u8
 #EXTINF:-1,HBO 2
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1384.m3u8
 #EXTINF:-1,HBO 3 HD
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1383.m3u8
-#EXTINF:-1,HBO ADRIA
-http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1385.m3u8
 #EXTINF:-1,MK: HBO
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13803.m3u8
 #EXTINF:-1,MK: HBO 2
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13804.m3u8
 #EXTINF:-1,MK: HBO 3
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13805.m3u8
-#EXTINF:-1,SLO: HBO 2 HD
-http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/14062.m3u8
-#EXTINF:-1,SLO: HBO 3 HD
-http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/14063.m3u8
 #EXTINF:-1,CINEMAX 1 HD
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1377.m3u8
-#EXTINF:-1,CINESTAR ACTION & THRILLER
-http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1379.m3u8
-#EXTINF:-1,CINESTAR FANTASY
-http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1378.m3u8
 #EXTINF:-1,CINESTAR PREMIERE 1
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1381.m3u8
 #EXTINF:-1,CINESTAR PREMIERE 2
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1380.m3u8
 #EXTINF:-1,CINESTAR TV
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1382.m3u8
+#EXTINF:-1,CINESTAR ACTION & THRILLER
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1379.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1378.m3u8
 #EXTINF:-1,MK: CINESTAR PREMIERE 1 HD
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13797.m3u8
 #EXTINF:-1,MK: CINESTAR PREMIERE 2 HD
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13798.m3u8
-#EXTINF:-1,SLO: CINESTAR PREMIERE 1 
-http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/14307.m3u8
 #EXTINF:-1,FOX MOVIES HD
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1367.m3u8
 #EXTINF:-1,MK: FOX MOVIES
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13795.m3u8
-#EXTINF:-1,SLO: FOX MOVIES HD
-http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/3709.m3u8
 #EXTINF:-1,KLASIK TV
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1371.m3u8
 #EXTINF:-1,PINK FILM
@@ -72,36 +64,29 @@ http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1370.m3u8
 #EXTINF:-1,MK: TV 1000
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13793.m3u8
 
-
-#EXTINF:-1,|HR| NOVA TV HD
-http://pn.tvott.info:80/live/307217171662/307217171662/158561.m3u8
-#EXTINF:-1,|HR| NOVA TV
-http://pn.tvott.info:80/live/307217171662/307217171662/158560.m3u8
-#EXTINF:-1,|HR| DOMA TV HD
-http://pn.tvott.info:80/live/307217171662/307217171662/158559.m3u8
-#EXTINF:-1,|EXYU| HBO HD
-http://pn.tvott.info:80/live/307217171662/307217171662/85304.m3u8
-#EXTINF:-1,|EXYU| HBO 2 HD
-http://pn.tvott.info:80/live/307217171662/307217171662/85303.m3u8
-#EXTINF:-1,|EXYU| HBO 3
-http://pn.tvott.info:80/live/307217171662/307217171662/85302.m3u8
-#EXTINF:-1,|EXYU| CINEMAX 1
-http://pn.tvott.info:80/live/307217171662/307217171662/85292.m3u8
-#EXTINF:-1,|EXYU| CINEMAX 2
-http://pn.tvott.info:80/live/307217171662/307217171662/85291.m3u8
-#EXTINF:-1,|EXYU| CINESTAR TV1
-http://pn.tvott.info:80/live/307217171662/307217171662/85297.m3u8
-#EXTINF:-1,|EXYU| CINESTAR ACTION TV
-http://pn.tvott.info:80/live/307217171662/307217171662/85296.m3u8
-#EXTINF:-1,|EXYU| CINESTAR FANTASY
-http://pn.tvott.info:80/live/307217171662/307217171662/85295.m3u8
-#EXTINF:-1,|EXYU| CINESTAR PREMIERE 1
-http://pn.tvott.info:80/live/307217171662/307217171662/85294.m3u8
-#EXTINF:-1,|EXYU| CINESTAR PREMIERE 2
-http://pn.tvott.info:80/live/307217171662/307217171662/85293.m3u8
-#EXTINF:-1,|EXYU| FOX MOVIES FHD
-http://pn.tvott.info:80/live/307217171662/307217171662/85282.m3u8
-#EXTINF:-1,|EXYU| KLASIK TV
-http://pn.tvott.info:80/live/307217171662/307217171662/85290.m3u8
-#EXTINF:-1,|EXYU| PINK FILM
-http://pn.tvott.info:80/live/307217171662/307217171662/85331.m3u8
+#EXTINF:-1,BBC Two FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/a3aae619-a425-4974-ac14-b0791dc42b3d/mpegts
+#EXTINF:-1,BBC One FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/d357df01-f503-4940-9531-b8417d1b6ae8/mpegts
+#EXTINF:-1,Sky Crime FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/b22016ec-1a9d-4a16-bac0-4c5f53d45297/mpegts
+#EXTINF:-1,Sky Cinema Select FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/c031ad88-471d-4d21-8913-7d0e7d9e6fbb/mpegts
+#EXTINF:-1,Sky Atlantic FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/ca82264c-efa7-4050-a258-d5008b1c10fd/mpegts
+#EXTINF:-1,ITV 2 FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/2ada405d-51c1-41d9-a746-5a75a4ac6f2c/mpegts
+#EXTINF:-1,Sky Cinema Greats FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/2cbbc1b8-b506-4a10-b562-1f7b0cd1cda8/mpegts
+#EXTINF:-1,BT Sports 2 FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/35e999eb-b408-4adf-9f4a-62d720b34445/mpegts
+#EXTINF:-1,Sky Cinema Thriller FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/364a629a-77f5-4087-a126-73027a92df62/mpegts
+#EXTINF:-1,Sky Arts FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/43a3df25-131b-4a4a-ad1b-85f208a02a19/mpegts
+#EXTINF:-1,ITV 1 FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/50fd2751-0098-4254-924c-7bd803d91073/mpegts
+#EXTINF:-1,Sky News FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/51423cb2-bdb3-4145-b665-1da90da31a65/mpegts
+#EXTINF:-1,Sky Cinema ScFi/Horror FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/e8ad5e82-cbd1-4b8e-abb2-cbf2568c69bc/mpegts
