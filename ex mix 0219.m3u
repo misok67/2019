@@ -10,6 +10,64 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+
+#EXTINF:-1,EX-YU : NOVA TV HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21668.m3u8
+#EXTINF:-1,EX-YU: RTL 2 HR
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21679.m3u8
+#EXTINF:-1,EX-YU : HBO ADRIA HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21524.m3u8
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21521.m3u8
+#EXTINF:-1,EX-YU : HBO 2 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/60763.m3u8
+#EXTINF:-1,EX-YU: HBO 2 SRB HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21523.m3u8
+#EXTINF:-1,EX-YU: HBO 3 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/28278.m3u8
+#EXTINF:-1,EX-YU: KINO TV HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21687.m3u8
+#EXTINF:-1,RU: KINO TV
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/27134.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 1
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21535.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 1 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/28289.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 2
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21534.m3u8
+#EXTINF:-1,EX-YU: CINEMAX 2 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/28288.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21532.m3u8
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21531.m3u8
+#EXTINF:-1,EX-YU: CINESTAR TV ACTION
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/68372.m3u8
+#EXTINF:-1,EX-YU: CINESTAR TV FANTASY
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/68373.m3u8
+#EXTINF:-1,EX-YU: CINESTAR TV
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/74128.m3u8
+#EXTINF:-1,EX-YU : FOX MOVIES
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21674.m3u8
+#EXTINF:-1,EX-YU: FOX MOVIES FHD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/60756.m3u8
+#EXTINF:-1,EX-YU: KLASIK TV
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/74129.m3u8
+#EXTINF:-1,EX-YU: PINK FILM
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21567.m3u8
+#EXTINF:-1,EX-YU : RTS 1 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21663.m3u8
+#EXTINF:-1,EX-YU: RTS 1 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21662.m3u8
+#EXTINF:-1,EX-YU: RTS 2 FHD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21661.m3u8
+#EXTINF:-1,EX-YU : RTS 2 HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/60758.m3u8
+#EXTINF:-1,EX-YU: M1 FILM HD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/21525.m3u8
+#EXTINF:-1,EX-YU: M1 FILM GOLD
+http://portal.m1n2.me:80/live/zXig8cj4uJ/ysKHL7knP9/103120.m3u8
+
 #EXTINF:-1,HR025:NOVA TV
 http://hz01.oknirvana.club:8880/live/AA6M0485/535355353/46233.m3u8
 #EXTINF:-1,HR028:RTL 2
