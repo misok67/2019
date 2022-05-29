@@ -10,32 +10,55 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-
-#EXTINF:-1,UK: BBC 1 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/185.m3u8
-#EXTINF:-1,UK: BBC 3 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/184.m3u8
-#EXTINF:-1,UK: BBC 2 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/852.m3u8
-#EXTINF:-1,UK: ITV1
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/382.m3u8
-#EXTINF:-1,UK: ITV 2
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/381.m3u8
-#EXTINF:-1,UK: SKY ATLANTIC HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/428.m3u8
-#EXTINF:-1,UK: SKY CINEMA ACTION HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7300.m3u8
-#EXTINF:-1,UK: SKY CINEMA COMEDY HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7297.m3u8
-#EXTINF:-1,UK: SKY CINEMA DISNEY HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7298.m3u8
-#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7294.m3u8
-#EXTINF:-1,UK: SKY CINEMA FAMILY HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7299.m3u8
-#EXTINF:-1,UK: SKY CINEMA HITS
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/8867.m3u8
-#EXTINF:-1,UK: SKY CINEMA SCI-FI & HORROR HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7296.m3u8
-#EXTINF:-1,UK: SKY CINEMA SELECT HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7292.m3u8
+#EXTINF:-1,NOVA TV HD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/102579.m3u8
+#EXTINF:-1,DOMA TV FHD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8956.m3u8
+#EXTINF:-1,HBO FHD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/41392.m3u8
+#EXTINF:-1,HBO FHD HR [B]
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/49103.m3u8
+#EXTINF:-1,HBO 2 FHD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/41391.m3u8
+#EXTINF:-1,HBO 2 FHD HR [B]
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/49104.m3u8
+#EXTINF:-1,HBO 3 FHD HR [B]
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/49105.m3u8
+#EXTINF:-1,HBO 3 HD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/41390.m3u8
+#EXTINF:-1,HBO ADRIA FHD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/39402.m3u8
+#EXTINF:-1,HBO ADRIA HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8918.m3u8
+#EXTINF:-1,KINO TV HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/38353.m3u8
+#EXTINF:-1,CINEMAX 1 FHD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/9002.m3u8
+#EXTINF:-1,CINEMAX 1 HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/9001.m3u8
+#EXTINF:-1,CINEMAX 2 HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/9000.m3u8
+#EXTINF:-1,CINESTAR ACTION & THRILLER HD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8998.m3u8
+#EXTINF:-1,CINESTAR COMEDY FHD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/38614.m3u8
+#EXTINF:-1,CINESTAR FANTASY HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/36885.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/9006.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/9003.m3u8
+#EXTINF:-1,FOX MOVIES FHD HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/39401.m3u8
+#EXTINF:-1,FOX MOVIES HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/9009.m3u8
+#EXTINF:-1,PINK FILM RS
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/9030.m3u8
+#EXTINF:-1,RTS 1 FHD RS
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/39107.m3u8
+#EXTINF:-1,RTS 2 FHD RS
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/39106.m3u8
+#EXTINF:-1,M1 FILM HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8865.m3u8
+#EXTINF:-1,TV 1000 HR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8901.m3u8
