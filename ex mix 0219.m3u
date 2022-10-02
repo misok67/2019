@@ -11,35 +11,39 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,CRO: NOVA TV
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62415.m3u8
-#EXTINF:-1,CRO: DOMA HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62404.m3u8
-#EXTINF:-1,CRO: RTL 2
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62418.m3u8
-#EXTINF:-1,MK: HBO 2 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67361.m3u8
-#EXTINF:-1,MK: HBO 3 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67362.m3u8
-#EXTINF:-1,MK: HBO HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67363.m3u8
-#EXTINF:-1,MK: CINESTAR TV PREMIERE 1
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67354.m3u8
-#EXTINF:-1,MK: CINESTAR TV PREMIERE 2
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67355.m3u8
-#EXTINF:-1,CRO: CINESTAR TV ACTION
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62400.m3u8
-#EXTINF:-1,CRO: CINESTAR TV PREMIERE 1
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62401.m3u8
-#EXTINF:-1,CRO: CINESTAR TV PREMIERE 2
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62402.m3u8
-#EXTINF:-1,CRO: FOX MOVIES
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62407.m3u8
-#EXTINF:-1,SER: PINK FILM HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23431.m3u8
-#EXTINF:-1,SER: RTS 1 HD+
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23454.m3u8
-#EXTINF:-1,SER: RTS 2 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23404.m3u8
-#EXTINF:-1,MK: TV 1000
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67395.m3u8
+#EXTINF:-1,NOVA TV FHD HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8960.m3u8
+#EXTINF:-1,DOMA TV FHD HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8956.m3u8
+#EXTINF:-1,RTL 2 HD HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8964.m3u8
+#EXTINF:-1,HBO ADRIA HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8918.m3u8
+#EXTINF:-1,HBO 3 HD RS
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8989.m3u8
+#EXTINF:-1,HBO HD RS
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8988.m3u8
+#EXTINF:-1,HBO 2 RS
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8991.m3u8
+#EXTINF:-1,CINEMAX 1 FHD HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9002.m3u8
+#EXTINF:-1,CINEMAX 1 HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9001.m3u8
+#EXTINF:-1,CINEMAX 2 HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9000.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9003.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9006.m3u8
+#EXTINF:-1,CINESTAR ACTION & THRILLER HD HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8998.m3u8
+#EXTINF:-1,FOX MOVIES HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9009.m3u8
+#EXTINF:-1,RTS 1 HD RS
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8979.m3u8
+#EXTINF:-1,RTS 2 HD RS
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8977.m3u8
+#EXTINF:-1,M1 FILM HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8865.m3u8
+#EXTINF:-1,TV 1000 HR
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8901.m3u8
