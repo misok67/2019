@@ -11,39 +11,61 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,NOVA TV FHD HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8960.m3u8
-#EXTINF:-1,DOMA TV FHD HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8956.m3u8
-#EXTINF:-1,RTL 2 HD HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8964.m3u8
-#EXTINF:-1,HBO ADRIA HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8918.m3u8
-#EXTINF:-1,HBO 3 HD RS
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8989.m3u8
-#EXTINF:-1,HBO HD RS
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8988.m3u8
-#EXTINF:-1,HBO 2 RS
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8991.m3u8
-#EXTINF:-1,CINEMAX 1 FHD HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9002.m3u8
-#EXTINF:-1,CINEMAX 1 HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9001.m3u8
-#EXTINF:-1,CINEMAX 2 HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9000.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2 HD HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9003.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1 HD HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9006.m3u8
-#EXTINF:-1,CINESTAR ACTION & THRILLER HD HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8998.m3u8
-#EXTINF:-1,FOX MOVIES HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/9009.m3u8
-#EXTINF:-1,RTS 1 HD RS
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8979.m3u8
-#EXTINF:-1,RTS 2 HD RS
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8977.m3u8
-#EXTINF:-1,M1 FILM HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8865.m3u8
-#EXTINF:-1,TV 1000 HR
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8901.m3u8
+#EXTINF:-1,Nova TV HD HR
+http://ipflix.click:80/live/sq1x0qr86b/7777/10411.m3u8
+#EXTINF:-1,RTL 2 HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/4984.m3u8
+#EXTINF:-1,Doma TV HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/23193.m3u8
+#EXTINF:-1,HBO HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5041.m3u8
+#EXTINF:-1,HBO 2 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5040.m3u8
+#EXTINF:-1,CineStar Premiere 1 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5065.m3u8
+#EXTINF:-1,CineStar Premiere 2 HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5064.m3u8
+#EXTINF:-1,Cinestar TV 1 HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5063.m3u8
+#EXTINF:-1,Cinestar TV 2 HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/13391.m3u8
+#EXTINF:-1,CineStar Action HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5062.m3u8
+#EXTINF:-1,CineStar Fantasy HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/11053.m3u8
+#EXTINF:-1,CineMax 1 HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5067.m3u8
+#EXTINF:-1,Cinemax 2 HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/9375.m3u8
+#EXTINF:-1,Max Select 1 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20035.m3u8
+#EXTINF:-1,Max Select 2 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20034.m3u8
+#EXTINF:-1,Max Select 3 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20033.m3u8
+#EXTINF:-1,Max Select 4 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20032.m3u8
+#EXTINF:-1,Max Select 5 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20031.m3u8
+#EXTINF:-1,Max Select 6 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20030.m3u8
+#EXTINF:-1,Max Select 7 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20029.m3u8
+#EXTINF:-1,Max Select 8 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20028.m3u8
+#EXTINF:-1,Max Select 9 FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/20027.m3u8
+#EXTINF:-1,TV 1000 HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/9372.m3u8
+#EXTINF:-1,Fox Crime HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5049.m3u8
+#EXTINF:-1,Fox Life HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5048.m3u8
+#EXTINF:-1,Fox Movies HD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5047.m3u8
+#EXTINF:-1,Klasik TV HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5032.m3u8
+#EXTINF:-1,M1 Film HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5031.m3u8
+#EXTINF:-1,PickBox FHD HR.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/685978.m3u8
