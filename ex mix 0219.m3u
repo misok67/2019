@@ -21,6 +21,10 @@ http://ipflix.click:80/live/sq1x0qr86b/7777/23193.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/5041.m3u8
 #EXTINF:-1,HBO 2 FHD HR.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/5040.m3u8
+#EXTINF:-1,HBO 3 FHD MK
+http://ipflix.click:80/live/sq1x0qr86b/7777/657493.m3u8
+#EXTINF:-1,Kino TV HD RS
+http://ipflix.click:80/live/sq1x0qr86b/7777/12396.m3u8
 #EXTINF:-1,CineStar Premiere 1 FHD HR.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/5065.m3u8
 #EXTINF:-1,CineStar Premiere 2 HD HR.m3u8
